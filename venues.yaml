@@ -1,0 +1,56 @@
+# Music venue configuration for What's Playing
+#
+# Each venue entry requires:
+#   name:     Display name for the venue
+#   url:      URL of the events/calendar page to scrape
+#   strategy: "json-ld" (default) or "css"
+#
+# JSON-LD strategy (strategy: json-ld)
+#   Automatically extracts Event/MusicEvent structured data embedded in the page.
+#   Most modern venue sites include this. No extra fields needed.
+#   Falls back to CSS selectors if json-ld yields nothing and selectors are provided.
+#
+# CSS selector strategy (strategy: css)
+#   Use when the site doesn't have JSON-LD structured data.
+#   Required:  event_selector  — CSS selector matching each event block
+#   Optional:  title_selector, date_selector, url_selector,
+#              description_selector, price_selector, image_selector
+#              (all relative to each event block)
+#   Optional:  base_url — used to resolve relative URLs (defaults to 'url')
+#
+# Examples:
+#
+# venues:
+#   - name: "The Fillmore"
+#     url: "https://www.thefillmore.com/events/"
+#     strategy: json-ld
+#
+#   - name: "My Local Venue"
+#     url: "https://mylocalvenue.com/shows"
+#     strategy: css
+#     event_selector: ".event-listing"
+#     title_selector: ".event-title"
+#     date_selector: ".event-date"
+#     url_selector: "a"
+#     description_selector: ".event-description"
+#     price_selector: ".ticket-price"
+#     image_selector: "img"
+#     base_url: "https://mylocalvenue.com"
+
+venues:
+  # Add your venues below. Remove or replace the placeholder entries.
+
+  - name: "Example Venue (JSON-LD)"
+    url: "https://example-venue.com/events"
+    strategy: json-ld
+
+  # - name: "Example Venue (CSS selectors)"
+  #   url: "https://example-venue.com/calendar"
+  #   strategy: css
+  #   event_selector: ".event-card"
+  #   title_selector: ".event-card__title"
+  #   date_selector: ".event-card__date"
+  #   url_selector: "a.event-card__link"
+  #   price_selector: ".event-card__price"
+  #   image_selector: "img.event-card__image"
+  #   base_url: "https://example-venue.com"
