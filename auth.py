@@ -14,16 +14,27 @@ def require_password() -> None:
     if not password or st.session_state.get("authenticated"):
         return
 
-    st.title("🔒 What's Playing")
-    with st.form("password_form"):
-        entered = st.text_input("Password", type="password")
-        submitted = st.form_submit_button("Enter")
+    _, col, _ = st.columns([1, 2, 1])
+    with col:
+        st.title("🔒 What's Playing")
+        with st.form("password_form"):
+            entered = st.text_input("Password", type="password")
+            submitted = st.form_submit_button("Enter")
 
-    if submitted:
-        if hmac.compare_digest(entered, password):
-            st.session_state["authenticated"] = True
-            st.rerun()
-        else:
-            st.error("Incorrect password.")
+        if submitted:
+            if hmac.compare_digest(entered, password):
+                st.session_state["authenticated"] = True
+                st.rerun()
+            else:
+                st.error("Incorrect password.")
 
     st.stop()
+
+
+def logout_button() -> None:
+    """Render a sidebar logout control if the password gate is active."""
+    if not os.environ.get("SITE_PASSWORD"):
+        return
+    if st.sidebar.button("Log out"):
+        st.session_state["authenticated"] = False
+        st.rerun()

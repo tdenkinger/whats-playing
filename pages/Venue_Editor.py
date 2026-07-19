@@ -1,6 +1,6 @@
 import streamlit as st
 
-from auth import require_password
+from auth import logout_button, require_password
 from config import VENUES_CONFIG
 from scraper.models import VenueConfig
 from scraper.venue_scraper import load_venues, save_venues, scrape_venue, VenueScrapeError
@@ -63,6 +63,7 @@ def _load_venue_into_state(venue: VenueConfig | None) -> None:
 def main():
     st.set_page_config(page_title="Venue Editor", page_icon="🎸", layout="wide")
     require_password()
+    logout_button()
     st.title("🎸 Venue Editor")
 
     if not VENUES_CONFIG.exists():

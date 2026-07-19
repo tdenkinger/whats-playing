@@ -5,7 +5,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from auth import require_password
+from auth import logout_button, require_password
 from config import VENUES_CONFIG
 from scraper.models import Event
 from scraper.venue_scraper import load_venues, scrape_all_venues
@@ -56,6 +56,8 @@ def main():
         st.divider()
 
         refresh = st.button("🔄 Refresh events", use_container_width=True)
+
+        logout_button()
 
     # ── Scraping ─────────────────────────────────────────────────────────────
     cache_key = "events"
