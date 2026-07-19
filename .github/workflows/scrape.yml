@@ -1,0 +1,33 @@
+name: Scrape venue events
+
+on:
+  schedule:
+    - cron: "0 13 * * *" # 9am ET / 8am EST daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape venues
+        run: python scrape.py
+
+      - name: Commit updated events
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/events.json
+          git diff --staged --quiet || git commit -m "Update scraped events"
+          git push

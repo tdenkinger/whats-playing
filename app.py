@@ -1,5 +1,7 @@
+import json
 import logging
 from datetime import datetime, date
+from pathlib import Path
 
 import streamlit as st
 
@@ -9,6 +11,7 @@ from scraper.venue_scraper import load_venues, scrape_all_venues
 
 logging.basicConfig(level=logging.WARNING)
 
+EVENTS_CACHE = Path(__file__).parent / "data" / "events.json"
 DATE_FORMAT = "%a, %b %-d %Y"
 TIME_FORMAT = "%-I:%M %p"
 
@@ -53,23 +56,25 @@ def main():
         refresh = st.button("🔄 Refresh events", use_container_width=True)
 
     # ── Scraping ─────────────────────────────────────────────────────────────
-    selected_venues = [v for v in venues if v.name in selected_names]
-
     cache_key = "events"
-    if refresh or cache_key not in st.session_state:
-        st.session_state[cache_key], st.session_state["failed_venues"] = _fetch_events(selected_venues)
-        st.session_state["last_updated"] = datetime.now()
-    elif set(selected_names) != set(st.session_state.get("_last_selected", [])):
-        # Re-scrape when venue selection changes
-        st.session_state[cache_key], st.session_state["failed_venues"] = _fetch_events(selected_venues)
-        st.session_state["last_updated"] = datetime.now()
+    if refresh:
+        st.session_state[cache_key], st.session_state["failed_venues"] = _fetch_events(venues)
+        st.session_state["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    elif cache_key not in st.session_state:
+        cached_events, failed, scraped_at = _load_cached_events()
+        st.session_state[cache_key] = cached_events
+        st.session_state["failed_venues"] = failed
+        st.session_state["last_updated"] = (
+            scraped_at.strftime("%Y-%m-%d %H:%M UTC") if scraped_at else None
+        )
 
-    st.session_state["_last_selected"] = selected_names
+    all_events: list[Event] = st.session_state[cache_key]
+    events = [e for e in all_events if e.venue_name in selected_names]
 
-    events: list[Event] = st.session_state[cache_key]
-
-    if "last_updated" in st.session_state:
-        st.caption(f"Last updated: {st.session_state['last_updated'].strftime('%Y-%m-%d %H:%M:%S')}")
+    if st.session_state.get("last_updated"):
+        st.caption(f"Last updated: {st.session_state['last_updated']}")
+    elif not all_events:
+        st.info("No cached events yet — the daily scrape hasn't run. Click Refresh to scrape now.")
 
     failed = st.session_state.get("failed_venues", [])
     if failed:
@@ -89,6 +94,18 @@ def main():
 
     venue_urls = {v.name: v.url for v in venues}
     _render_events(events, venue_urls)
+
+
+def _load_cached_events() -> tuple[list[Event], list[str], datetime | None]:
+    if not EVENTS_CACHE.exists():
+        return [], [], None
+    payload = json.loads(EVENTS_CACHE.read_text())
+    events = [Event.from_dict(e) for e in payload.get("events", [])]
+    failed = payload.get("failed_venues", [])
+    scraped_at = (
+        datetime.fromisoformat(payload["scraped_at"]) if payload.get("scraped_at") else None
+    )
+    return events, failed, scraped_at
 
 
 def _fetch_events(selected_venues) -> tuple[list[Event], list[str]]:

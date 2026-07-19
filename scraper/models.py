@@ -1,4 +1,4 @@
-from dataclasses import dataclass, field
+from dataclasses import asdict, dataclass, field
 from datetime import datetime
 from typing import Optional
 
@@ -16,6 +16,18 @@ class Event:
 
     def sort_key(self) -> datetime:
         return self.date or datetime.max
+
+    def to_dict(self) -> dict:
+        d = asdict(self)
+        d["date"] = self.date.isoformat() if self.date else None
+        return d
+
+    @classmethod
+    def from_dict(cls, d: dict) -> "Event":
+        d = dict(d)
+        if d.get("date"):
+            d["date"] = datetime.fromisoformat(d["date"])
+        return cls(**d)
 
 
 @dataclass
