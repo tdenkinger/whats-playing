@@ -1,15 +1,14 @@
 import logging
 from datetime import datetime, date
-from pathlib import Path
 
 import streamlit as st
 
+from config import VENUES_CONFIG
 from scraper.models import Event
 from scraper.venue_scraper import load_venues, scrape_all_venues
 
 logging.basicConfig(level=logging.WARNING)
 
-VENUES_CONFIG = Path(__file__).parent / "venues.yaml"
 DATE_FORMAT = "%a, %b %-d %Y"
 TIME_FORMAT = "%-I:%M %p"
 

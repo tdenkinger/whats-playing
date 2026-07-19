@@ -1,12 +1,10 @@
-from pathlib import Path
-
 import streamlit as st
 
+from config import VENUES_CONFIG
 from scraper.models import VenueConfig
 from scraper.venue_scraper import load_venues, save_venues, scrape_venue, VenueScrapeError
 from scraper.detector import analyze_url, DetectionResult
 
-VENUES_CONFIG = Path(__file__).parent.parent / "venues.yaml"
 DATE_FORMAT = "%a, %b %-d %Y"
 TIME_FORMAT = "%-I:%M %p"
 
