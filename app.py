@@ -58,11 +58,11 @@ def main():
 
     cache_key = "events"
     if refresh or cache_key not in st.session_state:
-        st.session_state[cache_key] = _fetch_events(selected_venues)
+        st.session_state[cache_key], st.session_state["failed_venues"] = _fetch_events(selected_venues)
         st.session_state["last_updated"] = datetime.now()
     elif set(selected_names) != set(st.session_state.get("_last_selected", [])):
         # Re-scrape when venue selection changes
-        st.session_state[cache_key] = _fetch_events(selected_venues)
+        st.session_state[cache_key], st.session_state["failed_venues"] = _fetch_events(selected_venues)
         st.session_state["last_updated"] = datetime.now()
 
     st.session_state["_last_selected"] = selected_names
@@ -71,6 +71,10 @@ def main():
 
     if "last_updated" in st.session_state:
         st.caption(f"Last updated: {st.session_state['last_updated'].strftime('%Y-%m-%d %H:%M:%S')}")
+
+    failed = st.session_state.get("failed_venues", [])
+    if failed:
+        st.warning(f"Could not reach: {', '.join(failed)}")
 
     # ── Filter ────────────────────────────────────────────────────────────────
     today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
@@ -84,66 +88,43 @@ def main():
 
     st.write(f"**{len(events)} event{'s' if len(events) != 1 else ''}** found")
 
-    _render_events(events)
+    venue_urls = {v.name: v.url for v in venues}
+    _render_events(events, venue_urls)
 
 
-def _fetch_events(selected_venues) -> list[Event]:
+def _fetch_events(selected_venues) -> tuple[list[Event], list[str]]:
     progress_bar = st.progress(0, text="Starting scrape…")
 
     def on_progress(i: int, total: int, name: str):
         pct = int((i / total) * 100)
         progress_bar.progress(pct, text=f"Scraping {name}…")
 
-    events = scrape_all_venues(selected_venues, progress_callback=on_progress)
+    events, failed = scrape_all_venues(selected_venues, progress_callback=on_progress)
     progress_bar.progress(100, text="Done!")
     progress_bar.empty()
-    return events
+    return events, failed
 
 
-def _render_events(events: list[Event]):
-    # Group by date for a cleaner layout
-    grouped: dict[str, list[Event]] = {}
+def _render_events(events: list[Event], venue_urls: dict[str, str]):
+    by_date: dict[str, dict[str, list[Event]]] = {}
     for event in events:
-        if event.date:
-            label = event.date.strftime(DATE_FORMAT)
-        else:
-            label = "Date Unknown"
-        grouped.setdefault(label, []).append(event)
+        date_label = event.date.strftime(DATE_FORMAT) if event.date else "Date Unknown"
+        by_date.setdefault(date_label, {}).setdefault(event.venue_name, []).append(event)
 
-    for date_label, day_events in grouped.items():
+    for date_label, venues in by_date.items():
         st.subheader(date_label)
-        cols = st.columns(min(len(day_events), 3))
-        for idx, event in enumerate(day_events):
-            with cols[idx % 3]:
-                _render_event_card(event)
-
-
-def _render_event_card(event: Event):
-    with st.container(border=True):
-        if event.image_url:
-            st.image(event.image_url, use_container_width=True)
-
-        title = event.title or "Untitled Event"
-        if event.url:
-            st.markdown(f"### [{title}]({event.url})")
-        else:
-            st.markdown(f"### {title}")
-
-        st.caption(f"📍 {event.venue_name}")
-
-        if event.date:
-            time_str = event.date.strftime(TIME_FORMAT) if event.date.hour or event.date.minute else ""
-            if time_str:
-                st.write(f"🕐 {time_str}")
-        elif event.date_raw:
-            st.write(f"📅 {event.date_raw}")
-
-        if event.price:
-            st.write(f"🎟 {event.price}")
-
-        if event.description:
-            with st.expander("Details"):
-                st.write(event.description)
+        for venue_name, venue_events in sorted(venues.items()):
+            url = venue_urls.get(venue_name, "")
+            venue_heading = f"**[{venue_name}]({url})**" if url else f"**{venue_name}**"
+            st.markdown(venue_heading)
+            lines = []
+            for event in venue_events:
+                title = event.title or "Untitled Event"
+                time_str = f" · {event.date.strftime(TIME_FORMAT)}" if event.date and (event.date.hour or event.date.minute) else ""
+                price_str = f" · {event.price}" if event.price else ""
+                link = f"[{title}]({event.url})" if event.url else title
+                lines.append(f"- {link}{time_str}{price_str}")
+            st.markdown("\n".join(lines))
 
 
 if __name__ == "__main__":

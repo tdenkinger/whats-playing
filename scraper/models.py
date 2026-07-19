@@ -27,9 +27,15 @@ class VenueConfig:
     event_selector: str = ""
     title_selector: str = ""
     date_selector: str = ""
+    time_selector: str = ""
     url_selector: str = ""
     description_selector: str = ""
     price_selector: str = ""
     image_selector: str = ""
     # Optional base URL for resolving relative links
     base_url: str = ""
+    # Tockify strategy field
+    tockify_calendar: str = ""
+    # Viewcy strategy fields
+    viewcy_org: str = ""
+    viewcy_category: str = ""

@@ -38,19 +38,56 @@
 #     base_url: "https://mylocalvenue.com"
 
 venues:
-  # Add your venues below. Remove or replace the placeholder entries.
-
-  - name: "Example Venue (JSON-LD)"
-    url: "https://example-venue.com/events"
+  - name: Cafe Ornithology
+    url: https://cafeornithology.com/brooklyn-bushwick-williamsburg-cafe-ornithology-events
+    strategy: css
+    event_selector: div.event-content
+    title_selector: h2
+    date_selector: .event-day
+    time_selector: .event-time
+    description_selector: .event-info-text
+  - name: Ornithology Jazz Club
+    url: https://ornithologyjazzclub.com/brooklyn-bushwick-williamsburg-ornithology-jazz-club-events
+    strategy: css
+    event_selector: div.event-content
+    title_selector: h2
+    date_selector: .event-day
+    time_selector: .event-time
+    description_selector: .event-info-text
+  - name: Fred's Dog House
+    url: https://www.fredsdoghouse.com/live-music/
+    strategy: css
+    event_selector: li.card
+    title_selector: .card__heading
+    date_selector: .card__heading
+    url_selector: a.card__btn
+    base_url: https://www.fredsdoghouse.com
+  - name: Lucinda's
+    url: https://www.lucindasnyc.com/calendar/
+    strategy: css
+    event_selector: div.tw-cal-event
+    title_selector: .tw-name a
+    date_selector: .tw-event-date-complete
+    url_selector: .tw-name a
+    image_selector: .tw-image img
+    base_url: https://www.lucindasnyc.com
+  - name: Sunny's Bar
+    url: https://www.sunnysredhook.com/calendar2/
+    strategy: tockify
+    tockify_calendar: sunnysmusic
+  - name: Brooklyn Paramount
+    url: https://www.brooklynparamount.com/shows
     strategy: json-ld
-
-  # - name: "Example Venue (CSS selectors)"
-  #   url: "https://example-venue.com/calendar"
-  #   strategy: css
-  #   event_selector: ".event-card"
-  #   title_selector: ".event-card__title"
-  #   date_selector: ".event-card__date"
-  #   url_selector: "a.event-card__link"
-  #   price_selector: ".event-card__price"
-  #   image_selector: "img.event-card__image"
-  #   base_url: "https://example-venue.com"
+  - name: Freddy's
+    url: https://www.freddysbar.com/events
+    strategy: css
+    event_selector: div.eventlist-column-info
+    title_selector: .eventlist-title
+    date_selector: .eventlist-meta-item
+    url_selector: a.eventlist-title-link
+    base_url: https://www.freddysbar.com
+  - name: Jalopy Theatre
+    url: https://jalopytheatre.netlify.app/performances
+    strategy: viewcy
+    viewcy_org: jalopytheatre
+    viewcy_category: '360'
