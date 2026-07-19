@@ -5,6 +5,7 @@ from pathlib import Path
 
 import streamlit as st
 
+from auth import require_password
 from config import VENUES_CONFIG
 from scraper.models import Event
 from scraper.venue_scraper import load_venues, scrape_all_venues
@@ -22,6 +23,7 @@ def main():
         page_icon="🎵",
         layout="wide",
     )
+    require_password()
 
     st.title("🎵 What's Playing")
     st.caption("Local music events aggregated from your configured venues.")
