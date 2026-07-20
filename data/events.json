@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19T14:58:21.405353+00:00",
+  "scraped_at": "2026-07-20T15:00:46.449545+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -363,46 +363,6 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Sunday July 19th \u2022 Blues with Bobby Bryan!",
-      "date": "2026-07-19T00:00:00",
-      "date_raw": "Sunday July 19th \u2022 Blues with Bobby Bryan!",
-      "url": "https://www.fredsdoghouse.com/event/sunday-april-19th-blues-with-bobby-bryan-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
-      "date": "2026-07-19T00:00:00",
-      "date_raw": "July 19, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-36/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Shotgun Shack, Free Two Step Lessons w/ Kendall 7:30-8:30, Cash Prize Jack + Jill Dance Competition for Honky Tonk Dancehall",
-      "date": "2026-07-19T00:00:00",
-      "date_raw": "July 19, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/shotgun-shack-free-two-step-lessons-w-kendall-730-830-cash-prize-jack-jill-dance-competition-for-honky-tonk-dancehall/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/95/13/74_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Honky Tonk Dance Hall",
-      "date": "2026-07-19T00:00:00",
-      "date_raw": "July 19, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/honky-tonk-dance-hall-2/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/97/41/14_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "World Cup ON THE BIG SCREEN IN BACKROOM with sound!",
       "date": "2026-07-19T00:00:00",
@@ -423,66 +383,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2026-07-19T14:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/230/1784487600000",
-      "description": "In front of the bar on Sunday afternoons for the summer. Open to all.",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-19T18:30:00",
-      "date_raw": "Sunday July 19th 06:30 PM",
-      "url": "",
-      "description": "Pete Malinverni (p)Paul Gill (b)Keith Balla (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Sacha Perry Trio",
-      "date": "2026-07-19T19:30:00",
-      "date_raw": "Sunday July 19th 07:30 PM",
-      "url": "",
-      "description": "Sacha Perry (p)Sean Smith (b)Alberto Chiozzi (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Ken and Friends featuring Katie Martucci, Emeline O'Rourke, and Adam Armstrong",
-      "date": "2026-07-19T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/249/1784505600000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-19T21:00:00",
-      "date_raw": "Sunday July 19th 09:00 PM",
-      "url": "",
-      "description": "Tardo Hammer (p)Lee Hudson (b)Keith Balla (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Samuel Lerner",
-      "date": "2026-07-19T23:00:00",
-      "date_raw": "Sunday July 19th 11:00 PM",
-      "url": "",
-      "description": "Samuel Lerner (p)Sean Smith (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Women of Americana",
       "date": "2026-07-20T00:00:00",
@@ -490,6 +390,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/women-of-americana/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/95/63/84_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "The Wildmans",
+      "date": "2026-07-20T00:00:00",
+      "date_raw": "July 20, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/the-wildmans-4/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/50/04_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -529,6 +439,16 @@
       "date_raw": "Monday July 20th 07:30 PM",
       "url": "",
       "description": "Paul Bedal (p)Mike Harmon (b)Adam Arruda (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-07-20T21:00:00",
+      "date_raw": "Monday July 20th 09:00 PM",
+      "url": "",
+      "description": "Chris McCarthy (p)June Cavlan (v)Matt Dwonszyk (b)Aaron Seeber (d)",
       "image_url": "",
       "price": ""
     },
@@ -583,16 +503,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "The Binoculars",
-      "date": "2026-07-21T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/236/1784678400000",
-      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalo",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Fred's Dog House",
       "title": "Tuesday July 21st 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
       "date": "2026-07-21T20:30:00",
@@ -623,6 +533,36 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Felix Slim, One Man Orchestra",
+      "date": "2026-07-22T00:00:00",
+      "date_raw": "July 22, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/felix-slim-one-man-orchestra/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/50/24_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Christian Apuzzo",
+      "date": "2026-07-22T00:00:00",
+      "date_raw": "July 22, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/christian-apuzzo/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/46/14_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "The Binoculars",
+      "date": "2026-07-22T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/236/1784678400000",
+      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalo",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-07-22T00:00:00",
@@ -643,32 +583,12 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-07-22T18:30:00",
-      "date_raw": "2026-07-22T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Cafe Ornithology",
       "title": "Ryan Easter Quintet",
       "date": "2026-07-22T19:30:00",
       "date_raw": "Wednesday July 22nd 07:30 PM",
       "url": "",
       "description": "Ryan Easter (tp)Alana Amore Colvin (g)Ajani Nanabuluku (p)Destiny Diggs (b)Kabir Adhiya-Kumar (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Smokey's Roundup",
-      "date": "2026-07-22T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/184/1784764800000",
-      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and mor",
       "image_url": "",
       "price": ""
     },
@@ -693,12 +613,42 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-07-22T22:30:00",
+      "date_raw": "2026-07-22T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Cafe Ornithology",
       "title": "Late Night Jam Hosted By Tomer Sasson",
       "date": "2026-07-22T23:00:00",
       "date_raw": "Wednesday July 22nd 11:00 PM",
       "url": "",
       "description": "Tomer Sasson (g)Giacomo Morelli (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Felix Slim, One Man Orchestra",
+      "date": "2026-07-23T00:00:00",
+      "date_raw": "July 23, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/felix-slim-one-man-orchestra-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/50/34_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-07-23T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1784764800000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and mor",
       "image_url": "",
       "price": ""
     },
@@ -725,22 +675,12 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "MacMcCarty +KiddTwist",
-      "date": "2026-07-23T19:30:00",
+      "date": "2026-07-23T23:30:00",
       "date_raw": "2026-07-23T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/macmccarty_kiddtwist",
       "description": "",
       "image_url": "",
       "price": "$33"
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "The Love Struck Balladeers",
-      "date": "2026-07-23T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/254/1784851200000",
-      "description": "The Lovestruck Balladeers enchant audiences with their masterful performances and inspired repertoire of ragtime, jazz and beautiful songs from around the world",
-      "image_url": "",
-      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -760,6 +700,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-8/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "The Love Struck Balladeers",
+      "date": "2026-07-24T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/254/1784851200000",
+      "description": "The Lovestruck Balladeers enchant audiences with their masterful performances and inspired repertoire of ragtime, jazz and beautiful songs from around the world",
+      "image_url": "",
       "price": ""
     },
     {
@@ -793,22 +743,22 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Alex McMurray Trio",
-      "date": "2026-07-24T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/86/1784937600000",
-      "description": "Songwriter, singer and guitarist Alex McMurray has been writing and performing music professionally in New Orleans since 1989. Past and current bands include Ti",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Fred's Dog House",
       "title": "Friday July 24th 8:30pm \u2022  New Moon Acoustic Blues Trio",
       "date": "2026-07-24T20:30:00",
       "date_raw": "Friday July 24th 8:30pm \u2022  New Moon Acoustic Blues Trio",
       "url": "https://www.fredsdoghouse.com/event/friday-september-12th-new-moon-acoustic-blues-trio-copy/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Alex McMurray Trio",
+      "date": "2026-07-25T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/86/1784937600000",
+      "description": "Songwriter, singer and guitarist Alex McMurray has been writing and performing music professionally in New Orleans since 1989. Past and current bands include Ti",
       "image_url": "",
       "price": ""
     },
@@ -831,16 +781,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Bruce Molsky & Darol Anger",
-      "date": "2026-07-25T20:00:00",
-      "date_raw": "2026-07-26T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/bruce__darols_great",
-      "description": "",
-      "image_url": "",
-      "price": "$33"
     },
     {
       "venue_name": "Lucinda's",
@@ -893,9 +833,19 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Bruce Molsky & Darol Anger",
+      "date": "2026-07-26T00:00:00",
+      "date_raw": "2026-07-26T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/bruce__darols_great",
+      "description": "",
+      "image_url": "",
+      "price": "$33"
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
-      "date": "2026-07-26T14:00:00",
+      "date": "2026-07-26T18:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/230/1785092400000",
       "description": "In front of the bar on Sunday afternoons for the summer. Open to all.",
@@ -905,7 +855,7 @@
     {
       "venue_name": "Sunny's Bar",
       "title": "Ken and Friends Experimental Night featuring Scott Colberg and Zach Lapidus",
-      "date": "2026-07-26T20:00:00",
+      "date": "2026-07-27T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/250/1785110400000",
       "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
@@ -963,16 +913,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Indianna Hale",
-      "date": "2026-07-28T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/255/1785283200000",
-      "description": "Indianna Hale is a multi instrumentalist singer songwriter based in San Francisco. \"Imagine Cate le Bon baking a sweet-but-not-too-sweet birthday cake with Calv",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Cafe Ornithology",
       "title": "Late Night Jam Hosted By Nitsan Kolko",
       "date": "2026-07-28T23:00:00",
@@ -990,6 +930,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/red-hot-country-live-music-with-special-guests-benefit-to-lgbtq-and-health-care-callen-lorde-community-health-center/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/95/81/54_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Indianna Hale",
+      "date": "2026-07-29T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/255/1785283200000",
+      "description": "Indianna Hale is a multi instrumentalist singer songwriter based in San Francisco. \"Imagine Cate le Bon baking a sweet-but-not-too-sweet birthday cake with Calv",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1013,22 +963,22 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-07-29T18:30:00",
-      "date_raw": "2026-07-29T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-07-29T21:00:00",
       "date_raw": "Wednesday July 29th 09:00 PM",
       "url": "",
       "description": "David Gibson (trombone)Cameron Campbell (p)Ruby Farmer (b)Jay Sawyer (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-07-29T22:30:00",
+      "date_raw": "2026-07-29T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -1060,16 +1010,6 @@
       "url": "https://www.ticketmaster.com/all-the-feelings-tour-with-metric-brooklyn-new-york-07-30-2026/event/0000643FDF1DF8F9",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/a99/9c0e4923-877a-4bc6-a302-c4945c987a99_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Samoa Wilson Trio",
-      "date": "2026-07-30T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/169/1785456000000",
-      "description": "Since she was 12 years old, Samoa Wilson has been captivating audiences with a voice the New York Times calls \u201csweet, effortless, old-timey\u201d. Raised in the rive",
-      "image_url": "",
       "price": ""
     },
     {
@@ -1113,6 +1053,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Samoa Wilson Trio",
+      "date": "2026-07-31T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/169/1785456000000",
+      "description": "Since she was 12 years old, Samoa Wilson has been captivating audiences with a voice the New York Times calls \u201csweet, effortless, old-timey\u201d. Raised in the rive",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Family Drinks",
       "date": "2026-07-31T00:00:00",
@@ -1133,26 +1083,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Laura Jean Anderson Band",
-      "date": "2026-07-31T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/175/1785542400000",
-      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Wazumbians",
-      "date": "2026-07-31T20:30:00",
-      "date_raw": "2026-08-01T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/wazumbians",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Paloma Lopez",
       "date": "2026-08-01T00:00:00",
@@ -1160,6 +1090,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/paloma-lopez/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/97/22/54_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Laura Jean Anderson Band",
+      "date": "2026-08-01T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/175/1785542400000",
+      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1174,10 +1114,10 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "Bold Forbes / Hannah Lynne Miller",
-      "date": "2026-08-01T20:30:00",
-      "date_raw": "2026-08-02T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/bold_forbes",
+      "title": "Wazumbians",
+      "date": "2026-08-01T00:30:00",
+      "date_raw": "2026-08-01T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/wazumbians",
       "description": "",
       "image_url": "",
       "price": "$23"
@@ -1214,10 +1154,10 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "Musiche del Sud: Traditional Music of Southern Italy",
-      "date": "2026-08-02T18:30:00",
-      "date_raw": "2026-08-02T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/musiche_del_sud_trad",
+      "title": "Bold Forbes / Hannah Lynne Miller",
+      "date": "2026-08-02T00:30:00",
+      "date_raw": "2026-08-02T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/bold_forbes",
       "description": "",
       "image_url": "",
       "price": "$23"
@@ -1231,6 +1171,16 @@
       "description": "Nat Harris (g)Jeb Patton (p)Yuma Takagi (b)Keith Balla (d)",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Musiche del Sud: Traditional Music of Southern Italy",
+      "date": "2026-08-02T22:30:00",
+      "date_raw": "2026-08-02T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/musiche_del_sud_trad",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Freddy's",
@@ -1323,16 +1273,6 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-08-05T18:30:00",
-      "date_raw": "2026-08-05T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Brooklyn Paramount",
       "title": "Alex Isley - When The City Sleeps",
       "date": "2026-08-05T19:00:00",
@@ -1354,12 +1294,22 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "Roots n' Ruckus! AUGUST!",
-      "date": "2026-08-05T20:00:00",
-      "date_raw": "2026-08-06T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/roots_n_ruckus_augu_1",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-08-05T22:30:00",
+      "date_raw": "2026-08-05T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Jarrod Dickenson",
+      "date": "2026-08-06T00:00:00",
+      "date_raw": "August 06, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/jarrod-dickenson/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/45/94_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -1368,6 +1318,16 @@
       "date": "2026-08-06T00:00:00",
       "date_raw": "Thursday, August 6, 2026",
       "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-4-dzhlc",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Roots n' Ruckus! AUGUST!",
+      "date": "2026-08-06T00:00:00",
+      "date_raw": "2026-08-06T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/roots_n_ruckus_augu_1",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1403,16 +1363,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Kevin Copeland and Friends",
-      "date": "2026-08-07T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/244/1786147200000",
-      "description": "If you happen to recognize Kevin Copeland\u2019s name, it is most likely because you were digging through the credits on other artist\u2019s records. Hannah Frances, Lamp",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Brooklyn Paramount",
       "title": "Bop To The Top",
       "date": "2026-08-07T20:00:00",
@@ -1423,14 +1373,14 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jordan Smart / Jay Skaggs",
-      "date": "2026-08-07T20:30:00",
-      "date_raw": "2026-08-08T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jordan_smart",
-      "description": "",
+      "venue_name": "Sunny's Bar",
+      "title": "Kevin Copeland and Friends",
+      "date": "2026-08-08T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/244/1786147200000",
+      "description": "If you happen to recognize Kevin Copeland\u2019s name, it is most likely because you were digging through the credits on other artist\u2019s records. Hannah Frances, Lamp",
       "image_url": "",
-      "price": "$23"
+      "price": ""
     },
     {
       "venue_name": "Freddy's",
@@ -1483,6 +1433,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jordan Smart / Jay Skaggs",
+      "date": "2026-08-08T00:30:00",
+      "date_raw": "2026-08-08T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jordan_smart",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Qveen\u00a0Herby\u00a0- Isle of\u00a0Qveen\u00a0Tour",
       "date": "2026-08-08T20:00:00",
@@ -1523,16 +1483,6 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Michael Daves & Tatiana Hargreaves",
-      "date": "2026-08-09T20:00:00",
-      "date_raw": "2026-08-10T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/michael_daves__tatia",
-      "description": "",
-      "image_url": "",
-      "price": "$28"
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "From Nashville, India Ramey and her Band",
       "date": "2026-08-10T00:00:00",
@@ -1551,6 +1501,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Michael Daves & Tatiana Hargreaves",
+      "date": "2026-08-10T00:00:00",
+      "date_raw": "2026-08-10T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/michael_daves__tatia",
+      "description": "",
+      "image_url": "",
+      "price": "$28"
     },
     {
       "venue_name": "Lucinda's",
@@ -1575,7 +1535,7 @@
     {
       "venue_name": "Sunny's Bar",
       "title": "Matthew Avedon",
-      "date": "2026-08-11T20:00:00",
+      "date": "2026-08-12T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/172/1786492800000",
       "description": "The sultry sounds of famed New York guitarist Matthew Avedon set the tone for a night to remember. From bebop to swing and back again, he does it all!",
@@ -1605,7 +1565,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-08-12T18:30:00",
+      "date": "2026-08-12T22:30:00",
       "date_raw": "2026-08-12T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -1625,7 +1585,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "The Golden Hour Series at Greely Square: Gogo Norales",
-      "date": "2026-08-13T19:00:00",
+      "date": "2026-08-13T23:00:00",
       "date_raw": "2026-08-13T23:00:00.000Z",
       "url": "https://www.viewcy.com/event/the_golden_hour_serie_1",
       "description": "",
@@ -1655,7 +1615,7 @@
     {
       "venue_name": "Sunny's Bar",
       "title": "KJ Denhert",
-      "date": "2026-08-14T20:00:00",
+      "date": "2026-08-15T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/63/1786752000000",
       "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was t",
@@ -1713,6 +1673,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Sophie Kyle Collins / Ceridwen McCooey / Gabriel Fynsk",
+      "date": "2026-08-16T00:30:00",
+      "date_raw": "2026-08-16T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/sophie_kyle_collins_",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Jon Langford, Walter Salas-Humara",
       "date": "2026-08-17T00:00:00",
@@ -1720,6 +1690,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/jon-langford-walter-salas-humara/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/98/38/04_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "The Wildmans",
+      "date": "2026-08-17T00:00:00",
+      "date_raw": "August 17, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/the-wildmans-5/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/50/14_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -1795,7 +1775,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-08-19T18:30:00",
+      "date": "2026-08-19T22:30:00",
       "date_raw": "2026-08-19T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -1865,7 +1845,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Burstin' Boots Dance Party with The Slide Stops!",
-      "date": "2026-08-21T19:30:00",
+      "date": "2026-08-21T23:30:00",
       "date_raw": "2026-08-21T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/burstin_boots_dance_41",
       "description": "",
@@ -1875,7 +1855,7 @@
     {
       "venue_name": "Sunny's Bar",
       "title": "Rose Paradis",
-      "date": "2026-08-21T20:00:00",
+      "date": "2026-08-22T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/213/1787356800000",
       "description": "Rose Paradise enlivens West Coast folk rock. Loyal to the sweet sound of her hometown: Stinson Beach, California, paired with the gritty truths of New York City",
@@ -1965,7 +1945,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jasmine Jang's Garden Voices Album Release Show featuring Blue Jay",
-      "date": "2026-08-23T19:00:00",
+      "date": "2026-08-23T23:00:00",
       "date_raw": "2026-08-23T23:00:00.000Z",
       "url": "https://www.viewcy.com/event/jasmine_jangs_garden",
       "description": "",
@@ -2005,7 +1985,7 @@
     {
       "venue_name": "Sunny's Bar",
       "title": "The Binoculars",
-      "date": "2026-08-25T20:00:00",
+      "date": "2026-08-26T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/236/1787702400000",
       "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalo",
@@ -2015,7 +1995,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-08-26T18:30:00",
+      "date": "2026-08-26T22:30:00",
       "date_raw": "2026-08-26T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -2065,7 +2045,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Los Texmaniacs//Jourdan Thibodeaux et les R\u00f4dailleurs",
-      "date": "2026-08-29T15:00:00",
+      "date": "2026-08-29T19:00:00",
       "date_raw": "2026-08-29T19:00:00.000Z",
       "url": "https://www.viewcy.com/event/swamp_in_the_city_min",
       "description": "",
@@ -2093,16 +2073,6 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Charlie & the Tropicales",
-      "date": "2026-08-30T20:00:00",
-      "date_raw": "2026-08-31T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/charlie__the_tropica",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
       "venue_name": "Freddy's",
       "title": "BAD MOVIE NIGHT in the Backroom",
       "date": "2026-08-31T00:00:00",
@@ -2111,6 +2081,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Charlie & the Tropicales",
+      "date": "2026-08-31T00:00:00",
+      "date_raw": "2026-08-31T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/charlie__the_tropica",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Lucinda's",
@@ -2133,16 +2113,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Matthew Avedon",
-      "date": "2026-09-01T20:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/172/1788307200000",
-      "description": "The sultry sounds of famed New York guitarist Matthew Avedon set the tone for a night to remember. From bebop to swing and back again, he does it all!",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Derek Fawcett, Alexandra James, Cal Stamp, Together on guitar, bass and djembe! Early Show 6:30pm doors.",
       "date": "2026-09-02T00:00:00",
@@ -2153,9 +2123,19 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Matthew Avedon",
+      "date": "2026-09-02T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/172/1788307200000",
+      "description": "The sultry sounds of famed New York guitarist Matthew Avedon set the tone for a night to remember. From bebop to swing and back again, he does it all!",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-09-02T18:30:00",
+      "date": "2026-09-02T22:30:00",
       "date_raw": "2026-09-02T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -2165,7 +2145,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Pine Leaf Boys",
-      "date": "2026-09-03T19:30:00",
+      "date": "2026-09-03T23:30:00",
       "date_raw": "2026-09-03T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/pine_leaf_boys",
       "description": "",
@@ -2195,7 +2175,7 @@
     {
       "venue_name": "Sunny's Bar",
       "title": "Kevin Copeland and Friends",
-      "date": "2026-09-04T20:00:00",
+      "date": "2026-09-05T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/244/1788566400000",
       "description": "If you happen to recognize Kevin Copeland\u2019s name, it is most likely because you were digging through the credits on other artist\u2019s records. Hannah Frances, Lamp",
@@ -2295,22 +2275,12 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Tim Eriksen",
-      "date": "2026-09-08T20:30:00",
+      "date": "2026-09-09T00:30:00",
       "date_raw": "2026-09-09T00:30:00.000Z",
       "url": "https://www.viewcy.com/event/tim_eriksen",
       "description": "",
       "image_url": "",
       "price": "$23"
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-09-09T18:30:00",
-      "date_raw": "2026-09-09T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -2320,6 +2290,16 @@
       "url": "https://www.ticketmaster.com/lucki-brooklyn-new-york-09-09-2026/event/000064ACBBFFEB1C",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/051/58f8541d-70ed-408d-bb05-abd7b252d051_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-09-09T22:30:00",
+      "date_raw": "2026-09-09T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -2365,7 +2345,7 @@
     {
       "venue_name": "Sunny's Bar",
       "title": "KJ Denhert",
-      "date": "2026-09-11T20:00:00",
+      "date": "2026-09-12T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/63/1789171200000",
       "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was t",
@@ -2465,32 +2445,12 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-09-16T18:30:00",
+      "date": "2026-09-16T22:30:00",
       "date_raw": "2026-09-16T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "The Golden Hour Series at Greely Square: Vaden Landers",
-      "date": "2026-09-17T19:00:00",
-      "date_raw": "2026-09-17T23:00:00.000Z",
-      "url": "https://www.viewcy.com/event/the_golden_hour_serie_2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Copeland",
-      "date": "2026-09-17T19:00:00",
-      "date_raw": "2026-09-17T23:00:00.000Z",
-      "url": "https://www.viewcy.com/event/copeland",
-      "description": "",
-      "image_url": "",
-      "price": "$38"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -2511,6 +2471,26 @@
       "description": "Chris McCarthy (p)Vanisha Gould (v)Takuya Kuroda (tp)Eden Bareket (baritone saxophone)Sam Minaie (b)Steven Crammer (d)",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "The Golden Hour Series at Greely Square: Vaden Landers",
+      "date": "2026-09-17T23:00:00",
+      "date_raw": "2026-09-17T23:00:00.000Z",
+      "url": "https://www.viewcy.com/event/the_golden_hour_serie_2",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Copeland",
+      "date": "2026-09-17T23:00:00",
+      "date_raw": "2026-09-17T23:00:00.000Z",
+      "url": "https://www.viewcy.com/event/copeland",
+      "description": "",
+      "image_url": "",
+      "price": "$38"
     },
     {
       "venue_name": "Lucinda's",
@@ -2545,7 +2525,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Burstin' Boots Dance Party with the Talking Hearts!",
-      "date": "2026-09-18T19:30:00",
+      "date": "2026-09-18T23:30:00",
       "date_raw": "2026-09-18T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/burstin_boots_dance_38",
       "description": "",
@@ -2603,16 +2583,6 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jake Blount",
-      "date": "2026-09-19T20:30:00",
-      "date_raw": "2026-09-20T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jake_blount",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-09-20T00:00:00",
@@ -2621,6 +2591,16 @@
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jake Blount",
+      "date": "2026-09-20T00:30:00",
+      "date_raw": "2026-09-20T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jake_blount",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -2655,7 +2635,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-09-23T18:30:00",
+      "date": "2026-09-23T22:30:00",
       "date_raw": "2026-09-23T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -2773,16 +2753,6 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Nathan Salsburg / Eli Smith",
-      "date": "2026-09-27T14:00:00",
-      "date_raw": "2026-09-27T18:00:00.000Z",
-      "url": "https://www.viewcy.com/event/nathan_salsburg__eli",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
       "venue_name": "Brooklyn Paramount",
       "title": "Taking Back Sunday",
       "date": "2026-09-27T18:00:00",
@@ -2791,6 +2761,16 @@
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/d76/61d095a0-3822-4bd9-beda-00a9e8276d76_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Nathan Salsburg / Eli Smith",
+      "date": "2026-09-27T18:00:00",
+      "date_raw": "2026-09-27T18:00:00.000Z",
+      "url": "https://www.viewcy.com/event/nathan_salsburg__eli",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Lucinda's",
@@ -2815,7 +2795,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-09-30T18:30:00",
+      "date": "2026-09-30T22:30:00",
       "date_raw": "2026-09-30T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -2915,7 +2895,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-10-07T18:30:00",
+      "date": "2026-10-07T22:30:00",
       "date_raw": "2026-10-07T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -2933,16 +2913,6 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Matt Sucich",
-      "date": "2026-10-08T20:30:00",
-      "date_raw": "2026-10-09T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/matt_sucich",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-10-09T00:00:00",
@@ -2951,6 +2921,16 @@
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Matt Sucich",
+      "date": "2026-10-09T00:30:00",
+      "date_raw": "2026-10-09T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/matt_sucich",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -3005,7 +2985,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Michael Daves & Andy Falco",
-      "date": "2026-10-11T20:00:00",
+      "date": "2026-10-12T00:00:00",
       "date_raw": "2026-10-12T00:00:00.000Z",
       "url": "https://www.viewcy.com/event/michael_daves__andy",
       "description": "",
@@ -3033,16 +3013,6 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-10-14T18:30:00",
-      "date_raw": "2026-10-14T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Brooklyn Paramount",
       "title": "Sylvan Esso",
       "date": "2026-10-14T19:00:00",
@@ -3050,6 +3020,16 @@
       "url": "https://www.ticketmaster.com/sylvan-esso-brooklyn-new-york-10-14-2026/event/000064C5B8594A98",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/be4/df5d46fa-6936-4a27-a2aa-1a55b022fbe4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-10-14T22:30:00",
+      "date_raw": "2026-10-14T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -3093,16 +3073,6 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Damn Tall Buildings",
-      "date": "2026-10-17T20:30:00",
-      "date_raw": "2026-10-18T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/damn_tall_buildings",
-      "description": "",
-      "image_url": "",
-      "price": "$28"
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-10-18T00:00:00",
@@ -3121,6 +3091,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Damn Tall Buildings",
+      "date": "2026-10-18T00:30:00",
+      "date_raw": "2026-10-18T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/damn_tall_buildings",
+      "description": "",
+      "image_url": "",
+      "price": "$28"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -3165,7 +3145,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-10-21T18:30:00",
+      "date": "2026-10-21T22:30:00",
       "date_raw": "2026-10-21T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3245,7 +3225,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-10-28T18:30:00",
+      "date": "2026-10-28T22:30:00",
       "date_raw": "2026-10-28T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3295,7 +3275,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-11-04T18:30:00",
+      "date": "2026-11-04T23:30:00",
       "date_raw": "2026-11-04T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3345,7 +3325,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-11-11T18:30:00",
+      "date": "2026-11-11T23:30:00",
       "date_raw": "2026-11-11T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3385,7 +3365,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-11-18T18:30:00",
+      "date": "2026-11-18T23:30:00",
       "date_raw": "2026-11-18T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3435,7 +3415,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-11-25T18:30:00",
+      "date": "2026-11-25T23:30:00",
       "date_raw": "2026-11-25T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3465,7 +3445,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-12-02T18:30:00",
+      "date": "2026-12-02T23:30:00",
       "date_raw": "2026-12-02T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3495,7 +3475,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-12-09T18:30:00",
+      "date": "2026-12-09T23:30:00",
       "date_raw": "2026-12-09T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3525,7 +3505,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-12-16T18:30:00",
+      "date": "2026-12-16T23:30:00",
       "date_raw": "2026-12-16T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3555,7 +3535,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-12-23T18:30:00",
+      "date": "2026-12-23T23:30:00",
       "date_raw": "2026-12-23T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3585,7 +3565,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-12-30T18:30:00",
+      "date": "2026-12-30T23:30:00",
       "date_raw": "2026-12-30T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3595,7 +3575,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-01-06T18:30:00",
+      "date": "2027-01-06T23:30:00",
       "date_raw": "2027-01-06T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3605,7 +3585,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-01-13T18:30:00",
+      "date": "2027-01-13T23:30:00",
       "date_raw": "2027-01-13T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3615,7 +3595,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-01-20T18:30:00",
+      "date": "2027-01-20T23:30:00",
       "date_raw": "2027-01-20T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3625,7 +3605,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-01-27T18:30:00",
+      "date": "2027-01-27T23:30:00",
       "date_raw": "2027-01-27T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3635,7 +3615,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-02-03T18:30:00",
+      "date": "2027-02-03T23:30:00",
       "date_raw": "2027-02-03T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3645,7 +3625,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-02-10T18:30:00",
+      "date": "2027-02-10T23:30:00",
       "date_raw": "2027-02-10T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3655,7 +3635,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-02-17T18:30:00",
+      "date": "2027-02-17T23:30:00",
       "date_raw": "2027-02-17T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3665,7 +3645,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-02-24T18:30:00",
+      "date": "2027-02-24T23:30:00",
       "date_raw": "2027-02-24T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3675,7 +3655,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-03-03T18:30:00",
+      "date": "2027-03-03T23:30:00",
       "date_raw": "2027-03-03T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3685,7 +3665,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-03-10T18:30:00",
+      "date": "2027-03-10T23:30:00",
       "date_raw": "2027-03-10T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3695,7 +3675,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-03-17T18:30:00",
+      "date": "2027-03-17T22:30:00",
       "date_raw": "2027-03-17T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3705,7 +3685,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-03-24T18:30:00",
+      "date": "2027-03-24T22:30:00",
       "date_raw": "2027-03-24T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3715,7 +3695,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-03-31T18:30:00",
+      "date": "2027-03-31T22:30:00",
       "date_raw": "2027-03-31T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3725,7 +3705,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-04-07T18:30:00",
+      "date": "2027-04-07T22:30:00",
       "date_raw": "2027-04-07T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3735,7 +3715,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-04-14T18:30:00",
+      "date": "2027-04-14T22:30:00",
       "date_raw": "2027-04-14T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3745,7 +3725,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-04-21T18:30:00",
+      "date": "2027-04-21T22:30:00",
       "date_raw": "2027-04-21T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3755,7 +3735,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-04-28T18:30:00",
+      "date": "2027-04-28T22:30:00",
       "date_raw": "2027-04-28T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3765,7 +3745,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-05-05T18:30:00",
+      "date": "2027-05-05T22:30:00",
       "date_raw": "2027-05-05T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3775,7 +3755,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-05-12T18:30:00",
+      "date": "2027-05-12T22:30:00",
       "date_raw": "2027-05-12T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3785,7 +3765,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-05-19T18:30:00",
+      "date": "2027-05-19T22:30:00",
       "date_raw": "2027-05-19T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3795,7 +3775,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-05-26T18:30:00",
+      "date": "2027-05-26T22:30:00",
       "date_raw": "2027-05-26T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3805,7 +3785,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-06-02T18:30:00",
+      "date": "2027-06-02T22:30:00",
       "date_raw": "2027-06-02T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3825,7 +3805,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-06-09T18:30:00",
+      "date": "2027-06-09T22:30:00",
       "date_raw": "2027-06-09T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3835,7 +3815,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-06-16T18:30:00",
+      "date": "2027-06-16T22:30:00",
       "date_raw": "2027-06-16T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3845,7 +3825,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-06-23T18:30:00",
+      "date": "2027-06-23T22:30:00",
       "date_raw": "2027-06-23T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3855,7 +3835,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-06-30T18:30:00",
+      "date": "2027-06-30T22:30:00",
       "date_raw": "2027-06-30T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3865,7 +3845,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-07-07T18:30:00",
+      "date": "2027-07-07T22:30:00",
       "date_raw": "2027-07-07T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3875,7 +3855,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-07-14T18:30:00",
+      "date": "2027-07-14T22:30:00",
       "date_raw": "2027-07-14T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3885,7 +3865,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-07-21T18:30:00",
+      "date": "2027-07-21T22:30:00",
       "date_raw": "2027-07-21T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3895,7 +3875,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-07-28T18:30:00",
+      "date": "2027-07-28T22:30:00",
       "date_raw": "2027-07-28T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3905,7 +3885,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-08-04T18:30:00",
+      "date": "2027-08-04T22:30:00",
       "date_raw": "2027-08-04T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3915,7 +3895,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-08-11T18:30:00",
+      "date": "2027-08-11T22:30:00",
       "date_raw": "2027-08-11T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3925,7 +3905,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-08-18T18:30:00",
+      "date": "2027-08-18T22:30:00",
       "date_raw": "2027-08-18T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3935,7 +3915,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-08-25T18:30:00",
+      "date": "2027-08-25T22:30:00",
       "date_raw": "2027-08-25T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3945,7 +3925,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-09-01T18:30:00",
+      "date": "2027-09-01T22:30:00",
       "date_raw": "2027-09-01T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3955,7 +3935,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-09-08T18:30:00",
+      "date": "2027-09-08T22:30:00",
       "date_raw": "2027-09-08T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3965,7 +3945,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-09-15T18:30:00",
+      "date": "2027-09-15T22:30:00",
       "date_raw": "2027-09-15T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3975,7 +3955,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-09-22T18:30:00",
+      "date": "2027-09-22T22:30:00",
       "date_raw": "2027-09-22T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3985,7 +3965,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-09-29T18:30:00",
+      "date": "2027-09-29T22:30:00",
       "date_raw": "2027-09-29T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -3995,7 +3975,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-10-06T18:30:00",
+      "date": "2027-10-06T22:30:00",
       "date_raw": "2027-10-06T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4005,7 +3985,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-10-13T18:30:00",
+      "date": "2027-10-13T22:30:00",
       "date_raw": "2027-10-13T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4015,7 +3995,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-10-20T18:30:00",
+      "date": "2027-10-20T22:30:00",
       "date_raw": "2027-10-20T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4025,7 +4005,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-10-27T18:30:00",
+      "date": "2027-10-27T22:30:00",
       "date_raw": "2027-10-27T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4035,7 +4015,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-11-03T18:30:00",
+      "date": "2027-11-03T22:30:00",
       "date_raw": "2027-11-03T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4045,7 +4025,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-11-10T18:30:00",
+      "date": "2027-11-10T23:30:00",
       "date_raw": "2027-11-10T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4055,7 +4035,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-11-17T18:30:00",
+      "date": "2027-11-17T23:30:00",
       "date_raw": "2027-11-17T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4065,7 +4045,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-11-24T18:30:00",
+      "date": "2027-11-24T23:30:00",
       "date_raw": "2027-11-24T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4075,7 +4055,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-12-01T18:30:00",
+      "date": "2027-12-01T23:30:00",
       "date_raw": "2027-12-01T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4085,7 +4065,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-12-08T18:30:00",
+      "date": "2027-12-08T23:30:00",
       "date_raw": "2027-12-08T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4095,7 +4075,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-12-15T18:30:00",
+      "date": "2027-12-15T23:30:00",
       "date_raw": "2027-12-15T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4105,7 +4085,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-12-22T18:30:00",
+      "date": "2027-12-22T23:30:00",
       "date_raw": "2027-12-22T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4115,7 +4095,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2027-12-29T18:30:00",
+      "date": "2027-12-29T23:30:00",
       "date_raw": "2027-12-29T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4125,7 +4105,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-01-05T18:30:00",
+      "date": "2028-01-05T23:30:00",
       "date_raw": "2028-01-05T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4135,7 +4115,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-01-12T18:30:00",
+      "date": "2028-01-12T23:30:00",
       "date_raw": "2028-01-12T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4145,7 +4125,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-01-19T18:30:00",
+      "date": "2028-01-19T23:30:00",
       "date_raw": "2028-01-19T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4155,7 +4135,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-01-26T18:30:00",
+      "date": "2028-01-26T23:30:00",
       "date_raw": "2028-01-26T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4165,7 +4145,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-02-02T18:30:00",
+      "date": "2028-02-02T23:30:00",
       "date_raw": "2028-02-02T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4175,7 +4155,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-02-09T18:30:00",
+      "date": "2028-02-09T23:30:00",
       "date_raw": "2028-02-09T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4185,7 +4165,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-02-16T18:30:00",
+      "date": "2028-02-16T23:30:00",
       "date_raw": "2028-02-16T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4195,7 +4175,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-02-23T18:30:00",
+      "date": "2028-02-23T23:30:00",
       "date_raw": "2028-02-23T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4205,7 +4185,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-03-01T18:30:00",
+      "date": "2028-03-01T23:30:00",
       "date_raw": "2028-03-01T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4215,7 +4195,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-03-08T18:30:00",
+      "date": "2028-03-08T23:30:00",
       "date_raw": "2028-03-08T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4225,7 +4205,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-03-15T18:30:00",
+      "date": "2028-03-15T22:30:00",
       "date_raw": "2028-03-15T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4235,7 +4215,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-03-22T18:30:00",
+      "date": "2028-03-22T22:30:00",
       "date_raw": "2028-03-22T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4245,7 +4225,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-03-29T18:30:00",
+      "date": "2028-03-29T22:30:00",
       "date_raw": "2028-03-29T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4255,7 +4235,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-04-05T18:30:00",
+      "date": "2028-04-05T22:30:00",
       "date_raw": "2028-04-05T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4265,7 +4245,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-04-12T18:30:00",
+      "date": "2028-04-12T22:30:00",
       "date_raw": "2028-04-12T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4275,7 +4255,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-04-19T18:30:00",
+      "date": "2028-04-19T22:30:00",
       "date_raw": "2028-04-19T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4285,7 +4265,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-04-26T18:30:00",
+      "date": "2028-04-26T22:30:00",
       "date_raw": "2028-04-26T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4295,7 +4275,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-05-03T18:30:00",
+      "date": "2028-05-03T22:30:00",
       "date_raw": "2028-05-03T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4305,7 +4285,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-05-10T18:30:00",
+      "date": "2028-05-10T22:30:00",
       "date_raw": "2028-05-10T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4315,7 +4295,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-05-17T18:30:00",
+      "date": "2028-05-17T22:30:00",
       "date_raw": "2028-05-17T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4325,7 +4305,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-05-24T18:30:00",
+      "date": "2028-05-24T22:30:00",
       "date_raw": "2028-05-24T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4335,7 +4315,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-05-31T18:30:00",
+      "date": "2028-05-31T22:30:00",
       "date_raw": "2028-05-31T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4345,7 +4325,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-06-07T18:30:00",
+      "date": "2028-06-07T22:30:00",
       "date_raw": "2028-06-07T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
@@ -4355,7 +4335,7 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2028-06-14T18:30:00",
+      "date": "2028-06-14T22:30:00",
       "date_raw": "2028-06-14T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
