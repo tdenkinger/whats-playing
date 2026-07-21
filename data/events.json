@@ -1,87 +1,7 @@
 {
-  "scraped_at": "2026-07-20T15:00:46.449545+00:00",
+  "scraped_at": "2026-07-21T14:53:37.184800+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Alex Sherba Presents- 4th Sundays",
-      "date": "2026-06-28T00:00:00",
-      "date_raw": "Sunday, June 28, 2026",
-      "url": "https://www.freddysbar.com/events/alex-sherba-presents-5-7de7h-37rd8-shy3n",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Eagle Colt Combo-Every 4th Sunday",
-      "date": "2026-06-28T00:00:00",
-      "date_raw": "Sunday, June 28, 2026",
-      "url": "https://www.freddysbar.com/events/eagle-colt-combo-1-s3w6p",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-06-29T00:00:00",
-      "date_raw": "Monday, June 29, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-tpel7-hhtcr-ez5c2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Burlesque Birthday Bash",
-      "date": "2026-06-30T00:00:00",
-      "date_raw": "Tuesday, June 30, 2026",
-      "url": "https://www.freddysbar.com/events/burlesque-birthday-bash",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Hypno Nun",
-      "date": "2026-06-30T00:00:00",
-      "date_raw": "Tuesday, June 30, 2026",
-      "url": "https://www.freddysbar.com/events/music-show",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "new material night -comedy show! 1st Wednesdays after the open mic",
-      "date": "2026-07-01T00:00:00",
-      "date_raw": "Wednesday, July 1, 2026",
-      "url": "https://www.freddysbar.com/events/new-material-night-comedy-show-1st-wednesdays-after-the-open-mic-1-z6j9d",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic",
-      "date": "2026-07-01T00:00:00",
-      "date_raw": "Wednesday, July 1, 2026",
-      "url": "https://www.freddysbar.com/events/comedy-open-mic-5",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Burlesque in the Back Every Thursday",
-      "date": "2026-07-02T00:00:00",
-      "date_raw": "Thursday, July 2, 2026",
-      "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-4-nlwds",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Docking- fun noise rock band! 3 slots!",
@@ -304,10 +224,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "The Meteor Flower - 60's/70's RnB/Rock",
+      "title": "The Men Who Laugh",
       "date": "2026-07-17T00:00:00",
       "date_raw": "Friday, July 17, 2026",
-      "url": "https://www.freddysbar.com/events/the-meteor-flower-60s70s-rnbrock",
+      "url": "https://www.freddysbar.com/events/the-men-who-laugh-1",
       "description": "",
       "image_url": "",
       "price": ""
@@ -324,30 +244,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "The Men Who Laugh",
+      "title": "The Meteor Flower - 60's/70's RnB/Rock",
       "date": "2026-07-17T00:00:00",
       "date_raw": "Friday, July 17, 2026",
-      "url": "https://www.freddysbar.com/events/the-men-who-laugh-1",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Pole Before Dark- every third Saturday",
-      "date": "2026-07-18T00:00:00",
-      "date_raw": "Saturday, July 18, 2026",
-      "url": "https://www.freddysbar.com/events/pole-after-dark-6m6ha",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Yeah Everything & friends- 2 slots",
-      "date": "2026-07-18T00:00:00",
-      "date_raw": "Saturday, July 18, 2026",
-      "url": "https://www.freddysbar.com/events/yeah-everything-friends",
+      "url": "https://www.freddysbar.com/events/the-meteor-flower-60s70s-rnbrock",
       "description": "",
       "image_url": "",
       "price": ""
@@ -364,10 +264,20 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "World Cup ON THE BIG SCREEN IN BACKROOM with sound!",
-      "date": "2026-07-19T00:00:00",
-      "date_raw": "Sunday, July 19, 2026",
-      "url": "https://www.freddysbar.com/events/mimseys-open-mic",
+      "title": "Yeah Everything & friends- 2 slots",
+      "date": "2026-07-18T00:00:00",
+      "date_raw": "Saturday, July 18, 2026",
+      "url": "https://www.freddysbar.com/events/yeah-everything-friends",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Pole Before Dark- every third Saturday",
+      "date": "2026-07-18T00:00:00",
+      "date_raw": "Saturday, July 18, 2026",
+      "url": "https://www.freddysbar.com/events/pole-after-dark-6m6ha",
       "description": "",
       "image_url": "",
       "price": ""
@@ -383,23 +293,13 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Women of Americana",
-      "date": "2026-07-20T00:00:00",
-      "date_raw": "July 20, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/women-of-americana/",
+      "venue_name": "Freddy's",
+      "title": "World Cup ON THE BIG SCREEN IN BACKROOM with sound!",
+      "date": "2026-07-19T00:00:00",
+      "date_raw": "Sunday, July 19, 2026",
+      "url": "https://www.freddysbar.com/events/mimseys-open-mic",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/95/63/84_Original.jpg?v=4",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "The Wildmans",
-      "date": "2026-07-20T00:00:00",
-      "date_raw": "July 20, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/the-wildmans-4/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/98/50/04_Original.jpg?v=3",
+      "image_url": "",
       "price": ""
     },
     {
@@ -419,46 +319,6 @@
       "date_raw": "Monday, July 20, 2026",
       "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-e6p3h",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Visionary Ladybird Series",
-      "date": "2026-07-20T18:30:00",
-      "date_raw": "Monday July 20th 06:30 PM",
-      "url": "",
-      "description": "Jeong Lim Yang (b)Kevin Sun (woodwinds)Jon Elbaz (p)Jacob Patrone (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Piano Leaders Series",
-      "date": "2026-07-20T19:30:00",
-      "date_raw": "Monday July 20th 07:30 PM",
-      "url": "",
-      "description": "Paul Bedal (p)Mike Harmon (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-20T21:00:00",
-      "date_raw": "Monday July 20th 09:00 PM",
-      "url": "",
-      "description": "Chris McCarthy (p)June Cavlan (v)Matt Dwonszyk (b)Aaron Seeber (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Felipe Arce",
-      "date": "2026-07-20T23:00:00",
-      "date_raw": "Monday July 20th 11:00 PM",
-      "url": "",
-      "description": "Felipe Arce (b)Leo Genovese (p)Adam Arruda (d)",
       "image_url": "",
       "price": ""
     },
@@ -773,16 +633,6 @@
       "price": ""
     },
     {
-      "venue_name": "Freddy's",
-      "title": "LIGHTNING WILL GRATEFUL DEAD TRIBUTE BAND",
-      "date": "2026-07-25T00:00:00",
-      "date_raw": "Saturday, July 25, 2026",
-      "url": "https://www.freddysbar.com/events/lightning-will-grateful-dead-tribute-band",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-07-26T00:00:00",
@@ -800,6 +650,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/the-slide-stops-free-two-step-lessons-w-kendall-730-830-2/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/95/13/64_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Wyndham Baird Band",
+      "date": "2026-07-26T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/256/1785024000000",
+      "description": "\u201cI\u2019m in love with this record.\u201d \u2013Sam Doores (of The Deslondes) \u201cWyndham Baird\u2019s album is a quiet miracle, superb work.\u201d \u2013Lau Noah In Rutherford County\u2019s Forest ",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1001,6 +861,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Neal Todten / Stuart Bogie & Buck McDaniel",
+      "date": "2026-07-30T00:00:00",
+      "date_raw": "2026-07-30T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/neal_todten__stuart",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -1804,16 +1674,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "MAMLS",
-      "date": "2026-08-21T00:00:00",
-      "date_raw": "Friday, August 21, 2026",
-      "url": "https://www.freddysbar.com/events/ki77ew3sie1ieoi6iz8drf65dlw4mo",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "NYC Trash Cans- Punk Cover Band",
       "date": "2026-08-21T00:00:00",
       "date_raw": "Friday, August 21, 2026",
@@ -2593,6 +2453,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "Martin Monster Show Presents Class of Nuke Em High, with TROMA FILMS",
+      "date": "2026-09-20T00:00:00",
+      "date_raw": "Sunday, September 20, 2026",
+      "url": "https://www.freddysbar.com/events/martin-monster-presents-troma-fest",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jake Blount",
       "date": "2026-09-20T00:30:00",
@@ -2810,6 +2680,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-18/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Radionics",
+      "date": "2026-10-02T00:00:00",
+      "date_raw": "Friday, October 2, 2026",
+      "url": "https://www.freddysbar.com/events/radionics-3",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
