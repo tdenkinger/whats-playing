@@ -1,33 +1,13 @@
 {
-  "scraped_at": "2026-07-21T14:53:37.184800+00:00",
+  "scraped_at": "2026-07-22T14:52:52.199132+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Docking- fun noise rock band! 3 slots!",
-      "date": "2026-07-03T00:00:00",
-      "date_raw": "Friday, July 3, 2026",
-      "url": "https://www.freddysbar.com/events/docking-fun-noise-rock-band",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
       "date": "2026-07-05T00:00:00",
       "date_raw": "Sunday, July 5, 2026",
       "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-gkj6y",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
-      "date": "2026-07-05T00:00:00",
-      "date_raw": "Sunday, July 5, 2026",
-      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-xs2xe",
       "description": "",
       "image_url": "",
       "price": ""
@@ -304,6 +284,16 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
+      "date": "2026-07-20T00:00:00",
+      "date_raw": "Monday, July 20, 2026",
+      "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-e6p3h",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-07-20T00:00:00",
       "date_raw": "Monday, July 20, 2026",
@@ -314,81 +304,11 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
-      "date": "2026-07-20T00:00:00",
-      "date_raw": "Monday, July 20, 2026",
-      "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-e6p3h",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "date": "2026-07-21T00:00:00",
-      "date_raw": "July 21, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-36/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Original Music Open Mic Every 3rd Tuesday-hosted by Luke (mostly music mic with 2 sets for poetry & comedy.)",
       "date": "2026-07-21T00:00:00",
       "date_raw": "Tuesday, July 21, 2026",
       "url": "https://www.freddysbar.com/events/original-music-open-mic-every-3rd-tuesday-hosted-by-luke-mostly-music-mic-with-2-sets-for-poetry-comedy-khgjd",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-21T18:30:00",
-      "date_raw": "Tuesday July 21st 06:30 PM",
-      "url": "",
-      "description": "Jack Glottman (p)Tamir Shmerling (b)Pablo Bencid (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Bass On Top Series",
-      "date": "2026-07-21T19:30:00",
-      "date_raw": "Tuesday July 21st 07:30 PM",
-      "url": "",
-      "description": "Kazuki Takemura (b)Caleb Wheeler Curtis (saxophone)Angelica Sanchez (p)David Frazier Jr. (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday July 21st 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-07-21T20:30:00",
-      "date_raw": "Tuesday July 21st 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-march-3rd-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-21T21:00:00",
-      "date_raw": "Tuesday July 21st 09:00 PM",
-      "url": "",
-      "description": "Marcos Varela (b)Mike Lee (saxophone)Victor Gould (p)Jay Sawyer (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Nicolai Daneck",
-      "date": "2026-07-21T23:00:00",
-      "date_raw": "Tuesday July 21st 11:00 PM",
-      "url": "",
-      "description": "Nicolai Daneck (p)Yuma Takagi (b)Sam Russo (d)",
       "image_url": "",
       "price": ""
     },
@@ -410,16 +330,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/christian-apuzzo/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/98/46/14_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "The Binoculars",
-      "date": "2026-07-22T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/236/1784678400000",
-      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalo",
-      "image_url": "",
       "price": ""
     },
     {
@@ -533,6 +443,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-07-23T21:00:00",
+      "date_raw": "Thursday July 23rd 09:00 PM",
+      "url": "",
+      "description": "Ai Murakami (d)Frank Basile (baritone saxophone)James Austin Jr. (p)Paul Sikivie (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "MacMcCarty +KiddTwist",
       "date": "2026-07-23T23:30:00",
@@ -613,6 +533,26 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Jacob Chung",
+      "date": "2026-07-24T23:00:00",
+      "date_raw": "Friday July 24th 11:00 PM",
+      "url": "",
+      "description": "Jacob Chung (saxophone)Caleb Tobocman (b)Adam Wacks (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "date": "2026-07-25T00:00:00",
+      "date_raw": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Alex McMurray Trio",
       "date": "2026-07-25T00:00:00",
@@ -629,6 +569,16 @@
       "date_raw": "Saturday, July 25, 2026",
       "url": "https://www.freddysbar.com/events/sputnik-sam-barron-and-surprise-guest",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-07-25T18:30:00",
+      "date_raw": "Saturday July 25th 06:30 PM",
+      "url": "",
+      "description": "Akili Bradley (tp)Logan Butler (g)Finn Wiest (d)",
       "image_url": "",
       "price": ""
     },
@@ -713,6 +663,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Don Hahn Quintet",
+      "date": "2026-07-26T19:30:00",
+      "date_raw": "Sunday July 26th 07:30 PM",
+      "url": "",
+      "description": "Don Hahn\u00a0(cornet&flugelhorn)David Rourke (g)Xavier Kim (p)Sameer Shankar (b)Simon Ribas (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Ken and Friends Experimental Night featuring Scott Colberg and Zach Lapidus",
       "date": "2026-07-27T00:00:00",
@@ -729,6 +689,16 @@
       "date_raw": "Monday, July 27, 2026",
       "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-4f2ta",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-07-27T21:00:00",
+      "date_raw": "Monday July 27th 09:00 PM",
+      "url": "",
+      "description": "Bar Filipowicz (b)Rotem Sivan (g)Tom Oren (p)Sam Bolduc (d)",
       "image_url": "",
       "price": ""
     },
@@ -950,6 +920,16 @@
       "url": "https://www.ticketmaster.com/all-the-feelings-tour-with-metric-brooklyn-new-york-07-31-2026/event/0000643FDF21F8FD",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/a99/9c0e4923-877a-4bc6-a302-c4945c987a99_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-07-31T18:30:00",
+      "date_raw": "Friday July 31st 06:30 PM",
+      "url": "",
+      "description": "Carlos Abadie (tp)TBA (ts)Maki Nientao (p)Kyle Colina (b)Jacob Smith (d)",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1214,6 +1194,16 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "Blood Estate (Ambient) performance",
+      "date": "2026-08-07T00:00:00",
+      "date_raw": "Friday, August 7, 2026",
+      "url": "https://www.freddysbar.com/events/blood-estate-ambient-performance",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "The Shrimps",
       "date": "2026-08-07T00:00:00",
       "date_raw": "Friday, August 7, 2026",
@@ -1338,16 +1328,6 @@
       "date": "2026-08-09T00:00:00",
       "date_raw": "Sunday, August 9, 2026",
       "url": "https://www.freddysbar.com/events/8qgsyq1tk8fmoxn4k24ryxpl7wtd5d-af3yg",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Martin Monster Presents!",
-      "date": "2026-08-09T00:00:00",
-      "date_raw": "Sunday, August 9, 2026",
-      "url": "https://www.freddysbar.com/events/martin-monster-presents-1-5ndka",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1674,6 +1654,16 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "xStraightupHustler",
+      "date": "2026-08-21T00:00:00",
+      "date_raw": "Friday, August 21, 2026",
+      "url": "https://www.freddysbar.com/events/xstraightuphustler",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "NYC Trash Cans- Punk Cover Band",
       "date": "2026-08-21T00:00:00",
       "date_raw": "Friday, August 21, 2026",
@@ -1884,6 +1874,16 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "Stinky Vaseline, NYC Ween Covers",
+      "date": "2026-08-28T00:00:00",
+      "date_raw": "Friday, August 28, 2026",
+      "url": "https://www.freddysbar.com/events/stinky-vaseline-nyc-ween-covers",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Joey Ama Dio Band",
       "date": "2026-08-29T00:00:00",
       "date_raw": "Saturday, August 29, 2026",
@@ -1951,6 +1951,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-31T18:30:00",
+      "date_raw": "Monday August 31st 06:30 PM",
+      "url": "",
+      "description": "Kelly Green\u00a0 (p&v)Elijah J. Thomas\u00a0 (flute)Luca Soul Rosenfeld (b)Evan Hyde (d)",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -2264,12 +2274,12 @@
     },
     {
       "venue_name": "Lucinda's",
-      "title": "Very Special Guests Drivin' N' Cryin' Live at Lucinda's for Shayni Rae's Truckstop.  Sirius XM Live Taping for Broadcast on Outlaw Country!",
+      "title": "Very Special Guests Drivin' N' Cryin' Live at Lucinda's for Shayni Rae's Truckstop.  Sirius XM Outlaw Country Live Taping!!",
       "date": "2026-09-14T00:00:00",
       "date_raw": "September 14, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/very-special-guests-drivin-n-cryin-live-at-lucindas-for-shayni-raes-truckstop-sirius-xm-live-taping-for-broadcast-on-outlaw-country/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/98/30/24_Original.jpg?v=5",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/30/24_Original.jpg?v=7",
       "price": ""
     },
     {
@@ -2398,16 +2408,6 @@
       "date": "2026-09-19T00:00:00",
       "date_raw": "Saturday, September 19, 2026",
       "url": "https://www.freddysbar.com/events/freddys-dog-fashion-show",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Pole Before Dark- every third Saturday",
-      "date": "2026-09-19T00:00:00",
-      "date_raw": "Saturday, September 19, 2026",
-      "url": "https://www.freddysbar.com/events/pole-after-dark-6m6ha-kbl7z",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2899,7 +2899,7 @@
       "date_raw": "2026-10-14T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/sylvan-esso-brooklyn-new-york-10-14-2026/event/000064C5B8594A98",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/be4/df5d46fa-6936-4a27-a2aa-1a55b022fbe4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/31d/f82bc044-7ba1-4be8-a33f-f6923d2ba31d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -2928,6 +2928,16 @@
       "date": "2026-10-16T00:00:00",
       "date_raw": "Friday, October 16, 2026",
       "url": "https://www.freddysbar.com/events/night-of-original-americana-music-2-slots",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Emily Frembgen, Goodmorning Valentine and J Wolfe",
+      "date": "2026-10-16T00:00:00",
+      "date_raw": "Friday, October 16, 2026",
+      "url": "https://www.freddysbar.com/events/emily-frembgen-goodmorning-valentine-and-j-wolfe",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3370,6 +3380,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-28/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Private Party-ALL NIGHT",
+      "date": "2026-12-12T00:00:00",
+      "date_raw": "Saturday, December 12, 2026",
+      "url": "https://www.freddysbar.com/events/schd5epz37mb53xxxxdm8cm8lt5wne",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -4224,9 +4244,9 @@
     },
     {
       "venue_name": "Fred's Dog House",
-      "title": "Thursday July 23rd 8:30pm - THE DIRT WHISPERERS",
+      "title": "Thursday July 23rd 8:30pm - The Black Baptist with Brian!",
       "date": null,
-      "date_raw": "Thursday July 23rd 8:30pm - THE DIRT WHISPERERS",
+      "date_raw": "Thursday July 23rd 8:30pm - The Black Baptist with Brian!",
       "url": "https://www.fredsdoghouse.com/event/april-2nd-the-dirt-whisperers/",
       "description": "",
       "image_url": "",
