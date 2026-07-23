@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-07-22T14:52:52.199132+00:00",
+  "scraped_at": "2026-07-23T14:59:25.869560+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
-      "date": "2026-07-05T00:00:00",
-      "date_raw": "Sunday, July 5, 2026",
-      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-gkj6y",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
@@ -313,92 +303,12 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Felix Slim, One Man Orchestra",
-      "date": "2026-07-22T00:00:00",
-      "date_raw": "July 22, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/felix-slim-one-man-orchestra/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/98/50/24_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Christian Apuzzo",
-      "date": "2026-07-22T00:00:00",
-      "date_raw": "July 22, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/christian-apuzzo/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/98/46/14_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-07-22T00:00:00",
       "date_raw": "Wednesday, July 22, 2026",
       "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-p2xw5",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-22T18:30:00",
-      "date_raw": "Wednesday July 22nd 06:30 PM",
-      "url": "",
-      "description": "Eviatar Slivnik (d)Ben Solomon (saxophone)Eden Ladin (p)Joe Martin (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Ryan Easter Quintet",
-      "date": "2026-07-22T19:30:00",
-      "date_raw": "Wednesday July 22nd 07:30 PM",
-      "url": "",
-      "description": "Ryan Easter (tp)Alana Amore Colvin (g)Ajani Nanabuluku (p)Destiny Diggs (b)Kabir Adhiya-Kumar (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Wednesday July 22nd 8:30pm \u2022\u00a0Blues and Americana with Fatboy Wilson!",
-      "date": "2026-07-22T20:30:00",
-      "date_raw": "Wednesday July 22nd 8:30pm \u2022\u00a0Blues and Americana with Fatboy Wilson!",
-      "url": "https://www.fredsdoghouse.com/event/blues-and-america-with-samoa-wilson/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-22T21:00:00",
-      "date_raw": "Wednesday July 22nd 09:00 PM",
-      "url": "",
-      "description": "Itay Goldberg (saxophone)Yoav Eshed (g)Dan Montgomery (b)Alon Benjamini (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-07-22T22:30:00",
-      "date_raw": "2026-07-22T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Tomer Sasson",
-      "date": "2026-07-22T23:00:00",
-      "date_raw": "Wednesday July 22nd 11:00 PM",
-      "url": "",
-      "description": "Tomer Sasson (g)Giacomo Morelli (b)",
       "image_url": "",
       "price": ""
     },
@@ -410,16 +320,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/felix-slim-one-man-orchestra-2/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/98/50/34_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Smokey's Roundup",
-      "date": "2026-07-23T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/184/1784764800000",
-      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and mor",
-      "image_url": "",
       "price": ""
     },
     {
@@ -443,12 +343,32 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Zaid Nasser Trio",
+      "date": "2026-07-23T19:30:00",
+      "date_raw": "Thursday July 23rd 07:30 PM",
+      "url": "",
+      "description": "Zaid Nasser (saxophone)Daniel Duke (b)Keith Balla\u00a0 (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-07-23T21:00:00",
       "date_raw": "Thursday July 23rd 09:00 PM",
       "url": "",
       "description": "Ai Murakami (d)Frank Basile (baritone saxophone)James Austin Jr. (p)Paul Sikivie (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Brother Ruckus",
+      "date": "2026-07-23T23:00:00",
+      "date_raw": "Thursday July 23rd 11:00 PM",
+      "url": "",
+      "description": "Brother Ruckus (p)Ben Meigers (b)Juan Chiavassa (d)",
       "image_url": "",
       "price": ""
     },
@@ -523,32 +443,12 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday July 24th 8:30pm \u2022  New Moon Acoustic Blues Trio",
-      "date": "2026-07-24T20:30:00",
-      "date_raw": "Friday July 24th 8:30pm \u2022  New Moon Acoustic Blues Trio",
-      "url": "https://www.fredsdoghouse.com/event/friday-september-12th-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Cafe Ornithology",
       "title": "Late Night Jam Hosted By Jacob Chung",
       "date": "2026-07-24T23:00:00",
       "date_raw": "Friday July 24th 11:00 PM",
       "url": "",
       "description": "Jacob Chung (saxophone)Caleb Tobocman (b)Adam Wacks (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
-      "date": "2026-07-25T00:00:00",
-      "date_raw": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
-      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -579,6 +479,16 @@
       "date_raw": "Saturday July 25th 06:30 PM",
       "url": "",
       "description": "Akili Bradley (tp)Logan Butler (g)Finn Wiest (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-07-25T21:00:00",
+      "date_raw": "Saturday July 25th 09:00 PM",
+      "url": "",
+      "description": "Marvin \"Bugalu\" Smith (d)Esteban Castro (p)Emmanuel Michael (g)Tyler Mitchell (b)",
       "image_url": "",
       "price": ""
     },
@@ -700,6 +610,16 @@
       "url": "",
       "description": "Bar Filipowicz (b)Rotem Sivan (g)Tom Oren (p)Sam Bolduc (d)",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "The Family",
+      "date": "2026-07-28T00:00:00",
+      "date_raw": "July 28, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/the-family/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/99/02/34_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -1639,6 +1559,16 @@
       "date_raw": "Thursday, August 20, 2026",
       "url": "https://www.freddysbar.com/events/garden-party-3rd-thursdays-burlesque-in-the-back-every-thursday-e9a2z",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Dan Block Trio",
+      "date": "2026-08-20T19:30:00",
+      "date_raw": "Thursday August 20th 07:30 PM",
+      "url": "",
+      "description": "Dan Block (ts&clarinet)Robert Redd (p)Sean Smith (b)",
       "image_url": "",
       "price": ""
     },
@@ -4243,11 +4173,11 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Thursday July 23rd 8:30pm - The Black Baptist with Brian!",
-      "date": null,
-      "date_raw": "Thursday July 23rd 8:30pm - The Black Baptist with Brian!",
-      "url": "https://www.fredsdoghouse.com/event/april-2nd-the-dirt-whisperers/",
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-06-21T22:30:00",
+      "date_raw": "2028-06-21T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
       "price": ""
