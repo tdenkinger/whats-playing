@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-07-23T14:59:25.869560+00:00",
+  "scraped_at": "2026-07-24T14:41:41.753153+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-07-06T00:00:00",
-      "date_raw": "Monday, July 6, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-wdl8b",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Pizza Mermaid's Aquarium of Friendship",
-      "date": "2026-07-07T00:00:00",
-      "date_raw": "Tuesday, July 7, 2026",
-      "url": "https://www.freddysbar.com/events/pizza-mermaids-aquarium-of-friendship-njmab",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
@@ -313,16 +293,6 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Felix Slim, One Man Orchestra",
-      "date": "2026-07-23T00:00:00",
-      "date_raw": "July 23, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/felix-slim-one-man-orchestra-2/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/98/50/34_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Burlesque in the Back Every Thursday",
       "date": "2026-07-23T00:00:00",
@@ -331,56 +301,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "WFUV Presents Kurt Vile And The Violators",
-      "date": "2026-07-23T19:00:00",
-      "date_raw": "2026-07-23T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/wfuv-presents-kurt-vile-and-the-brooklyn-new-york-07-23-2026/event/00006486ECD9EFAF",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/90d/3f2d0e43-342b-4a02-a8c9-ae2a8bb0990d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Zaid Nasser Trio",
-      "date": "2026-07-23T19:30:00",
-      "date_raw": "Thursday July 23rd 07:30 PM",
-      "url": "",
-      "description": "Zaid Nasser (saxophone)Daniel Duke (b)Keith Balla\u00a0 (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-23T21:00:00",
-      "date_raw": "Thursday July 23rd 09:00 PM",
-      "url": "",
-      "description": "Ai Murakami (d)Frank Basile (baritone saxophone)James Austin Jr. (p)Paul Sikivie (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Brother Ruckus",
-      "date": "2026-07-23T23:00:00",
-      "date_raw": "Thursday July 23rd 11:00 PM",
-      "url": "",
-      "description": "Brother Ruckus (p)Ben Meigers (b)Juan Chiavassa (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "MacMcCarty +KiddTwist",
-      "date": "2026-07-23T23:30:00",
-      "date_raw": "2026-07-23T23:30:00.000Z",
-      "url": "https://www.viewcy.com/event/macmccarty_kiddtwist",
-      "description": "",
-      "image_url": "",
-      "price": "$33"
     },
     {
       "venue_name": "Lucinda's",
@@ -400,16 +320,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-8/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "The Love Struck Balladeers",
-      "date": "2026-07-24T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/254/1784851200000",
-      "description": "The Lovestruck Balladeers enchant audiences with their masterful performances and inspired repertoire of ragtime, jazz and beautiful songs from around the world",
-      "image_url": "",
       "price": ""
     },
     {
@@ -443,12 +353,42 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Friday July 24th 8:30pm \u2022  New Moon Acoustic Blues Trio",
+      "date": "2026-07-24T20:30:00",
+      "date_raw": "Friday July 24th 8:30pm \u2022  New Moon Acoustic Blues Trio",
+      "url": "https://www.fredsdoghouse.com/event/friday-september-12th-new-moon-acoustic-blues-trio-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-07-24T21:00:00",
+      "date_raw": "Friday July 24th 09:00 PM",
+      "url": "",
+      "description": "Todd Herbert (saxophone)Victor Gould (p)Corentin Le Hir (b)Larry Banks (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Cafe Ornithology",
       "title": "Late Night Jam Hosted By Jacob Chung",
       "date": "2026-07-24T23:00:00",
       "date_raw": "Friday July 24th 11:00 PM",
       "url": "",
       "description": "Jacob Chung (saxophone)Caleb Tobocman (b)Adam Wacks (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "date": "2026-07-25T00:00:00",
+      "date_raw": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -573,6 +513,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-07-26T18:30:00",
+      "date_raw": "Sunday July 26th 06:30 PM",
+      "url": "",
+      "description": "Andrew Wagner (tp)Jordan Williams (p)Dan Finn (b)Errold Lanier Jr. (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Cafe Ornithology",
       "title": "Don Hahn Quintet",
       "date": "2026-07-26T19:30:00",
@@ -580,6 +530,16 @@
       "url": "",
       "description": "Don Hahn\u00a0(cornet&flugelhorn)David Rourke (g)Xavier Kim (p)Sameer Shankar (b)Simon Ribas (d)",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Nathan Xander and Goatroper",
+      "date": "2026-07-27T00:00:00",
+      "date_raw": "July 27, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/nathan-xander-and-goatroper/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/59/28/53_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -613,13 +573,23 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Rob Papacica",
+      "date": "2026-07-27T23:00:00",
+      "date_raw": "Monday July 27th 11:00 PM",
+      "url": "",
+      "description": "Rob Papacica (g)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "The Family",
       "date": "2026-07-28T00:00:00",
       "date_raw": "July 28, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/the-family/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/99/02/34_Original.jpg?v=3",
+      "image_url": "https://i.ticketweb.com/i/00/12/99/02/34_Original.jpg?v=4",
       "price": ""
     },
     {
@@ -709,6 +679,16 @@
       "date_raw": "Wednesday July 29th 06:30 PM",
       "url": "",
       "description": "Ahmed McLemore (b)Isaac Byrd (p)Jacob Smith (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Adam Frumkin Trio",
+      "date": "2026-07-29T19:30:00",
+      "date_raw": "Wednesday July 29th 07:30 PM",
+      "url": "",
+      "description": "Adam Frumkin (saxophone)Mike Karn (b)Mike Camacho (d)",
       "image_url": "",
       "price": ""
     },
@@ -1003,6 +983,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-04T18:30:00",
+      "date_raw": "Tuesday August 4th 06:30 PM",
+      "url": "",
+      "description": "Julia Penn (ts)Jakob Dreyer (b)Lonnie Plaxico (b)Taru Alexander (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Jack Harlow - Monica Tour",
       "date": "2026-08-04T18:30:00",
@@ -1010,6 +1000,16 @@
       "url": "https://www.ticketmaster.com/jack-harlow-monica-tour-brooklyn-new-york-08-04-2026/event/0000646CF25E3DEC",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/da6/1ebdb037-ead5-4023-a496-be8572c67da6_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-04T21:00:00",
+      "date_raw": "Tuesday August 4th 09:00 PM",
+      "url": "",
+      "description": "Adam Frumkin (saxophone)Joe Magnarelli (tp)Paul Sikivie (b)Mike Camacho (d)",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1253,6 +1253,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "A Square Dance with the J.T. Roundup Stringband called by Sargent Seedoo",
+      "date": "2026-08-09T00:00:00",
+      "date_raw": "2026-08-09T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/a_square_dance_with_t_1",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "From Nashville, India Ramey and her Band",
       "date": "2026-08-10T00:00:00",
@@ -1299,6 +1309,16 @@
       "date_raw": "Tuesday, August 11, 2026",
       "url": "https://www.freddysbar.com/events/dsc6kndmgfph4em8ljetrbd96c9h64-ts5pt",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Modern Saxophone Leaders Series",
+      "date": "2026-08-11T19:30:00",
+      "date_raw": "Tuesday August 11th 07:30 PM",
+      "url": "",
+      "description": "Aaron Burnett (saxophone)Jon Elbaz (p)Will Slater (b)Timothy Angulo (d)",
       "image_url": "",
       "price": ""
     },
@@ -1378,6 +1398,16 @@
       "date": "2026-08-14T00:00:00",
       "date_raw": "Friday, August 14, 2026",
       "url": "https://www.freddysbar.com/events/lone-empire-revue-and-variety-show",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Melina and the Magnetics",
+      "date": "2026-08-14T00:00:00",
+      "date_raw": "Friday, August 14, 2026",
+      "url": "https://www.freddysbar.com/events/melina-and-the-magnetics-1",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2149,6 +2179,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/63/1789171200000",
       "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was t",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Pole Before Dark",
+      "date": "2026-09-12T00:00:00",
+      "date_raw": "Saturday, September 12, 2026",
+      "url": "https://www.freddysbar.com/events/pole-before-dark",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -2960,6 +3000,16 @@
       "url": "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-brooklyn-new-york-10-20-2026/event/000064A4E12EF369",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/67f/0b8cc3eb-78c4-4c29-8176-08c15df6167f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Sienna Spiro: My House Tour",
+      "date": "2026-10-21T19:00:00",
+      "date_raw": "2026-10-21T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/sienna-spiro-my-house-tour-brooklyn-new-york-10-21-2026/event/000064C7825E6199",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/b07/09e0979d-7b3d-4cd4-badf-67d6ced79b07_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
