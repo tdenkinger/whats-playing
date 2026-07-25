@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T14:41:41.753153+00:00",
+  "scraped_at": "2026-07-25T14:25:18.800421+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -303,26 +303,6 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Loose Cattle",
-      "date": "2026-07-24T00:00:00",
-      "date_raw": "July 24, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/loose-cattle/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/95/12/94_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Live Band Country Karaoke",
-      "date": "2026-07-24T00:00:00",
-      "date_raw": "July 24, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-8/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Arts4Choice: Artists Advocating for All Through Art",
       "date": "2026-07-24T00:00:00",
@@ -333,72 +313,12 @@
       "price": ""
     },
     {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-24T18:30:00",
-      "date_raw": "Friday July 24th 06:30 PM",
-      "url": "",
-      "description": "Ojiik (saxophone)Davis Whitfield (p)James Robbins (b)Lamy Istrefi Jr. (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Fukushi Tainaka",
-      "date": "2026-07-24T19:30:00",
-      "date_raw": "Friday July 24th 07:30 PM",
-      "url": "",
-      "description": "Fukushi Tainaka (d)Chris Johansen (ts)Marc Devine (p)Hide Tanaka (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday July 24th 8:30pm \u2022  New Moon Acoustic Blues Trio",
-      "date": "2026-07-24T20:30:00",
-      "date_raw": "Friday July 24th 8:30pm \u2022  New Moon Acoustic Blues Trio",
-      "url": "https://www.fredsdoghouse.com/event/friday-september-12th-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-24T21:00:00",
-      "date_raw": "Friday July 24th 09:00 PM",
-      "url": "",
-      "description": "Todd Herbert (saxophone)Victor Gould (p)Corentin Le Hir (b)Larry Banks (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Jacob Chung",
-      "date": "2026-07-24T23:00:00",
-      "date_raw": "Friday July 24th 11:00 PM",
-      "url": "",
-      "description": "Jacob Chung (saxophone)Caleb Tobocman (b)Adam Wacks (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Fred's Dog House",
       "title": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
       "date": "2026-07-25T00:00:00",
       "date_raw": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
       "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Alex McMurray Trio",
-      "date": "2026-07-25T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/86/1784937600000",
-      "description": "Songwriter, singer and guitarist Alex McMurray has been writing and performing music professionally in New Orleans since 1989. Past and current bands include Ti",
       "image_url": "",
       "price": ""
     },
@@ -423,12 +343,32 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Frank Basile Quintet",
+      "date": "2026-07-25T19:30:00",
+      "date_raw": "Saturday July 25th 07:30 PM",
+      "url": "",
+      "description": "Frank Basile (baritone saxophone)Fabien Mary (tp)Jeb Patton (p)Paul Sikivie (b)Pete Van Nostrand (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-07-25T21:00:00",
       "date_raw": "Saturday July 25th 09:00 PM",
       "url": "",
       "description": "Marvin \"Bugalu\" Smith (d)Esteban Castro (p)Emmanuel Michael (g)Tyler Mitchell (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Kai Porterfield",
+      "date": "2026-07-25T23:00:00",
+      "date_raw": "Saturday July 25th 11:00 PM",
+      "url": "",
+      "description": "Kai Porterfield (d)",
       "image_url": "",
       "price": ""
     },
@@ -533,6 +473,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-07-26T21:00:00",
+      "date_raw": "Sunday July 26th 09:00 PM",
+      "url": "",
+      "description": "Stefano Doglioni (bass clarinet)Bruce Acosta (g)Daniel Duke (b)Keith Balla (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Nathan Xander and Goatroper",
       "date": "2026-07-27T00:00:00",
@@ -564,6 +514,26 @@
     },
     {
       "venue_name": "Ornithology Jazz Club",
+      "title": "Visionary Ladybird Series",
+      "date": "2026-07-27T18:30:00",
+      "date_raw": "Monday July 27th 06:30 PM",
+      "url": "",
+      "description": "Akili Bradley (tp)Wilfie Williams (p)Corentin Le Hir (b)Sam Bolduc (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Modern Piano Leaders Series",
+      "date": "2026-07-27T19:30:00",
+      "date_raw": "Monday July 27th 07:30 PM",
+      "url": "",
+      "description": "Noam Avnon (p)Charlie Lincoln (b)Jonas Esser (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-07-27T21:00:00",
       "date_raw": "Monday July 27th 09:00 PM",
@@ -578,7 +548,7 @@
       "date": "2026-07-27T23:00:00",
       "date_raw": "Monday July 27th 11:00 PM",
       "url": "",
-      "description": "Rob Papacica (g)",
+      "description": "Rob Papacica (g)William Hill III (p)",
       "image_url": "",
       "price": ""
     },
@@ -1433,16 +1403,6 @@
       "price": ""
     },
     {
-      "venue_name": "Freddy's",
-      "title": "J Stew Groove-2 sets",
-      "date": "2026-08-15T00:00:00",
-      "date_raw": "Saturday, August 15, 2026",
-      "url": "https://www.freddysbar.com/events/j-stew-groove-live-band-funky-jams-70-4",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-08-16T00:00:00",
@@ -2053,6 +2013,26 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
+      "date": "2026-09-06T00:00:00",
+      "date_raw": "Sunday, September 6, 2026",
+      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p-cdeef",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
+      "date": "2026-09-06T00:00:00",
+      "date_raw": "Sunday, September 6, 2026",
+      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8-lfnch",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Linea Personal: TODO \u00d8 NADA",
       "date": "2026-09-06T19:00:00",
@@ -2194,16 +2174,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "J Stew Groove - Live Band- Funky Jams '70- 2 slots",
-      "date": "2026-09-12T00:00:00",
-      "date_raw": "Saturday, September 12, 2026",
-      "url": "https://www.freddysbar.com/events/j-stew-groove-live-band-funky-jams-70-5",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Henry Mena Residency -2nd Saturdays",
       "date": "2026-09-12T00:00:00",
       "date_raw": "Saturday, September 12, 2026",
@@ -2270,6 +2240,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-44/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Original Music Open Mic Every 3rd Tuesday-hosted by Luke (mostly music mic with 2 sets for poetry & comedy.)",
+      "date": "2026-09-15T00:00:00",
+      "date_raw": "Tuesday, September 15, 2026",
+      "url": "https://www.freddysbar.com/events/original-music-open-mic-every-3rd-tuesday-hosted-by-luke-mostly-music-mic-with-2-sets-for-poetry-comedy-1",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -2424,10 +2404,30 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
+      "date": "2026-09-20T00:00:00",
+      "date_raw": "Sunday, September 20, 2026",
+      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p-y9k7z",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Martin Monster Show Presents Class of Nuke Em High, with TROMA FILMS",
       "date": "2026-09-20T00:00:00",
       "date_raw": "Sunday, September 20, 2026",
       "url": "https://www.freddysbar.com/events/martin-monster-presents-troma-fest",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
+      "date": "2026-09-20T00:00:00",
+      "date_raw": "Sunday, September 20, 2026",
+      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8-epcs9",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2470,6 +2470,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-45/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Dark Room- Film Screening & Salon 4th Tuesdays",
+      "date": "2026-09-22T00:00:00",
+      "date_raw": "Tuesday, September 22, 2026",
+      "url": "https://www.freddysbar.com/events/dark-room-film-screening-salon-4th-tuesdays-1-xmnf8-dc6h6-nx37t-58ebw-by9ak-yl8w7",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -2790,16 +2800,6 @@
       "url": "https://www.ticketmaster.com/kelela-new-avatar-live-brooklyn-new-york-10-09-2026/event/000064BCA5E7D31B",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/112/defbb126-0d29-44e6-9760-afc6b2941112_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "J Stew Groove - Live Band- Funky Jams '70s- 2 slots",
-      "date": "2026-10-10T00:00:00",
-      "date_raw": "Saturday, October 10, 2026",
-      "url": "https://www.freddysbar.com/events/j-stew-groove-live-band-funky-jams-70s",
-      "description": "",
-      "image_url": "",
       "price": ""
     },
     {
