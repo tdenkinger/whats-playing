@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T14:25:18.800421+00:00",
+  "scraped_at": "2026-07-26T14:22:12.839015+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -313,62 +313,12 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
-      "date": "2026-07-25T00:00:00",
-      "date_raw": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Sputnik, Sam Barron and Surprise Guest",
       "date": "2026-07-25T00:00:00",
       "date_raw": "Saturday, July 25, 2026",
       "url": "https://www.freddysbar.com/events/sputnik-sam-barron-and-surprise-guest",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-25T18:30:00",
-      "date_raw": "Saturday July 25th 06:30 PM",
-      "url": "",
-      "description": "Akili Bradley (tp)Logan Butler (g)Finn Wiest (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Frank Basile Quintet",
-      "date": "2026-07-25T19:30:00",
-      "date_raw": "Saturday July 25th 07:30 PM",
-      "url": "",
-      "description": "Frank Basile (baritone saxophone)Fabien Mary (tp)Jeb Patton (p)Paul Sikivie (b)Pete Van Nostrand (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-25T21:00:00",
-      "date_raw": "Saturday July 25th 09:00 PM",
-      "url": "",
-      "description": "Marvin \"Bugalu\" Smith (d)Esteban Castro (p)Emmanuel Michael (g)Tyler Mitchell (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Kai Porterfield",
-      "date": "2026-07-25T23:00:00",
-      "date_raw": "Saturday July 25th 11:00 PM",
-      "url": "",
-      "description": "Kai Porterfield (d)",
       "image_url": "",
       "price": ""
     },
@@ -390,16 +340,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/the-slide-stops-free-two-step-lessons-w-kendall-730-830-2/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/95/13/64_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Wyndham Baird Band",
-      "date": "2026-07-26T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/256/1785024000000",
-      "description": "\u201cI\u2019m in love with this record.\u201d \u2013Sam Doores (of The Deslondes) \u201cWyndham Baird\u2019s album is a quiet miracle, superb work.\u201d \u2013Lau Noah In Rutherford County\u2019s Forest ",
-      "image_url": "",
       "price": ""
     },
     {
@@ -431,16 +371,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Bruce Molsky & Darol Anger",
-      "date": "2026-07-26T00:00:00",
-      "date_raw": "2026-07-26T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/bruce__darols_great",
-      "description": "",
-      "image_url": "",
-      "price": "$33"
     },
     {
       "venue_name": "Sunny's Bar",
@@ -479,6 +409,16 @@
       "date_raw": "Sunday July 26th 09:00 PM",
       "url": "",
       "description": "Stefano Doglioni (bass clarinet)Bruce Acosta (g)Daniel Duke (b)Keith Balla (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Alec Safy",
+      "date": "2026-07-26T23:00:00",
+      "date_raw": "Sunday July 26th 11:00 PM",
+      "url": "",
+      "description": "Alec Safy (b)Steve Nelson (g)",
       "image_url": "",
       "price": ""
     },
@@ -603,6 +543,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-07-28T21:00:00",
+      "date_raw": "Tuesday July 28th 09:00 PM",
+      "url": "",
+      "description": "Andrew Wagner (tp)Alex De Lazzari (ts)Elliot Bernard (p)Jason Clotter (b)Matt Lee (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Cafe Ornithology",
       "title": "Late Night Jam Hosted By Nitsan Kolko",
       "date": "2026-07-28T23:00:00",
@@ -643,22 +593,22 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Adam Frumkin Trio",
+      "date": "2026-07-29T18:30:00",
+      "date_raw": "Wednesday July 29th 06:30 PM",
+      "url": "",
+      "description": "Adam Frumkin (saxophone)Mike Karn (b)Mike Camacho (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Earlybird Show",
       "date": "2026-07-29T18:30:00",
       "date_raw": "Wednesday July 29th 06:30 PM",
       "url": "",
       "description": "Ahmed McLemore (b)Isaac Byrd (p)Jacob Smith (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Adam Frumkin Trio",
-      "date": "2026-07-29T19:30:00",
-      "date_raw": "Wednesday July 29th 07:30 PM",
-      "url": "",
-      "description": "Adam Frumkin (saxophone)Mike Karn (b)Mike Camacho (d)",
       "image_url": "",
       "price": ""
     },
@@ -673,22 +623,22 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Frank Basile Quintet",
+      "date": "2026-07-29T21:30:00",
+      "date_raw": "Wednesday July 29th 09:30 PM",
+      "url": "",
+      "description": "Frank Basile (baritone saxophone)Fabien Mary (tp)Steve Ash (p)David Wong (b)Andy Watson (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-07-29T22:30:00",
       "date_raw": "2026-07-29T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Jovan Parris Alexandre",
-      "date": "2026-07-29T23:00:00",
-      "date_raw": "Wednesday July 29th 11:00 PM",
-      "url": "",
-      "description": "Jovan Parris Alexandre (ts)Tim Norton (b)Mike Camacho (d)",
       "image_url": "",
       "price": ""
     },
@@ -711,6 +661,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Jovan Parris Alexandre",
+      "date": "2026-07-30T00:30:00",
+      "date_raw": "Thursday July 30th 12:30 AM",
+      "url": "",
+      "description": "Jovan Parris Alexandre (ts)Tim Norton (b)Mike Camacho (d)",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -799,6 +759,16 @@
       "date_raw": "Friday July 31st 06:30 PM",
       "url": "",
       "description": "Carlos Abadie (tp)TBA (ts)Maki Nientao (p)Kyle Colina (b)Jacob Smith (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-07-31T21:00:00",
+      "date_raw": "Friday July 31st 09:00 PM",
+      "url": "",
+      "description": "Theo Hill (p)Ben Solomon (ts)Conway Campbell (b)Tim Angulo (d)",
       "image_url": "",
       "price": ""
     },
@@ -3748,6 +3718,16 @@
       "date": "2027-07-21T22:30:00",
       "date_raw": "2027-07-21T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "date": "2027-07-25T00:00:00",
+      "date_raw": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
       "description": "",
       "image_url": "",
       "price": ""
