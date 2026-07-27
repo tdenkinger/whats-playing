@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-07-26T14:22:12.839015+00:00",
+  "scraped_at": "2026-07-27T15:34:52.125917+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-07-08T00:00:00",
-      "date_raw": "Wednesday, July 8, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-meh23",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "That\u2019s Camp -2nd Thursdays-Burlesque in the Back Every Thursday",
-      "date": "2026-07-09T00:00:00",
-      "date_raw": "Thursday, July 9, 2026",
-      "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-3-ztacs-zswxy-kx52e-elh9m",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Devour the Air & Gabriel Zucker New/Old Band\" (two sets)",
@@ -323,26 +303,6 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
-      "date": "2026-07-26T00:00:00",
-      "date_raw": "July 26, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-37/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "The Slide Stops, Free Two Step Lessons w/ Kendall 7:30-8:30",
-      "date": "2026-07-26T00:00:00",
-      "date_raw": "July 26, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/the-slide-stops-free-two-step-lessons-w-kendall-730-830-2/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/95/13/64_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Fourth Sunday Traditional Irish Music Jam",
       "date": "2026-07-26T00:00:00",
@@ -373,56 +333,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2026-07-26T18:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/230/1785092400000",
-      "description": "In front of the bar on Sunday afternoons for the summer. Open to all.",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-26T18:30:00",
-      "date_raw": "Sunday July 26th 06:30 PM",
-      "url": "",
-      "description": "Andrew Wagner (tp)Jordan Williams (p)Dan Finn (b)Errold Lanier Jr. (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Don Hahn Quintet",
-      "date": "2026-07-26T19:30:00",
-      "date_raw": "Sunday July 26th 07:30 PM",
-      "url": "",
-      "description": "Don Hahn\u00a0(cornet&flugelhorn)David Rourke (g)Xavier Kim (p)Sameer Shankar (b)Simon Ribas (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-26T21:00:00",
-      "date_raw": "Sunday July 26th 09:00 PM",
-      "url": "",
-      "description": "Stefano Doglioni (bass clarinet)Bruce Acosta (g)Daniel Duke (b)Keith Balla (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Alec Safy",
-      "date": "2026-07-26T23:00:00",
-      "date_raw": "Sunday July 26th 11:00 PM",
-      "url": "",
-      "description": "Alec Safy (b)Steve Nelson (g)",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Nathan Xander and Goatroper",
       "date": "2026-07-27T00:00:00",
@@ -430,16 +340,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/nathan-xander-and-goatroper/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/59/28/53_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Ken and Friends Experimental Night featuring Scott Colberg and Zach Lapidus",
-      "date": "2026-07-27T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/250/1785110400000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
-      "image_url": "",
       "price": ""
     },
     {
@@ -543,6 +443,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday July 28th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-07-28T20:30:00",
+      "date_raw": "Tuesday July 28th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-07-28T21:00:00",
@@ -559,6 +469,16 @@
       "date_raw": "Tuesday July 28th 11:00 PM",
       "url": "",
       "description": "Nitsan Kolko (p)Charlie Lincoln (b)Ben Silashi (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday July 29th -Blues with The Milkman..Marcus Milius!",
+      "date": "2026-07-29T00:00:00",
+      "date_raw": "Wednesday July 29th -Blues with The Milkman..Marcus Milius!",
+      "url": "https://www.fredsdoghouse.com/event/sunday-blues-with-the-milkmanmarcus-milius/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -598,7 +518,7 @@
       "date": "2026-07-29T18:30:00",
       "date_raw": "Wednesday July 29th 06:30 PM",
       "url": "",
-      "description": "Adam Frumkin (saxophone)Mike Karn (b)Mike Camacho (d)",
+      "description": "Adam Frumkin (saxophone)Peter Brendler (b)Mike Camacho (d)",
       "image_url": "",
       "price": ""
     },
@@ -643,6 +563,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Thursday July 30th \u2022 BLUEGRASS with Down North!",
+      "date": "2026-07-30T00:00:00",
+      "date_raw": "Thursday July 30th \u2022 BLUEGRASS with Down North!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-march-12th-bluegrass-with-down-north/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Glitter Gauntlet with Lucy Buttons, Last Thursday\u2019s Burlesque in the Back",
       "date": "2026-07-30T00:00:00",
@@ -680,6 +610,16 @@
       "url": "https://www.ticketmaster.com/all-the-feelings-tour-with-metric-brooklyn-new-york-07-30-2026/event/0000643FDF1DF8F9",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/a99/9c0e4923-877a-4bc6-a302-c4945c987a99_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Vinicius Gomes Quartet",
+      "date": "2026-07-30T19:30:00",
+      "date_raw": "Thursday July 30th 07:30 PM",
+      "url": "",
+      "description": "Vinicius Gomes (g)Alexandra Ridout (tp)Harish Raghavan (b)David Sirkis (d)",
+      "image_url": "",
       "price": ""
     },
     {
@@ -759,6 +699,16 @@
       "date_raw": "Friday July 31st 06:30 PM",
       "url": "",
       "description": "Carlos Abadie (tp)TBA (ts)Maki Nientao (p)Kyle Colina (b)Jacob Smith (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Friday July 31st 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "date": "2026-07-31T20:30:00",
+      "date_raw": "Friday July 31st 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "url": "https://www.fredsdoghouse.com/event/friday-may-15th-830pm-new-moon-acoustic-blues-trio-copy/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -2603,6 +2553,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Audrey Hobert: The Staircase To Stardom Tour",
+      "date": "2026-09-29T19:00:00",
+      "date_raw": "2026-09-29T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-29-2026/event/000064F7B8876306",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-09-29T21:00:00",
@@ -2610,6 +2570,16 @@
       "url": "",
       "description": "Uri Gurvich\u00a0(saxophone)Leo Genovese\u00a0(p)Edward Perez\u00a0(b)Ronen Itzik (d)",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Audrey Hobert: The Staircase To Stardom Tour",
+      "date": "2026-09-30T19:00:00",
+      "date_raw": "2026-09-30T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-30-2026/event/000064F7B88A631B",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -2960,26 +2930,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-49/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Paris Paloma: The Fatal Flaw Tour",
-      "date": "2026-10-20T19:00:00",
-      "date_raw": "2026-10-20T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-brooklyn-new-york-10-20-2026/event/000064A4E12EF369",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/67f/0b8cc3eb-78c4-4c29-8176-08c15df6167f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Sienna Spiro: My House Tour",
-      "date": "2026-10-21T19:00:00",
-      "date_raw": "2026-10-21T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/sienna-spiro-my-house-tour-brooklyn-new-york-10-21-2026/event/000064C7825E6199",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/b07/09e0979d-7b3d-4cd4-badf-67d6ced79b07_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -3718,16 +3668,6 @@
       "date": "2027-07-21T22:30:00",
       "date_raw": "2027-07-21T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
-      "date": "2027-07-25T00:00:00",
-      "date_raw": "Saturday July 25th \u2022 Blues & more with The A.J. Shakes Trio!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
       "description": "",
       "image_url": "",
       "price": ""
