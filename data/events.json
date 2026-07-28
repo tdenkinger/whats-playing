@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-27T15:34:52.125917+00:00",
+  "scraped_at": "2026-07-28T15:09:50.900169+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -333,62 +333,12 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Nathan Xander and Goatroper",
-      "date": "2026-07-27T00:00:00",
-      "date_raw": "July 27, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/nathan-xander-and-goatroper/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/59/28/53_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-07-27T00:00:00",
       "date_raw": "Monday, July 27, 2026",
       "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-4f2ta",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Visionary Ladybird Series",
-      "date": "2026-07-27T18:30:00",
-      "date_raw": "Monday July 27th 06:30 PM",
-      "url": "",
-      "description": "Akili Bradley (tp)Wilfie Williams (p)Corentin Le Hir (b)Sam Bolduc (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Piano Leaders Series",
-      "date": "2026-07-27T19:30:00",
-      "date_raw": "Monday July 27th 07:30 PM",
-      "url": "",
-      "description": "Noam Avnon (p)Charlie Lincoln (b)Jonas Esser (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-27T21:00:00",
-      "date_raw": "Monday July 27th 09:00 PM",
-      "url": "",
-      "description": "Bar Filipowicz (b)Rotem Sivan (g)Tom Oren (p)Sam Bolduc (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Rob Papacica",
-      "date": "2026-07-27T23:00:00",
-      "date_raw": "Monday July 27th 11:00 PM",
-      "url": "",
-      "description": "Rob Papacica (g)William Hill III (p)",
       "image_url": "",
       "price": ""
     },
@@ -613,6 +563,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-07-30T18:30:00",
+      "date_raw": "Thursday July 30th 06:30 PM",
+      "url": "",
+      "description": "Agustin Uriburu (cello)Caleb Wheeler Curtis (saxophone)Justin Salisbury (p)Bill Campbell (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Cafe Ornithology",
       "title": "Vinicius Gomes Quartet",
       "date": "2026-07-30T19:30:00",
@@ -803,6 +763,16 @@
       "price": "$23"
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-02T18:30:00",
+      "date_raw": "Sunday August 2nd 06:30 PM",
+      "url": "",
+      "description": "Vladimir Katz (p)Alexis- Lambros Theochari David (b)Tommy Campbell (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Cafe Ornithology",
       "title": "Nat Harris Quartet",
       "date": "2026-08-02T19:30:00",
@@ -929,6 +899,16 @@
       "date_raw": "Wednesday, August 5, 2026",
       "url": "https://www.freddysbar.com/events/new-material-night-comedy-show-1st-wednesdays-after-the-open-mic-1-jtahs",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-05T18:30:00",
+      "date_raw": "Wednesday August 5th 06:30 PM",
+      "url": "",
+      "description": "Daniele Germani (saxophone)Esteban Castro (p)Dean Torrey (b)Roberto Giaquinto (d)",
       "image_url": "",
       "price": ""
     },
@@ -4148,6 +4128,16 @@
       "date": "2028-06-21T22:30:00",
       "date_raw": "2028-06-21T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "This just in! Saturday August 1st 8:30pm + The Dirt Whisperers!",
+      "date": null,
+      "date_raw": "This just in! Saturday August 1st 8:30pm + The Dirt Whisperers!",
+      "url": "https://www.fredsdoghouse.com/event/this-just-in-saturday-august-1st-830pm-the-dirt-whisperers/",
       "description": "",
       "image_url": "",
       "price": ""
