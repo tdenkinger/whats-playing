@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-07-28T15:09:50.900169+00:00",
+  "scraped_at": "2026-07-29T15:03:07.308456+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Devour the Air & Gabriel Zucker New/Old Band\" (two sets)",
-      "date": "2026-07-10T00:00:00",
-      "date_raw": "Friday, July 10, 2026",
-      "url": "https://www.freddysbar.com/events/devour-the-air-doom-avant-folk",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Your Favorite Play",
-      "date": "2026-07-10T00:00:00",
-      "date_raw": "Friday, July 10, 2026",
-      "url": "https://www.freddysbar.com/events/your-favorite-play",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Melina and the Magnetics",
-      "date": "2026-07-10T00:00:00",
-      "date_raw": "Friday, July 10, 2026",
-      "url": "https://www.freddysbar.com/events/melina-and-the-magnetics",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Henry Mena Residency -2nd Saturdays",
@@ -48,26 +18,6 @@
       "date": "2026-07-11T00:00:00",
       "date_raw": "Saturday, July 11, 2026",
       "url": "https://www.freddysbar.com/events/xdjsz2xm2rjezmx52sx8khdfxpmsl2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "J Stew Groove - Live Band- Funky Jams '70",
-      "date": "2026-07-11T00:00:00",
-      "date_raw": "Saturday, July 11, 2026",
-      "url": "https://www.freddysbar.com/events/j-stew-groove-live-band-funky-jams-70-3",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Second Saturdays Comedy from 5-7",
-      "date": "2026-07-11T00:00:00",
-      "date_raw": "Saturday, July 11, 2026",
-      "url": "https://www.freddysbar.com/events/second-saturdays-comedy-from-5-7-2",
       "description": "",
       "image_url": "",
       "price": ""
@@ -304,10 +254,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Fourth Sunday Traditional Irish Music Jam",
+      "title": "Alex Sherba Presents- 4th Sundays",
       "date": "2026-07-26T00:00:00",
       "date_raw": "Sunday, July 26, 2026",
-      "url": "https://www.freddysbar.com/events/fourth-sunday-traditional-irish-music-jam",
+      "url": "https://www.freddysbar.com/events/alex-sherba-presents-5-7de7h-37rd8-28gsy",
       "description": "",
       "image_url": "",
       "price": ""
@@ -324,10 +274,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Alex Sherba Presents- 4th Sundays",
+      "title": "Fourth Sunday Traditional Irish Music Jam",
       "date": "2026-07-26T00:00:00",
       "date_raw": "Sunday, July 26, 2026",
-      "url": "https://www.freddysbar.com/events/alex-sherba-presents-5-7de7h-37rd8-28gsy",
+      "url": "https://www.freddysbar.com/events/fourth-sunday-traditional-irish-music-jam",
       "description": "",
       "image_url": "",
       "price": ""
@@ -343,82 +293,12 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "The Family",
-      "date": "2026-07-28T00:00:00",
-      "date_raw": "July 28, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/the-family/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/99/02/34_Original.jpg?v=4",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "date": "2026-07-28T00:00:00",
-      "date_raw": "July 28, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-37/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Dark Room- Film Screening & Salon 4th Tuesdays",
       "date": "2026-07-28T00:00:00",
       "date_raw": "Tuesday, July 28, 2026",
       "url": "https://www.freddysbar.com/events/dark-room-film-screening-salon-4th-tuesdays-1-xmnf8-dc6h6-nx37t-58ebw-by9ak",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-28T18:30:00",
-      "date_raw": "Tuesday July 28th 06:30 PM",
-      "url": "",
-      "description": "Daniel Bereket (tp)Matt Knoegel (saxophone)Jordan Williams (p)Jason Clotter (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Bass On Top Series",
-      "date": "2026-07-28T19:30:00",
-      "date_raw": "Tuesday July 28th 07:30 PM",
-      "url": "",
-      "description": "Inbar Paz (b)Itai Kriss (flute)Alex Norris (tp)Marius Van Den Brink (p)Eviatar Slivnik (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday July 28th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-07-28T20:30:00",
-      "date_raw": "Tuesday July 28th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-28T21:00:00",
-      "date_raw": "Tuesday July 28th 09:00 PM",
-      "url": "",
-      "description": "Andrew Wagner (tp)Alex De Lazzari (ts)Elliot Bernard (p)Jason Clotter (b)Matt Lee (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Nitsan Kolko",
-      "date": "2026-07-28T23:00:00",
-      "date_raw": "Tuesday July 28th 11:00 PM",
-      "url": "",
-      "description": "Nitsan Kolko (p)Charlie Lincoln (b)Ben Silashi (d)",
       "image_url": "",
       "price": ""
     },
@@ -440,16 +320,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/red-hot-country-live-music-with-special-guests-benefit-to-lgbtq-and-health-care-callen-lorde-community-health-center/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/95/81/54_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Indianna Hale",
-      "date": "2026-07-29T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/255/1785283200000",
-      "description": "Indianna Hale is a multi instrumentalist singer songwriter based in San Francisco. \"Imagine Cate le Bon baking a sweet-but-not-too-sweet birthday cake with Calv",
-      "image_url": "",
       "price": ""
     },
     {
@@ -523,6 +393,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Charlie Burnham Band",
+      "date": "2026-07-30T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/260/1785369600000",
+      "description": "Charlie Burnham is an American violinist and composer. He has a unique highly imaginative style that crosses genres, including bluegrass, delta punk, free jazz,",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Glitter Gauntlet with Lucy Buttons, Last Thursday\u2019s Burlesque in the Back",
       "date": "2026-07-30T00:00:00",
@@ -574,11 +454,11 @@
     },
     {
       "venue_name": "Cafe Ornithology",
-      "title": "Vinicius Gomes Quartet",
+      "title": "Quartet",
       "date": "2026-07-30T19:30:00",
       "date_raw": "Thursday July 30th 07:30 PM",
       "url": "",
-      "description": "Vinicius Gomes (g)Alexandra Ridout (tp)Harish Raghavan (b)David Sirkis (d)",
+      "description": "Alexandra Ridout (tp)Vinicius Gomes (g)Harish Raghavan (b)David Sirkis (d)",
       "image_url": "",
       "price": ""
     },
@@ -663,6 +543,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Saul Rubin Trio",
+      "date": "2026-07-31T19:30:00",
+      "date_raw": "Friday July 31st 07:30 PM",
+      "url": "",
+      "description": "Saul Rubin (g)Miles Wick (b)Saul Rubin (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Fred's Dog House",
       "title": "Friday July 31st 8:30pm \u2022  New Moon Acoustic Blues Trio!",
       "date": "2026-07-31T20:30:00",
@@ -733,6 +623,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Vaden Landers Band",
+      "date": "2026-08-02T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/234/1785628800000",
+      "description": "From the enchanting landscapes of Eastern Tennessee comes the burgeoning talent of Vaden Landers, a 32-year- old artist weaving a tapestry of melodies that hark",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
       "date": "2026-08-02T00:00:00",
@@ -791,6 +691,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Ross Martin and Adam Armstrong",
+      "date": "2026-08-03T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/258/1785715200000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Freddy's",
@@ -883,6 +793,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Ever More Nest",
+      "date": "2026-08-05T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/259/1785888000000",
+      "description": ".Rooted in Southern musical traditions and infused with confessional 90s angst, the music of New Orleans Americana artist Ever More Nest can likewise lull you t",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-08-05T00:00:00",
@@ -953,6 +873,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Vaden Landers Band",
+      "date": "2026-08-06T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/234/1785974400000",
+      "description": "From the enchanting landscapes of Eastern Tennessee comes the burgeoning talent of Vaden Landers, a 32-year- old artist weaving a tapestry of melodies that hark",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Burlesque in the Back Every Thursday",
       "date": "2026-08-06T00:00:00",
@@ -974,12 +904,32 @@
     },
     {
       "venue_name": "Lucinda's",
+      "title": "Sweet Megg",
+      "date": "2026-08-07T00:00:00",
+      "date_raw": "August 07, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/sweet-megg/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/60/09/73_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-08-07T00:00:00",
       "date_raw": "August 07, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-10/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Leah Tash Trio",
+      "date": "2026-08-07T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/261/1786060800000",
+      "description": "\u201cLeah Tash\u2019s sound evokes the timeless allure of bygone eras while retaining a vibrant resonance with the contemporary musical landscape. She threads together e",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1113,6 +1063,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Asheville Mountain Boys",
+      "date": "2026-08-09T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/262/1786233600000",
+      "description": "By their name, you know where they are from, and by their sound, you know what they are about. The Asheville Mountain Boys are on a mission to capture not just ",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Martin Monster Presents: Second Sunday Screenings in the Backroom!",
       "date": "2026-08-09T00:00:00",
@@ -1140,6 +1100,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/from-nashville-india-ramey-and-her-band/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/92/75/24_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Aidan O'Donnell and Emeline O'Rourke",
+      "date": "2026-08-10T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/257/1786320000000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1233,6 +1203,26 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Olivia Barnes",
+      "date": "2026-08-13T00:00:00",
+      "date_raw": "August 13, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/olivia-barnes/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/59/94/33_Original.jpg?v=7",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Olivia Barnes",
+      "date": "2026-08-13T00:00:00",
+      "date_raw": "August 13, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/olivia-barnes-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/60/04/63_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "That\u2019s Camp -2nd Thursdays-Burlesque in the Back Every Thursday",
       "date": "2026-08-13T00:00:00",
@@ -1260,6 +1250,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-11/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Laura Jean Anderson Band",
+      "date": "2026-08-14T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/175/1786665600000",
+      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1313,6 +1313,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Aurora Nealand",
+      "date": "2026-08-16T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/251/1786838400000",
+      "description": "Aurora Nealand strives to live at the intersection of Lunatic and Librarian. She is a sound artist and multi-instrumentalist (saxophones, accordion, voice) base",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, Poetry Welcome",
       "date": "2026-08-16T00:00:00",
@@ -1360,6 +1370,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/the-wildmans-5/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/98/50/14_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Aidan O'Donnell and Emeline O'Rourke",
+      "date": "2026-08-17T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/257/1786924800000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1623,6 +1643,16 @@
       "price": "$23"
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Aidan O'Donnell and Emeline O'Rourke",
+      "date": "2026-08-24T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/257/1787529600000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic",
       "date": "2026-08-24T00:00:00",
@@ -1749,6 +1779,16 @@
       "date_raw": "Sunday, August 30, 2026",
       "url": "https://www.freddysbar.com/events/eagle-colt",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Sarah King, Emeline O'Rourke and Aidan O'Donnell",
+      "date": "2026-08-31T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/241/1788134400000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
       "image_url": "",
       "price": ""
     },
@@ -2153,6 +2193,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "EsDeeKid - Council House Rat Tour",
+      "date": "2026-09-15T19:00:00",
+      "date_raw": "2026-09-15T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/esdeekid-council-house-rat-tour-brooklyn-new-york-09-15-2026/event/000064F5B9D6820A",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/a52/571ecd1b-5559-4f1d-80fc-fd534a0e0a52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "LIMITED RESOURCES music residency every 3rd Wednesday",
       "date": "2026-09-16T00:00:00",
@@ -2350,6 +2400,16 @@
       "url": "https://www.ticketmaster.com/whirr-brooklyn-new-york-09-20-2026/event/000064DDCCAA5505",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/695/83d3082f-7aeb-44a8-9164-dcc2a8550695_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Rene Lopez Diamonds Don't Wait Release Show with Margo Valiante",
+      "date": "2026-09-21T00:00:00",
+      "date_raw": "September 21, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/rene-lopez-diamonds-dont-wait-release-show-with-margo-valiante/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/60/04/53_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -2893,16 +2953,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Earl Sweatshirt & MIKE  Home on the Range Tour 2026",
-      "date": "2026-10-19T19:00:00",
-      "date_raw": "2026-10-19T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-brooklyn-new-york-10-19-2026/event/000064650A2CE579",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/469/f6db8121-664a-4972-9853-b1eb4d318469_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Live Weekly Bluegrass with  Allison Kelly",
       "date": "2026-10-20T00:00:00",
@@ -2980,6 +3030,16 @@
       "url": "https://www.freddysbar.com/events/eagle-colt-combo-1-gc2k8",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Rene Lopez",
+      "date": "2026-10-26T00:00:00",
+      "date_raw": "October 26, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/rene-lopez-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/60/04/83_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -3120,6 +3180,16 @@
       "url": "https://www.freddysbar.com/events/the-oxford-drive-band-1",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Rene Lopez",
+      "date": "2026-11-16T00:00:00",
+      "date_raw": "November 16, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/rene-lopez-3/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/60/05/03_Original.jpg?v=3",
       "price": ""
     },
     {
