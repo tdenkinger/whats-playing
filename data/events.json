@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T15:03:07.308456+00:00",
+  "scraped_at": "2026-07-30T14:59:25.918458+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -303,81 +303,11 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Wednesday July 29th -Blues with The Milkman..Marcus Milius!",
-      "date": "2026-07-29T00:00:00",
-      "date_raw": "Wednesday July 29th -Blues with The Milkman..Marcus Milius!",
-      "url": "https://www.fredsdoghouse.com/event/sunday-blues-with-the-milkmanmarcus-milius/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "RED HOT + COUNTRY. Live Music with Special Guests.  Benefit to LGBTQ and Health Care (Callen-Lorde Community Health Center).",
-      "date": "2026-07-29T00:00:00",
-      "date_raw": "July 29, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/red-hot-country-live-music-with-special-guests-benefit-to-lgbtq-and-health-care-callen-lorde-community-health-center/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/95/81/54_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-07-29T00:00:00",
       "date_raw": "Wednesday, July 29, 2026",
       "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-yemkx-abe4e",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Adam Frumkin Trio",
-      "date": "2026-07-29T18:30:00",
-      "date_raw": "Wednesday July 29th 06:30 PM",
-      "url": "",
-      "description": "Adam Frumkin (saxophone)Peter Brendler (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-29T18:30:00",
-      "date_raw": "Wednesday July 29th 06:30 PM",
-      "url": "",
-      "description": "Ahmed McLemore (b)Isaac Byrd (p)Jacob Smith (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-29T21:00:00",
-      "date_raw": "Wednesday July 29th 09:00 PM",
-      "url": "",
-      "description": "David Gibson (trombone)Cameron Campbell (p)Ruby Farmer (b)Jay Sawyer (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Frank Basile Quintet",
-      "date": "2026-07-29T21:30:00",
-      "date_raw": "Wednesday July 29th 09:30 PM",
-      "url": "",
-      "description": "Frank Basile (baritone saxophone)Fabien Mary (tp)Steve Ash (p)David Wong (b)Andy Watson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-07-29T22:30:00",
-      "date_raw": "2026-07-29T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
       "price": ""
@@ -393,16 +323,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Charlie Burnham Band",
-      "date": "2026-07-30T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/260/1785369600000",
-      "description": "Charlie Burnham is an American violinist and composer. He has a unique highly imaginative style that crosses genres, including bluegrass, delta punk, free jazz,",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Glitter Gauntlet with Lucy Buttons, Last Thursday\u2019s Burlesque in the Back",
       "date": "2026-07-30T00:00:00",
@@ -411,16 +331,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Neal Todten / Stuart Bogie & Buck McDaniel",
-      "date": "2026-07-30T00:00:00",
-      "date_raw": "2026-07-30T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/neal_todten__stuart",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Cafe Ornithology",
@@ -548,7 +458,7 @@
       "date": "2026-07-31T19:30:00",
       "date_raw": "Friday July 31st 07:30 PM",
       "url": "",
-      "description": "Saul Rubin (g)Miles Wick (b)Saul Rubin (d)",
+      "description": "Saul Rubin (g)Miles Wick (b)Jason Brown (d)",
       "image_url": "",
       "price": ""
     },
@@ -569,6 +479,16 @@
       "date_raw": "Friday July 31st 09:00 PM",
       "url": "",
       "description": "Theo Hill (p)Ben Solomon (ts)Conway Campbell (b)Tim Angulo (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Gideon Tazelaar",
+      "date": "2026-07-31T23:00:00",
+      "date_raw": "Friday July 31st 11:00 PM",
+      "url": "",
+      "description": "Gideon Tazelaar (saxophone)Felix Moseholm (b)Jacob Smith (d)",
       "image_url": "",
       "price": ""
     },
@@ -604,13 +524,13 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "Wazumbians",
+      "title": "Wazumbians CANCELLED",
       "date": "2026-08-01T00:30:00",
       "date_raw": "2026-08-01T00:30:00.000Z",
       "url": "https://www.viewcy.com/event/wazumbians",
       "description": "",
       "image_url": "",
-      "price": "$23"
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -964,6 +884,26 @@
     },
     {
       "venue_name": "Brooklyn Paramount",
+      "title": "DREW SEELEY M&G Upgrades  - Not a Concert Ticket**",
+      "date": "2026-08-07T18:00:00",
+      "date_raw": "2026-08-07T18:00:00-04:00",
+      "url": "https://www.ticketmaster.com/drew-seeley-mg-upgrades-not-a-brooklyn-new-york-08-07-2026/event/000064FDE76CA4D7",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "ADAM HICKS M&G Upgrades - Not a Concert Ticket**",
+      "date": "2026-08-07T18:00:00",
+      "date_raw": "2026-08-07T18:00:00-04:00",
+      "url": "https://www.ticketmaster.com/adam-hicks-mg-upgrades-not-a-brooklyn-new-york-08-07-2026/event/000064FDE768A4B4",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
       "title": "Bop To The Top",
       "date": "2026-08-07T20:00:00",
       "date_raw": "2026-08-07T20:00:00-04:00",
@@ -1091,6 +1031,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-09T18:30:00",
+      "date_raw": "Sunday August 9th 06:30 PM",
+      "url": "",
+      "description": "Alexi David (b)Vladimir Katz (p)Tommy Campbell (d)",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -1479,6 +1429,16 @@
       "date_raw": "Thursday August 20th 07:30 PM",
       "url": "",
       "description": "Dan Block (ts&clarinet)Robert Redd (p)Sean Smith (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-20T21:00:00",
+      "date_raw": "Thursday August 20th 09:00 PM",
+      "url": "",
+      "description": "Nicola Caminiti (as)Michael Hilgendorf (g)Jacob Hart (p)Ben Tiberio (b)Kush Abadey (d)",
       "image_url": "",
       "price": ""
     },
@@ -2633,6 +2593,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Audrey Hobert: The Staircase To Stardom Tour",
+      "date": "2026-10-01T19:00:00",
+      "date_raw": "2026-10-01T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-10-01-2026/event/000064F7B88D6332",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-10-02T00:00:00",
@@ -2843,16 +2813,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Sylvan Esso",
-      "date": "2026-10-14T19:00:00",
-      "date_raw": "2026-10-14T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/sylvan-esso-brooklyn-new-york-10-14-2026/event/000064C5B8594A98",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/31d/f82bc044-7ba1-4be8-a33f-f6923d2ba31d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-10-14T22:30:00",
@@ -2903,16 +2863,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Ryan Beatty - Arms Over Armor North American Tour '26",
-      "date": "2026-10-17T19:00:00",
-      "date_raw": "2026-10-17T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/ryan-beatty-arms-over-armor-north-brooklyn-new-york-10-17-2026/event/000064C9EAAFCA8B",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/6d0/69299123-0fd4-4fdb-b0a5-a566f5dd16d0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-10-18T00:00:00",
@@ -2941,16 +2891,6 @@
       "description": "",
       "image_url": "",
       "price": "$28"
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "JPEGMAFIA: the Experimental Rap Tour",
-      "date": "2026-10-18T18:30:00",
-      "date_raw": "2026-10-18T18:30:00-04:00",
-      "url": "https://www.ticketmaster.com/jpegmafia-the-experimental-rap-tour-brooklyn-new-york-10-18-2026/event/000064879A9F94A7",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/0ad/2715f828-d867-417d-a621-9226eeed80ad_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -4198,6 +4138,26 @@
       "date": "2028-06-21T22:30:00",
       "date_raw": "2028-06-21T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-06-28T22:30:00",
+      "date_raw": "2028-06-28T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday August 1st 6pm \u2022 Early Set Blues 6-8pm with Matt Wiffen & The Slim Whiskers!",
+      "date": null,
+      "date_raw": "Saturday August 1st 6pm \u2022 Early Set Blues 6-8pm with Matt Wiffen & The Slim Whiskers!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-early-set-blues-6-8pm-with-matt-wiffen-the-slim-whiskers/",
       "description": "",
       "image_url": "",
       "price": ""
