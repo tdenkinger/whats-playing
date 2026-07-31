@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-30T14:59:25.918458+00:00",
+  "scraped_at": "2026-07-31T15:11:58.465120+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -8,16 +8,6 @@
       "date": "2026-07-11T00:00:00",
       "date_raw": "Saturday, July 11, 2026",
       "url": "https://www.freddysbar.com/events/henry-mena-residency-2nd-saturdays",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "J Stew Groove - Live Band- Funky Jams '70",
-      "date": "2026-07-11T00:00:00",
-      "date_raw": "Saturday, July 11, 2026",
-      "url": "https://www.freddysbar.com/events/xdjsz2xm2rjezmx52sx8khdfxpmsl2",
       "description": "",
       "image_url": "",
       "price": ""
@@ -313,82 +303,12 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Thursday July 30th \u2022 BLUEGRASS with Down North!",
-      "date": "2026-07-30T00:00:00",
-      "date_raw": "Thursday July 30th \u2022 BLUEGRASS with Down North!",
-      "url": "https://www.fredsdoghouse.com/event/thursday-march-12th-bluegrass-with-down-north/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Glitter Gauntlet with Lucy Buttons, Last Thursday\u2019s Burlesque in the Back",
       "date": "2026-07-30T00:00:00",
       "date_raw": "Thursday, July 30, 2026",
       "url": "https://www.freddysbar.com/events/glitter-gauntlet-with-lucy-buttons-last-thursdays-9npnk-rpnln",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Jovan Parris Alexandre",
-      "date": "2026-07-30T00:30:00",
-      "date_raw": "Thursday July 30th 12:30 AM",
-      "url": "",
-      "description": "Jovan Parris Alexandre (ts)Tim Norton (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "ALL THE FEELINGS TOUR with METRIC, BROKEN SOCIAL SCENE, AND STARS",
-      "date": "2026-07-30T18:00:00",
-      "date_raw": "2026-07-30T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/all-the-feelings-tour-with-metric-brooklyn-new-york-07-30-2026/event/0000643FDF1DF8F9",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/a99/9c0e4923-877a-4bc6-a302-c4945c987a99_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-30T18:30:00",
-      "date_raw": "Thursday July 30th 06:30 PM",
-      "url": "",
-      "description": "Agustin Uriburu (cello)Caleb Wheeler Curtis (saxophone)Justin Salisbury (p)Bill Campbell (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Quartet",
-      "date": "2026-07-30T19:30:00",
-      "date_raw": "Thursday July 30th 07:30 PM",
-      "url": "",
-      "description": "Alexandra Ridout (tp)Vinicius Gomes (g)Harish Raghavan (b)David Sirkis (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-30T21:00:00",
-      "date_raw": "Thursday July 30th 09:00 PM",
-      "url": "",
-      "description": "Peter Brainin (saxophone&flute)Cecilia Coleman (p)Mikey Migliore (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Jason Charos",
-      "date": "2026-07-30T23:00:00",
-      "date_raw": "Thursday July 30th 11:00 PM",
-      "url": "",
-      "description": "Jason Charos (tp)Paul Sikivie (b)Jacob Smith (d)",
       "image_url": "",
       "price": ""
     },
@@ -410,16 +330,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-9/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Samoa Wilson Trio",
-      "date": "2026-07-31T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/169/1785456000000",
-      "description": "Since she was 12 years old, Samoa Wilson has been captivating audiences with a voice the New York Times calls \u201csweet, effortless, old-timey\u201d. Raised in the rive",
-      "image_url": "",
       "price": ""
     },
     {
@@ -448,7 +358,7 @@
       "date": "2026-07-31T18:30:00",
       "date_raw": "Friday July 31st 06:30 PM",
       "url": "",
-      "description": "Carlos Abadie (tp)TBA (ts)Maki Nientao (p)Kyle Colina (b)Jacob Smith (d)",
+      "description": "Carlos Abadie (tp)Maki Nientao (p)Kyle Colina (b)Jacob Smith (d)",
       "image_url": "",
       "price": ""
     },
@@ -533,6 +443,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-01T21:00:00",
+      "date_raw": "Saturday August 1st 09:00 PM",
+      "url": "",
+      "description": "Tom Oren (p)Tamir Shmerling (b)Eviatar Slivnik (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-08-02T00:00:00",
@@ -613,6 +533,16 @@
       "price": "$23"
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Nelson Salgado",
+      "date": "2026-08-02T23:00:00",
+      "date_raw": "Sunday August 2nd 11:00 PM",
+      "url": "",
+      "description": "Nelson Salgado (b)Xavier Kim (p)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Ken and Friends featuring Ross Martin and Adam Armstrong",
       "date": "2026-08-03T00:00:00",
@@ -649,6 +579,16 @@
       "date_raw": "Monday August 3rd 06:30 PM",
       "url": "",
       "description": "Roberta Piket (p)Virginia Mathew (saxophone)Pete McCann (g)David Kingsnorth (b)Billy Mintz (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Modern Guitar Leader Series",
+      "date": "2026-08-03T19:30:00",
+      "date_raw": "Monday August 3rd 07:30 PM",
+      "url": "",
+      "description": "Sam\u00a0Raderman (g)Thomas Linger (p)Daniel Duke (b)Alex Raderman (d)",
       "image_url": "",
       "price": ""
     },
@@ -690,6 +630,16 @@
       "url": "https://www.ticketmaster.com/jack-harlow-monica-tour-brooklyn-new-york-08-04-2026/event/0000646CF25E3DEC",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/da6/1ebdb037-ead5-4023-a496-be8572c67da6_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Modern Saxophone Leaders Series",
+      "date": "2026-08-04T19:30:00",
+      "date_raw": "Tuesday August 4th 07:30 PM",
+      "url": "",
+      "description": "Ethan Silverman (saxophone)Steve Nelson (g)Alec Safy (b)Adam Arruda (d)",
+      "image_url": "",
       "price": ""
     },
     {
@@ -783,6 +733,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Kai Gluska",
+      "date": "2026-08-05T23:00:00",
+      "date_raw": "Wednesday August 5th 11:00 PM",
+      "url": "",
+      "description": "Kai Gluska (g)Itai Eliezri (b)Itay Harel (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Jarrod Dickenson",
       "date": "2026-08-06T00:00:00",
@@ -819,6 +779,26 @@
       "date_raw": "2026-08-06T00:00:00.000Z",
       "url": "https://www.viewcy.com/event/roots_n_ruckus_augu_1",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-06T18:30:00",
+      "date_raw": "Thursday August 6th 06:30 PM",
+      "url": "",
+      "description": "Carmen Staaf\u00a0 (p)Dida Pelled (v&g)Tony Scherr (b)Kenny Wollesen (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-06T21:00:00",
+      "date_raw": "Thursday August 6th 09:00 PM",
+      "url": "",
+      "description": "Ben Tiberio (b)Nicola Caminiti (as)Alex Weitz (ts)Charles Altura (g)Ari Hoenig (d)",
       "image_url": "",
       "price": ""
     },
@@ -1494,6 +1474,16 @@
     },
     {
       "venue_name": "Jalopy Theatre",
+      "title": "Leila Adu",
+      "date": "2026-08-21T00:30:00",
+      "date_raw": "2026-08-21T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/leila_adu",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
       "title": "Burstin' Boots Dance Party with The Slide Stops!",
       "date": "2026-08-21T23:30:00",
       "date_raw": "2026-08-21T23:30:00.000Z",
@@ -1549,6 +1539,16 @@
       "date_raw": "Saturday, August 22, 2026",
       "url": "https://www.freddysbar.com/events/sheila-g-ross-b",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Jon Roche Birthday Bash",
+      "date": "2026-08-22T19:30:00",
+      "date_raw": "Saturday August 22nd 07:30 PM",
+      "url": "",
+      "description": "Jon Roche (b)Zaid Nasser (as)Stefano Doglioni (bass clarinet)Jack Glottman (p)Craig Wuepper (d)",
       "image_url": "",
       "price": ""
     },
@@ -2813,6 +2813,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Sylvan Esso",
+      "date": "2026-10-14T19:00:00",
+      "date_raw": "2026-10-14T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/sylvan-esso-brooklyn-new-york-10-14-2026/event/000064C5B8594A98",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/31d/f82bc044-7ba1-4be8-a33f-f6923d2ba31d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-10-14T22:30:00",
@@ -3021,6 +3031,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "The Lowest Pair",
+      "date": "2026-10-31T00:30:00",
+      "date_raw": "2026-10-31T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/the_lowest_pair",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Lucinda's",
