@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-31T15:11:58.465120+00:00",
+  "scraped_at": "2026-08-01T14:19:47.825879+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -313,92 +313,12 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Alice Mason",
-      "date": "2026-07-31T00:00:00",
-      "date_raw": "July 31, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/alice-mason/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/98/38/14_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Live Band Country Karaoke",
-      "date": "2026-07-31T00:00:00",
-      "date_raw": "July 31, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-9/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Family Drinks",
       "date": "2026-07-31T00:00:00",
       "date_raw": "Friday, July 31, 2026",
       "url": "https://www.freddysbar.com/events/family-drinks",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "ALL THE FEELINGS TOUR with METRIC, BROKEN SOCIAL SCENE, AND STARS",
-      "date": "2026-07-31T18:00:00",
-      "date_raw": "2026-07-31T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/all-the-feelings-tour-with-metric-brooklyn-new-york-07-31-2026/event/0000643FDF21F8FD",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/a99/9c0e4923-877a-4bc6-a302-c4945c987a99_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-07-31T18:30:00",
-      "date_raw": "Friday July 31st 06:30 PM",
-      "url": "",
-      "description": "Carlos Abadie (tp)Maki Nientao (p)Kyle Colina (b)Jacob Smith (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Saul Rubin Trio",
-      "date": "2026-07-31T19:30:00",
-      "date_raw": "Friday July 31st 07:30 PM",
-      "url": "",
-      "description": "Saul Rubin (g)Miles Wick (b)Jason Brown (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday July 31st 8:30pm \u2022  New Moon Acoustic Blues Trio!",
-      "date": "2026-07-31T20:30:00",
-      "date_raw": "Friday July 31st 8:30pm \u2022  New Moon Acoustic Blues Trio!",
-      "url": "https://www.fredsdoghouse.com/event/friday-may-15th-830pm-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-07-31T21:00:00",
-      "date_raw": "Friday July 31st 09:00 PM",
-      "url": "",
-      "description": "Theo Hill (p)Ben Solomon (ts)Conway Campbell (b)Tim Angulo (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Gideon Tazelaar",
-      "date": "2026-07-31T23:00:00",
-      "date_raw": "Friday July 31st 11:00 PM",
-      "url": "",
-      "description": "Gideon Tazelaar (saxophone)Felix Moseholm (b)Jacob Smith (d)",
       "image_url": "",
       "price": ""
     },
@@ -413,16 +333,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Laura Jean Anderson Band",
-      "date": "2026-08-01T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/175/1785542400000",
-      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Private Party",
       "date": "2026-08-01T00:00:00",
@@ -433,12 +343,22 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Wazumbians CANCELLED",
-      "date": "2026-08-01T00:30:00",
-      "date_raw": "2026-08-01T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/wazumbians",
-      "description": "",
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-01T18:30:00",
+      "date_raw": "Saturday August 1st 06:30 PM",
+      "url": "",
+      "description": "Yuval Amihai (g)Greg Glassman (tp)Asaf Yuria (saxophone)Felix Moseholm (b)Colin Stranahan (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Julius Gawlik Quartet",
+      "date": "2026-08-01T19:30:00",
+      "date_raw": "Saturday August 1st 07:30 PM",
+      "url": "",
+      "description": "Julius Gawlik (saxophone)Anthony Pearlman (p)Liany Mateo (b)Jonas Esser (d)",
       "image_url": "",
       "price": ""
     },
@@ -449,6 +369,16 @@
       "date_raw": "Saturday August 1st 09:00 PM",
       "url": "",
       "description": "Tom Oren (p)Tamir Shmerling (b)Eviatar Slivnik (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Ben Allen",
+      "date": "2026-08-01T23:00:00",
+      "date_raw": "Saturday August 1st 11:00 PM",
+      "url": "",
+      "description": "Ben Allen (p)Matt Stavrakas (b)Kai Porterfield (d)",
       "image_url": "",
       "price": ""
     },
@@ -523,6 +453,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-02T21:00:00",
+      "date_raw": "Sunday August 2nd 09:00 PM",
+      "url": "",
+      "description": "Joe Magnarelli (tp)Richard Clements (p)Paul Sikivie (b)Andy Watson (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Musiche del Sud: Traditional Music of Southern Italy",
       "date": "2026-08-02T22:30:00",
@@ -538,7 +478,7 @@
       "date": "2026-08-02T23:00:00",
       "date_raw": "Sunday August 2nd 11:00 PM",
       "url": "",
-      "description": "Nelson Salgado (b)Xavier Kim (p)",
+      "description": "Nelson Salgado (b)Melanie Giselle (v)Xavier Kim (p)",
       "image_url": "",
       "price": ""
     },
@@ -643,6 +583,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday August 4th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-08-04T20:30:00",
+      "date_raw": "Tuesday August 4th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-november-11th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-08-04T21:00:00",
@@ -723,6 +673,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday August 5th 8:30pm \u2022 Blues & Americana with Saint Gevendon!",
+      "date": "2026-08-05T20:30:00",
+      "date_raw": "Wednesday August 5th 8:30pm \u2022 Blues & Americana with Saint Gevendon!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-may-20th-830pm-blues-americana-with-saint-gevendon/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-08-05T22:30:00",
@@ -738,7 +698,7 @@
       "date": "2026-08-05T23:00:00",
       "date_raw": "Wednesday August 5th 11:00 PM",
       "url": "",
-      "description": "Kai Gluska (g)Itai Eliezri (b)Itay Harel (d)",
+      "description": "Kai Gluska (g)Itai Eliezri (b)Naveh Raz (d)",
       "image_url": "",
       "price": ""
     },
@@ -793,12 +753,32 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Thursday August 6th 8:30-11:00pm \u2022 Texas Tango Organ Trio!",
+      "date": "2026-08-06T20:30:00",
+      "date_raw": "Thursday August 6th 8:30-11:00pm \u2022 Texas Tango Organ Trio!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-may-7th-830pm-texas-tango-organ-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-08-06T21:00:00",
       "date_raw": "Thursday August 6th 09:00 PM",
       "url": "",
       "description": "Ben Tiberio (b)Nicola Caminiti (as)Alex Weitz (ts)Charles Altura (g)Ari Hoenig (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Mike Camacho",
+      "date": "2026-08-06T23:00:00",
+      "date_raw": "Thursday August 6th 11:00 PM",
+      "url": "",
+      "description": "Mike Camacho (d)Ben Willis (b&v)Julian Willis (p)",
       "image_url": "",
       "price": ""
     },
@@ -893,6 +873,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Friday August 7th 8:30pm \u2022  New Moon Acoustic Blues Trio",
+      "date": "2026-08-07T20:30:00",
+      "date_raw": "Friday August 7th 8:30pm \u2022  New Moon Acoustic Blues Trio",
+      "url": "https://www.fredsdoghouse.com/event/friday-september-12th-new-moon-acoustic-blues-trio-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Kevin Copeland and Friends",
       "date": "2026-08-08T00:00:00",
@@ -970,6 +960,16 @@
       "url": "https://www.ticketmaster.com/qveen-herby-isle-of-qveen-tour-brooklyn-new-york-08-08-2026/event/00006437CFEC7B52",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/6ea/cb43837c-2d52-4aeb-9a5f-aaab223706ea_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday August 8th 8:30pm \u2022 The National Reserve",
+      "date": "2026-08-08T20:30:00",
+      "date_raw": "Saturday August 8th 8:30pm \u2022 The National Reserve",
+      "url": "https://www.fredsdoghouse.com/event/saturday-february-15th-the-cannibal-ramblers/",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1714,6 +1714,16 @@
     },
     {
       "venue_name": "Jalopy Theatre",
+      "title": "Naqus (unplugged)",
+      "date": "2026-08-29T00:30:00",
+      "date_raw": "2026-08-29T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/naqus_unplugged",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
       "title": "Los Texmaniacs//Jourdan Thibodeaux et les R\u00f4dailleurs",
       "date": "2026-08-29T19:00:00",
       "date_raw": "2026-08-29T19:00:00.000Z",
@@ -2013,6 +2023,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Sam Gelband",
+      "date": "2026-09-10T00:30:00",
+      "date_raw": "2026-09-10T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/sam_gelband",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "PRESIDENT: North American Campaign 2026",
       "date": "2026-09-10T18:00:00",
@@ -2090,6 +2110,16 @@
       "url": "https://www.ticketmaster.com/social-distortion-brooklyn-new-york-09-12-2026/event/00006453B59CB954",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/b02/a4025885-0bec-4065-94e0-aa5399d41b02_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-09-12T21:00:00",
+      "date_raw": "Saturday September 12th 09:00 PM",
+      "url": "",
+      "description": "Billy Mintz (d)Jason Rigby (ts)Anton Denner (as)Roberta Piket (p)Eivind Opsvik (b)",
+      "image_url": "",
       "price": ""
     },
     {
@@ -2870,6 +2900,16 @@
       "url": "https://www.freddysbar.com/events/the-monotone-assassins-rock-and-soul",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Ryan Beatty - Arms Over Armor North American Tour '26",
+      "date": "2026-10-17T19:00:00",
+      "date_raw": "2026-10-17T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/ryan-beatty-arms-over-armor-north-brooklyn-new-york-10-17-2026/event/000064C9EAAFCA8B",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/6d0/69299123-0fd4-4fdb-b0a5-a566f5dd16d0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
