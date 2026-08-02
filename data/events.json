@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-01T14:19:47.825879+00:00",
+  "scraped_at": "2026-08-02T14:21:40.125219+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -323,62 +323,12 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Paloma Lopez",
-      "date": "2026-08-01T00:00:00",
-      "date_raw": "August 01, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/paloma-lopez/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/97/22/54_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Private Party",
       "date": "2026-08-01T00:00:00",
       "date_raw": "Saturday, August 1, 2026",
       "url": "https://www.freddysbar.com/events/8j49nfypa7ppn8xdhfn7w5htm3k7ge",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-01T18:30:00",
-      "date_raw": "Saturday August 1st 06:30 PM",
-      "url": "",
-      "description": "Yuval Amihai (g)Greg Glassman (tp)Asaf Yuria (saxophone)Felix Moseholm (b)Colin Stranahan (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Julius Gawlik Quartet",
-      "date": "2026-08-01T19:30:00",
-      "date_raw": "Saturday August 1st 07:30 PM",
-      "url": "",
-      "description": "Julius Gawlik (saxophone)Anthony Pearlman (p)Liany Mateo (b)Jonas Esser (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-01T21:00:00",
-      "date_raw": "Saturday August 1st 09:00 PM",
-      "url": "",
-      "description": "Tom Oren (p)Tamir Shmerling (b)Eviatar Slivnik (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Ben Allen",
-      "date": "2026-08-01T23:00:00",
-      "date_raw": "Saturday August 1st 11:00 PM",
-      "url": "",
-      "description": "Ben Allen (p)Matt Stavrakas (b)Kai Porterfield (d)",
       "image_url": "",
       "price": ""
     },
@@ -390,16 +340,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-38/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Vaden Landers Band",
-      "date": "2026-08-02T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/234/1785628800000",
-      "description": "From the enchanting landscapes of Eastern Tennessee comes the burgeoning talent of Vaden Landers, a 32-year- old artist weaving a tapestry of melodies that hark",
-      "image_url": "",
       "price": ""
     },
     {
@@ -421,16 +361,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Bold Forbes / Hannah Lynne Miller",
-      "date": "2026-08-02T00:30:00",
-      "date_raw": "2026-08-02T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/bold_forbes",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Ornithology Jazz Club",
@@ -2061,6 +1991,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "The 12th Annual Brooklyn Americana Music Fest: Opening Night!",
+      "date": "2026-09-11T00:30:00",
+      "date_raw": "2026-09-11T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/the_12th_annual_brook",
+      "description": "",
+      "image_url": "",
+      "price": "$28"
     },
     {
       "venue_name": "Brooklyn Paramount",
