@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-08-02T14:21:40.125219+00:00",
+  "scraped_at": "2026-08-03T15:35:15.302550+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Henry Mena Residency -2nd Saturdays",
-      "date": "2026-07-11T00:00:00",
-      "date_raw": "Saturday, July 11, 2026",
-      "url": "https://www.freddysbar.com/events/henry-mena-residency-2nd-saturdays",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Independent Labor Club Jam Session in the front room",
-      "date": "2026-07-12T00:00:00",
-      "date_raw": "Sunday, July 12, 2026",
-      "url": "https://www.freddysbar.com/events/independent-labor-club-jam-session-2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Martin Monster Presents! JAWS-A-THON (in back)",
-      "date": "2026-07-12T00:00:00",
-      "date_raw": "Sunday, July 12, 2026",
-      "url": "https://www.freddysbar.com/events/martin-monster-presents-1-j7alg",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
@@ -333,16 +303,6 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
-      "date": "2026-08-02T00:00:00",
-      "date_raw": "August 02, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-38/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
       "date": "2026-08-02T00:00:00",
@@ -363,63 +323,13 @@
       "price": ""
     },
     {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-02T18:30:00",
-      "date_raw": "Sunday August 2nd 06:30 PM",
-      "url": "",
-      "description": "Vladimir Katz (p)Alexis- Lambros Theochari David (b)Tommy Campbell (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Nat Harris Quartet",
-      "date": "2026-08-02T19:30:00",
-      "date_raw": "Sunday August 2nd 07:30 PM",
-      "url": "",
-      "description": "Nat Harris (g)Jeb Patton (p)Yuma Takagi (b)Keith Balla (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-02T21:00:00",
-      "date_raw": "Sunday August 2nd 09:00 PM",
-      "url": "",
-      "description": "Joe Magnarelli (tp)Richard Clements (p)Paul Sikivie (b)Andy Watson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Musiche del Sud: Traditional Music of Southern Italy",
-      "date": "2026-08-02T22:30:00",
-      "date_raw": "2026-08-02T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/musiche_del_sud_trad",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Nelson Salgado",
-      "date": "2026-08-02T23:00:00",
-      "date_raw": "Sunday August 2nd 11:00 PM",
-      "url": "",
-      "description": "Nelson Salgado (b)Melanie Giselle (v)Xavier Kim (p)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Ken and Friends featuring Ross Martin and Adam Armstrong",
+      "venue_name": "Lucinda's",
+      "title": "Lightnin Will Grateful Dead Night",
       "date": "2026-08-03T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/258/1785715200000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
-      "image_url": "",
+      "date_raw": "August 03, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/lightnin-will-grateful-dead-night-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/06/63_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -444,7 +354,7 @@
     },
     {
       "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
+      "title": "Visionary Ladybirds Series",
       "date": "2026-08-03T18:30:00",
       "date_raw": "Monday August 3rd 06:30 PM",
       "url": "",
@@ -459,6 +369,26 @@
       "date_raw": "Monday August 3rd 07:30 PM",
       "url": "",
       "description": "Sam\u00a0Raderman (g)Thomas Linger (p)Daniel Duke (b)Alex Raderman (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-03T21:00:00",
+      "date_raw": "Monday August 3rd 09:00 PM",
+      "url": "",
+      "description": "Asaf Yuria (saxophone)Will Gorman (org)Jason Brown (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Gervis Myles",
+      "date": "2026-08-03T23:00:00",
+      "date_raw": "Monday August 3rd 11:00 PM",
+      "url": "",
+      "description": "Gervis Myles (b&synth)Alexis Marcelo (keys&synth)Gary Jones (d)",
       "image_url": "",
       "price": ""
     },
@@ -543,12 +473,22 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "king city corral",
+      "date": "2026-08-05T00:00:00",
+      "date_raw": "August 05, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/king-city-corral-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/07/23_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Ever More Nest",
       "date": "2026-08-05T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/259/1785888000000",
-      "description": ".Rooted in Southern musical traditions and infused with confessional 90s angst, the music of New Orleans Americana artist Ever More Nest can likewise lull you t",
+      "description": ".Rooted in Southern musical traditions and infused with confessional 90s angst, the music of New Orleans Americana artist Ever More Nest can likewise lull you to dream and rock you right off a front porch. Ever More Nest\u2019s dynamic, homegrown voice\u2014hugged by lush, church-pew harmonies\u2014is complemented by expansive guitars, spirited mandolin and banjo, mournful fiddle, and a rhythm section steady as ",
       "image_url": "",
       "price": ""
     },
@@ -613,6 +553,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue: Brooklyn Circle",
+      "date": "2026-08-05T21:00:00",
+      "date_raw": "Wednesday August 5th 09:00 PM",
+      "url": "",
+      "description": "Stacy Dillard (ts)Diallo House (b)Ismail Lawal (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-08-05T22:30:00",
@@ -648,7 +598,7 @@
       "date": "2026-08-06T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/234/1785974400000",
-      "description": "From the enchanting landscapes of Eastern Tennessee comes the burgeoning talent of Vaden Landers, a 32-year- old artist weaving a tapestry of melodies that hark",
+      "description": "From the enchanting landscapes of Eastern Tennessee comes the burgeoning talent of Vaden Landers, a 32-year- old artist weaving a tapestry of melodies that harken back to the golden era of country music. Vaden\u2019s journey began as a train-hopping troubadour and street-busker, crafting songs that resonate with the very soul of Americana. Affectionately dubbed \u201cThe Yodeling Country Bluesman,\u201d Vaden ha",
       "image_url": "",
       "price": ""
     },
@@ -679,6 +629,16 @@
       "date_raw": "Thursday August 6th 06:30 PM",
       "url": "",
       "description": "Carmen Staaf\u00a0 (p)Dida Pelled (v&g)Tony Scherr (b)Kenny Wollesen (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Don Hahn Group",
+      "date": "2026-08-06T19:30:00",
+      "date_raw": "Thursday August 6th 07:30 PM",
+      "url": "",
+      "description": "Don Hahn (cornet&flugelhorn)Adam Aronesty (ts)Pat Brennan (g)Xavier Kim (p)Sameer Shankar (b)Simon Ribas (d)",
       "image_url": "",
       "price": ""
     },
@@ -738,7 +698,7 @@
       "date": "2026-08-07T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/261/1786060800000",
-      "description": "\u201cLeah Tash\u2019s sound evokes the timeless allure of bygone eras while retaining a vibrant resonance with the contemporary musical landscape. She threads together e",
+      "description": "\u201cLeah Tash\u2019s sound evokes the timeless allure of bygone eras while retaining a vibrant resonance with the contemporary musical landscape. She threads together elements of folk, blues, rock \u2018n\u2019 roll, jazz, and country into a unique tapestry that stands as a testament to her versatile artistry.\u201d ~ B-Side Guys Leah Tash has been a songwriter since she was 16 years old. Growing up one neighborhood ove",
       "image_url": "",
       "price": ""
     },
@@ -793,6 +753,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-07T18:30:00",
+      "date_raw": "Friday August 7th 06:30 PM",
+      "url": "",
+      "description": "Davis Whitfield (p)Conway Campbell (b)Adam Arruda (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Bop To The Top",
       "date": "2026-08-07T20:00:00",
@@ -818,7 +788,7 @@
       "date": "2026-08-08T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/244/1786147200000",
-      "description": "If you happen to recognize Kevin Copeland\u2019s name, it is most likely because you were digging through the credits on other artist\u2019s records. Hannah Frances, Lamp",
+      "description": "If you happen to recognize Kevin Copeland\u2019s name, it is most likely because you were digging through the credits on other artist\u2019s records. Hannah Frances, Lamplight, Allegra Krieger, and Lily Seabird are just a few of the artists he\u2019s produced with. Maybe you\u2019ve seen him on the road, playing pedal steel, guitar, or bass. Or maybe you recognize him as a member of Paul Spring\u2019s band at Sunny\u2019s on a",
       "image_url": "",
       "price": ""
     },
@@ -918,7 +888,7 @@
       "date": "2026-08-09T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/262/1786233600000",
-      "description": "By their name, you know where they are from, and by their sound, you know what they are about. The Asheville Mountain Boys are on a mission to capture not just ",
+      "description": "By their name, you know where they are from, and by their sound, you know what they are about. The Asheville Mountain Boys are on a mission to capture not just the style but the spirit of traditional bluegrass. Asheville, NC has long been known for great music and its roots in bluegrass go back to the founding of the genre (Bill Monroe\u2019s first broadcast performance as the Bluegrass Boys was at Ash",
       "image_url": "",
       "price": ""
     },
@@ -968,7 +938,7 @@
       "date": "2026-08-10T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/257/1786320000000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
       "image_url": "",
       "price": ""
     },
@@ -1118,7 +1088,7 @@
       "date": "2026-08-14T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/175/1786665600000",
-      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound",
+      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound. Laura Jean has garnered support from NPR, Bernie sanders, Rolling Stone, Noisey, Salon, Fader, amongst others. Her shows across Los Angeles have established her as a staple of the LA music scene, with support from KCRW and LA Weekly procl",
       "image_url": "",
       "price": ""
     },
@@ -1148,7 +1118,7 @@
       "date": "2026-08-15T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/63/1786752000000",
-      "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was t",
+      "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was that of a record player. \u201cI spent hours in front of the record player dancing to the same song over and over. I must have been about 4 \u2013 music really held me together growing up. \u201d KJ\u2019s career spans 40 years, 10 albums, with legions of devot",
       "image_url": "",
       "price": ""
     },
@@ -1178,7 +1148,7 @@
       "date": "2026-08-16T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/251/1786838400000",
-      "description": "Aurora Nealand strives to live at the intersection of Lunatic and Librarian. She is a sound artist and multi-instrumentalist (saxophones, accordion, voice) base",
+      "description": "Aurora Nealand strives to live at the intersection of Lunatic and Librarian. She is a sound artist and multi-instrumentalist (saxophones, accordion, voice) based in New Orleans, LA . She is deeply interested in the sonification of everyday objects and knowledge-generation through the stories and history that Sound (with a capital S) contains. Nealand is the leader of The Royal Roses, the non-tradi",
       "image_url": "",
       "price": ""
     },
@@ -1238,7 +1208,7 @@
       "date": "2026-08-17T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/257/1786924800000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
       "image_url": "",
       "price": ""
     },
@@ -1290,6 +1260,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/pi-jacobs/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/95/13/04_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Liza Colby Behind The Denim Curtain",
+      "date": "2026-08-19T00:00:00",
+      "date_raw": "August 19, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/liza-colby-behind-the-denim-curtain-28/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/06/73_Original.jpg?v=4",
       "price": ""
     },
     {
@@ -1428,7 +1408,7 @@
       "date": "2026-08-22T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/213/1787356800000",
-      "description": "Rose Paradise enlivens West Coast folk rock. Loyal to the sweet sound of her hometown: Stinson Beach, California, paired with the gritty truths of New York City",
+      "description": "Rose Paradise enlivens West Coast folk rock. Loyal to the sweet sound of her hometown: Stinson Beach, California, paired with the gritty truths of New York City, Paradise sings for the survival of Americana. The foundation of her lyricism is rooted in her lived experience, incorporating her love for the environment and earthly elements into her music. The California chanteuse is poised for her big",
       "image_url": "",
       "price": ""
     },
@@ -1538,7 +1518,7 @@
       "date": "2026-08-24T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/257/1787529600000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
       "image_url": "",
       "price": ""
     },
@@ -1578,7 +1558,7 @@
       "date": "2026-08-26T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/236/1787702400000",
-      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalo",
+      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalopy Records. They gather and resuscitate long lost tunes from around the world using fiddle, 5-string violin, guitar, lap steel, and laser vocal harmonies. Their repertoire spans myriad genres, dusting off 1950\u2019s New Mexican mazurkas and Ame",
       "image_url": "",
       "price": ""
     },
@@ -1688,7 +1668,7 @@
       "date": "2026-08-31T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/241/1788134400000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-mi",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
       "image_url": "",
       "price": ""
     },
@@ -1808,7 +1788,7 @@
       "date": "2026-09-05T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/244/1788566400000",
-      "description": "If you happen to recognize Kevin Copeland\u2019s name, it is most likely because you were digging through the credits on other artist\u2019s records. Hannah Frances, Lamp",
+      "description": "If you happen to recognize Kevin Copeland\u2019s name, it is most likely because you were digging through the credits on other artist\u2019s records. Hannah Frances, Lamplight, Allegra Krieger, and Lily Seabird are just a few of the artists he\u2019s produced with. Maybe you\u2019ve seen him on the road, playing pedal steel, guitar, or bass. Or maybe you recognize him as a member of Paul Spring\u2019s band at Sunny\u2019s on a",
       "image_url": "",
       "price": ""
     },
@@ -1995,8 +1975,8 @@
     {
       "venue_name": "Jalopy Theatre",
       "title": "The 12th Annual Brooklyn Americana Music Fest: Opening Night!",
-      "date": "2026-09-11T00:30:00",
-      "date_raw": "2026-09-11T00:30:00.000Z",
+      "date": "2026-09-11T00:00:00",
+      "date_raw": "2026-09-11T00:00:00.000Z",
       "url": "https://www.viewcy.com/event/the_12th_annual_brook",
       "description": "",
       "image_url": "",
@@ -2018,7 +1998,7 @@
       "date": "2026-09-12T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/63/1789171200000",
-      "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was t",
+      "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was that of a record player. \u201cI spent hours in front of the record player dancing to the same song over and over. I must have been about 4 \u2013 music really held me together growing up. \u201d KJ\u2019s career spans 40 years, 10 albums, with legions of devot",
       "image_url": "",
       "price": ""
     },
@@ -2070,6 +2050,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-44/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-09-13T18:30:00",
+      "date_raw": "Sunday September 13th 06:30 PM",
+      "url": "",
+      "description": "Tamir Hochman (saxophone)Paul Gill (b)Joe Strasser (d)",
+      "image_url": "",
       "price": ""
     },
     {
@@ -2130,6 +2120,16 @@
       "url": "https://www.ticketmaster.com/esdeekid-council-house-rat-tour-brooklyn-new-york-09-15-2026/event/000064F5B9D6820A",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/a52/571ecd1b-5559-4f1d-80fc-fd534a0e0a52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Liza Colby Behind The Denim Curtain",
+      "date": "2026-09-16T00:00:00",
+      "date_raw": "September 16, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/liza-colby-behind-the-denim-curtain-29/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/06/73_Original.jpg?v=4",
       "price": ""
     },
     {
@@ -2893,6 +2893,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Liza Colby Behind The Denim Curtain",
+      "date": "2026-10-21T00:00:00",
+      "date_raw": "October 21, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/liza-colby-behind-the-denim-curtain-30/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/06/73_Original.jpg?v=4",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-10-21T22:30:00",
@@ -3008,6 +3018,16 @@
       "date": "2026-10-30T00:00:00",
       "date_raw": "Friday, October 30, 2026",
       "url": "https://www.freddysbar.com/events/daniels-and-baker-folk-and-more-duo",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Nightbreakers",
+      "date": "2026-10-30T00:00:00",
+      "date_raw": "Friday, October 30, 2026",
+      "url": "https://www.freddysbar.com/events/nightbreakers-1",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4148,26 +4168,6 @@
       "date": "2028-06-28T22:30:00",
       "date_raw": "2028-06-28T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday August 1st 6pm \u2022 Early Set Blues 6-8pm with Matt Wiffen & The Slim Whiskers!",
-      "date": null,
-      "date_raw": "Saturday August 1st 6pm \u2022 Early Set Blues 6-8pm with Matt Wiffen & The Slim Whiskers!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-early-set-blues-6-8pm-with-matt-wiffen-the-slim-whiskers/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "This just in! Saturday August 1st 8:30pm + The Dirt Whisperers!",
-      "date": null,
-      "date_raw": "This just in! Saturday August 1st 8:30pm + The Dirt Whisperers!",
-      "url": "https://www.fredsdoghouse.com/event/this-just-in-saturday-august-1st-830pm-the-dirt-whisperers/",
       "description": "",
       "image_url": "",
       "price": ""
