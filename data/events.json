@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T15:35:15.302550+00:00",
+  "scraped_at": "2026-08-04T15:14:22.871145+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -323,16 +323,6 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Lightnin Will Grateful Dead Night",
-      "date": "2026-08-03T00:00:00",
-      "date_raw": "August 03, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/lightnin-will-grateful-dead-night-2/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/61/06/63_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-08-03T00:00:00",
@@ -349,46 +339,6 @@
       "date_raw": "Monday, August 3, 2026",
       "url": "https://www.freddysbar.com/events/the-roast-ryan-walsh",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Visionary Ladybirds Series",
-      "date": "2026-08-03T18:30:00",
-      "date_raw": "Monday August 3rd 06:30 PM",
-      "url": "",
-      "description": "Roberta Piket (p)Virginia Mathew (saxophone)Pete McCann (g)David Kingsnorth (b)Billy Mintz (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Guitar Leader Series",
-      "date": "2026-08-03T19:30:00",
-      "date_raw": "Monday August 3rd 07:30 PM",
-      "url": "",
-      "description": "Sam\u00a0Raderman (g)Thomas Linger (p)Daniel Duke (b)Alex Raderman (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-03T21:00:00",
-      "date_raw": "Monday August 3rd 09:00 PM",
-      "url": "",
-      "description": "Asaf Yuria (saxophone)Will Gorman (org)Jason Brown (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Gervis Myles",
-      "date": "2026-08-03T23:00:00",
-      "date_raw": "Monday August 3rd 11:00 PM",
-      "url": "",
-      "description": "Gervis Myles (b&synth)Alexis Marcelo (keys&synth)Gary Jones (d)",
       "image_url": "",
       "price": ""
     },
@@ -734,20 +684,20 @@
     },
     {
       "venue_name": "Brooklyn Paramount",
-      "title": "DREW SEELEY M&G Upgrades  - Not a Concert Ticket**",
+      "title": "ADAM HICKS M&G Upgrades - Not a Concert Ticket**",
       "date": "2026-08-07T18:00:00",
       "date_raw": "2026-08-07T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/drew-seeley-mg-upgrades-not-a-brooklyn-new-york-08-07-2026/event/000064FDE76CA4D7",
+      "url": "https://www.ticketmaster.com/adam-hicks-mg-upgrades-not-a-brooklyn-new-york-08-07-2026/event/000064FDE768A4B4",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
       "venue_name": "Brooklyn Paramount",
-      "title": "ADAM HICKS M&G Upgrades - Not a Concert Ticket**",
+      "title": "DREW SEELEY M&G Upgrades  - Not a Concert Ticket**",
       "date": "2026-08-07T18:00:00",
       "date_raw": "2026-08-07T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/adam-hicks-mg-upgrades-not-a-brooklyn-new-york-08-07-2026/event/000064FDE768A4B4",
+      "url": "https://www.ticketmaster.com/drew-seeley-mg-upgrades-not-a-brooklyn-new-york-08-07-2026/event/000064FDE76CA4D7",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
@@ -1504,6 +1454,16 @@
     },
     {
       "venue_name": "Jalopy Theatre",
+      "title": "Robber Crabs / Beak Trio / American",
+      "date": "2026-08-23T00:30:00",
+      "date_raw": "2026-08-23T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/robber_crabs__beak_t",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
       "title": "Jasmine Jang's Garden Voices Album Release Show featuring Blue Jay",
       "date": "2026-08-23T23:00:00",
       "date_raw": "2026-08-23T23:00:00.000Z",
@@ -1850,16 +1810,6 @@
       "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8-lfnch",
       "description": "",
       "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Linea Personal: TODO \u00d8 NADA",
-      "date": "2026-09-06T19:00:00",
-      "date_raw": "2026-09-06T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/linea-personal-todo-nada-brooklyn-new-york-09-06-2026/event/000064D6070BF163",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/b45/96520510-625f-495a-8562-6c64317bab45_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -2600,6 +2550,16 @@
       "url": "https://www.ticketmaster.com/jigitz-brooklyn-new-york-10-02-2026/event/000064BDD0EBAA37",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/f88/dafc791d-bd83-425d-b1fe-97c836585f88_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "SCHOOLBOY Q - 10 Years of Blank Face LP",
+      "date": "2026-10-03T20:00:00",
+      "date_raw": "2026-10-03T20:00:00-04:00",
+      "url": "https://www.ticketmaster.com/schoolboy-q-10-years-of-blank-brooklyn-new-york-10-03-2026/event/000064FEACF1B16C",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/4b5/f2e5e163-2e13-463a-bccf-64c7b8a934b5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
