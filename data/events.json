@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T15:14:22.871145+00:00",
+  "scraped_at": "2026-08-05T15:05:53.144786+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -343,82 +343,12 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "date": "2026-08-04T00:00:00",
-      "date_raw": "August 04, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-38/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Board Games in the Back",
       "date": "2026-08-04T00:00:00",
       "date_raw": "Tuesday, August 4, 2026",
       "url": "https://www.freddysbar.com/events/board-games-in-the-back-pmrez",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-04T18:30:00",
-      "date_raw": "Tuesday August 4th 06:30 PM",
-      "url": "",
-      "description": "Julia Penn (ts)Jakob Dreyer (b)Lonnie Plaxico (b)Taru Alexander (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Jack Harlow - Monica Tour",
-      "date": "2026-08-04T18:30:00",
-      "date_raw": "2026-08-04T18:30:00-04:00",
-      "url": "https://www.ticketmaster.com/jack-harlow-monica-tour-brooklyn-new-york-08-04-2026/event/0000646CF25E3DEC",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/da6/1ebdb037-ead5-4023-a496-be8572c67da6_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Saxophone Leaders Series",
-      "date": "2026-08-04T19:30:00",
-      "date_raw": "Tuesday August 4th 07:30 PM",
-      "url": "",
-      "description": "Ethan Silverman (saxophone)Steve Nelson (g)Alec Safy (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday August 4th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-08-04T20:30:00",
-      "date_raw": "Tuesday August 4th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-november-11th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-04T21:00:00",
-      "date_raw": "Tuesday August 4th 09:00 PM",
-      "url": "",
-      "description": "Adam Frumkin (saxophone)Joe Magnarelli (tp)Paul Sikivie (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Nitsan Kolko",
-      "date": "2026-08-04T23:00:00",
-      "date_raw": "Tuesday August 4th 11:00 PM",
-      "url": "",
-      "description": "Nitsan Kolko (p)Hillai Govreen (woodwinds)",
       "image_url": "",
       "price": ""
     },
@@ -430,16 +360,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/king-city-corral-2/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/61/07/23_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Ever More Nest",
-      "date": "2026-08-05T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/259/1785888000000",
-      "description": ".Rooted in Southern musical traditions and infused with confessional 90s angst, the music of New Orleans Americana artist Ever More Nest can likewise lull you to dream and rock you right off a front porch. Ever More Nest\u2019s dynamic, homegrown voice\u2014hugged by lush, church-pew harmonies\u2014is complemented by expansive guitars, spirited mandolin and banjo, mournful fiddle, and a rhythm section steady as ",
-      "image_url": "",
       "price": ""
     },
     {
@@ -713,6 +633,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Tim Norton Quintet",
+      "date": "2026-08-07T19:30:00",
+      "date_raw": "Friday August 7th 07:30 PM",
+      "url": "",
+      "description": "Tim Norton (b)Joshua Bruneau (tp)Seth Trachy (ts)Se\u00e1n McCluskey (p)Faron Tillson (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Bop To The Top",
       "date": "2026-08-07T20:00:00",
@@ -803,6 +733,16 @@
       "price": "$23"
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-08T18:30:00",
+      "date_raw": "Saturday August 8th 06:30 PM",
+      "url": "",
+      "description": "Julius Gawlik (ts)Phillip Golub (p)Charlie Lincoln (b)Angus Mason (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Qveen\u00a0Herby\u00a0- Isle of\u00a0Qveen\u00a0Tour",
       "date": "2026-08-08T20:00:00",
@@ -873,6 +813,26 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Sunday August 9th 8:30pm \u2022 Blues & Americana with Jason Green!",
+      "date": "2026-08-09T20:30:00",
+      "date_raw": "Sunday August 9th 8:30pm \u2022 Blues & Americana with Jason Green!",
+      "url": "https://www.fredsdoghouse.com/event/wednesday-august-27th-blues-americana-with-jason-green/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-09T21:00:00",
+      "date_raw": "Sunday August 9th 09:00 PM",
+      "url": "",
+      "description": "Phil Stewart (d)Zaid Nasser (as)Sasha Perry (p)Paul Sikivie (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "From Nashville, India Ramey and her Band",
       "date": "2026-08-10T00:00:00",
@@ -911,6 +871,16 @@
       "description": "",
       "image_url": "",
       "price": "$28"
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Modern Guitar Leader Series",
+      "date": "2026-08-10T19:30:00",
+      "date_raw": "Monday August 10th 07:30 PM",
+      "url": "",
+      "description": "Robert Papacica (g)Yvonne Rogers (p)Sim\u00f3n Willson (b)Adam Arruda (d)",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -1199,6 +1169,16 @@
       "date_raw": "Tuesday, August 18, 2026",
       "url": "https://www.freddysbar.com/events/original-music-open-mic-every-3rd-tuesday-hosted-by-luke-mostly-music-mic-with-2-sets-for-poetry-comedy-5fymc",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Tomer Sasson",
+      "date": "2026-08-18T23:00:00",
+      "date_raw": "Tuesday August 18th 11:00 PM",
+      "url": "",
+      "description": "Tomer Sasson (g)John Smith (b)Samir B\u00f6hringer (d)",
       "image_url": "",
       "price": ""
     },
@@ -1854,7 +1834,7 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "Tim Eriksen",
+      "title": "Tim Eriksen and Peter Irvine Duo",
       "date": "2026-09-09T00:30:00",
       "date_raw": "2026-09-09T00:30:00.000Z",
       "url": "https://www.viewcy.com/event/tim_eriksen",
@@ -2513,6 +2493,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Nat Osborn's new band Lord Coward Album Release Show.",
+      "date": "2026-10-01T00:00:00",
+      "date_raw": "October 01, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/nat-osborns-new-band-lord-coward-album-release-show/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/53/63_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Audrey Hobert: The Staircase To Stardom Tour",
       "date": "2026-10-01T19:00:00",
@@ -2841,6 +2831,16 @@
       "description": "",
       "image_url": "",
       "price": "$28"
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "JPEGMAFIA: the Experimental Rap Tour",
+      "date": "2026-10-18T18:30:00",
+      "date_raw": "2026-10-18T18:30:00-04:00",
+      "url": "https://www.ticketmaster.com/jpegmafia-the-experimental-rap-tour-brooklyn-new-york-10-18-2026/event/000064879A9F94A7",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/0ad/2715f828-d867-417d-a621-9226eeed80ad_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
