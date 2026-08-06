@@ -1,63 +1,13 @@
 {
-  "scraped_at": "2026-08-05T15:05:53.144786+00:00",
+  "scraped_at": "2026-08-06T15:04:37.027116+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-07-13T00:00:00",
-      "date_raw": "Monday, July 13, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-tpel7-p9ntd-3e22k",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Big Joe's Happiness Exchange",
-      "date": "2026-07-14T00:00:00",
-      "date_raw": "Tuesday, July 14, 2026",
-      "url": "https://www.freddysbar.com/events/dsc6kndmgfph4em8ljetrbd96c9h64-4gmt2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "LIMITED RESOURCES music residency every 3rd Wednesday",
-      "date": "2026-07-15T00:00:00",
-      "date_raw": "Wednesday, July 15, 2026",
-      "url": "https://www.freddysbar.com/events/6yjyaz844cz5nnxgw2ggfkxcr7hkzj",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-07-15T00:00:00",
-      "date_raw": "Wednesday, July 15, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-66tja",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Garden Party- 3rd Thursdays- Burlesque in the Back Every Thursday",
       "date": "2026-07-16T00:00:00",
       "date_raw": "Thursday, July 16, 2026",
       "url": "https://www.freddysbar.com/events/garden-party-3rd-thursdays-burlesque-in-the-back-every-thursday-aync6",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Mimsey's Open Mic-Saturday Edition",
-      "date": "2026-07-16T00:00:00",
-      "date_raw": "Thursday, July 16, 2026",
-      "url": "https://www.freddysbar.com/events/mimseys-open-mic-saturday-edition",
       "description": "",
       "image_url": "",
       "price": ""
@@ -304,16 +254,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
-      "date": "2026-08-02T00:00:00",
-      "date_raw": "Sunday, August 2, 2026",
-      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
       "date": "2026-08-02T00:00:00",
       "date_raw": "Sunday, August 2, 2026",
@@ -324,10 +264,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-08-03T00:00:00",
-      "date_raw": "Monday, August 3, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-yemkx-hkxlw",
+      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
+      "date": "2026-08-02T00:00:00",
+      "date_raw": "Sunday, August 2, 2026",
+      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p",
       "description": "",
       "image_url": "",
       "price": ""
@@ -344,22 +284,22 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "date": "2026-08-03T00:00:00",
+      "date_raw": "Monday, August 3, 2026",
+      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-yemkx-hkxlw",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Board Games in the Back",
       "date": "2026-08-04T00:00:00",
       "date_raw": "Tuesday, August 4, 2026",
       "url": "https://www.freddysbar.com/events/board-games-in-the-back-pmrez",
       "description": "",
       "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "king city corral",
-      "date": "2026-08-05T00:00:00",
-      "date_raw": "August 05, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/king-city-corral-2/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/61/07/23_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -383,76 +323,6 @@
       "price": ""
     },
     {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-05T18:30:00",
-      "date_raw": "Wednesday August 5th 06:30 PM",
-      "url": "",
-      "description": "Daniele Germani (saxophone)Esteban Castro (p)Dean Torrey (b)Roberto Giaquinto (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Alex Isley - When The City Sleeps",
-      "date": "2026-08-05T19:00:00",
-      "date_raw": "2026-08-05T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/alex-isley-when-the-city-sleeps-brooklyn-new-york-08-05-2026/event/0000649CCE6CD71D",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/929/868a946f-8525-4a3c-aa3a-329c04fdc929_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Teri Roiger Sings Abbey Lincoln",
-      "date": "2026-08-05T19:30:00",
-      "date_raw": "Wednesday August 5th 07:30 PM",
-      "url": "",
-      "description": "Teri Roiger (v)Steve Einerson (p)John Menegon (b)Matt Garrity (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Wednesday August 5th 8:30pm \u2022 Blues & Americana with Saint Gevendon!",
-      "date": "2026-08-05T20:30:00",
-      "date_raw": "Wednesday August 5th 8:30pm \u2022 Blues & Americana with Saint Gevendon!",
-      "url": "https://www.fredsdoghouse.com/event/thursday-may-20th-830pm-blues-americana-with-saint-gevendon/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue: Brooklyn Circle",
-      "date": "2026-08-05T21:00:00",
-      "date_raw": "Wednesday August 5th 09:00 PM",
-      "url": "",
-      "description": "Stacy Dillard (ts)Diallo House (b)Ismail Lawal (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-08-05T22:30:00",
-      "date_raw": "2026-08-05T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Kai Gluska",
-      "date": "2026-08-05T23:00:00",
-      "date_raw": "Wednesday August 5th 11:00 PM",
-      "url": "",
-      "description": "Kai Gluska (g)Itai Eliezri (b)Naveh Raz (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Jarrod Dickenson",
       "date": "2026-08-06T00:00:00",
@@ -463,31 +333,11 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Vaden Landers Band",
-      "date": "2026-08-06T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/234/1785974400000",
-      "description": "From the enchanting landscapes of Eastern Tennessee comes the burgeoning talent of Vaden Landers, a 32-year- old artist weaving a tapestry of melodies that harken back to the golden era of country music. Vaden\u2019s journey began as a train-hopping troubadour and street-busker, crafting songs that resonate with the very soul of Americana. Affectionately dubbed \u201cThe Yodeling Country Bluesman,\u201d Vaden ha",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Burlesque in the Back Every Thursday",
       "date": "2026-08-06T00:00:00",
       "date_raw": "Thursday, August 6, 2026",
       "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-4-dzhlc",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Roots n' Ruckus! AUGUST!",
-      "date": "2026-08-06T00:00:00",
-      "date_raw": "2026-08-06T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/roots_n_ruckus_augu_1",
       "description": "",
       "image_url": "",
       "price": ""
@@ -663,6 +513,26 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-07T21:00:00",
+      "date_raw": "Friday August 7th 09:00 PM",
+      "url": "",
+      "description": "Ralph Lalama (ts)Leonieke Scheuble (org)Mike Camacho (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Dor Chaviv",
+      "date": "2026-08-07T23:00:00",
+      "date_raw": "Friday August 7th 11:00 PM",
+      "url": "",
+      "description": "Dor Chaviv (saxophone)Ben Tiberio (b)Itay Morchi (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Kevin Copeland and Friends",
       "date": "2026-08-08T00:00:00",
@@ -759,6 +629,16 @@
       "date_raw": "Saturday August 8th 8:30pm \u2022 The National Reserve",
       "url": "https://www.fredsdoghouse.com/event/saturday-february-15th-the-cannibal-ramblers/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By James Haddad",
+      "date": "2026-08-08T23:00:00",
+      "date_raw": "Saturday August 8th 11:00 PM",
+      "url": "",
+      "description": "James Haddad (tp)Colson Jimenez (b)Jacob Smith (d)",
       "image_url": "",
       "price": ""
     },
@@ -1153,6 +1033,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Visionary Ladybird Series",
+      "date": "2026-08-17T18:30:00",
+      "date_raw": "Monday August 17th 06:30 PM",
+      "url": "",
+      "description": "Alicyn Yaffee (g&v)Miki Yamanaka (p)Bar Filipowicz (b)David Hawkins (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Weekly Bluegrass with  Allison Kelly",
       "date": "2026-08-18T00:00:00",
@@ -1538,6 +1428,16 @@
       "date": "2026-08-28T00:00:00",
       "date_raw": "Friday, August 28, 2026",
       "url": "https://www.freddysbar.com/events/stinky-vaseline-nyc-ween-covers",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Arath Corral",
+      "date": "2026-08-28T00:00:00",
+      "date_raw": "Friday, August 28, 2026",
+      "url": "https://www.freddysbar.com/events/arath-corral",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2494,13 +2394,23 @@
     },
     {
       "venue_name": "Lucinda's",
-      "title": "Nat Osborn's new band Lord Coward Album Release Show.",
+      "title": "Lord Coward Record  Release Show.",
       "date": "2026-10-01T00:00:00",
       "date_raw": "October 01, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/nat-osborns-new-band-lord-coward-album-release-show/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/61/53/63_Original.jpg?v=3",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/53/63_Original.jpg?v=5",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jason Dea West",
+      "date": "2026-10-01T00:30:00",
+      "date_raw": "2026-10-01T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jason_dea_west",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -2610,6 +2520,16 @@
       "url": "https://www.freddysbar.com/events/board-games-in-the-back-chnjz",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Adam Masterson, Singer Songwriter.",
+      "date": "2026-10-07T00:00:00",
+      "date_raw": "October 07, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/adam-masterson-singer-songwriter/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/71/03_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -2793,6 +2713,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "LIGHTNING WILL GRATEFUL DEAD TRIBUTE",
+      "date": "2026-10-17T00:00:00",
+      "date_raw": "Saturday, October 17, 2026",
+      "url": "https://www.freddysbar.com/events/lightning-will-grateful-dead-tribute",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Ryan Beatty - Arms Over Armor North American Tour '26",
       "date": "2026-10-17T19:00:00",
@@ -2840,6 +2770,16 @@
       "url": "https://www.ticketmaster.com/jpegmafia-the-experimental-rap-tour-brooklyn-new-york-10-18-2026/event/000064879A9F94A7",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/0ad/2715f828-d867-417d-a621-9226eeed80ad_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Earl Sweatshirt & MIKE  Home on the Range Tour 2026",
+      "date": "2026-10-19T19:00:00",
+      "date_raw": "2026-10-19T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-brooklyn-new-york-10-19-2026/event/000064650A2CE579",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/469/f6db8121-664a-4972-9853-b1eb4d318469_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -2993,6 +2933,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "EVEN TWICE",
+      "date": "2026-10-30T00:00:00",
+      "date_raw": "Friday, October 30, 2026",
+      "url": "https://www.freddysbar.com/events/even-twice-1",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "The Lowest Pair",
       "date": "2026-10-31T00:30:00",
@@ -3040,6 +2990,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-23/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Private Party",
+      "date": "2026-11-07T00:00:00",
+      "date_raw": "Saturday, November 7, 2026",
+      "url": "https://www.freddysbar.com/events/p8l4tzlhmmds4dmmwhcahwr37pbf8t",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -4127,6 +4087,16 @@
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2028-06-28T22:30:00",
       "date_raw": "2028-06-28T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-07-05T22:30:00",
+      "date_raw": "2028-07-05T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
