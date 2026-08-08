@@ -91,3 +91,6 @@ venues:
     strategy: viewcy
     viewcy_org: jalopytheatre
     viewcy_category: '360'
+  - name: Smalls Live
+    url: https://www.smallslive.com
+    strategy: smallslive
