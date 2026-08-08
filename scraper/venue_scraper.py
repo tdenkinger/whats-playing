@@ -60,6 +60,8 @@ def scrape_venue(venue: VenueConfig) -> list[Event]:
         return _scrape_tockify(venue)
     if venue.strategy == "viewcy":
         return _scrape_viewcy(venue)
+    if venue.strategy == "smallslive":
+        return _scrape_smallslive(venue)
 
     try:
         resp = requests.get(venue.url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
@@ -182,6 +184,85 @@ def _parse_viewcy_date(starts_at: str) -> Optional[datetime]:
         return dt.astimezone().replace(tzinfo=None)
     except (ValueError, OverflowError):
         return None
+
+
+_TIME_RANGE_SPLIT = re.compile(r"\s*(?:-|–|&)\s*")
+
+
+def _scrape_smallslive(venue: VenueConfig) -> list[Event]:
+    """Smalls Live's homepage loads its "Upcoming Shows" calendar via an AJAX
+    endpoint (the static HTML only contains today/tomorrow's shows). This
+    paginates that endpoint, walking day-by-day, and parses the per-day,
+    per-room event listing it returns."""
+    base = venue.base_url or venue.url
+    ajax_url = urljoin(base, "/search/upcoming-ajax/")
+
+    events: list[Event] = []
+    seen_dates: set[str] = set()
+    starting_date = ""
+    for _ in range(12):  # safety cap: the site only ever lists a few months out
+        params = {"starting_date": starting_date} if starting_date else {}
+        try:
+            resp = requests.get(
+                ajax_url,
+                params=params,
+                headers={**HEADERS, "X-Requested-With": "XMLHttpRequest", "Referer": base},
+                timeout=REQUEST_TIMEOUT,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+        except (requests.RequestException, ValueError) as e:
+            logger.warning("Failed to fetch Smalls Live calendar: %s", e)
+            if not events:
+                raise VenueScrapeError(str(e)) from e
+            break
+
+        day_lists = BeautifulSoup(data.get("template", ""), "lxml").select(".day-list")
+        if not day_lists:
+            break
+
+        last_date: Optional[datetime] = None
+        found_new_day = False
+        for day in day_lists:
+            title_el = day.select_one(".title1[data-date]")
+            date_raw = title_el["data-date"] if title_el else ""
+            if not date_raw or date_raw in seen_dates:
+                continue
+            seen_dates.add(date_raw)
+            found_new_day = True
+
+            day_date = _parse_date(date_raw)
+            if day_date and (last_date is None or day_date > last_date):
+                last_date = day_date
+
+            for group in day.select(".venue-group"):
+                room_el = group.select_one('[class*="-color"]')
+                room = room_el.get_text(strip=True) if room_el else ""
+                for block in group.select(".day-event"):
+                    link = block.select_one("a")
+                    title = _text(block, ".day_event_title")
+                    if not link or not title:
+                        continue
+                    time_raw = _text(block, ".text-grey")
+                    start_time = _TIME_RANGE_SPLIT.split(time_raw)[0].strip()
+                    date_raw_full = f"{date_raw} {start_time}".strip()
+
+                    events.append(
+                        Event(
+                            venue_name=venue.name,
+                            title=f"{title} — {room}" if room else title,
+                            date=_parse_date(date_raw_full),
+                            date_raw=date_raw_full,
+                            url=_resolve_url(link.get("href", ""), venue),
+                        )
+                    )
+
+        if not found_new_day or last_date is None:
+            break
+        starting_date_dt = last_date + timedelta(days=1)
+        starting_date = f"{starting_date_dt.year}-{starting_date_dt.month}-{starting_date_dt.day}"
+
+    return events
 
 
 def _parse_date(raw: str) -> Optional[datetime]:

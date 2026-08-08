@@ -1,7 +1,7 @@
 import json
 import textwrap
 from datetime import datetime
-from unittest.mock import patch
+from unittest.mock import MagicMock, patch
 
 import pytest
 from bs4 import BeautifulSoup
@@ -12,6 +12,7 @@ from scraper.venue_scraper import (
     _resolve_url,
     _scrape_css,
     _scrape_json_ld,
+    _scrape_smallslive,
     load_venues,
     save_venues,
     scrape_all_venues,
@@ -382,6 +383,105 @@ def test_scrape_css_skips_blocks_without_title():
         event_selector=".event-card", title_selector="h2",
     )
     assert _scrape_css(_soup(html), venue) == []
+
+
+# ── _scrape_smallslive ──────────────────────────────────────────────────────
+
+_SMALLSLIVE_VENUE = VenueConfig(name="Smalls Live", url="https://www.smallslive.com", strategy="smallslive")
+
+_SMALLSLIVE_DAY_HTML = """
+<div class="flex-column day-list">
+  <div class="title1" data-date="Aug. 8, 2026">Sat Aug 08</div>
+  <div class="venue-group">
+    <div class="jazzcultural-color text2">Jazzcultural</div>
+    <div class="flex-column day-event">
+      <a href="/events/afternoon-jam/">
+        <div class="text-grey text2">2:00 PM - 6:00 PM</div>
+        <div class="text2 day_event_title">Afternoon Jam</div>
+      </a>
+    </div>
+  </div>
+  <div class="venue-group">
+    <div class="mezzrow-color text2">Mezzrow</div>
+    <div class="flex-column day-event">
+      <a href="/events/lex-korten-trio/">
+        <div class="text-grey text2">7:00 PM &amp; 9:00 PM</div>
+        <div class="text2 day_event_title">Lex Korten Trio</div>
+      </a>
+    </div>
+  </div>
+</div>
+"""
+
+
+def _smallslive_page(template: str) -> MagicMock:
+    resp = MagicMock()
+    resp.raise_for_status.return_value = None
+    resp.json.return_value = {"template": template}
+    return resp
+
+
+def test_scrape_smallslive_extracts_events_across_rooms():
+    with patch(
+        "scraper.venue_scraper.requests.get",
+        side_effect=[_smallslive_page(_SMALLSLIVE_DAY_HTML), _smallslive_page("")],
+    ):
+        events = _scrape_smallslive(_SMALLSLIVE_VENUE)
+
+    assert len(events) == 2
+    assert events[0].title == "Afternoon Jam — Jazzcultural"
+    assert events[1].title == "Lex Korten Trio — Mezzrow"
+    assert all(e.venue_name == "Smalls Live" for e in events)
+
+
+def test_scrape_smallslive_resolves_url_and_keeps_only_start_time():
+    with patch(
+        "scraper.venue_scraper.requests.get",
+        side_effect=[_smallslive_page(_SMALLSLIVE_DAY_HTML), _smallslive_page("")],
+    ):
+        events = _scrape_smallslive(_SMALLSLIVE_VENUE)
+
+    afternoon_jam, lex_korten = events
+    assert afternoon_jam.url == "https://www.smallslive.com/events/afternoon-jam/"
+    assert afternoon_jam.date.hour == 14  # "2:00 PM - 6:00 PM" keeps just the start
+    assert lex_korten.date.hour == 19  # "7:00 PM & 9:00 PM" keeps just the first set
+
+
+def test_scrape_smallslive_paginates_until_a_page_has_no_days():
+    day2_html = _SMALLSLIVE_DAY_HTML.replace("Aug. 8, 2026", "Aug. 9, 2026")
+    with patch(
+        "scraper.venue_scraper.requests.get",
+        side_effect=[_smallslive_page(_SMALLSLIVE_DAY_HTML), _smallslive_page(day2_html), _smallslive_page("")],
+    ) as mock_get:
+        events = _scrape_smallslive(_SMALLSLIVE_VENUE)
+
+    assert len(events) == 4
+    assert mock_get.call_count == 3
+
+
+def test_scrape_smallslive_skips_blocks_without_title_or_link():
+    html = """
+    <div class="flex-column day-list">
+      <div class="title1" data-date="Aug. 8, 2026">Sat Aug 08</div>
+      <div class="venue-group">
+        <div class="smalls-color text2">Smalls</div>
+        <div class="flex-column day-event"><div class="text2 day_event_title">No Link</div></div>
+        <div class="flex-column day-event"><a href="/events/no-title/"></a></div>
+      </div>
+    </div>
+    """
+    with patch(
+        "scraper.venue_scraper.requests.get",
+        side_effect=[_smallslive_page(html), _smallslive_page("")],
+    ):
+        assert _scrape_smallslive(_SMALLSLIVE_VENUE) == []
+
+
+def test_scrape_smallslive_raises_on_network_error():
+    import requests as _requests
+    with patch("scraper.venue_scraper.requests.get", side_effect=_requests.ConnectionError("refused")):
+        with pytest.raises(VenueScrapeError):
+            _scrape_smallslive(_SMALLSLIVE_VENUE)
 
 
 # ── scrape_all_venues ─────────────────────────────────────────────────────────
