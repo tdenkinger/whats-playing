@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T14:03:51.698598+00:00",
+  "scraped_at": "2026-08-08T13:36:39.718249+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -313,26 +313,6 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Sweet Megg",
-      "date": "2026-08-07T00:00:00",
-      "date_raw": "August 07, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/sweet-megg/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/60/09/73_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Live Band Country Karaoke",
-      "date": "2026-08-07T00:00:00",
-      "date_raw": "August 07, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-10/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Blood Estate (Ambient) performance",
       "date": "2026-08-07T00:00:00",
@@ -359,96 +339,6 @@
       "date_raw": "Friday, August 7, 2026",
       "url": "https://www.freddysbar.com/events/safka-5-piece-indie",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "ADAM HICKS M&G Upgrades - Not a Concert Ticket**",
-      "date": "2026-08-07T18:00:00",
-      "date_raw": "2026-08-07T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/adam-hicks-mg-upgrades-not-a-brooklyn-new-york-08-07-2026/event/000064FDE768A4B4",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "DREW SEELEY M&G Upgrades  - Not a Concert Ticket**",
-      "date": "2026-08-07T18:00:00",
-      "date_raw": "2026-08-07T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/drew-seeley-mg-upgrades-not-a-brooklyn-new-york-08-07-2026/event/000064FDE76CA4D7",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/c/03e/e15ef00f-2c87-4421-ae61-d740851a703e_105891_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-07T18:30:00",
-      "date_raw": "Friday August 7th 06:30 PM",
-      "url": "",
-      "description": "Davis Whitfield (p)Conway Campbell (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Tim Norton Quintet",
-      "date": "2026-08-07T19:30:00",
-      "date_raw": "Friday August 7th 07:30 PM",
-      "url": "",
-      "description": "Tim Norton (b)Joshua Bruneau (tp)Seth Trachy (ts)Se\u00e1n McCluskey (p)Faron Tillson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Bop To The Top",
-      "date": "2026-08-07T20:00:00",
-      "date_raw": "2026-08-07T20:00:00-04:00",
-      "url": "https://www.ticketmaster.com/bop-to-the-top-brooklyn-new-york-08-07-2026/event/00006498EAA6FD12",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/f15/128043a6-6147-4c0d-8e05-9f182bedaf15_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday August 7th 8:30pm \u2022  New Moon Acoustic Blues Trio",
-      "date": "2026-08-07T20:30:00",
-      "date_raw": "Friday August 7th 8:30pm \u2022  New Moon Acoustic Blues Trio",
-      "url": "https://www.fredsdoghouse.com/event/friday-september-12th-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-07T21:00:00",
-      "date_raw": "Friday August 7th 09:00 PM",
-      "url": "",
-      "description": "Ralph Lalama (ts)Leonieke Scheuble (org)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Dor Chaviv",
-      "date": "2026-08-07T23:00:00",
-      "date_raw": "Friday August 7th 11:00 PM",
-      "url": "",
-      "description": "Dor Chaviv (saxophone)Ben Tiberio (b)Itay Morchi (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Kevin Copeland and Friends",
-      "date": "2026-08-08T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/244/1786147200000",
-      "description": "If you happen to recognize Kevin Copeland\u2019s name, it is most likely because you were digging through the credits on other artist\u2019s records. Hannah Frances, Lamplight, Allegra Krieger, and Lily Seabird are just a few of the artists he\u2019s produced with. Maybe you\u2019ve seen him on the road, playing pedal steel, guitar, or bass. Or maybe you recognize him as a member of Paul Spring\u2019s band at Sunny\u2019s on a",
       "image_url": "",
       "price": ""
     },
@@ -503,22 +393,22 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jordan Smart / Jay Skaggs",
-      "date": "2026-08-08T00:30:00",
-      "date_raw": "2026-08-08T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jordan_smart",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Earlybird Show",
       "date": "2026-08-08T18:30:00",
       "date_raw": "Saturday August 8th 06:30 PM",
       "url": "",
       "description": "Julius Gawlik (ts)Phillip Golub (p)Charlie Lincoln (b)Angus Mason (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Neal Caine Trio",
+      "date": "2026-08-08T19:30:00",
+      "date_raw": "Saturday August 8th 07:30 PM",
+      "url": "",
+      "description": "Neal Caine (b)Andrew Fisher (p)Donald Edwards (d)",
       "image_url": "",
       "price": ""
     },
@@ -723,6 +613,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday August 11th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-08-11T20:30:00",
+      "date_raw": "Tuesday August 11th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Matthew Avedon",
       "date": "2026-08-12T00:00:00",
@@ -753,11 +653,31 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday August 12th 8:30pm \u2022\u00a0Blues and Americana with Fatboy Wilson!",
+      "date": "2026-08-12T20:30:00",
+      "date_raw": "Wednesday August 12th 8:30pm \u2022\u00a0Blues and Americana with Fatboy Wilson!",
+      "url": "https://www.fredsdoghouse.com/event/blues-and-america-with-samoa-wilson/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-08-12T22:30:00",
       "date_raw": "2026-08-12T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Thursday August 13th + Gospel & Mississippi Delta Boogie with The Black Baptist!",
+      "date": "2026-08-13T00:00:00",
+      "date_raw": "Thursday August 13th + Gospel & Mississippi Delta Boogie with The Black Baptist!",
+      "url": "https://www.fredsdoghouse.com/event/delta-gospel-with-the-black-baptist/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -799,6 +719,16 @@
       "date_raw": "Thursday, August 13, 2026",
       "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-3-ztacs-zswxy-kx52e-z6y3y",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-13T21:00:00",
+      "date_raw": "Thursday August 13th 09:00 PM",
+      "url": "",
+      "description": "Ben Barnett (trombone)Ray Gallon (p)Clovis Nicolas (b)Aaron Seeber (d)",
       "image_url": "",
       "price": ""
     },
@@ -863,6 +793,36 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Friday August 14th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "date": "2026-08-14T20:30:00",
+      "date_raw": "Friday August 14th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "url": "https://www.fredsdoghouse.com/event/friday-may-15th-830pm-new-moon-acoustic-blues-trio-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Noam Shapira",
+      "date": "2026-08-14T23:00:00",
+      "date_raw": "Friday August 14th 11:00 PM",
+      "url": "",
+      "description": "Noam Shapira (saxophone)Colson Jimenez (b)Yali Shimoni (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday August 15th \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
+      "date": "2026-08-15T00:00:00",
+      "date_raw": "Saturday August 15th \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
+      "url": "https://www.fredsdoghouse.com/event/friday-october-3rd-delta-swamp-blues-with-the-cannibal-ramblers/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "KJ Denhert",
       "date": "2026-08-15T00:00:00",
@@ -878,6 +838,26 @@
       "date": "2026-08-15T00:00:00",
       "date_raw": "Saturday, August 15, 2026",
       "url": "https://www.freddysbar.com/events/pole-after-dark-38zj2",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-15T21:00:00",
+      "date_raw": "Saturday August 15th 09:00 PM",
+      "url": "",
+      "description": "Steve Nelson (g)Ben Allen (org)Errold Lanier Jr. (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Sunday August 16th + Blues with The Milkman aka Marcus Milius!",
+      "date": "2026-08-16T00:00:00",
+      "date_raw": "Sunday August 16th + Blues with The Milkman aka Marcus Milius!",
+      "url": "https://www.fredsdoghouse.com/event/blues-with-the-milkman-aka-marcus-milius/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1013,6 +993,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday August 18th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-08-18T20:30:00",
+      "date_raw": "Tuesday August 18th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-august-4th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Cafe Ornithology",
       "title": "Late Night Jam Hosted By Tomer Sasson",
       "date": "2026-08-18T23:00:00",
@@ -1083,6 +1073,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday August 19th 8:30pm \u2022 Blues, American & more with Papa Vega!",
+      "date": "2026-08-19T20:30:00",
+      "date_raw": "Wednesday August 19th 8:30pm \u2022 Blues, American & more with Papa Vega!",
+      "url": "https://www.fredsdoghouse.com/event/wednesday-july-8th-830pm-blues-american-more-with-papa-vega-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-08-19T22:30:00",
@@ -1109,6 +1109,16 @@
       "date_raw": "Thursday, August 20, 2026",
       "url": "https://www.freddysbar.com/events/garden-party-3rd-thursdays-burlesque-in-the-back-every-thursday-e9a2z",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-20T18:30:00",
+      "date_raw": "Thursday August 20th 06:30 PM",
+      "url": "",
+      "description": "Justin Salisbury (p)Charlie Lincoln (b)Angus Mason (d)",
       "image_url": "",
       "price": ""
     },
@@ -2883,6 +2893,16 @@
       "price": "$23"
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Paris Paloma: The Fatal Flaw Tour",
+      "date": "2026-10-20T19:00:00",
+      "date_raw": "2026-10-20T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-brooklyn-new-york-10-20-2026/event/000064A4E12EF369",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/67f/0b8cc3eb-78c4-4c29-8176-08c15df6167f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Liza Colby Behind The Denim Curtain",
       "date": "2026-10-21T00:00:00",
@@ -2893,6 +2913,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Sienna Spiro: My House Tour",
+      "date": "2026-10-21T19:00:00",
+      "date_raw": "2026-10-21T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/sienna-spiro-my-house-tour-brooklyn-new-york-10-21-2026/event/000064C7825E6199",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/b07/09e0979d-7b3d-4cd4-badf-67d6ced79b07_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-10-21T22:30:00",
@@ -2900,6 +2930,16 @@
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "BECK: RIDE LONESOME TOUR",
+      "date": "2026-10-22T19:00:00",
+      "date_raw": "2026-10-22T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/beck-ride-lonesome-tour-brooklyn-new-york-10-22-2026/event/00006483ADA0C77C",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/3ac/d5ca2c8b-6833-416d-8256-d0b0b6e603ac_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
