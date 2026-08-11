@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-08-10T14:10:21.988475+00:00",
+  "scraped_at": "2026-08-11T14:10:04.454062+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-07-22T00:00:00",
-      "date_raw": "Wednesday, July 22, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-p2xw5",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Burlesque in the Back Every Thursday",
@@ -303,151 +293,11 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "From Nashville, India Ramey and her Band",
-      "date": "2026-08-10T00:00:00",
-      "date_raw": "August 10, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/from-nashville-india-ramey-and-her-band/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/92/75/24_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-08-10T00:00:00",
       "date_raw": "Monday, August 10, 2026",
       "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-yemkx-cyxhl",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-10T14:00:00",
-      "date_raw": "Aug. 10, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33520-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Neal Miner Trio \u2014 Mezzrow",
-      "date": "2026-08-10T18:00:00",
-      "date_raw": "Aug. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33506-neal-miner-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jerome Jennings Quintet \u2014 Smalls",
-      "date": "2026-08-10T18:00:00",
-      "date_raw": "Aug. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33334-jerome-jennings-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Visionary Ladybird Series",
-      "date": "2026-08-10T18:30:00",
-      "date_raw": "Monday August 10th 06:30 PM",
-      "url": "",
-      "description": "Zoe Obadia (as)Micah Thomas (p)Felix Moseholm (b)Jacob Patrone (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Brad Mehldau Quartet \u2014 Jazzcultural",
-      "date": "2026-08-10T19:00:00",
-      "date_raw": "Aug. 10, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33459-brad-mehldau-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Guitar Leader Series",
-      "date": "2026-08-10T19:30:00",
-      "date_raw": "Monday August 10th 07:30 PM",
-      "url": "",
-      "description": "Robert Papacica (g)Yvonne Rogers (p)Sim\u00f3n Willson (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-10T21:00:00",
-      "date_raw": "Monday August 10th 09:00 PM",
-      "url": "",
-      "description": "Thomas Linger (p)Gideon Tazelaar (saxophone)Paul Sikivie (b)Michael Ode (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jesse Green Trio \u2014 Mezzrow",
-      "date": "2026-08-10T21:00:00",
-      "date_raw": "Aug. 10, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33507-jesse-green-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eviatar Slivnik Quartet \u2014 Smalls",
-      "date": "2026-08-10T21:00:00",
-      "date_raw": "Aug. 10, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33335-eviatar-slivnik-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-10T22:00:00",
-      "date_raw": "Aug. 10, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33551-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Xavier Kim",
-      "date": "2026-08-10T23:00:00",
-      "date_raw": "Monday August 10th 11:00 PM",
-      "url": "",
-      "description": "Xavier Kim (p)Jack Nissen (b)George Greenhill (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-08-10T23:30:00",
-      "date_raw": "Aug. 10, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33405-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Mike Boone \u2014 Smalls",
-      "date": "2026-08-10T23:45:00",
-      "date_raw": "Aug. 10, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33422-jam-session-hosted-by-mike-boone/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -543,6 +393,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-11T21:00:00",
+      "date_raw": "Tuesday August 11th 09:00 PM",
+      "url": "",
+      "description": "Kazu Yokoshima (keyboard)Steve Kirsty (saxophone)Steve Nelson (g)Mike Camacho (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Ray Gallon Trio \u2014 Mezzrow",
       "date": "2026-08-11T21:00:00",
@@ -600,6 +460,16 @@
       "url": "https://www.smallslive.com/events/33429-jam-session-hosted-by-jason-clotter/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Kelley Swindall + Billy Woodward",
+      "date": "2026-08-12T00:00:00",
+      "date_raw": "August 12, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/kelley-swindall-billy-woodward/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/62/36/53_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -739,6 +609,16 @@
       "date_raw": "Aug. 12, 2026 10:30 PM",
       "url": "https://www.smallslive.com/events/33686-organ-after-hours-nick-hempton/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Mate",
+      "date": "2026-08-12T23:00:00",
+      "date_raw": "Wednesday August 12th 11:00 PM",
+      "url": "",
+      "description": "Mate (g)Nicolai Daneck (b)Sam Russo (d)",
       "image_url": "",
       "price": ""
     },
@@ -1369,6 +1249,16 @@
       "date_raw": "Aug. 16, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33589-joe-magnarelli-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-16T18:30:00",
+      "date_raw": "Sunday August 16th 06:30 PM",
+      "url": "",
+      "description": "Pete Malinverni (p)Paul Gill (b)Keith Balla (d)",
       "image_url": "",
       "price": ""
     },
@@ -3033,6 +2923,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Samoa Wilson Trio",
+      "date": "2026-08-28T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/169/1787875200000",
+      "description": "Since she was 12 years old, Samoa Wilson has been captivating audiences with a voice the New York Times calls \u201csweet, effortless, old-timey\u201d. Raised in the riverbed of traditional North American folk music, she came up in the Boston scene, under the wing of jug band and folk legend Jim Kweskin. Her two duos, the Four O\u2019Clock Flowers, and Fatboy Wilson & Old Viejo Bones, have become staples of the ",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Stinky Vaseline, NYC Ween Covers",
       "date": "2026-08-28T00:00:00",
@@ -3169,6 +3069,16 @@
       "date_raw": "Aug. 28, 2026 11:55 PM",
       "url": "https://www.smallslive.com/events/33288-ken-fowser-sextet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Charlie Burnham Band",
+      "date": "2026-08-29T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/260/1787961600000",
+      "description": "Charlie Burnham is an American violinist and composer. He has a unique highly imaginative style that crosses genres, including bluegrass, delta punk, free jazz, blues, classical and chamber jazz. He often performs with a wah-wah pedal. He initially became renowned for his work on James \u201cBlood\u201d Ulmer\u2019s Odyssey album. The musicians on that album later performed and recorded as Odyssey the Band, some",
       "image_url": "",
       "price": ""
     },
@@ -3320,6 +3230,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-42/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Sam Brown Band",
+      "date": "2026-08-30T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/240/1788048000000",
+      "description": "Sam Brown is a Brooklyn based singer songwriter, and plays regularly with Hearts on Fire, her country/rock band. Having released her debut album in 2018, Sam is excited to bring new music into the world some time in the spring of 2026. Stay tuned! Sam blends a mix of country, rock, pop and soul in her original music, and is thrilled to be playing with an amazing band: Luca Benedetti on guitar, Max",
+      "image_url": "",
       "price": ""
     },
     {
@@ -3593,6 +3513,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Kyle Colina \u2014 Smalls",
+      "date": "2026-09-01T23:45:00",
+      "date_raw": "Sept. 1, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33809-jam-session-hosted-by-kyle-colina/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Derek Fawcett, Alexandra James, Cal Stamp, Together on guitar, bass and djembe! Early Show 6:30pm doors.",
       "date": "2026-09-02T00:00:00",
@@ -3654,6 +3584,26 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "date": "2026-09-02T23:45:00",
+      "date_raw": "Sept. 2, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33814-jam-session-hosted-by-carlos-abadie/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-09-03T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1788393600000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Harvie S Trio \u2014 Mezzrow",
       "date": "2026-09-03T18:00:00",
       "date_raw": "Sept. 3, 2026 6:00 PM",
@@ -3703,6 +3653,16 @@
       "price": "$21.87"
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted by Ben Barnett \u2014 Smalls",
+      "date": "2026-09-03T23:45:00",
+      "date_raw": "Sept. 3, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33819-jam-session-hosted-by-ben-barnett/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-09-04T00:00:00",
@@ -3710,6 +3670,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-14/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Chris Luquette East Coast Bluegrass Group",
+      "date": "2026-09-04T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/123/1788480000000",
+      "description": "Chris Luquette - Max Johnson - Ellery Marshall - Cesar Moreno Formed in 2022, the Chris Luquette East Coast Bluegrass Group have played esteemed venues such as Sunny's Bar, Rockwood Music Hall, and Mona's. Cesar Moreno is a Bronx born mandolinist, who has studied the great from David Grisman and Butch Baldassari and everyone in between. His vocals soar above the trios and quartets for a hot bluegr",
+      "image_url": "",
       "price": ""
     },
     {
@@ -3843,6 +3813,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Round Midnight Solo Piano with Jill McCarron \u2014 Mezzrow",
+      "date": "2026-09-05T23:55:00",
+      "date_raw": "Sept. 5, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/33824-round-midnight-solo-piano-with-jill-mccarron/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-09-06T00:00:00",
@@ -3893,6 +3873,26 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Vanisha Gould Quartet \u2014 Mezzrow",
+      "date": "2026-09-06T21:00:00",
+      "date_raw": "Sept. 6, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33797-vanisha-gould-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jeff McGregor Quartet \u2014 Smalls",
+      "date": "2026-09-06T23:55:00",
+      "date_raw": "Sept. 6, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/33801-jeff-mcgregor-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-09-07T00:00:00",
@@ -3908,6 +3908,16 @@
       "date": "2026-09-07T18:00:00",
       "date_raw": "Sept. 7, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33713-hetko-syracuse-siegel/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Adam Ray \u2014 Smalls",
+      "date": "2026-09-07T23:45:00",
+      "date_raw": "Sept. 7, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33805-jam-session-hosted-by-adam-ray/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3940,6 +3950,36 @@
       "url": "https://www.ticketmaster.com/lucki-brooklyn-new-york-09-08-2026/event/000064ACBBFCEB12",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/051/58f8541d-70ed-408d-bb05-abd7b252d051_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Jason Clotter \u2014 Smalls",
+      "date": "2026-09-08T23:45:00",
+      "date_raw": "Sept. 8, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33812-jam-session-hosted-by-jason-clotter/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Private Party",
+      "date": "2026-09-09T00:00:00",
+      "date_raw": "Wednesday, September 9, 2026",
+      "url": "https://www.freddysbar.com/events/7yx5wk7s2wjywpx3gzsjk7ebyaxff2",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Bootleg Karaoke",
+      "date": "2026-09-09T00:00:00",
+      "date_raw": "Wednesday, September 9, 2026",
+      "url": "https://www.freddysbar.com/events/m9ez5ssrtk6925lcdg9hfe3yg8ewmm",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -4023,6 +4063,26 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "date": "2026-09-09T23:45:00",
+      "date_raw": "Sept. 9, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33815-jam-session-hosted-by-carlos-abadie/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-09-10T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1788998400000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Sam Gelband",
       "date": "2026-09-10T00:30:00",
@@ -4054,10 +4114,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Kavita Shah Quintet \u2014 Smalls",
+      "title": "Kavita Shah Quintet ft. Steve Wilson \u2014 Smalls",
       "date": "2026-09-10T18:00:00",
       "date_raw": "Sept. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33658-kavita-shah-quintet/",
+      "url": "https://www.smallslive.com/events/33658-kavita-shah-quintet-ft-steve-wilson/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4078,6 +4138,16 @@
       "date": "2026-09-10T21:00:00",
       "date_raw": "Sept. 10, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33659-spin-cycle/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted by Greg Glassman \u2014 Smalls",
+      "date": "2026-09-10T23:45:00",
+      "date_raw": "Sept. 10, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33820-jam-session-hosted-by-greg-glassman/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4293,6 +4363,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Joie Bianco Quartet \u2014 Mezzrow",
+      "date": "2026-09-13T21:00:00",
+      "date_raw": "Sept. 13, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33798-joie-bianco-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Carolina Slim 100th Birthday Celebration",
       "date": "2026-09-13T23:00:00",
@@ -4301,6 +4381,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Aaron Johnson Boplicity \u2014 Smalls",
+      "date": "2026-09-13T23:55:00",
+      "date_raw": "Sept. 13, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/33802-aaron-johnson-boplicity/",
+      "description": "",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -4320,6 +4410,16 @@
       "url": "https://www.ticketmaster.com/saint-levant-afandi-world-tour-brooklyn-new-york-09-14-2026/event/000064E7E1F73EA1",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/130/06ba4e22-a1ba-4046-b822-f55c0e34f130_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Mike Boone \u2014 Smalls",
+      "date": "2026-09-14T23:45:00",
+      "date_raw": "Sept. 14, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33807-jam-session-hosted-by-mike-boone/",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -4388,6 +4488,16 @@
       "date": "2026-09-15T21:00:00",
       "date_raw": "Sept. 15, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33650-patrick-hill-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Kyle Colina \u2014 Smalls",
+      "date": "2026-09-15T23:45:00",
+      "date_raw": "Sept. 15, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33810-jam-session-hosted-by-kyle-colina/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4464,6 +4574,26 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "date": "2026-09-16T23:45:00",
+      "date_raw": "Sept. 16, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33816-jam-session-hosted-by-carlos-abadie/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-09-17T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1789603200000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Chris Johansen Quartet \u2014 Smalls",
       "date": "2026-09-17T18:00:00",
       "date_raw": "Sept. 17, 2026 6:00 PM",
@@ -4531,6 +4661,16 @@
       "description": "",
       "image_url": "",
       "price": "$38"
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Matt Snow \u2014 Smalls",
+      "date": "2026-09-17T23:45:00",
+      "date_raw": "Sept. 17, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33821-jam-session-hosted-by-matt-snow/",
+      "description": "",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -4763,6 +4903,26 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jamile Quartet \u2014 Mezzrow",
+      "date": "2026-09-20T21:00:00",
+      "date_raw": "Sept. 20, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33799-jamile-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Saul Rubin  Zebtet \u2014 Smalls",
+      "date": "2026-09-20T23:55:00",
+      "date_raw": "Sept. 20, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/33803-saul-rubin-zebtet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Rene Lopez Diamonds Don't Wait Release Show with Margo Valiante",
       "date": "2026-09-21T00:00:00",
@@ -4788,6 +4948,16 @@
       "date": "2026-09-21T18:00:00",
       "date_raw": "Sept. 21, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33662-jerome-sabbagh-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Adam Ray \u2014 Smalls",
+      "date": "2026-09-21T23:45:00",
+      "date_raw": "Sept. 21, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33806-jam-session-hosted-by-adam-ray/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4854,6 +5024,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Jason Clotter \u2014 Smalls",
+      "date": "2026-09-22T23:45:00",
+      "date_raw": "Sept. 22, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33813-jam-session-hosted-by-jason-clotter/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Eyal Vilner Big Band \u2014 Smalls",
       "date": "2026-09-23T18:00:00",
       "date_raw": "Sept. 23, 2026 6:00 PM",
@@ -4879,6 +5059,26 @@
       "date_raw": "2026-09-23T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "date": "2026-09-23T23:45:00",
+      "date_raw": "Sept. 23, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33817-jam-session-hosted-by-carlos-abadie/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-09-24T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1790208000000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
       "price": ""
     },
@@ -4928,6 +5128,16 @@
       "date": "2026-09-24T21:00:00",
       "date_raw": "Sept. 24, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33737-matt-dwonszyk-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Matt Snow \u2014 Smalls",
+      "date": "2026-09-24T23:45:00",
+      "date_raw": "Sept. 24, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33822-jam-session-hosted-by-matt-snow/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5204,6 +5414,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Lucy Wijnands Quartet \u2014 Mezzrow",
+      "date": "2026-09-27T21:00:00",
+      "date_raw": "Sept. 27, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33800-lucy-wijnands-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Ai Murakami Quartet \u2014 Smalls",
       "date": "2026-09-27T21:00:00",
       "date_raw": "Sept. 27, 2026 9:00 PM",
@@ -5214,10 +5434,30 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Panas Athanatos Trio \u2014 Smalls",
+      "date": "2026-09-27T23:55:00",
+      "date_raw": "Sept. 27, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/33804-panas-athanatos-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Rale Micic Quartet \u2014 Smalls",
       "date": "2026-09-28T21:00:00",
       "date_raw": "Sept. 28, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33752-rale-micic-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Mike Boone \u2014 Smalls",
+      "date": "2026-09-28T23:45:00",
+      "date_raw": "Sept. 28, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33808-jam-session-hosted-by-mike-boone/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5294,6 +5534,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Kyle Colina \u2014 Smalls",
+      "date": "2026-09-29T23:45:00",
+      "date_raw": "Sept. 29, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33811-jam-session-hosted-by-kyle-colina/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Mamiko Watanabe Trio \u2014 Mezzrow",
       "date": "2026-09-30T18:00:00",
       "date_raw": "Sept. 30, 2026 6:00 PM",
@@ -5343,6 +5593,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "date": "2026-09-30T23:45:00",
+      "date_raw": "Sept. 30, 2026 11:45 PM",
+      "url": "https://www.smallslive.com/events/33818-jam-session-hosted-by-carlos-abadie/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Lord Coward Record  Release Show.",
       "date": "2026-10-01T00:00:00",
@@ -5350,6 +5610,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/nat-osborns-new-band-lord-coward-album-release-show/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/61/53/63_Original.jpg?v=5",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-10-01T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1790812800000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
       "price": ""
     },
     {
