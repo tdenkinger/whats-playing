@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T13:21:41.475144+00:00",
+  "scraped_at": "2026-08-16T13:22:57.656149+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -333,171 +333,11 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday August 15th \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
-      "date": "2026-08-15T00:00:00",
-      "date_raw": "Saturday August 15th \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
-      "url": "https://www.fredsdoghouse.com/event/friday-october-3rd-delta-swamp-blues-with-the-cannibal-ramblers/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Pole Before Dark- every third Saturday- This week only special after-dark extended time!",
       "date": "2026-08-15T00:00:00",
       "date_raw": "Saturday, August 15, 2026",
       "url": "https://www.freddysbar.com/events/pole-after-dark-38zj2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-15T14:00:00",
-      "date_raw": "Aug. 15, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33542-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Tyler Mitchell \u2014 Smalls",
-      "date": "2026-08-15T14:00:00",
-      "date_raw": "Aug. 15, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33572-smalls-afternoon-jam-session-hosted-by-tyler-mitchell/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ehud Asherie Trio \u2014 Mezzrow",
-      "date": "2026-08-15T18:00:00",
-      "date_raw": "Aug. 15, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33509-ehud-asherie-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Scott Robinson's \"Call of the Tarogato\" \u2014 Smalls",
-      "date": "2026-08-15T18:00:00",
-      "date_raw": "Aug. 15, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33261-scott-robinsons-call-of-the-tarogato/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-15T18:30:00",
-      "date_raw": "Saturday August 15th 06:30 PM",
-      "url": "",
-      "description": "Ned Goold (saxophone)Lolivone de la Rosa (g)Reid Taylor (b)Jason Tiemann (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Patrick Bartley Quartet \u2014 Jazzcultural",
-      "date": "2026-08-15T19:00:00",
-      "date_raw": "Aug. 15, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33473-patrick-bartley-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Ray Gallon Trio",
-      "date": "2026-08-15T19:30:00",
-      "date_raw": "Saturday August 15th 07:30 PM",
-      "url": "",
-      "description": "Ray Gallon (p)Peter Washington (b)Kenny Washington (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-15T21:00:00",
-      "date_raw": "Saturday August 15th 09:00 PM",
-      "url": "",
-      "description": "Steve Nelson (g)Ben Allen (org)Errold Lanier Jr. (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "David Berkman Trio \u2014 Mezzrow",
-      "date": "2026-08-15T21:00:00",
-      "date_raw": "Aug. 15, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33578-david-berkman-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mark Sherman Quartet \u2014 Smalls",
-      "date": "2026-08-15T21:00:00",
-      "date_raw": "Aug. 15, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33263-mark-sherman-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Winard Harper & Jeli Posse \u2014 Jazzcultural",
-      "date": "2026-08-15T22:30:00",
-      "date_raw": "Aug. 15, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33476-winard-harper-jeli-posse/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Geraldo Marshall",
-      "date": "2026-08-15T23:00:00",
-      "date_raw": "Saturday August 15th 11:00 PM",
-      "url": "",
-      "description": "Geraldo Marshall (tp)Roberto Acosta (p)Paul Pandit (b)Orion Turre (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano With Willerm Delisfort \u2014 Mezzrow",
-      "date": "2026-08-15T23:55:00",
-      "date_raw": "Aug. 15, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33678-round-midnight-solo-piano-with-willerm-delisfort/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Stacy Dillard Quartet \u2014 Smalls",
-      "date": "2026-08-15T23:55:00",
-      "date_raw": "Aug. 15, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33254-stacy-dillard-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Justin Robinson Quartet \u2014 Smalls",
-      "date": "2026-08-15T23:55:00",
-      "date_raw": "Aug. 15, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33842-justin-robinson-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -523,16 +363,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Aurora Nealand",
-      "date": "2026-08-16T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/251/1786838400000",
-      "description": "Aurora Nealand strives to live at the intersection of Lunatic and Librarian. She is a sound artist and multi-instrumentalist (saxophones, accordion, voice) based in New Orleans, LA . She is deeply interested in the sonification of everyday objects and knowledge-generation through the stories and history that Sound (with a capital S) contains. Nealand is the leader of The Royal Roses, the non-tradi",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, Poetry Welcome",
       "date": "2026-08-16T00:00:00",
@@ -551,16 +381,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Sophie Kyle Collins / Ceridwen McCooey / Gabriel Fynsk",
-      "date": "2026-08-16T00:30:00",
-      "date_raw": "2026-08-16T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/sophie_kyle_collins_",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -709,7 +529,7 @@
       "date_raw": "August 17, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/jon-langford-walter-salas-humara/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/98/38/04_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/38/04_Original.jpg?v=6",
       "price": ""
     },
     {
@@ -808,7 +628,7 @@
       "date": "2026-08-17T19:30:00",
       "date_raw": "Monday August 17th 07:30 PM",
       "url": "",
-      "description": "Jacob Artved (g)Gideon Tazelaar (saxophone)Jeb Patton (p)Felix Moseholm (b)Kush Abadey (d))",
+      "description": "Jacob Artved (g)Gideon Tazelaar (saxophone)Jeb Patton (p)Felix Moseholm (b)Kush Abadey (d)",
       "image_url": "",
       "price": ""
     },
@@ -3013,6 +2833,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Modern Guitar Leaders Series",
+      "date": "2026-08-31T19:30:00",
+      "date_raw": "Monday August 31st 07:30 PM",
+      "url": "",
+      "description": "Ely Perlman (g)Max Gerl (b)Tyson Jackson (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue",
       "date": "2026-08-31T21:00:00",
@@ -3094,10 +2924,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Zack Shubert Trio \u2014 Mezzrow",
+      "title": "Toru Dodo Trio \u2014 Mezzrow",
       "date": "2026-09-01T18:00:00",
       "date_raw": "Sept. 1, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33634-zack-shubert-trio/",
+      "url": "https://www.smallslive.com/events/33635-toru-dodo-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3124,10 +2954,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Toru Dodo Trio \u2014 Mezzrow",
+      "title": "Zack Shubert Trio \u2014 Mezzrow",
       "date": "2026-09-01T21:00:00",
       "date_raw": "Sept. 1, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33635-toru-dodo-trio/",
+      "url": "https://www.smallslive.com/events/33634-zack-shubert-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4164,7 +3994,7 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "Sam Gelband",
+      "title": "Sam Gelband / Georgia Harmer / Lily Talmers",
       "date": "2026-09-10T00:30:00",
       "date_raw": "2026-09-10T00:30:00.000Z",
       "url": "https://www.viewcy.com/event/sam_gelband",
@@ -4503,6 +4333,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Justin Robinson Quartet \u2014 Smalls",
+      "date": "2026-09-12T23:55:00",
+      "date_raw": "Sept. 12, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/33842-justin-robinson-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-09-13T00:00:00",
@@ -4669,6 +4509,16 @@
       "date_raw": "Sept. 14, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33739-joe-farnsworth-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Art Of Piano Ensemble: \u00c1lvaro Torres",
+      "date": "2026-09-14T18:30:00",
+      "date_raw": "Monday September 14th 06:30 PM",
+      "url": "",
+      "description": "\u00c1lvaro Torres (p)Hery Paz (saxophone)Thorbj\u00f8rn Stefansson (b)James Paul Nadien (d)",
       "image_url": "",
       "price": ""
     },
@@ -8668,6 +8518,16 @@
       "date": "2028-07-12T22:30:00",
       "date_raw": "2028-07-12T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Thursday August 27th 8:30pm - Blues with Doc French Josh Golberg!",
+      "date": null,
+      "date_raw": "Thursday August 27th 8:30pm - Blues with Doc French Josh Golberg!",
+      "url": "https://www.fredsdoghouse.com/event/wednesday-11th-dec-blues-with-ernie-vega/",
       "description": "",
       "image_url": "",
       "price": ""
