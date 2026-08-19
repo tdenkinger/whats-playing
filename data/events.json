@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T13:34:20.761896+00:00",
+  "scraped_at": "2026-08-19T13:35:20.979908+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -313,161 +313,11 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "date": "2026-08-18T00:00:00",
-      "date_raw": "August 18, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-40/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Original Music Open Mic Every 3rd Tuesday-hosted by Luke (mostly music mic with 2 sets for poetry & comedy.)",
       "date": "2026-08-18T00:00:00",
       "date_raw": "Tuesday, August 18, 2026",
       "url": "https://www.freddysbar.com/events/original-music-open-mic-every-3rd-tuesday-hosted-by-luke-mostly-music-mic-with-2-sets-for-poetry-comedy-5fymc",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Barry Harris Institute Presents: Free Piano Lesson & Jam Session \u2014 Jazzcultural",
-      "date": "2026-08-18T14:00:00",
-      "date_raw": "Aug. 18, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33526-barry-harris-institute-presents-free-piano-lesson-jam-session/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Tardo Hammer Trio \u2014 Mezzrow",
-      "date": "2026-08-18T18:00:00",
-      "date_raw": "Aug. 18, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33350-tardo-hammer-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ben Sherman Quartet \u2014 Smalls",
-      "date": "2026-08-18T18:00:00",
-      "date_raw": "Aug. 18, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33352-ben-sherman-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-18T18:30:00",
-      "date_raw": "Tuesday August 18th 06:30 PM",
-      "url": "",
-      "description": "Jesse Collins (as)Samuel Lerner (p)August Bish (d)Mike Clark (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Brandon McCune Trio \u2014 Jazzcultural",
-      "date": "2026-08-18T19:00:00",
-      "date_raw": "Aug. 18, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33456-brandon-mccune-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Saxophone Leaders Series",
-      "date": "2026-08-18T19:30:00",
-      "date_raw": "Tuesday August 18th 07:30 PM",
-      "url": "",
-      "description": "Sophia Kickhofel (saxophone)Spencer Hoefert (g)Felix Moseholm (b)Connor Parks (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday August 18th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-08-18T20:30:00",
-      "date_raw": "Tuesday August 18th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-august-4th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-18T21:00:00",
-      "date_raw": "Tuesday August 18th 09:00 PM",
-      "url": "",
-      "description": "Stefano Doglioni (bass clarinet)Pasquale Grasso (g)Daniel Duke (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Pucci Amanda Jhones Quartet \u2014 Mezzrow",
-      "date": "2026-08-18T21:00:00",
-      "date_raw": "Aug. 18, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33351-pucci-amanda-jhones-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Abraham Burton Quartet \u2014 Smalls",
-      "date": "2026-08-18T21:00:00",
-      "date_raw": "Aug. 18, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33695-abraham-burton-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-18T22:00:00",
-      "date_raw": "Aug. 18, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33557-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Tomer Sasson",
-      "date": "2026-08-18T23:00:00",
-      "date_raw": "Tuesday August 18th 11:00 PM",
-      "url": "",
-      "description": "Tomer Sasson (g)John Smith (b)Samir B\u00f6hringer (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-08-18T23:30:00",
-      "date_raw": "Aug. 18, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33410-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Kyle Colina \u2014 Smalls",
-      "date": "2026-08-18T23:45:00",
-      "date_raw": "Aug. 18, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33428-jam-session-hosted-by-kyle-colina/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -490,16 +340,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/liza-colby-behind-the-denim-curtain-28/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/61/06/73_Original.jpg?v=4",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Matt Wiffen",
-      "date": "2026-08-19T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/264/1787097600000",
-      "description": "Matt Wiffen was born and raised in England but drawn to the American songbook from an early age. He draws influences from pre and post war Blues & Traditional Jazz artists. Moving to the U.S.A. in 2002, gave Matt the opportunity to travel the country extensively. Immersing himself in American music history and culture. Those travels inspired numerous songs from real-life experiences. Matt writes a",
-      "image_url": "",
       "price": ""
     },
     {
@@ -553,11 +393,21 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-19T18:30:00",
+      "date_raw": "Wednesday August 19th 06:30 PM",
+      "url": "",
+      "description": "Miho Sasaki (p)Eli Naragon (b)Billy Mintz (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
-      "title": "Mel Davis Quartet \u2014 Jazzcultural",
+      "title": "Matt Smythe Quartet \u2014 Jazzcultural",
       "date": "2026-08-19T19:00:00",
       "date_raw": "Aug. 19, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33481-mel-davis-quartet/",
+      "url": "https://www.smallslive.com/events/33481-matt-smythe-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -654,10 +504,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "title": "Jam Session Hosted By Carlos Abadie\u2019s Latin Jazz Express \u2014 Smalls",
       "date": "2026-08-19T23:45:00",
       "date_raw": "Aug. 19, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33433-jam-session-hosted-by-carlos-abadie/",
+      "url": "https://www.smallslive.com/events/33433-jam-session-hosted-by-carlos-abadies-latin-jazz-express/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -829,7 +679,7 @@
       "date_raw": "August 21, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-12/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -939,16 +789,6 @@
       "date_raw": "Friday August 21st 06:30 PM",
       "url": "",
       "description": "Reid Taylor (b)Brian Marsella (p)Charles Goold (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-21T18:30:00",
-      "date_raw": "Friday August 21st 06:30 PM",
-      "url": "",
-      "description": "Emanuele Filippi (p)Stefano Battaglia (b)Francisco Mela (d)",
       "image_url": "",
       "price": ""
     },
@@ -1433,6 +1273,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Ben Wolstein",
+      "date": "2026-08-23T23:00:00",
+      "date_raw": "Sunday August 23rd 11:00 PM",
+      "url": "",
+      "description": "Ben Wolstein (b)Iftah Kary (p)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jasmine Jang's Garden Voices Album Release Show featuring Blue Jay",
       "date": "2026-08-23T23:00:00",
@@ -1460,6 +1310,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/jack-grace-uncle-leon-and-the-alibis/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/63/99/03_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Christian Apuzzo Band",
+      "date": "2026-08-24T00:00:00",
+      "date_raw": "August 24, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/christian-apuzzo-band/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/64/02/63_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -1999,7 +1859,7 @@
       "date_raw": "August 28, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-13/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -2168,6 +2028,16 @@
       "date": "2026-08-28T23:55:00",
       "date_raw": "Aug. 28, 2026 11:55 PM",
       "url": "https://www.smallslive.com/events/33288-ken-fowser-sextet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday August 29th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "date": "2026-08-29T00:00:00",
+      "date_raw": "Saturday August 29th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2989,7 +2859,7 @@
       "date_raw": "September 04, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-14/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -3334,10 +3204,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Larry Banks' G.I.G. Quintet \u2014 Smalls",
+      "title": "Larry Banks and the G.I.G. Ensemble \u2014 Smalls",
       "date": "2026-09-06T18:00:00",
       "date_raw": "Sept. 6, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33684-larry-banks-gig-quintet/",
+      "url": "https://www.smallslive.com/events/33684-larry-banks-and-the-gig-ensemble/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3909,7 +3779,7 @@
       "date_raw": "September 11, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-15/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -4799,7 +4669,7 @@
       "date_raw": "September 18, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-16/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -5253,6 +5123,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-09-21T18:30:00",
+      "date_raw": "Monday September 21st 06:30 PM",
+      "url": "",
+      "description": "Emanuele Filippi (p)Stefano Battaglia (b)Francisco Mela (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Richie Vitale Quintet \u2014 Jazzcultural",
       "date": "2026-09-21T19:00:00",
@@ -5639,7 +5519,7 @@
       "date_raw": "September 25, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-17/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -6429,7 +6309,7 @@
       "date_raw": "October 02, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-18/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -6639,7 +6519,7 @@
       "date_raw": "October 09, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-19/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -6819,7 +6699,7 @@
       "date_raw": "October 16, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-20/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7059,7 +6939,7 @@
       "date_raw": "October 23, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-21/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7209,7 +7089,7 @@
       "date_raw": "October 30, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-22/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7299,7 +7179,7 @@
       "date_raw": "November 06, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-23/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7379,7 +7259,7 @@
       "date_raw": "November 13, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-24/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7449,7 +7329,7 @@
       "date_raw": "November 20, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-25/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7519,7 +7399,7 @@
       "date_raw": "November 27, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-26/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7559,7 +7439,7 @@
       "date_raw": "December 04, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-27/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7589,7 +7469,7 @@
       "date_raw": "December 11, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-28/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7629,7 +7509,7 @@
       "date_raw": "December 18, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-29/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -7659,7 +7539,7 @@
       "date_raw": "December 25, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-30/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
