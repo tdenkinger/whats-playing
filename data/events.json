@@ -1,43 +1,13 @@
 {
-  "scraped_at": "2026-08-19T13:35:20.979908+00:00",
+  "scraped_at": "2026-08-20T13:37:19.889144+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Family Drinks",
-      "date": "2026-07-31T00:00:00",
-      "date_raw": "Friday, July 31, 2026",
-      "url": "https://www.freddysbar.com/events/family-drinks",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Private Party",
-      "date": "2026-08-01T00:00:00",
-      "date_raw": "Saturday, August 1, 2026",
-      "url": "https://www.freddysbar.com/events/8j49nfypa7ppn8xdhfn7w5htm3k7ge",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
       "date": "2026-08-02T00:00:00",
       "date_raw": "Sunday, August 2, 2026",
       "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
-      "date": "2026-08-02T00:00:00",
-      "date_raw": "Sunday, August 2, 2026",
-      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p",
       "description": "",
       "image_url": "",
       "price": ""
@@ -294,20 +264,20 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
       "date": "2026-08-17T00:00:00",
       "date_raw": "Monday, August 17, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-zhc4w",
+      "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-z8ggy",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
       "venue_name": "Freddy's",
-      "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
+      "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-08-17T00:00:00",
       "date_raw": "Monday, August 17, 2026",
-      "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-z8ggy",
+      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-zhc4w",
       "description": "",
       "image_url": "",
       "price": ""
@@ -320,26 +290,6 @@
       "url": "https://www.freddysbar.com/events/original-music-open-mic-every-3rd-tuesday-hosted-by-luke-mostly-music-mic-with-2-sets-for-poetry-comedy-5fymc",
       "description": "",
       "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Pi Jacobs",
-      "date": "2026-08-19T00:00:00",
-      "date_raw": "August 19, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/pi-jacobs/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/95/13/04_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Liza Colby Behind The Denim Curtain",
-      "date": "2026-08-19T00:00:00",
-      "date_raw": "August 19, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/liza-colby-behind-the-denim-curtain-28/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/61/06/73_Original.jpg?v=4",
       "price": ""
     },
     {
@@ -363,172 +313,12 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-19T14:00:00",
-      "date_raw": "Aug. 19, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33530-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jay Rattman & Billy Test \u2014 Mezzrow",
-      "date": "2026-08-19T18:00:00",
-      "date_raw": "Aug. 19, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33353-jay-rattman-billy-test/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jakob Dreyer Quartet \u2014 Smalls",
-      "date": "2026-08-19T18:00:00",
-      "date_raw": "Aug. 19, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33354-jakob-dreyer-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-19T18:30:00",
-      "date_raw": "Wednesday August 19th 06:30 PM",
-      "url": "",
-      "description": "Miho Sasaki (p)Eli Naragon (b)Billy Mintz (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Matt Smythe Quartet \u2014 Jazzcultural",
-      "date": "2026-08-19T19:00:00",
-      "date_raw": "Aug. 19, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33481-matt-smythe-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jade Synstelien Quintet",
-      "date": "2026-08-19T19:30:00",
-      "date_raw": "Wednesday August 19th 07:30 PM",
-      "url": "",
-      "description": "Jade Synstelien (g)Caleb Curtis (as)Jack Glottman (p)Rob Adkins (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Wednesday August 19th 8:30pm \u2022 Blues, American & more with Papa Vega!",
-      "date": "2026-08-19T20:30:00",
-      "date_raw": "Wednesday August 19th 8:30pm \u2022 Blues, American & more with Papa Vega!",
-      "url": "https://www.fredsdoghouse.com/event/wednesday-july-8th-830pm-blues-american-more-with-papa-vega-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-19T21:00:00",
-      "date_raw": "Wednesday August 19th 09:00 PM",
-      "url": "",
-      "description": "Hillai Govreen (woodwinds)Greg Glassman (tp)Noah Garabedian (b)Anwar Marshall (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Tom Pietrycha Trio \u2014 Mezzrow",
-      "date": "2026-08-19T21:00:00",
-      "date_raw": "Aug. 19, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33482-tom-pietrycha-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Simon Mogul Quintet \u2014 Smalls",
-      "date": "2026-08-19T21:00:00",
-      "date_raw": "Aug. 19, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33355-simon-mogul-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-08-19T22:30:00",
-      "date_raw": "2026-08-19T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Organ After Hours: Ralph Lalama Trio \u2014 Jazzcultural",
-      "date": "2026-08-19T22:30:00",
-      "date_raw": "Aug. 19, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33688-organ-after-hours-ralph-lalama-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Zachariah Lambert",
-      "date": "2026-08-19T23:00:00",
-      "date_raw": "Wednesday August 19th 11:00 PM",
-      "url": "",
-      "description": "Zachariah Lambert (g)Michael Howe (saxophone)Jack Nissen (b)Jonas M\u00fcller (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-08-19T23:30:00",
-      "date_raw": "Aug. 19, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33411-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Carlos Abadie\u2019s Latin Jazz Express \u2014 Smalls",
-      "date": "2026-08-19T23:45:00",
-      "date_raw": "Aug. 19, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33433-jam-session-hosted-by-carlos-abadies-latin-jazz-express/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Fred's Dog House",
       "title": "Thursday August 20th \u2022 Brother Tito Deler \"The Original Harlem Slim\"!",
       "date": "2026-08-20T00:00:00",
       "date_raw": "Thursday August 20th \u2022 Brother Tito Deler \"The Original Harlem Slim\"!",
       "url": "https://www.fredsdoghouse.com/event/thursday-march-19th-brother-tito-deler-the-original-harlem-slim/",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Dennis Lichtman Band",
-      "date": "2026-08-20T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/265/1787184000000",
-      "description": "Dennis Lichtman is a multi-instrumentalist (clarinet, mandolin, fiddle, and more) who has been living, performing, composing, and teaching in New York City since 2002. He is a Selmer Paris Artist as an endorser of their Signature Clarinet. His music was recently used in director David Simon\u2019s The Plot Against America (HBO) and he has appeared this year as a clarinetist on Succession (HBO) and The ",
       "image_url": "",
       "price": ""
     },
@@ -1374,10 +1164,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Benny Benack Quartet \u2014 Jazzcultural",
+      "title": "Benny Benack Quintet \u2014 Jazzcultural",
       "date": "2026-08-24T19:00:00",
       "date_raw": "Aug. 24, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33564-benny-benack-quartet/",
+      "url": "https://www.smallslive.com/events/33564-benny-benack-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1389,6 +1179,16 @@
       "date_raw": "Monday August 24th 09:00 PM",
       "url": "",
       "description": "Itay Morchi (d)Bar Filipowicz (b)Itamar Dahan (p)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Janice Friedman Trio \u2014 Mezzrow",
+      "date": "2026-08-24T21:00:00",
+      "date_raw": "Aug. 24, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33594-janice-friedman-trio/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6033,6 +5833,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "LEVITA, BAPHORA, ENVOI & FRANK MAGNOLIA play all night!",
+      "date": "2026-09-29T00:00:00",
+      "date_raw": "Tuesday, September 29, 2026",
+      "url": "https://www.freddysbar.com/events/levita-envoi-frank-magnolia-play-all-night",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Barry Harris Institute Presents: Free Piano Lesson & Jam Session \u2014 Jazzcultural",
       "date": "2026-09-29T14:00:00",
@@ -6341,6 +6151,16 @@
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/f88/dafc791d-bd83-425d-b1fe-97c836585f88_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Lesser Known Women / Niva",
+      "date": "2026-10-03T00:30:00",
+      "date_raw": "2026-10-03T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/lesser_known_women_",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -8387,6 +8207,16 @@
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2028-07-12T22:30:00",
       "date_raw": "2028-07-12T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-07-19T22:30:00",
+      "date_raw": "2028-07-19T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
