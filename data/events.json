@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-20T13:37:19.889144+00:00",
+  "scraped_at": "2026-08-21T13:36:18.636517+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -313,151 +313,11 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Thursday August 20th \u2022 Brother Tito Deler \"The Original Harlem Slim\"!",
-      "date": "2026-08-20T00:00:00",
-      "date_raw": "Thursday August 20th \u2022 Brother Tito Deler \"The Original Harlem Slim\"!",
-      "url": "https://www.fredsdoghouse.com/event/thursday-march-19th-brother-tito-deler-the-original-harlem-slim/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Garden Party- 3rd Thursdays- Burlesque in the Back Every Thursday",
       "date": "2026-08-20T00:00:00",
       "date_raw": "Thursday, August 20, 2026",
       "url": "https://www.freddysbar.com/events/garden-party-3rd-thursdays-burlesque-in-the-back-every-thursday-e9a2z",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-20T14:00:00",
-      "date_raw": "Aug. 20, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33534-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "David Morgan Trio \u2014 Mezzrow",
-      "date": "2026-08-20T18:00:00",
-      "date_raw": "Aug. 20, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33357-david-morgan-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jazz de Barro \u2014 Smalls",
-      "date": "2026-08-20T18:00:00",
-      "date_raw": "Aug. 20, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33075-jazz-de-barro/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-20T18:30:00",
-      "date_raw": "Thursday August 20th 06:30 PM",
-      "url": "",
-      "description": "Justin Salisbury (p)Charlie Lincoln (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Alex Norris Quintet \u2014 Jazzcultural",
-      "date": "2026-08-20T19:00:00",
-      "date_raw": "Aug. 20, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33457-alex-norris-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Dan Block Trio",
-      "date": "2026-08-20T19:30:00",
-      "date_raw": "Thursday August 20th 07:30 PM",
-      "url": "",
-      "description": "Dan Block (ts&clarinet)Robert Redd (p)Sean Smith (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-20T21:00:00",
-      "date_raw": "Thursday August 20th 09:00 PM",
-      "url": "",
-      "description": "Nicola Caminiti (as)Michael Hilgendorf (g)Jacob Hart (p)Ben Tiberio (b)Kush Abadey (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dave Baron Trio \u2014 Mezzrow",
-      "date": "2026-08-20T21:00:00",
-      "date_raw": "Aug. 20, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33356-dave-baron-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ted Chubb Quintet \u2014 Smalls",
-      "date": "2026-08-20T21:00:00",
-      "date_raw": "Aug. 20, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33358-ted-chubb-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Late Set With Sarah Hanahan Quartet \u2014 Jazzcultural",
-      "date": "2026-08-20T22:30:00",
-      "date_raw": "Aug. 20, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33693-late-set-with-sarah-hanahan-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Daniel Sky",
-      "date": "2026-08-20T23:00:00",
-      "date_raw": "Thursday August 20th 11:00 PM",
-      "url": "",
-      "description": "Daniel Sky (tp)SPECIAL GUEST:\u00a0\u00a0Kevin Harris (p)Jason Clotter (b)Maria Kolesnik (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-08-20T23:30:00",
-      "date_raw": "Aug. 20, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33412-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted by Greg Glassman \u2014 Smalls",
-      "date": "2026-08-20T23:45:00",
-      "date_raw": "Aug. 20, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33400-jam-session-hosted-by-greg-glassman/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -470,16 +330,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-12/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Charlie Caranicas",
-      "date": "2026-08-21T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/266/1787270400000",
-      "description": "Charlie Caranicas is New York based trumpet player specializing in traditional and main stream jazz. He has graced the stages of concert halls and music clubs all over the world. Charlie has been described as a &quot;wonderfully musical, notably articulate&quot; trumpet player with a \u201cbeautiful sound\u201d and \u201cimpressive choice of notes\u201d (Clive Griffin, Jazz Improv); \u201clyrical and emotive\u201d (George Fend",
-      "image_url": "",
       "price": ""
     },
     {
@@ -521,16 +371,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Leila Adu",
-      "date": "2026-08-21T00:30:00",
-      "date_raw": "2026-08-21T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/leila_adu",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -658,7 +498,7 @@
       "date": "2026-08-21T23:00:00",
       "date_raw": "Friday August 21st 11:00 PM",
       "url": "",
-      "description": "Gideon Tazelaar (saxophone)Jacob Artved (g)TBA (b)",
+      "description": "Gideon Tazelaar (saxophone)Jacob Artved (g)Joey Ranieri\u00a0(b)",
       "image_url": "",
       "price": ""
     },
@@ -1013,6 +853,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Don Hahn Group",
+      "date": "2026-08-23T19:30:00",
+      "date_raw": "Sunday August 23rd 07:30 PM",
+      "url": "",
+      "description": "Don Hahn (cornet&flugelhorn)Patrick Joray (ts)Silvan Joray (g)Xavier Kim (p)Sameer Shankar (b)Simon Ribas (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Fred's Dog House",
       "title": "Sunday August 23rd 8:30pm \u2022 Blues & Americana with Jason Green!",
       "date": "2026-08-23T20:30:00",
@@ -1173,6 +1023,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Modern Guitar Leaders Series",
+      "date": "2026-08-24T19:30:00",
+      "date_raw": "Monday August 24th 07:30 PM",
+      "url": "",
+      "description": "Matt Sewell (g)Dean Torrey (b)Miguel Russell (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Jazz Dialogue: 3YO!",
       "date": "2026-08-24T21:00:00",
@@ -1309,6 +1169,16 @@
       "date_raw": "Tuesday August 25th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
       "url": "https://www.fredsdoghouse.com/event/tuesday-march-3rd-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-25T21:00:00",
+      "date_raw": "Tuesday August 25th 09:00 PM",
+      "url": "",
+      "description": "Andrew Wagner (tp)Alex De Lazzari (ts)Elliot Bernard (p)Dan Finn (b)Willie Bowman (d)",
       "image_url": "",
       "price": ""
     },
@@ -1463,6 +1333,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Adam Frumkin Trio",
+      "date": "2026-08-26T19:30:00",
+      "date_raw": "Wednesday August 26th 07:30 PM",
+      "url": "",
+      "description": "Adam Frumkin (saxophone)Dan Weisselberg (b)Mike Camacho (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Fred's Dog House",
       "title": "Wednesday August 26th 8:30pm \u2022 A John Myles Duo!",
       "date": "2026-08-26T20:30:00",
@@ -1498,6 +1378,16 @@
       "date": "2026-08-26T21:00:00",
       "date_raw": "Aug. 26, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33366-dan-wilkins-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-08-26T22:00:00",
+      "date_raw": "Aug. 26, 2026 10:00 PM",
+      "url": "https://www.smallslive.com/events/33878-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1599,6 +1489,16 @@
       "date_raw": "Aug. 27, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33463-kurt-rosenwinkel-riptet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-27T21:00:00",
+      "date_raw": "Thursday August 27th 09:00 PM",
+      "url": "",
+      "description": "Ai Murakami (d)Frank Basile (baritone saxophone)Jeb Patton (p)Caleb Tobocman (b)",
       "image_url": "",
       "price": ""
     },
@@ -1824,10 +1724,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Ken Fowser Sextet \u2014 Smalls",
+      "title": "Ken Fowser Quintet \u2014 Smalls",
       "date": "2026-08-28T23:55:00",
       "date_raw": "Aug. 28, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33288-ken-fowser-sextet/",
+      "url": "https://www.smallslive.com/events/33288-ken-fowser-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2164,7 +2064,7 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "Charlie & the Tropicales",
+      "title": "Charlie & the Tropicales / Mireya Ramos",
       "date": "2026-08-31T00:00:00",
       "date_raw": "2026-08-31T00:00:00.000Z",
       "url": "https://www.viewcy.com/event/charlie__the_tropica",
@@ -2869,7 +2769,7 @@
       "date_raw": "2026-09-05T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/peter-hook-the-light-north-american-brooklyn-new-york-09-05-2026/event/0000630FAB8B2586",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/e78/8b376276-0692-4323-99b1-863272154e78_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/53f/71b77e1f-71fb-4978-bab5-81f6f615b53f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -3499,7 +3399,7 @@
       "date_raw": "2026-09-10T18:00:00-04:00",
       "url": "https://www.ticketmaster.com/president-north-american-campaign-2026-brooklyn-new-york-09-10-2026/event/0000647D8F0E4EAB",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/3c5/a7c763e1-3fc7-4c39-bb3f-767df43f63c5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/31c/6ce990c3-31e6-408a-a008-bbef32d7a31c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -3580,6 +3480,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-15/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Laura Jean Anderson Band",
+      "date": "2026-09-11T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/175/1789084800000",
+      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound. Laura Jean has garnered support from NPR, Bernie sanders, Rolling Stone, Noisey, Salon, Fader, amongst others. Her shows across Los Angeles have established her as a staple of the LA music scene, with support from KCRW and LA Weekly procl",
+      "image_url": "",
       "price": ""
     },
     {
@@ -4139,7 +4049,7 @@
       "date_raw": "2026-09-15T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/esdeekid-council-house-rat-tour-brooklyn-new-york-09-15-2026/event/000064F5B9D6820A",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/a52/571ecd1b-5559-4f1d-80fc-fd534a0e0a52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/86e/9e1b14d4-a447-4668-bf20-c4739c3f286e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -5399,7 +5309,7 @@
       "date_raw": "2026-09-25T18:30:00-04:00",
       "url": "https://www.ticketmaster.com/loathe-a-stranger-to-you-brooklyn-new-york-09-25-2026/event/00006495917965FA",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/773/d673bb12-d407-452f-90c0-5fd3e629a773_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/194/41d3b6ec-0d7e-45e4-8e04-704e0c093194_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -5529,7 +5439,7 @@
       "date_raw": "2026-09-26T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/tinlicker-north-america-2026-brooklyn-new-york-09-26-2026/event/0000648EF21B20B3",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/77b/821ec84d-bc67-4d02-a389-a81da25b177b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/667/3b087b15-2b32-4508-8a1b-bfbc58d04667_1850871_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -5879,7 +5789,7 @@
       "date_raw": "2026-09-29T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-29-2026/event/000064F7B8876306",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/329/25d9cc6f-b69b-4444-b87c-8e2d17693329_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -5999,7 +5909,7 @@
       "date_raw": "2026-09-30T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-30-2026/event/000064F7B88A631B",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/329/25d9cc6f-b69b-4444-b87c-8e2d17693329_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6109,7 +6019,7 @@
       "date_raw": "2026-10-01T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-10-01-2026/event/000064F7B88D6332",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/329/25d9cc6f-b69b-4444-b87c-8e2d17693329_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6169,7 +6079,7 @@
       "date_raw": "2026-10-03T20:00:00-04:00",
       "url": "https://www.ticketmaster.com/schoolboy-q-10-years-of-blank-brooklyn-new-york-10-03-2026/event/000064FEACF1B16C",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/4b5/f2e5e163-2e13-463a-bccf-64c7b8a934b5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/10e/19821e60-9364-4053-8734-6c03d136810e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6209,7 +6119,7 @@
       "date_raw": "2026-10-04T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/slayyyter-wort-girl-in-the-world-brooklyn-new-york-10-04-2026/event/0000649D947EE0C2",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/b8f/f55cca90-483c-42a3-b780-333cdfa62b8f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/22d/483655e5-c80e-4e64-9881-bbc5937da22d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6239,7 +6149,7 @@
       "date_raw": "2026-10-05T18:30:00-04:00",
       "url": "https://www.ticketmaster.com/polyphia-tour-mmxxvi-brooklyn-new-york-10-05-2026/event/000064CCF0DFEBBF",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/3c1/ab410b81-b2ae-4e8e-8105-51ce74d253c1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6329,7 +6239,7 @@
       "date_raw": "2026-10-08T18:00:00-04:00",
       "url": "https://www.ticketmaster.com/knocked-loose-denzel-curry-brooklyn-new-york-10-08-2026/event/000064B4B116DE10",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/b0a/7b2fc4c9-d154-43a8-b2b7-c00bf2e17b0a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/1cf/26ae18ca-855a-475e-8377-71634a70e1cf_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6589,7 +6499,7 @@
       "date_raw": "2026-10-17T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/ryan-beatty-arms-over-armor-north-brooklyn-new-york-10-17-2026/event/000064C9EAAFCA8B",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/6d0/69299123-0fd4-4fdb-b0a5-a566f5dd16d0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/390/d3192af9-b69a-4888-bb3e-aae51adeb390_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6649,7 +6559,7 @@
       "date_raw": "2026-10-19T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-brooklyn-new-york-10-19-2026/event/000064650A2CE579",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/469/f6db8121-664a-4972-9853-b1eb4d318469_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/1d3/5bd2b439-4d54-4075-9e20-4e0fc6fe71d3_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6689,7 +6599,7 @@
       "date_raw": "2026-10-20T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-brooklyn-new-york-10-20-2026/event/000064A4E12EF369",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/67f/0b8cc3eb-78c4-4c29-8176-08c15df6167f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/3c8/173a0bba-93b5-4492-8f50-826da17093c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6719,7 +6629,7 @@
       "date_raw": "2026-10-21T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/sienna-spiro-my-house-tour-brooklyn-new-york-10-21-2026/event/000064C7825E6199",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/b07/09e0979d-7b3d-4cd4-badf-67d6ced79b07_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/143/270f7bf3-1416-45d6-ba46-eb8b9930a143_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -7001,6 +6911,16 @@
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Singing the Alan Lomax Archive: A Benefit for the Association for Cultural Equity",
+      "date": "2026-11-06T00:00:00",
+      "date_raw": "2026-11-06T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/singingthealanlomaxarchive",
+      "description": "",
+      "image_url": "",
+      "price": "$105.19"
     },
     {
       "venue_name": "Freddy's",
