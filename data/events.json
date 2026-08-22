@@ -1,47 +1,7 @@
 {
-  "scraped_at": "2026-08-21T13:36:18.636517+00:00",
+  "scraped_at": "2026-08-22T13:22:56.228382+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
-      "date": "2026-08-02T00:00:00",
-      "date_raw": "Sunday, August 2, 2026",
-      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "The Roast Ryan Walsh",
-      "date": "2026-08-03T00:00:00",
-      "date_raw": "Monday, August 3, 2026",
-      "url": "https://www.freddysbar.com/events/the-roast-ryan-walsh",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-08-03T00:00:00",
-      "date_raw": "Monday, August 3, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-yemkx-hkxlw",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Board Games in the Back",
-      "date": "2026-08-04T00:00:00",
-      "date_raw": "Tuesday, August 4, 2026",
-      "url": "https://www.freddysbar.com/events/board-games-in-the-back-pmrez",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "new material night -comedy show! 1st Wednesdays after the open mic",
@@ -294,20 +254,20 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "title": "LIMITED RESOURCES music residency every 3rd Wednesday",
       "date": "2026-08-19T00:00:00",
       "date_raw": "Wednesday, August 19, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-23tl5",
+      "url": "https://www.freddysbar.com/events/ykn3znd2hzhhpy9859zldh3f4rfdam",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
       "venue_name": "Freddy's",
-      "title": "LIMITED RESOURCES music residency every 3rd Wednesday",
+      "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-08-19T00:00:00",
       "date_raw": "Wednesday, August 19, 2026",
-      "url": "https://www.freddysbar.com/events/ykn3znd2hzhhpy9859zldh3f4rfdam",
+      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-23tl5",
       "description": "",
       "image_url": "",
       "price": ""
@@ -320,16 +280,6 @@
       "url": "https://www.freddysbar.com/events/garden-party-3rd-thursdays-burlesque-in-the-back-every-thursday-e9a2z",
       "description": "",
       "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Live Band Country Karaoke",
-      "date": "2026-08-21T00:00:00",
-      "date_raw": "August 21, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-12/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -369,176 +319,6 @@
       "date_raw": "Friday, August 21, 2026",
       "url": "https://www.freddysbar.com/events/pleasant-peasant",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-21T14:00:00",
-      "date_raw": "Aug. 21, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33538-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Andrew Kushnir \u2014 Smalls",
-      "date": "2026-08-21T14:00:00",
-      "date_raw": "Aug. 21, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33573-smalls-afternoon-jam-session-hosted-by-andrew-kushnir/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Gilad Hekselman Trio \u2014 Mezzrow",
-      "date": "2026-08-21T18:00:00",
-      "date_raw": "Aug. 21, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33270-gilad-hekselman-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Aaron Goldberg Quartet \u2014 Smalls",
-      "date": "2026-08-21T18:00:00",
-      "date_raw": "Aug. 21, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33275-aaron-goldberg-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-21T18:30:00",
-      "date_raw": "Friday August 21st 06:30 PM",
-      "url": "",
-      "description": "Reid Taylor (b)Brian Marsella (p)Charles Goold (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dezron Douglas Quintet \u2014 Jazzcultural",
-      "date": "2026-08-21T19:00:00",
-      "date_raw": "Aug. 21, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33499-dezron-douglas-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jade Synstelien Quintet",
-      "date": "2026-08-21T19:30:00",
-      "date_raw": "Friday August 21st 07:30 PM",
-      "url": "",
-      "description": "Jade Synstelien (g)Dan Blankinship (tp)Chris Byars (ts)Rob Adkins (b)Steve Little (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday August 21st 8:30pm \u2022  New Moon Acoustic Blues Trio!",
-      "date": "2026-08-21T20:30:00",
-      "date_raw": "Friday August 21st 8:30pm \u2022  New Moon Acoustic Blues Trio!",
-      "url": "https://www.fredsdoghouse.com/event/friday-march-6th-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-21T21:00:00",
-      "date_raw": "Friday August 21st 09:00 PM",
-      "url": "",
-      "description": "Ben Solomon (saxophone)Max Light (g)Way Campbell (b)Ethan Kogan (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Art Hirahara Trio \u2014 Mezzrow",
-      "date": "2026-08-21T21:00:00",
-      "date_raw": "Aug. 21, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33273-art-hirahara-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Charlie Porter Quintet \u2014 Smalls",
-      "date": "2026-08-21T21:00:00",
-      "date_raw": "Aug. 21, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33579-charlie-porter-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Greg Glassman Quartet \u2014 Jazzcultural",
-      "date": "2026-08-21T22:30:00",
-      "date_raw": "Aug. 21, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33477-greg-glassman-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Gideon Tazelaar",
-      "date": "2026-08-21T23:00:00",
-      "date_raw": "Friday August 21st 11:00 PM",
-      "url": "",
-      "description": "Gideon Tazelaar (saxophone)Jacob Artved (g)Joey Ranieri\u00a0(b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Burstin' Boots Dance Party with The Slide Stops!",
-      "date": "2026-08-21T23:30:00",
-      "date_raw": "2026-08-21T23:30:00.000Z",
-      "url": "https://www.viewcy.com/event/burstin_boots_dance_41",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano With William Hill III \u2014 Mezzrow",
-      "date": "2026-08-21T23:55:00",
-      "date_raw": "Aug. 21, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33679-round-midnight-solo-piano-with-william-hill-iii/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Philip Harper Quartet \u2014 Smalls",
-      "date": "2026-08-21T23:55:00",
-      "date_raw": "Aug. 21, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33264-philip-harper-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Rose Paradis",
-      "date": "2026-08-22T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/213/1787356800000",
-      "description": "Rose Paradise enlivens West Coast folk rock. Loyal to the sweet sound of her hometown: Stinson Beach, California, paired with the gritty truths of New York City, Paradise sings for the survival of Americana. The foundation of her lyricism is rooted in her lived experience, incorporating her love for the environment and earthly elements into her music. The California chanteuse is poised for her big",
       "image_url": "",
       "price": ""
     },
@@ -699,6 +479,16 @@
       "date_raw": "Aug. 22, 2026 10:30 PM",
       "url": "https://www.smallslive.com/events/33478-greg-glassman-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Kai Porterfield",
+      "date": "2026-08-22T23:00:00",
+      "date_raw": "Saturday August 22nd 11:00 PM",
+      "url": "",
+      "description": "Kai Porterfield (d)",
       "image_url": "",
       "price": ""
     },
@@ -1013,6 +803,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Visionary Ladybird Series",
+      "date": "2026-08-24T18:30:00",
+      "date_raw": "Monday August 24th 06:30 PM",
+      "url": "",
+      "description": "Leonieke\u00a0Scheuble (p)Jim Greene (b)Nick Scheuble (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Benny Benack Quintet \u2014 Jazzcultural",
       "date": "2026-08-24T19:00:00",
@@ -1069,6 +869,16 @@
       "date_raw": "Aug. 24, 2026 10:00 PM",
       "url": "https://www.smallslive.com/events/33553-jam-in-the-cafe/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By John Lind",
+      "date": "2026-08-24T23:00:00",
+      "date_raw": "Monday August 24th 11:00 PM",
+      "url": "",
+      "description": "John Lind (b)Evan Main (p)Evan Hyde (d)",
       "image_url": "",
       "price": ""
     },
@@ -1403,6 +1213,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Nicolai Daneck",
+      "date": "2026-08-26T23:00:00",
+      "date_raw": "Wednesday August 26th 11:00 PM",
+      "url": "",
+      "description": "Nicolai Daneck (p)Gideon Tazelaar (b)Finn Wiest (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Vinyl After Hours \u2014 Mezzrow",
       "date": "2026-08-26T23:30:00",
@@ -1479,6 +1299,16 @@
       "date_raw": "Aug. 27, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33369-tim-lin-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Earlybird Show",
+      "date": "2026-08-27T18:30:00",
+      "date_raw": "Thursday August 27th 06:30 PM",
+      "url": "",
+      "description": "Ben Meigners (cello/bass)George Braith (braithophone)Anastassiya Petrova (org)TBA (d)",
       "image_url": "",
       "price": ""
     },
@@ -2238,7 +2068,7 @@
       "date": "2026-09-01T18:30:00",
       "date_raw": "Tuesday September 1st 06:30 PM",
       "url": "",
-      "description": "David Zaks (p)Alec Safy (b)Mike Camacho (d)",
+      "description": "David Zaks (p)Steve Nelson (g)Alec Safy (b)",
       "image_url": "",
       "price": ""
     },
@@ -2523,6 +2353,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Late Set with Jon Beshay \u2014 Jazzcultural",
+      "date": "2026-09-03T22:30:00",
+      "date_raw": "Sept. 3, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/33885-late-set-with-jon-beshay/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Pine Leaf Boys",
       "date": "2026-09-03T23:30:00",
@@ -2578,6 +2418,16 @@
       "date": "2026-09-04T00:00:00",
       "date_raw": "Friday, September 4, 2026",
       "url": "https://www.freddysbar.com/events/a-night-of-original-singersongwriters-2-slots",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Indigenous Clown Variety Show",
+      "date": "2026-09-04T00:00:00",
+      "date_raw": "Friday, September 4, 2026",
+      "url": "https://www.freddysbar.com/events/indigenous-clown-variety-show",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2769,7 +2619,7 @@
       "date_raw": "2026-09-05T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/peter-hook-the-light-north-american-brooklyn-new-york-09-05-2026/event/0000630FAB8B2586",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/53f/71b77e1f-71fb-4978-bab5-81f6f615b53f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/e78/8b376276-0692-4323-99b1-863272154e78_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -3393,16 +3243,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "PRESIDENT: North American Campaign 2026",
-      "date": "2026-09-10T18:00:00",
-      "date_raw": "2026-09-10T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/president-north-american-campaign-2026-brooklyn-new-york-09-10-2026/event/0000647D8F0E4EAB",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/31c/6ce990c3-31e6-408a-a008-bbef32d7a31c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Smalls Live",
       "title": "Steve Sandberg Trio \u2014 Mezzrow",
       "date": "2026-09-10T18:00:00",
@@ -3423,12 +3263,32 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "PRESIDENT: North American Campaign 2026",
+      "date": "2026-09-10T18:30:00",
+      "date_raw": "2026-09-10T18:30:00-04:00",
+      "url": "https://www.ticketmaster.com/president-north-american-campaign-2026-brooklyn-new-york-09-10-2026/event/0000647D8F0E4EAB",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/3c5/a7c763e1-3fc7-4c39-bb3f-767df43f63c5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "PETE MALINVERNI\u2019S INVISIBLE CITIES QUINTET \u2014 Jazzcultural",
       "date": "2026-09-10T19:00:00",
       "date_raw": "Sept. 10, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33484-pete-malinvernis-invisible-cities-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ben Barnett Quartet",
+      "date": "2026-09-10T21:00:00",
+      "date_raw": "Thursday September 10th 09:00 PM",
+      "url": "",
+      "description": "Ben Barnett\u00a0(trombone)Iftah Kary (p)John Koozin (b)Chris Latona (d)",
       "image_url": "",
       "price": ""
     },
@@ -3584,6 +3444,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Abraham Burton Quartet \u2014 Jazzcultural",
+      "date": "2026-09-11T22:30:00",
+      "date_raw": "Sept. 11, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/33879-abraham-burton-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Round Midnight Solo Guitar With Doug  Wamble \u2014 Mezzrow",
       "date": "2026-09-11T23:55:00",
       "date_raw": "Sept. 11, 2026 11:55 PM",
@@ -3624,7 +3494,7 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Henry Mena Residency -2nd Saturdays",
+      "title": "CREATURES OF THE NIGHT : Queer Variety Show & Rocky Horror Fundraiser",
       "date": "2026-09-12T00:00:00",
       "date_raw": "Saturday, September 12, 2026",
       "url": "https://www.freddysbar.com/events/henry-mena-residency-2nd-saturdays-pddsg",
@@ -3718,6 +3588,26 @@
       "date": "2026-09-12T21:00:00",
       "date_raw": "Sept. 12, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33621-carlos-abadie-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Hendrik Meurkens Quartet",
+      "date": "2026-09-12T21:30:00",
+      "date_raw": "Saturday September 12th 09:30 PM",
+      "url": "",
+      "description": "Hendrik Meurkens (vibraphone&harmonica)Steve Ash (p)Joe Fitzgerald (b)Andy Watson (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Abraham Burton Quartet \u2014 Jazzcultural",
+      "date": "2026-09-12T22:30:00",
+      "date_raw": "Sept. 12, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/33880-abraham-burton-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4043,13 +3933,23 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Dan Block Trio",
+      "date": "2026-09-15T18:30:00",
+      "date_raw": "Tuesday September 15th 06:30 PM",
+      "url": "",
+      "description": "Dan Block (ts&clarinet)Robert Redd (p)Sean Smith (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "EsDeeKid - Council House Rat Tour",
       "date": "2026-09-15T19:00:00",
       "date_raw": "2026-09-15T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/esdeekid-council-house-rat-tour-brooklyn-new-york-09-15-2026/event/000064F5B9D6820A",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/86e/9e1b14d4-a447-4668-bf20-c4739c3f286e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/a52/571ecd1b-5559-4f1d-80fc-fd534a0e0a52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -4164,7 +4064,7 @@
     },
     {
       "venue_name": "Cafe Ornithology",
-      "title": "Simo\u0301n Willson Quartet",
+      "title": "Simo\u0301n Willson Birthday Bash",
       "date": "2026-09-16T18:30:00",
       "date_raw": "Wednesday September 16th 06:30 PM",
       "url": "",
@@ -4483,6 +4383,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Eric Wyatt Quartet \u2014 Jazzcultural",
+      "date": "2026-09-18T22:30:00",
+      "date_raw": "Sept. 18, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/33881-eric-wyatt-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Burstin' Boots Dance Party with the Talking Hearts!",
       "date": "2026-09-18T23:30:00",
@@ -4608,6 +4518,16 @@
       "date": "2026-09-19T21:00:00",
       "date_raw": "Sept. 19, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33625-sam-newsome-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Eric Wyatt Quartet \u2014 Jazzcultural",
+      "date": "2026-09-19T22:30:00",
+      "date_raw": "Sept. 19, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/33882-eric-wyatt-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4834,7 +4754,7 @@
     },
     {
       "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
+      "title": "Art Of Piano Ensemble",
       "date": "2026-09-21T18:30:00",
       "date_raw": "Monday September 21st 06:30 PM",
       "url": "",
@@ -5309,7 +5229,7 @@
       "date_raw": "2026-09-25T18:30:00-04:00",
       "url": "https://www.ticketmaster.com/loathe-a-stranger-to-you-brooklyn-new-york-09-25-2026/event/00006495917965FA",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/194/41d3b6ec-0d7e-45e4-8e04-704e0c093194_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/773/d673bb12-d407-452f-90c0-5fd3e629a773_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -5338,6 +5258,16 @@
       "date": "2026-09-25T21:00:00",
       "date_raw": "Sept. 25, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33749-david-weiss-sextet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Philip Harper Sextet \u2014 Jazzcultural",
+      "date": "2026-09-25T22:30:00",
+      "date_raw": "Sept. 25, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/33883-philip-harper-sextet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5439,7 +5369,7 @@
       "date_raw": "2026-09-26T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/tinlicker-north-america-2026-brooklyn-new-york-09-26-2026/event/0000648EF21B20B3",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/667/3b087b15-2b32-4508-8a1b-bfbc58d04667_1850871_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/77b/821ec84d-bc67-4d02-a389-a81da25b177b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -5468,6 +5398,16 @@
       "date": "2026-09-26T21:00:00",
       "date_raw": "Sept. 26, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33750-david-weiss-sextet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Philip Harper Sextet \u2014 Jazzcultural",
+      "date": "2026-09-26T22:30:00",
+      "date_raw": "Sept. 26, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/33884-philip-harper-sextet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5664,6 +5604,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Alan Broadbent Trio \u2014 Mezzrow",
+      "date": "2026-09-28T18:00:00",
+      "date_raw": "Sept. 28, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/33833-alan-broadbent-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Tony Leone Quintet \u2014 Smalls",
       "date": "2026-09-28T18:00:00",
       "date_raw": "Sept. 28, 2026 6:00 PM",
@@ -5789,7 +5739,7 @@
       "date_raw": "2026-09-29T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-29-2026/event/000064F7B8876306",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/329/25d9cc6f-b69b-4444-b87c-8e2d17693329_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -5909,7 +5859,7 @@
       "date_raw": "2026-09-30T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-30-2026/event/000064F7B88A631B",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/329/25d9cc6f-b69b-4444-b87c-8e2d17693329_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6019,7 +5969,7 @@
       "date_raw": "2026-10-01T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-10-01-2026/event/000064F7B88D6332",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/329/25d9cc6f-b69b-4444-b87c-8e2d17693329_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6063,6 +6013,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "Trio Lumiere - Experimental Films with Live Accompaniment (two slots)",
+      "date": "2026-10-03T00:00:00",
+      "date_raw": "Saturday, October 3, 2026",
+      "url": "https://www.freddysbar.com/events/trio-lumiere-experimental-films-with-live-accompaniment",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Lesser Known Women / Niva",
       "date": "2026-10-03T00:30:00",
@@ -6079,7 +6039,7 @@
       "date_raw": "2026-10-03T20:00:00-04:00",
       "url": "https://www.ticketmaster.com/schoolboy-q-10-years-of-blank-brooklyn-new-york-10-03-2026/event/000064FEACF1B16C",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/10e/19821e60-9364-4053-8734-6c03d136810e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/4b5/f2e5e163-2e13-463a-bccf-64c7b8a934b5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6119,7 +6079,7 @@
       "date_raw": "2026-10-04T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/slayyyter-wort-girl-in-the-world-brooklyn-new-york-10-04-2026/event/0000649D947EE0C2",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/22d/483655e5-c80e-4e64-9881-bbc5937da22d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/b8f/f55cca90-483c-42a3-b780-333cdfa62b8f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6149,7 +6109,7 @@
       "date_raw": "2026-10-05T18:30:00-04:00",
       "url": "https://www.ticketmaster.com/polyphia-tour-mmxxvi-brooklyn-new-york-10-05-2026/event/000064CCF0DFEBBF",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/3c1/ab410b81-b2ae-4e8e-8105-51ce74d253c1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/d0c/4429459a-7a75-4e95-899b-955fa0bded0c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6223,6 +6183,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Abigail Rose, Melanie MacLaren",
+      "date": "2026-10-08T00:00:00",
+      "date_raw": "October 08, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/abigail-rose-melanie-maclaren/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/99/44/04_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "That\u2019s Camp -2nd Thursdays-Burlesque in the Back Every Thursday",
       "date": "2026-10-08T00:00:00",
@@ -6239,7 +6209,7 @@
       "date_raw": "2026-10-08T18:00:00-04:00",
       "url": "https://www.ticketmaster.com/knocked-loose-denzel-curry-brooklyn-new-york-10-08-2026/event/000064B4B116DE10",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/1cf/26ae18ca-855a-475e-8377-71634a70e1cf_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/b0a/7b2fc4c9-d154-43a8-b2b7-c00bf2e17b0a_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6373,6 +6343,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Paloma Lopez",
+      "date": "2026-10-14T00:00:00",
+      "date_raw": "October 14, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/paloma-lopez-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/99/54/54_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-10-14T00:00:00",
@@ -6499,7 +6479,7 @@
       "date_raw": "2026-10-17T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/ryan-beatty-arms-over-armor-north-brooklyn-new-york-10-17-2026/event/000064C9EAAFCA8B",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/390/d3192af9-b69a-4888-bb3e-aae51adeb390_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/6d0/69299123-0fd4-4fdb-b0a5-a566f5dd16d0_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6559,7 +6539,7 @@
       "date_raw": "2026-10-19T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-brooklyn-new-york-10-19-2026/event/000064650A2CE579",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/1d3/5bd2b439-4d54-4075-9e20-4e0fc6fe71d3_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/469/f6db8121-664a-4972-9853-b1eb4d318469_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6599,7 +6579,7 @@
       "date_raw": "2026-10-20T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-brooklyn-new-york-10-20-2026/event/000064A4E12EF369",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/3c8/173a0bba-93b5-4492-8f50-826da17093c8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/67f/0b8cc3eb-78c4-4c29-8176-08c15df6167f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6629,7 +6609,7 @@
       "date_raw": "2026-10-21T19:00:00-04:00",
       "url": "https://www.ticketmaster.com/sienna-spiro-my-house-tour-brooklyn-new-york-10-21-2026/event/000064C7825E6199",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/143/270f7bf3-1416-45d6-ba46-eb8b9930a143_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/b07/09e0979d-7b3d-4cd4-badf-67d6ced79b07_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -8156,16 +8136,6 @@
       "venue_name": "Freddy's",
       "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
       "date": null,
-      "date_raw": "Thu, Aug 20, 202611:30\u202fPMFri, Aug 21, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-1",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
-      "date": null,
       "date_raw": "Thu, Aug 27, 202611:30\u202fPMFri, Aug 28, 202612:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-2",
       "description": "",
@@ -8348,6 +8318,16 @@
       "date": null,
       "date_raw": "Thu, Jan 7, 202711:30\u202fPMFri, Jan 8, 202712:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-dfhtr-ndrdj",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
+      "date": null,
+      "date_raw": "Thu, Aug 20, 202611:30\u202fPMFri, Aug 21, 202612:30\u202fAM",
+      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-1",
       "description": "",
       "image_url": "",
       "price": ""
