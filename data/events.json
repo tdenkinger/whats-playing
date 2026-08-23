@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T13:22:56.228382+00:00",
+  "scraped_at": "2026-08-23T13:23:57.364834+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -363,156 +363,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-22T14:00:00",
-      "date_raw": "Aug. 22, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33543-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Marc Devine \u2014 Smalls",
-      "date": "2026-08-22T14:00:00",
-      "date_raw": "Aug. 22, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33574-smalls-afternoon-jam-session-hosted-by-marc-devine/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Gilad Hekselman Trio \u2014 Mezzrow",
-      "date": "2026-08-22T18:00:00",
-      "date_raw": "Aug. 22, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33271-gilad-hekselman-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Aaron Goldberg Quartet \u2014 Smalls",
-      "date": "2026-08-22T18:00:00",
-      "date_raw": "Aug. 22, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33276-aaron-goldberg-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-22T18:30:00",
-      "date_raw": "Saturday August 22nd 06:30 PM",
-      "url": "",
-      "description": "Peter Watrous (g)Ben Lerner (saxophone)Julius Gawlik\u00a0(saxophone)Anthony Pearlman (p)Charlie Lincoln (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dezron Douglas Quintet \u2014 Jazzcultural",
-      "date": "2026-08-22T19:00:00",
-      "date_raw": "Aug. 22, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33500-dezron-douglas-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jon Roche Birthday Bash",
-      "date": "2026-08-22T19:30:00",
-      "date_raw": "Saturday August 22nd 07:30 PM",
-      "url": "",
-      "description": "Jon Roche (b)Zaid Nasser (as)Stefano Doglioni (bass clarinet)Jack Glottman (p)Craig Wuepper (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday August 22nd 8:30pm \u2022 Delta Blues with TRACTOR!",
-      "date": "2026-08-22T20:30:00",
-      "date_raw": "Saturday August 22nd 8:30pm \u2022 Delta Blues with TRACTOR!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-may-9th-830pm-delta-blues-with-tractor-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-22T21:00:00",
-      "date_raw": "Saturday August 22nd 09:00 PM",
-      "url": "",
-      "description": "Juan Chiavassa (d)Ojiik (saxophone)Max Gerl (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Art Hirahara Trio \u2014 Mezzrow",
-      "date": "2026-08-22T21:00:00",
-      "date_raw": "Aug. 22, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33274-art-hirahara-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Charlie Porter Quintet \u2014 Smalls",
-      "date": "2026-08-22T21:00:00",
-      "date_raw": "Aug. 22, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33580-charlie-porter-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Greg Glassman Quartet \u2014 Jazzcultural",
-      "date": "2026-08-22T22:30:00",
-      "date_raw": "Aug. 22, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33478-greg-glassman-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Kai Porterfield",
-      "date": "2026-08-22T23:00:00",
-      "date_raw": "Saturday August 22nd 11:00 PM",
-      "url": "",
-      "description": "Kai Porterfield (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano With William Hill III \u2014 Mezzrow",
-      "date": "2026-08-22T23:55:00",
-      "date_raw": "Aug. 22, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33680-round-midnight-solo-piano-with-william-hill-iii/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Smalls",
-      "date": "2026-08-22T23:55:00",
-      "date_raw": "Aug. 22, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33279-eric-wyatt-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-08-23T00:00:00",
@@ -520,16 +370,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-41/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "The Slide Stops",
-      "date": "2026-08-23T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/246/1787443200000",
-      "description": "Honky tonk, country, Western swing, cosmic country, jazz, outlaw country. The Slide Stops are bringing you NYC honky tonk music in pure form. With country repertoire from the 40s to the 00s. New wave country culture.",
-      "image_url": "",
       "price": ""
     },
     {
@@ -561,16 +401,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Robber Crabs / Beak Trio / American",
-      "date": "2026-08-23T00:30:00",
-      "date_raw": "2026-08-23T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/robber_crabs__beak_t",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -1660,7 +1490,7 @@
       "url": "https://www.viewcy.com/event/swamp_in_the_city_min",
       "description": "",
       "image_url": "",
-      "price": "$42.70"
+      "price": "$50"
     },
     {
       "venue_name": "Smalls Live",
