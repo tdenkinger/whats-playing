@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T13:39:04.727593+00:00",
+  "scraped_at": "2026-08-26T13:43:56.141640+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -293,161 +293,11 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "date": "2026-08-25T00:00:00",
-      "date_raw": "August 25, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-41/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Dark Room- Film Screening & Salon 4th Tuesdays",
       "date": "2026-08-25T00:00:00",
       "date_raw": "Tuesday, August 25, 2026",
       "url": "https://www.freddysbar.com/events/dark-room-film-screening-salon-4th-tuesdays-1-xmnf8-dc6h6-nx37t-58ebw-9fc5g",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Barry Harris Institute Presents: Free Piano Lesson & Jam Session \u2014 Jazzcultural",
-      "date": "2026-08-25T14:00:00",
-      "date_raw": "Aug. 25, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33527-barry-harris-institute-presents-free-piano-lesson-jam-session/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Earl Sauls Trio \u2014 Mezzrow",
-      "date": "2026-08-25T18:00:00",
-      "date_raw": "Aug. 25, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33587-earl-sauls-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Steve Nelson Quartet \u2014 Smalls",
-      "date": "2026-08-25T18:00:00",
-      "date_raw": "Aug. 25, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33361-steve-nelson-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-25T18:30:00",
-      "date_raw": "Tuesday August 25th 06:30 PM",
-      "url": "",
-      "description": "Daniel Bereket (tp)Matt Knoegel\u00a0 (ts&soprano)Jordan Williams (p)Jason Clotter (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Kurt Rosenwinkel Riptet \u2014 Jazzcultural",
-      "date": "2026-08-25T19:00:00",
-      "date_raw": "Aug. 25, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33461-kurt-rosenwinkel-riptet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Saxophone Leaders Series",
-      "date": "2026-08-25T19:30:00",
-      "date_raw": "Tuesday August 25th 07:30 PM",
-      "url": "",
-      "description": "Sean Hong Wei (ts)Hana Igarashi (p)Colson Jimenez (p)Jacob Smith (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday August 25th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-08-25T20:30:00",
-      "date_raw": "Tuesday August 25th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-march-3rd-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-25T21:00:00",
-      "date_raw": "Tuesday August 25th 09:00 PM",
-      "url": "",
-      "description": "Andrew Wagner (tp)Alex De Lazzari (ts)Elliot Bernard (p)Dan Finn (b)Willie Bowman (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Michael Kanan Trio \u2014 Mezzrow",
-      "date": "2026-08-25T21:00:00",
-      "date_raw": "Aug. 25, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33565-michael-kanan-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mejedi Owusu Quintet \u2014 Smalls",
-      "date": "2026-08-25T21:00:00",
-      "date_raw": "Aug. 25, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33585-mejedi-owusu-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-25T22:00:00",
-      "date_raw": "Aug. 25, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33558-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Iftah Kary",
-      "date": "2026-08-25T23:00:00",
-      "date_raw": "Tuesday August 25th 11:00 PM",
-      "url": "",
-      "description": "Iftah Kary (p)Tal Ronen (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-08-25T23:30:00",
-      "date_raw": "Aug. 25, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33414-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Jason Clotter \u2014 Smalls",
-      "date": "2026-08-25T23:45:00",
-      "date_raw": "Aug. 25, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33430-jam-session-hosted-by-jason-clotter/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -460,16 +310,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/bmi-acoustic-lounge-presents-julia-campbell-and-kathryn-gallagher/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/62/83/13_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "The Binoculars",
-      "date": "2026-08-26T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/236/1787702400000",
-      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalopy Records. They gather and resuscitate long lost tunes from around the world using fiddle, 5-string violin, guitar, lap steel, and laser vocal harmonies. Their repertoire spans myriad genres, dusting off 1950\u2019s New Mexican mazurkas and Ame",
-      "image_url": "",
       "price": ""
     },
     {
@@ -708,7 +548,7 @@
       "date": "2026-08-27T18:30:00",
       "date_raw": "Thursday August 27th 06:30 PM",
       "url": "",
-      "description": "Ben Meigners (cello/bass)George Braith (braithophone)Anastassiya Petrova (org)TBA (d)",
+      "description": "Ben Meigners (cello/bass)George Braith (braithophone)Anastassiya Petrova (org)Tommy Campbell d)",
       "image_url": "",
       "price": ""
     },
@@ -719,6 +559,26 @@
       "date_raw": "Aug. 27, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33463-kurt-rosenwinkel-riptet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Zaid Nasser Trio",
+      "date": "2026-08-27T19:30:00",
+      "date_raw": "Thursday August 27th 07:30 PM",
+      "url": "",
+      "description": "Zaid Nasser (saxophone)Ari Roland (b)Keith Balla (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Late Night Jam Hosted By Andrea Niccolai",
+      "date": "2026-08-27T21:00:00",
+      "date_raw": "Thursday August 27th 09:00 PM",
+      "url": "",
+      "description": "Andrea Niccolai (d)Patrick Joray (ts)Giuseppe Cucchiara (b)",
       "image_url": "",
       "price": ""
     },
@@ -1233,6 +1093,26 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Elias Meister Trio",
+      "date": "2026-08-30T19:30:00",
+      "date_raw": "Sunday August 30th 07:30 PM",
+      "url": "",
+      "description": "Elias Meister (g)Lim Yang (b)Billy Mintz (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jazz Dialogue",
+      "date": "2026-08-30T21:00:00",
+      "date_raw": "Sunday August 30th 09:00 PM",
+      "url": "",
+      "description": "Michael Ode (d)Jordan Young (as)Jordan Williams (p)Jordan McBride (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jamile Quartet \u2014 Mezzrow",
       "date": "2026-08-30T21:00:00",
@@ -1463,6 +1343,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Iftah Kary Octet",
+      "date": "2026-09-01T18:30:00",
+      "date_raw": "Tuesday September 1st 06:30 PM",
+      "url": "",
+      "description": "Iftah Kary (p)Matt Martinez (as&flute)Asaf Yuria (ts)Adam Frumkin (baritone saxophone)Ian Cleaver (tp)Ben Barnett (trombone)Joey Ranieri (d)Aleksi Heinola (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "David Zaks Trio",
       "date": "2026-09-01T18:30:00",
@@ -1619,6 +1509,16 @@
       "date_raw": "Sept. 2, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33148-david-penn-and-creative-tone/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Kai Gluska Trio",
+      "date": "2026-09-02T18:30:00",
+      "date_raw": "Wednesday September 2nd 06:30 PM",
+      "url": "",
+      "description": "Kai Gluska (g)Leonieke Scheuble (org)Willie Bowman (d)",
       "image_url": "",
       "price": ""
     },
@@ -4083,6 +3983,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "The 16th Annual Washington Square Park Folk Festival",
+      "date": "2026-09-20T17:00:00",
+      "date_raw": "2026-09-20T17:00:00.000Z",
+      "url": "https://www.viewcy.com/event/the_16th_annual_washi",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2026-09-20T18:00:00",
@@ -4109,6 +4019,16 @@
       "date_raw": "Sept. 20, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33741-behn-gillece-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Tamir Hochman Trio",
+      "date": "2026-09-20T18:30:00",
+      "date_raw": "Sunday September 20th 06:30 PM",
+      "url": "",
+      "description": "Tamir Hochman (saxophone)Paul Gill (b)Joe Strasser (d)",
       "image_url": "",
       "price": ""
     },
@@ -4703,16 +4623,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Jack Walrath Quintet \u2014 Smalls",
-      "date": "2026-09-25T18:00:00",
-      "date_raw": "Sept. 25, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33747-jack-walrath-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Brooklyn Paramount",
       "title": "Loathe: A Stranger to You",
       "date": "2026-09-25T18:30:00",
@@ -4848,16 +4758,6 @@
       "date": "2026-09-26T18:00:00",
       "date_raw": "Sept. 26, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33630-helio-alves-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jack Walrath Quintet \u2014 Smalls",
-      "date": "2026-09-26T18:00:00",
-      "date_raw": "Sept. 26, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33748-jack-walrath-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5553,6 +5453,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Cricket Blue / Dustin Lowman",
+      "date": "2026-10-02T00:30:00",
+      "date_raw": "2026-10-02T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/cricket_blue__dustin",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Bill O'Connell Trio \u2014 Mezzrow",
       "date": "2026-10-02T18:00:00",
@@ -6093,6 +6003,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Charles Owens Quartet \u2014 Smalls",
+      "date": "2026-10-11T21:00:00",
+      "date_raw": "Oct. 11, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34004-charles-owens-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-10-12T00:00:00",
@@ -6133,6 +6053,26 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Evan Arntzen Trio \u2014 Mezzrow",
+      "date": "2026-10-13T18:00:00",
+      "date_raw": "Oct. 13, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/33951-evan-arntzen-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Joseph Ranieri Quartet \u2014 Smalls",
+      "date": "2026-10-13T21:00:00",
+      "date_raw": "Oct. 13, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33953-joseph-ranieri-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Paloma Lopez",
       "date": "2026-10-14T00:00:00",
@@ -6163,6 +6103,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Alexandre Kautz Quartet \u2014 Smalls",
+      "date": "2026-10-14T18:00:00",
+      "date_raw": "Oct. 14, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/33956-alexandre-kautz-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Sylvan Esso",
       "date": "2026-10-14T19:00:00",
@@ -6170,6 +6120,16 @@
       "url": "https://www.ticketmaster.com/sylvan-esso-brooklyn-new-york-10-14-2026/event/000064C5B8594A98",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/31d/f82bc044-7ba1-4be8-a33f-f6923d2ba31d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Leo Larratt Quartet \u2014 Smalls",
+      "date": "2026-10-14T21:00:00",
+      "date_raw": "Oct. 14, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33957-leo-larratt-quartet/",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -6188,6 +6148,36 @@
       "date": "2026-10-15T00:00:00",
       "date_raw": "Thursday, October 15, 2026",
       "url": "https://www.freddysbar.com/events/garden-party-3rd-thursdays-burlesque-in-the-back-every-thursday-e9a2z-8k6w7-fz4r6",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Danny Tobias Trio \u2014 Mezzrow",
+      "date": "2026-10-15T18:00:00",
+      "date_raw": "Oct. 15, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/33958-danny-tobias-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Ben Rosenblum Sextet \u2014 Smalls",
+      "date": "2026-10-15T18:00:00",
+      "date_raw": "Oct. 15, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/33960-ben-rosenblum-sextet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Misha Piatigorsky Trio \u2014 Mezzrow",
+      "date": "2026-10-15T21:00:00",
+      "date_raw": "Oct. 15, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33959-misha-piatigorsky-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6483,6 +6473,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Cubeye6",
+      "date": "2026-10-24T21:00:00",
+      "date_raw": "Saturday October 24th 09:00 PM",
+      "url": "",
+      "description": "Dave Schumacher (baritone saxophone)Diego Hedez (tp)Manuel Valera (p)Raul Reyes (b)Yusnier Sanchez (congas)Joel Mateo (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-10-25T00:00:00",
@@ -6511,6 +6511,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Leah Tash 'This Town Has Changed' EP Release / Perla",
+      "date": "2026-10-25T00:30:00",
+      "date_raw": "2026-10-25T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/leah_tash_this_town",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Lucinda's",
@@ -6629,6 +6639,16 @@
       "date_raw": "Friday, October 30, 2026",
       "url": "https://www.freddysbar.com/events/even-twice-1",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "James Robbins Quartet",
+      "date": "2026-10-30T18:30:00",
+      "date_raw": "Friday October 30th 06:30 PM",
+      "url": "",
+      "description": "James Robbins (b)Hillai Govreen (woodwinds)Evan Main (keyboard)Corey Garcia (d)",
       "image_url": "",
       "price": ""
     },
@@ -6920,6 +6940,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-26/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Stories Untold Album Release Show",
+      "date": "2026-11-29T21:00:00",
+      "date_raw": "Sunday November 29th 09:00 PM",
+      "url": "",
+      "description": "Nitsan Kolko (p)Charlie Lincoln (b)Ben Silashi (d)",
+      "image_url": "",
       "price": ""
     },
     {
