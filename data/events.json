@@ -1,53 +1,13 @@
 {
-  "scraped_at": "2026-08-29T16:54:25.551291+00:00",
+  "scraped_at": "2026-08-30T17:01:22.561599+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Melina and the Magnetics",
-      "date": "2026-08-14T00:00:00",
-      "date_raw": "Friday, August 14, 2026",
-      "url": "https://www.freddysbar.com/events/melina-and-the-magnetics-1",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Lone Empire Revue and Variety Show",
-      "date": "2026-08-14T00:00:00",
-      "date_raw": "Friday, August 14, 2026",
-      "url": "https://www.freddysbar.com/events/lone-empire-revue-and-variety-show",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Pole Before Dark- every third Saturday- This week only special after-dark extended time!",
-      "date": "2026-08-15T00:00:00",
-      "date_raw": "Saturday, August 15, 2026",
-      "url": "https://www.freddysbar.com/events/pole-after-dark-38zj2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
       "date": "2026-08-16T00:00:00",
       "date_raw": "Sunday, August 16, 2026",
       "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-rsw8y",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, Poetry Welcome",
-      "date": "2026-08-16T00:00:00",
-      "date_raw": "Sunday, August 16, 2026",
-      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-jmked",
       "description": "",
       "image_url": "",
       "price": ""
@@ -274,10 +234,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Arath Corral",
+      "title": "Angela Mataja",
       "date": "2026-08-28T00:00:00",
       "date_raw": "Friday, August 28, 2026",
-      "url": "https://www.freddysbar.com/events/arath-corral",
+      "url": "https://www.freddysbar.com/events/angela-mataja",
       "description": "",
       "image_url": "",
       "price": ""
@@ -294,30 +254,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Angela Mataja",
+      "title": "Arath Corral",
       "date": "2026-08-28T00:00:00",
       "date_raw": "Friday, August 28, 2026",
-      "url": "https://www.freddysbar.com/events/angela-mataja",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday August 29th \u2022 Blues & more with The A.J. Shakes Trio!",
-      "date": "2026-08-29T00:00:00",
-      "date_raw": "Saturday August 29th \u2022 Blues & more with The A.J. Shakes Trio!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Joey Ama Dio Band",
-      "date": "2026-08-29T00:00:00",
-      "date_raw": "Saturday, August 29, 2026",
-      "url": "https://www.freddysbar.com/events/joey-ama-dio-band",
+      "url": "https://www.freddysbar.com/events/arath-corral",
       "description": "",
       "image_url": "",
       "price": ""
@@ -333,151 +273,11 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-29T14:00:00",
-      "date_raw": "Aug. 29, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33544-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Steve Nelson \u2014 Smalls",
-      "date": "2026-08-29T14:00:00",
-      "date_raw": "Aug. 29, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33576-smalls-afternoon-jam-session-hosted-by-steve-nelson/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Marc Copland Trio \u2014 Mezzrow",
-      "date": "2026-08-29T18:00:00",
-      "date_raw": "Aug. 29, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33603-marc-copland-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Miki Yamanaka Quartet \u2014 Smalls",
-      "date": "2026-08-29T18:00:00",
-      "date_raw": "Aug. 29, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33285-miki-yamanaka-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Earlybird Show",
-      "date": "2026-08-29T18:30:00",
-      "date_raw": "Saturday August 29th 06:30 PM",
-      "url": "",
-      "description": "Rico Jones (saxophone)Ricky Jefferson (p)Nick Jozwiak (b)Jerome Gillespie (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Los Texmaniacs//Jourdan Thibodeaux et les R\u00f4dailleurs",
-      "date": "2026-08-29T19:00:00",
-      "date_raw": "2026-08-29T19:00:00.000Z",
-      "url": "https://www.viewcy.com/event/swamp_in_the_city_min",
-      "description": "",
-      "image_url": "",
-      "price": "$50"
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Kurt Rosenwinkel \"Next Step Band\" \u2014 Jazzcultural",
-      "date": "2026-08-29T19:00:00",
-      "date_raw": "Aug. 29, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33465-kurt-rosenwinkel-next-step-band/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Chris Byars Octet",
-      "date": "2026-08-29T19:30:00",
-      "date_raw": "Saturday August 29th 07:30 PM",
-      "url": "",
-      "description": "Chris Byars (as)Jacob Chung (ts)Frank Basile (baritone saxophone)David Sneider (tp)John Mosca (trombone)Eriko Kitagawa (p)Ari Roland (b)Andy Watson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-29T21:00:00",
-      "date_raw": "Saturday August 29th 09:00 PM",
-      "url": "",
-      "description": "Steve Nelson (vibraphone)Rick Germanson (p)Mark Lewandowski (b)Vinnie Sperrazza (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jordan Williams Trio \u2014 Mezzrow",
-      "date": "2026-08-29T21:00:00",
-      "date_raw": "Aug. 29, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33605-jordan-williams-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Duduka Da Fonseca & Quadrilogy \u2014 Smalls",
-      "date": "2026-08-29T21:00:00",
-      "date_raw": "Aug. 29, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33287-duduka-da-fonseca-quadrilogy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mike DiRubbo Quartet \u2014 Jazzcultural",
-      "date": "2026-08-29T22:30:00",
-      "date_raw": "Aug. 29, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33480-mike-dirubbo-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Charles Colizza",
-      "date": "2026-08-29T23:00:00",
-      "date_raw": "Saturday August 29th 11:00 PM",
-      "url": "",
-      "description": "Charles Colizza (g)Isaac Levien (b)Ben Freidkin (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Caelan Cardello \u2014 Mezzrow",
-      "date": "2026-08-29T23:55:00",
-      "date_raw": "Aug. 29, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33513-round-midnight-solo-piano-with-caelan-cardello/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Chris Beck Quartet \u2014 Smalls",
-      "date": "2026-08-29T23:55:00",
-      "date_raw": "Aug. 29, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33280-chris-beck-quartet/",
+      "venue_name": "Freddy's",
+      "title": "Joey Ama Dio Band",
+      "date": "2026-08-29T00:00:00",
+      "date_raw": "Saturday, August 29, 2026",
+      "url": "https://www.freddysbar.com/events/joey-ama-dio-band",
       "description": "",
       "image_url": "",
       "price": ""
@@ -500,16 +300,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/honky-tonk-sunday-3/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/00/93/64_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Jackson Lynch and the Janks",
-      "date": "2026-08-30T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/263/1788048000000",
-      "description": "Born in Ireland, Jackson Lynch moved to New York City's East Village at a young age. Formerly residing in New Orleans he remains an integral part of the music world there with his band The Janks. Now living in Red Hook, Brooklyn, Jackson Lynch plays solo, with The Janks and with his string band The Down Hill Strugglers. Jackson and the Janks are a New York based rock and roll and rhythm and blues ",
-      "image_url": "",
       "price": ""
     },
     {
@@ -660,6 +450,16 @@
       "url": "https://www.smallslive.com/events/33673-panas-athanatos-trio/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Dani Rae Clark, Kacie Jewel Hill",
+      "date": "2026-08-31T00:00:00",
+      "date_raw": "August 31, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/dani-rae-clark-kacie-jewel-hill/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/01/08/84_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -1403,12 +1203,32 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Frank Basile Quartet",
+      "date": "2026-09-04T18:30:00",
+      "date_raw": "Friday September 4th 06:30 PM",
+      "url": "",
+      "description": "Frank Basile (baritone saxophone)Steve Ash (p)Mike Karn (b)Aaron Seeber (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Myron Walden Quartet \u2014 Jazzcultural",
       "date": "2026-09-04T19:00:00",
       "date_raw": "Sept. 4, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33487-myron-walden-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ralph\u200b Lalama Trio",
+      "date": "2026-09-04T21:00:00",
+      "date_raw": "Friday September 4th 09:00 PM",
+      "url": "",
+      "description": "Ralph Lalama (saxophone)Leonieke Scheuble (org)Andy Watson (d)",
       "image_url": "",
       "price": ""
     },
@@ -1549,6 +1369,16 @@
       "date_raw": "Sept. 5, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33611-will-vinson-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Peter Watrous Group",
+      "date": "2026-09-05T18:30:00",
+      "date_raw": "Saturday September 5th 06:30 PM",
+      "url": "",
+      "description": "Peter Watrous (g)Brent Lerman (saxophone)TBA (tp)Anthony Pearlman (p)Charlie Lincoln (b)Angus Mason (d)",
       "image_url": "",
       "price": ""
     },
@@ -5574,10 +5404,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Nick Finzer Quintet \u2014 Smalls",
+      "title": "Nick Finzer Quartet \u2014 Smalls",
       "date": "2026-10-08T18:00:00",
       "date_raw": "Oct. 8, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33920-nick-finzer-quintet/",
+      "url": "https://www.smallslive.com/events/33920-nick-finzer-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5658,6 +5488,16 @@
       "date": "2026-10-09T21:00:00",
       "date_raw": "Oct. 9, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33933-savage-smit/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Private Event In the Backroom",
+      "date": "2026-10-10T00:00:00",
+      "date_raw": "Saturday, October 10, 2026",
+      "url": "https://www.freddysbar.com/events/private-event-in-the-backroom",
       "description": "",
       "image_url": "",
       "price": ""
@@ -7323,6 +7163,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday August 29th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "date": "2027-08-29T00:00:00",
+      "date_raw": "Saturday August 29th \u2022 Blues & more with The A.J. Shakes Trio!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-march-29th-blues-more-with-the-aj-shakes-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-09-01T22:30:00",
@@ -7998,16 +7848,6 @@
       "date": null,
       "date_raw": "Thu, Aug 20, 202611:30\u202fPMFri, Aug 21, 202612:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-1",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
-      "date": null,
-      "date_raw": "Thu, Aug 13, 202611:30\u202fPMFri, Aug 14, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque",
       "description": "",
       "image_url": "",
       "price": ""
