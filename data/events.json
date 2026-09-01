@@ -1,33 +1,13 @@
 {
-  "scraped_at": "2026-08-31T19:17:04.083427+00:00",
+  "scraped_at": "2026-09-01T17:02:14.723967+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
-      "date": "2026-08-16T00:00:00",
-      "date_raw": "Sunday, August 16, 2026",
-      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-rsw8y",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
       "date": "2026-08-17T00:00:00",
       "date_raw": "Monday, August 17, 2026",
       "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-z8ggy",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-08-17T00:00:00",
-      "date_raw": "Monday, August 17, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-zhc4w",
       "description": "",
       "image_url": "",
       "price": ""
@@ -293,151 +273,11 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Dani Rae Clark, Kacie Jewel Hill",
-      "date": "2026-08-31T00:00:00",
-      "date_raw": "August 31, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/dani-rae-clark-kacie-jewel-hill/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/01/08/84_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "BAD MOVIE NIGHT in the Backroom",
       "date": "2026-08-31T00:00:00",
       "date_raw": "Monday, August 31, 2026",
       "url": "https://www.freddysbar.com/events/bad-movie-night-in-the-backroom",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-31T14:00:00",
-      "date_raw": "Aug. 31, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33523-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jeremy Manasia Trio \u2014 Mezzrow",
-      "date": "2026-08-31T18:00:00",
-      "date_raw": "Aug. 31, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33388-jeremy-manasia-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Tony Leone Quintet \u2014 Smalls",
-      "date": "2026-08-31T18:00:00",
-      "date_raw": "Aug. 31, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33590-tony-leone-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Visionary Ladybird Series",
-      "date": "2026-08-31T18:30:00",
-      "date_raw": "Monday August 31st 06:30 PM",
-      "url": "",
-      "description": "Kelly Green\u00a0 (p&v)Elijah J. Thomas\u00a0 (flute)Luca Soul Rosenfeld (b)Evan Hyde (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Joe Farnsworth Quartet \u2014 Jazzcultural",
-      "date": "2026-08-31T19:00:00",
-      "date_raw": "Aug. 31, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33458-joe-farnsworth-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Guitar Leaders Series",
-      "date": "2026-08-31T19:30:00",
-      "date_raw": "Monday August 31st 07:30 PM",
-      "url": "",
-      "description": "Ely Perlman (g)Max Gerl (b)Tyson Jackson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jazz Dialogue",
-      "date": "2026-08-31T21:00:00",
-      "date_raw": "Monday August 31st 09:00 PM",
-      "url": "",
-      "description": "David Ambrosio (b)Jason Palmer (tp)Hery Paz (saxophone)Connor Parks (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Pasquale Grasso Trio \u2014 Mezzrow",
-      "date": "2026-08-31T21:00:00",
-      "date_raw": "Aug. 31, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33689-pasquale-grasso-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Neal Caine Quartet \u2014 Smalls",
-      "date": "2026-08-31T21:00:00",
-      "date_raw": "Aug. 31, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33591-neal-caine-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-08-31T22:00:00",
-      "date_raw": "Aug. 31, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33554-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Late Night Jam Hosted By Jovan Parris Alexandre",
-      "date": "2026-08-31T23:00:00",
-      "date_raw": "Monday August 31st 11:00 PM",
-      "url": "",
-      "description": "Jovan Parris Alexandre (ts)Tim Norton (b)Lumanyano Mzi (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-08-31T23:30:00",
-      "date_raw": "Aug. 31, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34006-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Mike Boone \u2014 Smalls",
-      "date": "2026-08-31T23:45:00",
-      "date_raw": "Aug. 31, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33424-jam-session-hosted-by-mike-boone/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -498,7 +338,7 @@
       "date": "2026-09-01T18:30:00",
       "date_raw": "Tuesday September 1st 06:30 PM",
       "url": "",
-      "description": "Iftah Kary (p)Matt Martinez (as&flute)Asaf Yuria (ts)Adam Frumkin (baritone saxophone)Ian Cleaver (tp)Ben Barnett (trombone)Joey Ranieri (d)Aleksi Heinola (d)",
+      "description": "Iftah Kary (p)Matt Martinez (as&flute)Asaf Yuria (ts)Adam Frumkin (baritone saxophone)Ian Cleaver (tp)Ben Barnett (trombone)Joey Ranieri (b)Aleksi Heinola (d)",
       "image_url": "",
       "price": ""
     },
@@ -624,11 +464,11 @@
     },
     {
       "venue_name": "Sunny's Bar",
-      "title": "Matthew Avedon",
+      "title": "Jordan Hyde",
       "date": "2026-09-02T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/172/1788307200000",
-      "description": "The sultry sounds of famed New York guitarist Matthew Avedon set the tone for a night to remember. From bebop to swing and back again, he does it all!",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -713,12 +553,22 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday September 2nd 8:30pm \u2022 Blues, American & more with Papa Vega!",
+      "date": "2026-09-02T20:30:00",
+      "date_raw": "Wednesday September 2nd 8:30pm \u2022 Blues, American & more with Papa Vega!",
+      "url": "https://www.fredsdoghouse.com/event/wednesday-july-8th-830pm-blues-american-more-with-papa-vega-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
-      "title": "Hillai Govreen Quartet",
+      "title": "James Robbins Quartet",
       "date": "2026-09-02T21:00:00",
       "date_raw": "Wednesday September 2nd 09:00 PM",
       "url": "",
-      "description": "Hillai Govreen (woodwinds)Guilherme Monteiro (g)Noah Garabedian (b)Jonas Esser (d)",
+      "description": "James Robbins (b)Hillai Govreen (woodwinds)Evan Main (p)Corey Garcia (d)",
       "image_url": "",
       "price": ""
     },
@@ -1543,6 +1393,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Aidan O'Donnell and Josh Dunn",
+      "date": "2026-09-07T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/268/1788739200000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Freddy\u2019s Labor Day BBQ!",
       "date": "2026-09-07T00:00:00",
@@ -2353,16 +2213,6 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday September 12th 8:30pm \u2022 The National Reserve",
-      "date": "2026-09-12T20:30:00",
-      "date_raw": "Saturday September 12th 8:30pm \u2022 The National Reserve",
-      "url": "https://www.fredsdoghouse.com/event/saturday-february-15th-the-cannibal-ramblers/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Billy Mintz Quintet",
       "date": "2026-09-12T21:00:00",
@@ -2543,16 +2393,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "SAINT LEVANT - AFANDI WORLD TOUR",
-      "date": "2026-09-13T19:00:00",
-      "date_raw": "2026-09-13T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/saint-levant-afandi-world-tour-brooklyn-new-york-09-13-2026/event/000064E7E1F43E90",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/130/06ba4e22-a1ba-4046-b822-f55c0e34f130_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Smalls Live",
       "title": "Samara Joy & her Septet \u2014 Jazzcultural",
       "date": "2026-09-13T19:00:00",
@@ -2623,6 +2463,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Grant Gordy and Adam Armstrong",
+      "date": "2026-09-14T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/269/1789344000000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-09-14T00:00:00",
@@ -2670,16 +2520,6 @@
       "url": "",
       "description": "\u00c1lvaro Torres (p)Caleb Wheeler Curtis (saxophone)Thorbj\u00f8rn Stefansson (b)James Paul Nadien (d)",
       "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "SAINT LEVANT - AFANDI WORLD TOUR",
-      "date": "2026-09-14T19:00:00",
-      "date_raw": "2026-09-14T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/saint-levant-afandi-world-tour-brooklyn-new-york-09-14-2026/event/000064E7E1F73EA1",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/130/06ba4e22-a1ba-4046-b822-f55c0e34f130_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -3073,16 +2913,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Insecure: The 10th Anniversary Tour",
-      "date": "2026-09-17T20:00:00",
-      "date_raw": "2026-09-17T20:00:00-04:00",
-      "url": "https://www.ticketmaster.com/insecure-the-10th-anniversary-tour-brooklyn-new-york-09-17-2026/event/000064EDDFD58EFC",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/6ad/cad3a61d-8d4d-47b1-998e-8ffc25b3f6ad_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Chris McCarthy - Too Late To Quit Album Release Show",
       "date": "2026-09-17T21:00:00",
@@ -3244,10 +3074,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Antonio Hart Quartet \u2014 Jazzcultural",
+      "title": "Antonio Hart Quintet \u2014 Jazzcultural",
       "date": "2026-09-18T19:00:00",
       "date_raw": "Sept. 18, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33493-antonio-hart-quartet/",
+      "url": "https://www.smallslive.com/events/33493-antonio-hart-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3394,10 +3224,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Antonio Hart Quartet \u2014 Jazzcultural",
+      "title": "Antonio Hart Sextet \u2014 Jazzcultural",
       "date": "2026-09-19T19:00:00",
       "date_raw": "Sept. 19, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33494-antonio-hart-quartet/",
+      "url": "https://www.smallslive.com/events/33494-antonio-hart-sextet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4380,6 +4210,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-46/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Maisy Owen",
+      "date": "2026-09-27T00:00:00",
+      "date_raw": "September 27, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/maisy-owen/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/01/23/94_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -5583,6 +5423,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "A Night of Heated Rivalry: A Celebration with Jacob Tierney",
+      "date": "2026-10-11T18:00:00",
+      "date_raw": "2026-10-11T18:00:00-04:00",
+      "url": "https://www.ticketmaster.com/a-night-of-heated-rivalry-a-brooklyn-new-york-10-11-2026/event/0000651F04A22E45",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/c/8e8/89409e3a-57d3-450d-be32-d5ab4a7538e8_106501_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Brad Linde New Quartet \u2014 Smalls",
       "date": "2026-10-11T18:00:00",
@@ -6154,10 +6004,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Yuhan Su Trio \u2014 Mezzrow",
+      "title": "Yuhan Su meets Luis Perdomo \u2014 Mezzrow",
       "date": "2026-10-22T18:00:00",
       "date_raw": "Oct. 22, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33976-yuhan-su-trio/",
+      "url": "https://www.smallslive.com/events/33976-yuhan-su-meets-luis-perdomo/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6344,13 +6194,23 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "Leah Tash 'This Town Has Changed' EP Release / Perla",
+      "title": "Leah Tash 'This Town Has Changed' EP Release / Pearla",
       "date": "2026-10-25T00:30:00",
       "date_raw": "2026-10-25T00:30:00.000Z",
       "url": "https://www.viewcy.com/event/leah_tash_this_town",
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Cavetown - Running With Scissors Tour",
+      "date": "2026-10-25T18:30:00",
+      "date_raw": "2026-10-25T18:30:00-04:00",
+      "url": "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-brooklyn-new-york-10-25-2026/event/00006427A4305C8C",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/dd9/dd1c868c-8736-4919-bfc8-b4a8d89a0dd9_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -6430,6 +6290,16 @@
       "url": "https://www.freddysbar.com/events/glitter-gauntlet-with-lucy-buttons-last-thursdays-9npnk-tpm4m-c4npg",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Lawrence - Staycation 3 DAY PASS",
+      "date": "2026-10-29T00:00:01",
+      "date_raw": "2026-10-29T00:00:01-04:00",
+      "url": "https://www.ticketmaster.com/lawrence-staycation-3-day-pass-brooklyn-new-york-10-29-2026/event/000064410845ECF9",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/f52/5f3274be-be3f-4e37-9fc4-55ac9c470f52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -7946,7 +7816,7 @@
       "venue_name": "Freddy's",
       "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
       "date": null,
-      "date_raw": "Fri, Oct 16, 202611:30\u202fPMSat, Oct 17, 202612:30\u202fAM",
+      "date_raw": "Thu, Oct 15, 202610:30\u202fPMFri, Oct 16, 202612:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-zjts5",
       "description": "",
       "image_url": "",
