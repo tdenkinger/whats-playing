@@ -1,57 +1,7 @@
 {
-  "scraped_at": "2026-09-08T16:53:13.313041+00:00",
+  "scraped_at": "2026-09-09T16:55:57.274234+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Pleasant Peasant",
-      "date": "2026-08-21T00:00:00",
-      "date_raw": "Friday, August 21, 2026",
-      "url": "https://www.freddysbar.com/events/pleasant-peasant",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Sheila G & Ross B",
-      "date": "2026-08-22T00:00:00",
-      "date_raw": "Saturday, August 22, 2026",
-      "url": "https://www.freddysbar.com/events/sheila-g-ross-b",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Black Tip Surf Gang",
-      "date": "2026-08-22T00:00:00",
-      "date_raw": "Saturday, August 22, 2026",
-      "url": "https://www.freddysbar.com/events/black-tip-surf-gang",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "One Acre West (Acoustic Americana Duo)",
-      "date": "2026-08-22T00:00:00",
-      "date_raw": "Saturday, August 22, 2026",
-      "url": "https://www.freddysbar.com/events/one-acre-west-acoustic-americana-duo",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Bad Movies in the Backroom every 4th Saturday",
-      "date": "2026-08-22T00:00:00",
-      "date_raw": "Saturday, August 22, 2026",
-      "url": "https://www.freddysbar.com/events/supper-in-ft-lauderdale-withe-edith-pierre-every-4th-saturdays-j7l7w",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Board Game Night In the Backroom!",
@@ -68,16 +18,6 @@
       "date": "2026-08-23T00:00:00",
       "date_raw": "Sunday, August 23, 2026",
       "url": "https://www.freddysbar.com/events/eagle-colt-combo-1-h3mka",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Fourth Sunday Traditional Irish Music Jam",
-      "date": "2026-08-23T00:00:00",
-      "date_raw": "Sunday, August 23, 2026",
-      "url": "https://www.freddysbar.com/events/fourth-sunday-traditional-irish-music-jam-h554j",
       "description": "",
       "image_url": "",
       "price": ""
@@ -284,10 +224,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
+      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
       "date": "2026-09-06T00:00:00",
       "date_raw": "Sunday, September 6, 2026",
-      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p-cdeef",
+      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8-lfnch",
       "description": "",
       "image_url": "",
       "price": ""
@@ -304,10 +244,20 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
+      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
       "date": "2026-09-06T00:00:00",
       "date_raw": "Sunday, September 6, 2026",
-      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8-lfnch",
+      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p-cdeef",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "date": "2026-09-07T00:00:00",
+      "date_raw": "Monday, September 7, 2026",
+      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-tpel7-p9ntd-f2dx9",
       "description": "",
       "image_url": "",
       "price": ""
@@ -324,180 +274,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-09-07T00:00:00",
-      "date_raw": "Monday, September 7, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-tpel7-p9ntd-f2dx9",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "date": "2026-09-08T00:00:00",
-      "date_raw": "September 08, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-43/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Big Joe's Happiness Exchange",
       "date": "2026-09-08T00:00:00",
       "date_raw": "Tuesday, September 8, 2026",
       "url": "https://www.freddysbar.com/events/dsc6kndmgfph4em8ljetrbd96c9h64-ts5pt-xnz4e",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Barry Harris Institute Presents: Free Piano Lesson & Jam Session \u2014 Jazzcultural",
-      "date": "2026-09-08T14:00:00",
-      "date_raw": "Sept. 8, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33733-barry-harris-institute-presents-free-piano-lesson-jam-session/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Joe Alterman Trio \u2014 Mezzrow",
-      "date": "2026-09-08T18:00:00",
-      "date_raw": "Sept. 8, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33836-joe-alterman-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Frank Lacy Quartet \u2014 Smalls",
-      "date": "2026-09-08T18:00:00",
-      "date_raw": "Sept. 8, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34018-frank-lacy-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Maki Nientao Trio",
-      "date": "2026-09-08T18:30:00",
-      "date_raw": "Tuesday September 8th 06:30 PM",
-      "url": "",
-      "description": "Maki Nientao (p)Ian Cleaver (tp)Ben Wolstein (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Kazu Yokoshima Trio",
-      "date": "2026-09-08T18:30:00",
-      "date_raw": "Tuesday September 8th 06:30 PM",
-      "url": "",
-      "description": "Kazu Yokoshima (org)Steve Nelson (g)Adam Ray (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "LUCKI",
-      "date": "2026-09-08T19:00:00",
-      "date_raw": "2026-09-08T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/lucki-brooklyn-new-york-09-08-2026/event/000064ACBBFCEB12",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/051/58f8541d-70ed-408d-bb05-abd7b252d051_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Aaron Goldberg Trio \u2014 Jazzcultural",
-      "date": "2026-09-08T19:00:00",
-      "date_raw": "Sept. 8, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33699-aaron-goldberg-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday September 8th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-09-08T20:30:00",
-      "date_raw": "Tuesday September 8th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Yuchtet",
-      "date": "2026-09-08T21:00:00",
-      "date_raw": "Tuesday September 8th 09:00 PM",
-      "url": "",
-      "description": "Leo Yucht (d)Chris Bittner (ts)Greg Carleton (saxophone)Joey Rosin (baritone saxophone)Noah Halpern (tp)James Haddad (tp)Jasim Perales (trombone)Josh Uguccioni (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Danny Fox Trio \u2014 Mezzrow",
-      "date": "2026-09-08T21:00:00",
-      "date_raw": "Sept. 8, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33837-danny-fox-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Seamus Blake Quartet \u2014 Smalls",
-      "date": "2026-09-08T21:00:00",
-      "date_raw": "Sept. 8, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33712-seamus-blake-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Itai Eliezri Trio",
-      "date": "2026-09-08T21:30:00",
-      "date_raw": "Tuesday September 8th 09:30 PM",
-      "url": "",
-      "description": "Itai Eliezri (b)Kevin Sun (ts)Rintaro Mikami\u00a0 (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-08T22:00:00",
-      "date_raw": "Sept. 8, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33793-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-09-08T23:30:00",
-      "date_raw": "Sept. 8, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33860-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Jason Clotter \u2014 Smalls",
-      "date": "2026-09-08T23:45:00",
-      "date_raw": "Sept. 8, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33812-jam-session-hosted-by-jason-clotter/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -523,16 +303,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "The Binoculars",
-      "date": "2026-09-09T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/236/1788912000000",
-      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalopy Records. They gather and resuscitate long lost tunes from around the world using fiddle, 5-string violin, guitar, lap steel, and laser vocal harmonies. Their repertoire spans myriad genres, dusting off 1950\u2019s New Mexican mazurkas and Ame",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Private Party",
       "date": "2026-09-09T00:00:00",
@@ -551,16 +321,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Tim Eriksen and Peter Irvine Duo",
-      "date": "2026-09-09T00:30:00",
-      "date_raw": "2026-09-09T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/tim_eriksen",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -1173,6 +933,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Peter Watrous Quintet",
+      "date": "2026-09-12T18:30:00",
+      "date_raw": "Saturday September 12th 06:30 PM",
+      "url": "",
+      "description": "Peter Watrous (g)Jules Gardner (ts)Anthony Pearlman (p)Charlie Lincoln (b)Angus Mason (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Samara Joy & her Septet \u2014 Jazzcultural",
       "date": "2026-09-12T19:00:00",
@@ -1288,16 +1058,6 @@
       "date": "2026-09-13T00:00:00",
       "date_raw": "Sunday, September 13, 2026",
       "url": "https://www.freddysbar.com/events/pretty-please-indie-folkemo-performance",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Dane Bachman - Live and Unplugged",
-      "date": "2026-09-13T00:00:00",
-      "date_raw": "Sunday, September 13, 2026",
-      "url": "https://www.freddysbar.com/events/dane-bachman-live-and-unplugged",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1573,6 +1333,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Agustin Grasso Trio",
+      "date": "2026-09-14T21:30:00",
+      "date_raw": "Monday September 14th 09:30 PM",
+      "url": "",
+      "description": "Agustin Grasso (d)Vito Dieterle (saxophone)Will Gorman (otg)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-09-14T22:00:00",
@@ -1689,6 +1459,16 @@
       "date_raw": "Tuesday September 15th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
       "url": "https://www.fredsdoghouse.com/event/tuesday-august-4th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Greg Glassman Quintet",
+      "date": "2026-09-15T21:00:00",
+      "date_raw": "Tuesday September 15th 09:00 PM",
+      "url": "",
+      "description": "Greg Glassman (tp)Stacy Dillard (saxophone)Eric Lewis (p)Joseph Lepore (b)Jason Brown (d)",
       "image_url": "",
       "price": ""
     },
@@ -1869,6 +1649,16 @@
       "date_raw": "Sept. 16, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33653-matt-chertkoff-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Jade Synstelien Quintet",
+      "date": "2026-09-16T21:30:00",
+      "date_raw": "Wednesday September 16th 09:30 PM",
+      "url": "",
+      "description": "Jade Synstelien (g)Chris Byars (ts)Jack Glottman (p)Alexi David (b)Phil Stewart (d)",
       "image_url": "",
       "price": ""
     },
@@ -2394,10 +2184,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Stacy Dillard Quartet \u2014 Smalls",
+      "title": "Stacy Dillard/Greg Glassman Quartet \u2014 Smalls",
       "date": "2026-09-19T23:55:00",
       "date_raw": "Sept. 19, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33844-stacy-dillard-quartet/",
+      "url": "https://www.smallslive.com/events/33844-stacy-dillardgreg-glassman-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3664,10 +3454,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Benny Benack Quartet \u2014 Jazzcultural",
+      "title": "Benny Benack Quintet \u2014 Jazzcultural",
       "date": "2026-09-28T19:00:00",
       "date_raw": "Sept. 28, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33708-benny-benack-quartet/",
+      "url": "https://www.smallslive.com/events/33708-benny-benack-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4774,10 +4564,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Deanna Kirk Quartet \u2014 Mezzrow",
+      "title": "Deanna Kirk Trio \u2014 Mezzrow",
       "date": "2026-10-06T21:00:00",
       "date_raw": "Oct. 6, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33915-deanna-kirk-quartet/",
+      "url": "https://www.smallslive.com/events/33915-deanna-kirk-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5083,16 +4873,6 @@
       "price": ""
     },
     {
-      "venue_name": "Freddy's",
-      "title": "Sheebie and the Lovemakers, Ejector Crab",
-      "date": "2026-10-09T00:00:00",
-      "date_raw": "Friday, October 9, 2026",
-      "url": "https://www.freddysbar.com/events/sheebie-and-the-lovemakers-ejector-crab",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Matt Sucich / Katy Pinke",
       "date": "2026-10-09T00:30:00",
@@ -5158,6 +4938,16 @@
       "date": "2026-10-09T19:00:00",
       "date_raw": "Oct. 9, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33924-eric-scott-reed-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Victor Gould Trio \u2014 Mezzrow",
+      "date": "2026-10-09T21:00:00",
+      "date_raw": "Oct. 9, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33929-victor-gould-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5233,6 +5023,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "Dead Sea Sparrow, Acoustic Folk Duo",
+      "date": "2026-10-10T00:00:00",
+      "date_raw": "Saturday, October 10, 2026",
+      "url": "https://www.freddysbar.com/events/dead-sea-sparrow-acoustic-folk-duo",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-10-10T14:00:00",
@@ -5288,6 +5088,16 @@
       "date": "2026-10-10T19:00:00",
       "date_raw": "Oct. 10, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33925-eric-scott-reed-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Victor Gould Trio \u2014 Mezzrow",
+      "date": "2026-10-10T21:00:00",
+      "date_raw": "Oct. 10, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/33930-victor-gould-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5480,6 +5290,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/mimi-roman-the-brooklyn-cowgirls/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/02/22/74_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Jackson And The Janks",
+      "date": "2026-10-12T00:00:00",
+      "date_raw": "October 12, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/jackson-and-the-janks/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/02/68/34_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -7693,6 +7513,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Lawrence - Staycation",
+      "date": "2026-10-30T18:00:00",
+      "date_raw": "2026-10-30T18:00:00-04:00",
+      "url": "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-30-2026/event/00006441083FECE9",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/f52/5f3274be-be3f-4e37-9fc4-55ac9c470f52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Simon Moullier Trio \u2014 Mezzrow",
       "date": "2026-10-30T18:00:00",
@@ -7923,6 +7753,26 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "Geoff the DJ- Vinyl & Digital- Indie/Dance Set",
+      "date": "2026-11-07T00:00:00",
+      "date_raw": "Saturday, November 7, 2026",
+      "url": "https://www.freddysbar.com/events/geoff-the-dj-vinyl-digital-indiedance-set",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Disterbenz 'Icky Guy' Album Release",
+      "date": "2026-11-09T00:00:00",
+      "date_raw": "November 09, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/disterbenz-icky-guy-album-release/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/02/64/84_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Weekly Bluegrass with  Allison Kelly",
       "date": "2026-11-10T00:00:00",
@@ -8111,6 +7961,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Goatroper Album Release with Ghost Rodeo & Sam Brown",
+      "date": "2026-11-19T01:30:00",
+      "date_raw": "2026-11-19T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/goatroper_album_relea",
+      "description": "",
+      "image_url": "",
+      "price": "$18"
     },
     {
       "venue_name": "Lucinda's",
