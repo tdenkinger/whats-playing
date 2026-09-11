@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-09-10T16:44:32.295948+00:00",
+  "scraped_at": "2026-09-11T16:48:20.247936+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Board Game Night In the Backroom!",
-      "date": "2026-08-23T00:00:00",
-      "date_raw": "Sunday, August 23, 2026",
-      "url": "https://www.freddysbar.com/events/board-game-night",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Eagle Colt Combo-Every 4th Sunday",
-      "date": "2026-08-23T00:00:00",
-      "date_raw": "Sunday, August 23, 2026",
-      "url": "https://www.freddysbar.com/events/eagle-colt-combo-1-h3mka",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic",
@@ -284,20 +264,20 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Private Party",
+      "title": "Bootleg Karaoke -2nd Wednesdays!",
       "date": "2026-09-09T00:00:00",
       "date_raw": "Wednesday, September 9, 2026",
-      "url": "https://www.freddysbar.com/events/7yx5wk7s2wjywpx3gzsjk7ebyaxff2",
+      "url": "https://www.freddysbar.com/events/m9ez5ssrtk6925lcdg9hfe3yg8ewmm-ckzd7",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
       "venue_name": "Freddy's",
-      "title": "Bootleg Karaoke -2nd Wednesdays!",
+      "title": "Private Party",
       "date": "2026-09-09T00:00:00",
       "date_raw": "Wednesday, September 9, 2026",
-      "url": "https://www.freddysbar.com/events/m9ez5ssrtk6925lcdg9hfe3yg8ewmm-ckzd7",
+      "url": "https://www.freddysbar.com/events/7yx5wk7s2wjywpx3gzsjk7ebyaxff2",
       "description": "",
       "image_url": "",
       "price": ""
@@ -313,146 +293,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-10T14:00:00",
-      "date_raw": "Sept. 10, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33760-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Steve Sandberg Trio \u2014 Mezzrow",
-      "date": "2026-09-10T18:00:00",
-      "date_raw": "Sept. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33647-steve-sandberg-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Kavita Shah Sextet ft. Steve Wilson \u2014 Smalls",
-      "date": "2026-09-10T18:00:00",
-      "date_raw": "Sept. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33658-kavita-shah-sextet-ft-steve-wilson/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jon-Erik Kellso Trio",
-      "date": "2026-09-10T18:30:00",
-      "date_raw": "Thursday September 10th 06:30 PM",
-      "url": "",
-      "description": "Jon-Erik Kellso (tp)Mark Shane (p)Tal Ronen (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jamale Davis Trio",
-      "date": "2026-09-10T18:30:00",
-      "date_raw": "Thursday September 10th 06:30 PM",
-      "url": "",
-      "description": "Jamale Davis (b)Jinjoo Yoo (p)Gary Kerkezou (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "PRESIDENT: North American Campaign 2026",
-      "date": "2026-09-10T18:30:00",
-      "date_raw": "2026-09-10T18:30:00-04:00",
-      "url": "https://www.ticketmaster.com/president-north-american-campaign-2026-brooklyn-new-york-09-10-2026/event/0000647D8F0E4EAB",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/3c5/a7c763e1-3fc7-4c39-bb3f-767df43f63c5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "PETE MALINVERNI\u2019S INVISIBLE CITIES QUINTET \u2014 Jazzcultural",
-      "date": "2026-09-10T19:00:00",
-      "date_raw": "Sept. 10, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33484-pete-malinvernis-invisible-cities-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ben Barnett Quartet",
-      "date": "2026-09-10T21:00:00",
-      "date_raw": "Thursday September 10th 09:00 PM",
-      "url": "",
-      "description": "Ben Barnett\u00a0(trombone)Iftahio Carpaccio (p)John Koozin (b)Chris Latona (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Charlie Sigler Trio \u2014 Mezzrow",
-      "date": "2026-09-10T21:00:00",
-      "date_raw": "Sept. 10, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33648-charlie-sigler-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Spin Cycle \u2014 Smalls",
-      "date": "2026-09-10T21:00:00",
-      "date_raw": "Sept. 10, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33659-spin-cycle/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Adam Ray Trio",
-      "date": "2026-09-10T21:30:00",
-      "date_raw": "Thursday September 10th 09:30 PM",
-      "url": "",
-      "description": "Adam Ray (d)Jon Boutellier\u00a0(ts)Philip Ambuel (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Late Set With Sarah Hanahan Quartet \u2014 Jazzcultural",
-      "date": "2026-09-10T22:00:00",
-      "date_raw": "Sept. 10, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33988-late-set-with-sarah-hanahan-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-09-10T23:30:00",
-      "date_raw": "Sept. 10, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33862-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted by Greg Glassman \u2014 Smalls",
-      "date": "2026-09-10T23:45:00",
-      "date_raw": "Sept. 10, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33820-jam-session-hosted-by-greg-glassman/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-09-11T00:00:00",
@@ -460,16 +300,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-15/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Laura Jean Anderson Band",
-      "date": "2026-09-11T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/175/1789084800000",
-      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound. Laura Jean has garnered support from NPR, Bernie sanders, Rolling Stone, Noisey, Salon, Fader, amongst others. Her shows across Los Angeles have established her as a staple of the LA music scene, with support from KCRW and LA Weekly procl",
-      "image_url": "",
       "price": ""
     },
     {
@@ -491,16 +321,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "The 12th Annual Brooklyn Americana Music Fest: Opening Night!",
-      "date": "2026-09-11T00:00:00",
-      "date_raw": "2026-09-11T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/the_12th_annual_brook",
-      "description": "",
-      "image_url": "",
-      "price": "$28"
     },
     {
       "venue_name": "Smalls Live",
@@ -948,7 +768,7 @@
       "date": "2026-09-13T18:30:00",
       "date_raw": "Sunday September 13th 06:30 PM",
       "url": "",
-      "description": "George Braith\u00a0(braithophone)Jon Davis (p)Ben Meigners (b)David Sirkis (d)",
+      "description": "George Braith\u00a0(braithophone)Jon Davis (p)Ben Meigners (b)Brother Ruckus (d)",
       "image_url": "",
       "price": ""
     },
@@ -1109,6 +929,16 @@
       "date_raw": "Sept. 14, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33739-joe-farnsworth-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Cyrus Campbell Trio",
+      "date": "2026-09-14T18:30:00",
+      "date_raw": "Monday September 14th 06:30 PM",
+      "url": "",
+      "description": "Cyrus Campbell (b)Xavier Kim (p)Sam Bolduc (d)",
       "image_url": "",
       "price": ""
     },
@@ -1309,6 +1139,16 @@
       "date_raw": "Sept. 15, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33650-patrick-hill-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Yotam Ben-Or Quartet",
+      "date": "2026-09-15T21:30:00",
+      "date_raw": "Tuesday September 15th 09:30 PM",
+      "url": "",
+      "description": "Yotam Ben-Or (harmonica)Gabriel Chakarji (p)Dan Montgomery (b)Alon Benjamini (d)",
       "image_url": "",
       "price": ""
     },
@@ -1579,6 +1419,16 @@
       "date_raw": "Thursday September 17th 06:30 PM",
       "url": "",
       "description": "Jay Leonhart (b&v)Tomoko Ohno (p)Vito Lesczak (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Martha Kato Trio",
+      "date": "2026-09-17T18:30:00",
+      "date_raw": "Thursday September 17th 06:30 PM",
+      "url": "",
+      "description": "Martha Kato (p)Pablo Menares (b)David Frazier (d)",
       "image_url": "",
       "price": ""
     },
@@ -2514,11 +2364,11 @@
     },
     {
       "venue_name": "Sunny's Bar",
-      "title": "The Binoculars",
+      "title": "Nathan and Jessie",
       "date": "2026-09-23T00:00:00",
       "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/236/1790121600000",
-      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalopy Records. They gather and resuscitate long lost tunes from around the world using fiddle, 5-string violin, guitar, lap steel, and laser vocal harmonies. Their repertoire spans myriad genres, dusting off 1950\u2019s New Mexican mazurkas and Ame",
+      "url": "https://tockify.com/sunnysmusic/detail/275/1790121600000",
+      "description": "Music with a spirit of beauty, spontaneity, dance, and jazz improvisation! From the city where they sun shines through the mist, Temecula, California, comes the jazzy folk duo Nathan & Jessie. Born of the individuals, Nathan Rivera and Jessie Andra Smith, this duo is a unique blend of jazzy folk and blues on resonator guitars and accordion, along with interesting interplay between male and female ",
       "image_url": "",
       "price": ""
     },
@@ -3184,10 +3034,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "VICTOR JONES AND THE ORCHESTRIO \u2014 Smalls",
+      "title": "Victor Jones Quartet \u2014 Smalls",
       "date": "2026-09-27T18:00:00",
       "date_raw": "Sept. 27, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33726-victor-jones-and-the-orchestrio/",
+      "url": "https://www.smallslive.com/events/33726-victor-jones-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4274,6 +4124,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Spike Wilner Trio \u2014 Mezzrow",
+      "date": "2026-10-05T18:00:00",
+      "date_raw": "Oct. 5, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34125-spike-wilner-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Joe Farnsworth Quartet \u2014 Smalls",
       "date": "2026-10-05T18:00:00",
       "date_raw": "Oct. 5, 2026 6:00 PM",
@@ -5284,6 +5144,16 @@
     },
     {
       "venue_name": "Lucinda's",
+      "title": "Whippoorwill",
+      "date": "2026-10-13T00:00:00",
+      "date_raw": "October 13, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/whippoorwill/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/02/99/94_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
       "title": "Live Weekly Bluegrass with  Allison Kelly",
       "date": "2026-10-13T00:00:00",
       "date_raw": "October 13, 2026",
@@ -5584,10 +5454,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Tim Armacost Quartet \u2014 Jazzcultural",
+      "title": "Tim Armacost Quintet \u2014 Jazzcultural",
       "date": "2026-10-15T19:00:00",
       "date_raw": "Oct. 15, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34103-tim-armacost-quartet/",
+      "url": "https://www.smallslive.com/events/34103-tim-armacost-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6068,6 +5938,16 @@
       "date": "2026-10-19T00:00:00",
       "date_raw": "Monday, October 19, 2026",
       "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-e6p3h-j2733-se3g9",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Spike Wilner Trio \u2014 Mezzrow",
+      "date": "2026-10-19T18:00:00",
+      "date_raw": "Oct. 19, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34141-spike-wilner-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6643,16 +6523,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Smalls",
-      "date": "2026-10-23T23:55:00",
-      "date_raw": "Oct. 23, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34109-eric-wyatt-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Brooklyn Guitar School Student Showcase",
       "date": "2026-10-24T00:00:00",
@@ -6888,6 +6758,16 @@
       "date": "2026-10-25T21:00:00",
       "date_raw": "Oct. 25, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34145-jamile-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Ben Solomon Quartet \u2014 Smalls",
+      "date": "2026-10-25T21:00:00",
+      "date_raw": "Oct. 25, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34184-ben-solomon-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -7474,6 +7354,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Round Midnight Solo Piano with Jill McCarron \u2014 Mezzrow",
+      "date": "2026-10-30T23:55:00",
+      "date_raw": "Oct. 30, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/34185-round-midnight-solo-piano-with-jill-mccarron/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Ken Fowser Quintet \u2014 Smalls",
       "date": "2026-10-30T23:55:00",
       "date_raw": "Oct. 30, 2026 11:55 PM",
@@ -7563,6 +7453,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Round Midnight Solo Piano with Jill McCarron \u2014 Mezzrow",
+      "date": "2026-10-31T23:55:00",
+      "date_raw": "Oct. 31, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/34186-round-midnight-solo-piano-with-jill-mccarron/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Richard on Piano in the Frontroom (Every 1st & 3rd Sunday!)",
       "date": "2026-11-01T00:00:00",
@@ -7570,6 +7470,16 @@
       "url": "https://www.freddysbar.com/events/richard-on-piano-in-the-frontroom-every-1st-3rd-sunday-gr3nc",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "LIL PEEP 30TH BIRTHDAY CELEBRATION",
+      "date": "2026-11-01T19:00:00",
+      "date_raw": "2026-11-01T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/lil-peep-30th-birthday-celebration-brooklyn-new-york-11-01-2026/event/00006507F5E43EAF",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/c36/5941c678-4994-49f1-91de-fdb871100c36_471631_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -7910,7 +7820,7 @@
       "url": "https://www.viewcy.com/event/goatroper_album_relea",
       "description": "",
       "image_url": "",
-      "price": "$18"
+      "price": "$23"
     },
     {
       "venue_name": "Lucinda's",
@@ -9168,16 +9078,6 @@
       "date": "2028-08-09T22:30:00",
       "date_raw": "2028-08-09T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Thursday September 10th 8:30pm + The Dirt Whisperers!",
-      "date": null,
-      "date_raw": "Thursday September 10th 8:30pm + The Dirt Whisperers!",
-      "url": "https://www.fredsdoghouse.com/event/this-just-in-saturday-august-1st-830pm-the-dirt-whisperers/",
       "description": "",
       "image_url": "",
       "price": ""
