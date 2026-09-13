@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-12T15:55:06.349656+00:00",
+  "scraped_at": "2026-09-13T16:42:24.562016+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -303,156 +303,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-12T14:00:00",
-      "date_raw": "Sept. 12, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33764-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Marc Devine \u2014 Smalls",
-      "date": "2026-09-12T14:00:00",
-      "date_raw": "Sept. 12, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33850-smalls-afternoon-jam-session-hosted-by-marc-devine/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Social Distortion",
-      "date": "2026-09-12T18:00:00",
-      "date_raw": "2026-09-12T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/social-distortion-brooklyn-new-york-09-12-2026/event/00006453B59CB954",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/b02/a4025885-0bec-4065-94e0-aa5399d41b02_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dena DeRose Trio \u2014 Mezzrow",
-      "date": "2026-09-12T18:00:00",
-      "date_raw": "Sept. 12, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33615-dena-derose-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Yves Brouqui Quartet \u2014 Smalls",
-      "date": "2026-09-12T18:00:00",
-      "date_raw": "Sept. 12, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33619-yves-brouqui-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "James Haddad Quartet",
-      "date": "2026-09-12T18:30:00",
-      "date_raw": "Saturday September 12th 06:30 PM",
-      "url": "",
-      "description": "James Haddad (tp)Joe Block (p)Guillermo Lopez (b)Matt Lee (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Peter Watrous Quintet",
-      "date": "2026-09-12T18:30:00",
-      "date_raw": "Saturday September 12th 06:30 PM",
-      "url": "",
-      "description": "Peter Watrous (g)Jules Gardner (ts)Anthony Pearlman (p)Charlie Lincoln (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Samara Joy & her Septet \u2014 Jazzcultural",
-      "date": "2026-09-12T19:00:00",
-      "date_raw": "Sept. 12, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33491-samara-joy-her-septet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Billy Mintz Quintet",
-      "date": "2026-09-12T21:00:00",
-      "date_raw": "Saturday September 12th 09:00 PM",
-      "url": "",
-      "description": "Billy Mintz (d)Jason Rigby (ts)Anton Denner (as)Roberta Piket (p)Eivind Opsvik (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "John Di Martino Trio \u2014 Mezzrow",
-      "date": "2026-09-12T21:00:00",
-      "date_raw": "Sept. 12, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33617-john-di-martino-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Carlos Abadie's the quintet \u2014 Smalls",
-      "date": "2026-09-12T21:00:00",
-      "date_raw": "Sept. 12, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33621-carlos-abadies-the-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Hendrik Meurkens Quartet",
-      "date": "2026-09-12T21:30:00",
-      "date_raw": "Saturday September 12th 09:30 PM",
-      "url": "",
-      "description": "Hendrik Meurkens (vibraphone&harmonica)Steve Ash (p)Joe Fitzgerald (b)Andy Watson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Abraham Burton Quartet \u2014 Jazzcultural",
-      "date": "2026-09-12T22:30:00",
-      "date_raw": "Sept. 12, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33880-abraham-burton-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Guitar With Doug  Wamble \u2014 Mezzrow",
-      "date": "2026-09-12T23:55:00",
-      "date_raw": "Sept. 12, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33826-round-midnight-solo-guitar-with-doug-wamble/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Justin Robinson Quartet \u2014 Smalls",
-      "date": "2026-09-12T23:55:00",
-      "date_raw": "Sept. 12, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33842-justin-robinson-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-09-13T00:00:00",
@@ -460,16 +310,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-44/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=7",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Fat Boy Wilson and the Ripleys",
-      "date": "2026-09-13T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/272/1789257600000",
-      "description": "Fatboy Wilson & the Ripleys is a new project from acclaimed Brooklyn folk and blues musicians Samoa Wilson and ErnestoGomez.",
-      "image_url": "",
       "price": ""
     },
     {
@@ -481,16 +321,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "WKCR's 85th Anniversary Celebration with Hyllus & the Veligers",
-      "date": "2026-09-13T00:30:00",
-      "date_raw": "2026-09-13T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/wkcrs_85th_anniversa",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -718,7 +548,7 @@
       "date": "2026-09-14T18:30:00",
       "date_raw": "Monday September 14th 06:30 PM",
       "url": "",
-      "description": "Cyrus Campbell (b)Xavier Kim (p)Sam Bolduc (d)",
+      "description": "Cyrus Campbell (b)Geraldo Marshall (tp)Xavier Kim (p)Sam Bolduc (d)",
       "image_url": "",
       "price": ""
     },
@@ -739,6 +569,16 @@
       "date_raw": "Sept. 14, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33701-bruce-harris-to-be-or-not-to-bop/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Thomas Linger Trio",
+      "date": "2026-09-14T21:00:00",
+      "date_raw": "Monday September 14th 09:00 PM",
+      "url": "",
+      "description": "Thomas Linger (p)Paul Sikivie (b)Aleksi Heinola (d)",
       "image_url": "",
       "price": ""
     },
@@ -1038,7 +878,17 @@
       "date": "2026-09-16T18:30:00",
       "date_raw": "Wednesday September 16th 06:30 PM",
       "url": "",
-      "description": "Simo\u0301n Willson (b)Alexandra Ridout (tp)Matthew Sheens (p)TBA (d)",
+      "description": "Simo\u0301n Willson (b)Alexandra Ridout (tp)Matthew Sheens (p)Peter Manheim (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jon Davis Trio",
+      "date": "2026-09-16T18:30:00",
+      "date_raw": "Wednesday September 16th 06:30 PM",
+      "url": "",
+      "description": "Jon Davis (p)Yuma Takagi (b)Ronen Itzik (d)",
       "image_url": "",
       "price": ""
     },
@@ -3078,7 +2928,7 @@
       "date": "2026-09-29T21:00:00",
       "date_raw": "Tuesday September 29th 09:00 PM",
       "url": "",
-      "description": "Uri Gurvich\u00a0(saxophone)Leo Genovese\u00a0(p)Edward Perez\u00a0(b)Ronen Itzik (d)",
+      "description": "Uri Gurvich\u00a0(saxophone)Nitzan Gavrieli\u00a0\u00a0(p)Edward Perez\u00a0(b)Ronen Itzik (d)",
       "image_url": "",
       "price": ""
     },
@@ -7323,6 +7173,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Palace - USA & Canada Tour 2026",
+      "date": "2026-11-04T19:00:00",
+      "date_raw": "2026-11-04T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/palace-usa-canada-tour-2026-brooklyn-new-york-11-04-2026/event/0000648F2CF6C305",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/b3d/efbf1e8c-4fa1-4f06-90b7-1f4ddeb62b3d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-11-04T23:30:00",
@@ -7871,6 +7731,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Princess Backpack & Benjamin",
+      "date": "2026-12-13T16:00:00",
+      "date_raw": "2026-12-13T16:00:00.000Z",
+      "url": "https://www.viewcy.com/event/princess_backpack__b_2",
+      "description": "",
+      "image_url": "",
+      "price": "$12"
     },
     {
       "venue_name": "Lucinda's",
@@ -8878,16 +8748,6 @@
       "date": "2028-08-09T22:30:00",
       "date_raw": "2028-08-09T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday September 12th 8:30pm + The Barry Harrison Trio with Special Guest Doc French!",
-      "date": null,
-      "date_raw": "Saturday September 12th 8:30pm + The Barry Harrison Trio with Special Guest Doc French!",
-      "url": "https://www.fredsdoghouse.com/event/celebrate-the-fourth-of-july-with-the-barry-harrison-trio/",
       "description": "",
       "image_url": "",
       "price": ""
