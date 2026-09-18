@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-09-17T17:20:50.131882+00:00",
+  "scraped_at": "2026-09-18T16:46:16.285303+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "BAD MOVIE NIGHT in the Backroom",
-      "date": "2026-08-31T00:00:00",
-      "date_raw": "Monday, August 31, 2026",
-      "url": "https://www.freddysbar.com/events/bad-movie-night-in-the-backroom",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Pizza Mermaid's Aquarium of Friendship",
-      "date": "2026-09-01T00:00:00",
-      "date_raw": "Tuesday, September 1, 2026",
-      "url": "https://www.freddysbar.com/events/pizza-mermaids-aquarium-of-friendship-fdnx5",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "New Material Night- Comedy Show 1st Wednesdays",
@@ -293,166 +273,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-17T14:00:00",
-      "date_raw": "Sept. 17, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33761-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Noah Stoneman Trio \u2014 Mezzrow",
-      "date": "2026-09-17T18:00:00",
-      "date_raw": "Sept. 17, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33654-noah-stoneman-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Chris Johansen Quartet \u2014 Smalls",
-      "date": "2026-09-17T18:00:00",
-      "date_raw": "Sept. 17, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33656-chris-johansen-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jay Leonhart Trio",
-      "date": "2026-09-17T18:30:00",
-      "date_raw": "Thursday September 17th 06:30 PM",
-      "url": "",
-      "description": "Jay Leonhart (b&v)Tomoko Ohno (p)Vito Lesczak (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Martha Kato Trio",
-      "date": "2026-09-17T18:30:00",
-      "date_raw": "Thursday September 17th 06:30 PM",
-      "url": "",
-      "description": "Martha Kato (p)Pablo Menares (b)David Frazier (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Pete Rodriguez Sextet \u2014 Jazzcultural",
-      "date": "2026-09-17T19:00:00",
-      "date_raw": "Sept. 17, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33485-pete-rodriguez-sextet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "This just in! TONIGHT- Thursday September 17th at 8:30pm \u2022 THE BINOCULARS !",
-      "date": "2026-09-17T20:30:00",
-      "date_raw": "This just in! TONIGHT- Thursday September 17th at 8:30pm \u2022 THE BINOCULARS !",
-      "url": "https://www.fredsdoghouse.com/event/this-just-in-tonight-at-830pm-the-binoculars/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Chris McCarthy - Too Late To Quit Album Release Show",
-      "date": "2026-09-17T21:00:00",
-      "date_raw": "Thursday September 17th 09:00 PM",
-      "url": "",
-      "description": "Chris McCarthy (p)Vanisha Gould (v)Takuya Kuroda (tp)Eden Bareket (baritone saxophone)Sam Minaie (b)Steven Crammer (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Neal Kirkwood Trio \u2014 Mezzrow",
-      "date": "2026-09-17T21:00:00",
-      "date_raw": "Sept. 17, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33655-neal-kirkwood-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dennis Mitcheltree Quartet \u2014 Smalls",
-      "date": "2026-09-17T21:00:00",
-      "date_raw": "Sept. 17, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33657-dennis-mitcheltree-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Hans Luchs Trio",
-      "date": "2026-09-17T21:30:00",
-      "date_raw": "Thursday September 17th 09:30 PM",
-      "url": "",
-      "description": "Hans Luchs (g)Sharik Hasan (org)Finn Wiest (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Late Set with David Gibson \u2014 Jazzcultural",
-      "date": "2026-09-17T22:00:00",
-      "date_raw": "Sept. 17, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/34009-late-set-with-david-gibson/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "The Golden Hour Series at Greeley Square: Mafer Bandola",
-      "date": "2026-09-17T23:00:00",
-      "date_raw": "2026-09-17T23:00:00.000Z",
-      "url": "https://www.viewcy.com/event/the_golden_hour_serie_2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Copeland SECOND SHOW ADDED",
-      "date": "2026-09-17T23:00:00",
-      "date_raw": "2026-09-17T23:00:00.000Z",
-      "url": "https://www.viewcy.com/event/copeland",
-      "description": "",
-      "image_url": "",
-      "price": "$38"
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-09-17T23:30:00",
-      "date_raw": "Sept. 17, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33866-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Matt Snow \u2014 Smalls",
-      "date": "2026-09-17T23:45:00",
-      "date_raw": "Sept. 17, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33821-jam-session-hosted-by-matt-snow/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-09-18T00:00:00",
@@ -460,16 +280,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-16/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Rick Snell Band",
-      "date": "2026-09-18T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/174/1789689600000",
-      "description": "Rick Snell is a guitarist and singer based in Brooklyn, NY. He is the founder and host of the Mona\u2019s Monday Night Bluegrass Session, a weekly showcase of some of the best American roots music in the New York area since 2011. He has shared the stage with Regina Spektor (also touring with her on two national tours with his project Only Son), Ana\u00efs Mitchell, Adam Green (Moldy Peaches), Benmont Tench ",
-      "image_url": "",
       "price": ""
     },
     {
@@ -491,16 +301,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Copeland",
-      "date": "2026-09-18T01:30:00",
-      "date_raw": "2026-09-18T01:30:00.000Z",
-      "url": "https://www.viewcy.com/event/copeland_1",
-      "description": "",
-      "image_url": "",
-      "price": "$38"
     },
     {
       "venue_name": "Smalls Live",
@@ -763,6 +563,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ned Goold Quartet",
+      "date": "2026-09-19T18:30:00",
+      "date_raw": "Saturday September 19th 06:30 PM",
+      "url": "",
+      "description": "Ned Goold (saxophone)Lolivone de la Rosa (g)Reid Taylor (b)Juan Chiavassa (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Nation of Language",
       "date": "2026-09-19T19:00:00",
@@ -854,10 +664,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Stacy Dillard/Greg Glassman Quartet \u2014 Smalls",
+      "title": "Stacy Dillard/Greg Glassman Quintet \u2014 Smalls",
       "date": "2026-09-19T23:55:00",
       "date_raw": "Sept. 19, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33844-stacy-dillardgreg-glassman-quartet/",
+      "url": "https://www.smallslive.com/events/33844-stacy-dillardgreg-glassman-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -934,7 +744,7 @@
     },
     {
       "venue_name": "Jalopy Theatre",
-      "title": "The 16th Annual Washington Square Park Folk Festival",
+      "title": "RELOCATED TO JALOPY FOR RAIN The 16th Annual Washington Square Park Folk Festival",
       "date": "2026-09-20T17:00:00",
       "date_raw": "2026-09-20T17:00:00.000Z",
       "url": "https://www.viewcy.com/event/the_16th_annual_washi",
@@ -1793,6 +1603,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Happy Wife",
+      "date": "2026-09-26T00:00:00",
+      "date_raw": "September 26, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/happy-wife-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/04/52/84_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Sasha Dobson",
       "date": "2026-09-26T00:00:00",
@@ -1919,6 +1739,16 @@
       "date_raw": "Saturday September 26th 8:30pm \u2022 Delta Blues with TRACTOR!",
       "url": "https://www.fredsdoghouse.com/event/saturday-may-9th-830pm-delta-blues-with-tractor-copy/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Frank Lacy Quartet",
+      "date": "2026-09-26T21:00:00",
+      "date_raw": "Saturday September 26th 09:00 PM",
+      "url": "",
+      "description": "Frank Lacy (trombone)Mamiko Watanabe (p)Jayla Chee (b)Corey Garcia (d)",
       "image_url": "",
       "price": ""
     },
@@ -2243,6 +2073,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Itay Morchi Trio",
+      "date": "2026-09-28T21:00:00",
+      "date_raw": "Monday September 28th 09:00 PM",
+      "url": "",
+      "description": "Itay Morchi (d)Gadi Lehavi (p)Yoni Ben Ari (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Michael Kanan Trio \u2014 Mezzrow",
       "date": "2026-09-28T21:00:00",
@@ -2259,6 +2099,16 @@
       "date_raw": "Sept. 28, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33752-rale-micic-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Noa Havakook Trio",
+      "date": "2026-09-28T21:30:00",
+      "date_raw": "Monday September 28th 09:30 PM",
+      "url": "",
+      "description": "Noa Havakook (v)Moshe Elmakias (p)Bar Filipowicz (b)",
       "image_url": "",
       "price": ""
     },
@@ -2290,6 +2140,16 @@
       "url": "https://www.smallslive.com/events/33808-jam-session-hosted-by-mike-boone/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Dolly Parton Tribute Show",
+      "date": "2026-09-29T00:00:00",
+      "date_raw": "September 29, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/dolly-parton-tribute-show/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/04/46/04_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -2518,6 +2378,16 @@
       "date": "2026-09-30T19:00:00",
       "date_raw": "Sept. 30, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33709-jumaane-smith-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday September 30th 8:30pm \u2022 Blues & Americana with Saint Gevendon!",
+      "date": "2026-09-30T20:30:00",
+      "date_raw": "Wednesday September 30th 8:30pm \u2022 Blues & Americana with Saint Gevendon!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-may-20th-830pm-blues-americana-with-saint-gevendon/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3783,16 +3653,6 @@
       "price": ""
     },
     {
-      "venue_name": "Freddy's",
-      "title": "Channeling Owen, old school indie rock",
-      "date": "2026-10-09T00:00:00",
-      "date_raw": "Friday, October 9, 2026",
-      "url": "https://www.freddysbar.com/events/channeling-owen-old-school-indie-rock",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Matt Sucich / Katy Pinke",
       "date": "2026-10-09T00:30:00",
@@ -4049,6 +3909,16 @@
       "date_raw": "Oct. 10, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33936-savage-smit/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "F\u00e9lix Lemerle Quartet",
+      "date": "2026-10-10T21:30:00",
+      "date_raw": "Saturday October 10th 09:30 PM",
+      "url": "",
+      "description": "F\u00e9lix Lemerle (g)Samuel Lerner (p)Jamale Davis (b)Fukushi Tainaka (d)",
       "image_url": "",
       "price": ""
     },
@@ -8776,16 +8646,6 @@
       "venue_name": "Freddy's",
       "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
       "date": null,
-      "date_raw": "Thu, Sep 17, 202611:30\u202fPMFri, Sep 18, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-khnm9",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
-      "date": null,
       "date_raw": "Thu, Sep 24, 202611:30\u202fPMFri, Sep 25, 202612:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-jxe2w",
       "description": "",
@@ -8928,6 +8788,16 @@
       "date": null,
       "date_raw": "Thu, Jan 7, 202711:30\u202fPMFri, Jan 8, 202712:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-dfhtr-ndrdj",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
+      "date": null,
+      "date_raw": "Thu, Sep 17, 202611:30\u202fPMFri, Sep 18, 202612:30\u202fAM",
+      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-khnm9",
       "description": "",
       "image_url": "",
       "price": ""
