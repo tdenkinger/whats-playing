@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T16:46:16.285303+00:00",
+  "scraped_at": "2026-09-19T16:07:52.996858+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -273,16 +273,6 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Live Band Country Karaoke",
-      "date": "2026-09-18T00:00:00",
-      "date_raw": "September 18, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-16/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Arts4Choice: Artists Advocating for All Through Art- 2 slots",
       "date": "2026-09-18T00:00:00",
@@ -299,186 +289,6 @@
       "date_raw": "Friday, September 18, 2026",
       "url": "https://www.freddysbar.com/events/bbytk-1",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-18T14:00:00",
-      "date_raw": "Sept. 18, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33778-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Carol Morgan \u2014 Smalls",
-      "date": "2026-09-18T14:00:00",
-      "date_raw": "Sept. 18, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33851-smalls-afternoon-jam-session-hosted-by-carol-morgan/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Larry Fuller Trio \u2014 Mezzrow",
-      "date": "2026-09-18T18:00:00",
-      "date_raw": "Sept. 18, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33622-larry-fuller-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Billy Mintz Quintet \u2014 Smalls",
-      "date": "2026-09-18T18:00:00",
-      "date_raw": "Sept. 18, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33627-billy-mintz-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Gideon Tazelaar Trio",
-      "date": "2026-09-18T18:30:00",
-      "date_raw": "Friday September 18th 06:30 PM",
-      "url": "",
-      "description": "Gideon Tazelaar (saxophone)Russell Hall (b)Michael Ode (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Reid Taylor Quintet",
-      "date": "2026-09-18T18:30:00",
-      "date_raw": "Friday September 18th 06:30 PM",
-      "url": "",
-      "description": "Reid Taylor\u00a0 (b)Dan Blankinship (tp)Ray Macchiarola (g)Gabriel Jodorkovsky (p)Masahiro Sakuma (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Antonio Hart Quintet \u2014 Jazzcultural",
-      "date": "2026-09-18T19:00:00",
-      "date_raw": "Sept. 18, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33493-antonio-hart-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Brandon Flowers",
-      "date": "2026-09-18T20:00:00",
-      "date_raw": "2026-09-18T20:00:00-04:00",
-      "url": "https://www.ticketmaster.com/brandon-flowers-brooklyn-new-york-09-18-2026/event/000064D1F5CA5170",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/ba8/40b0da44-ee77-464b-9785-b776d909cba8_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday September 18th 8:30pm  \u2022  New Moon Acoustic Blues Trio!",
-      "date": "2026-09-18T20:30:00",
-      "date_raw": "Friday September 18th 8:30pm  \u2022  New Moon Acoustic Blues Trio!",
-      "url": "https://www.fredsdoghouse.com/event/friday-may-15th-830pm-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ben Solomon Quartet",
-      "date": "2026-09-18T21:00:00",
-      "date_raw": "Friday September 18th 09:00 PM",
-      "url": "",
-      "description": "Ben Solomon (saxophone)Max Light (g)Way Campbell (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Philip Norris Trio \u2014 Mezzrow",
-      "date": "2026-09-18T21:00:00",
-      "date_raw": "Sept. 18, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33721-philip-norris-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Sam Newsome Quintet \u2014 Smalls",
-      "date": "2026-09-18T21:00:00",
-      "date_raw": "Sept. 18, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33624-sam-newsome-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Adam Frumkin Trio",
-      "date": "2026-09-18T21:30:00",
-      "date_raw": "Friday September 18th 09:30 PM",
-      "url": "",
-      "description": "Adam Frumkin (saxophone)Dan Weisselberg (b)Itay Morchi\u00a0(d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Jazzcultural",
-      "date": "2026-09-18T22:30:00",
-      "date_raw": "Sept. 18, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33881-eric-wyatt-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Burstin' Boots Dance Party with the Talking Hearts!",
-      "date": "2026-09-18T23:30:00",
-      "date_raw": "2026-09-18T23:30:00.000Z",
-      "url": "https://www.viewcy.com/event/burstin_boots_dance_38",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano With Willerm Delisfort \u2014 Mezzrow",
-      "date": "2026-09-18T23:55:00",
-      "date_raw": "Sept. 18, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34010-round-midnight-solo-piano-with-willerm-delisfort/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Philip Harper Quintet \u2014 Smalls",
-      "date": "2026-09-18T23:55:00",
-      "date_raw": "Sept. 18, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33843-philip-harper-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Nick Dittmeier and the Sawdusters",
-      "date": "2026-09-19T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/274/1789776000000",
-      "description": "Hailing from, and proudly remaining in, the river town of Jeffersonville, Indiana, singer-songwriter and guitar virtuoso Nick Dittmeier has spent more than a decade chronicling Midwestern lives through a sharp, evolving blend of roots music. Backed by the Sawdusters\u2014Shelley Anderson on bass and Chase Palmer on drums\u2014the trio has built its reputation through relentless touring across the U.S. and E",
       "image_url": "",
       "price": ""
     },
@@ -559,6 +369,16 @@
       "date_raw": "Sept. 19, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33628-billy-mintz-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Noam Avnon Trio",
+      "date": "2026-09-19T18:30:00",
+      "date_raw": "Saturday September 19th 06:30 PM",
+      "url": "",
+      "description": "Noam Avnon (p)Thorbj\u00f8rn Stefansson (b)Yali Shimoni (d)",
       "image_url": "",
       "price": ""
     },
@@ -783,6 +603,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Sacha Perry Trio",
+      "date": "2026-09-20T18:30:00",
+      "date_raw": "Sunday September 20th 06:30 PM",
+      "url": "",
+      "description": "Sacha Perry (p)Sean Smith (b)Alberto Chiozzi (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Tamir Hochman Trio",
       "date": "2026-09-20T18:30:00",
@@ -809,6 +639,16 @@
       "date_raw": "Sept. 20, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33495-antonio-hart-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Tardo Hammer Trio",
+      "date": "2026-09-20T21:00:00",
+      "date_raw": "Sunday September 20th 09:00 PM",
+      "url": "",
+      "description": "Tardo Hammer (p)Lee Hudson (b)Keith Balla (d)",
       "image_url": "",
       "price": ""
     },
@@ -948,7 +788,7 @@
       "date": "2026-09-21T18:30:00",
       "date_raw": "Monday September 21st 06:30 PM",
       "url": "",
-      "description": "Emanuele Filippi (p)Stefano Battaglia (b)Francisco Mela (d)",
+      "description": "Emanuele Filippi (p)Nicola Caminiti (saxophone)Stefano Battaglia (b)Roberto Giaquinto (d)",
       "image_url": "",
       "price": ""
     },
@@ -1079,6 +919,16 @@
       "date_raw": "Tuesday September 22nd 06:30 PM",
       "url": "",
       "description": "Nitsan Kolko (p)Charlie Lincoln (b)Ben Silashi (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Daniel Bereket Quintet",
+      "date": "2026-09-22T18:30:00",
+      "date_raw": "Tuesday September 22nd 06:30 PM",
+      "url": "",
+      "description": "Daniel Bereket (tp)Simon Mogul (ts)Jordan Williams (p)Gervis Myles (b)Angus Mason (d)",
       "image_url": "",
       "price": ""
     },
@@ -2059,6 +1909,16 @@
       "date_raw": "Monday September 28th 06:30 PM",
       "url": "",
       "description": "John Lind (b)Evan Main (p)Evan Hyde (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Art Of Piano Ensemble",
+      "date": "2026-09-28T18:30:00",
+      "date_raw": "Monday September 28th 06:30 PM",
+      "url": "",
+      "description": "James Carney (p)Ralph Alessi (tp)Mark Helias (b)Jay Sawyer (d)",
       "image_url": "",
       "price": ""
     },
@@ -6820,6 +6680,16 @@
       "url": "https://www.freddysbar.com/events/nryedwr8s7jw6e9zhfflh9jh4lce3l",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Sammy Rae & The Friends with special guest Melt",
+      "date": "2026-11-05T19:00:00",
+      "date_raw": "2026-11-05T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-with-special-brooklyn-new-york-11-05-2026/event/0000643700A3F2B5",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/ca7/2aa57ffc-20b0-40c8-bcfe-a6c03d483ca7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
