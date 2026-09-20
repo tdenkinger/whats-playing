@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T16:07:52.996858+00:00",
+  "scraped_at": "2026-09-20T16:34:48.512368+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -333,166 +333,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-19T14:00:00",
-      "date_raw": "Sept. 19, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33765-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Steve Nelson \u2014 Smalls",
-      "date": "2026-09-19T14:00:00",
-      "date_raw": "Sept. 19, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33852-smalls-afternoon-jam-session-hosted-by-steve-nelson/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Larry Fuller Trio \u2014 Mezzrow",
-      "date": "2026-09-19T18:00:00",
-      "date_raw": "Sept. 19, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33623-larry-fuller-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Billy Mintz Quintet \u2014 Smalls",
-      "date": "2026-09-19T18:00:00",
-      "date_raw": "Sept. 19, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33628-billy-mintz-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Noam Avnon Trio",
-      "date": "2026-09-19T18:30:00",
-      "date_raw": "Saturday September 19th 06:30 PM",
-      "url": "",
-      "description": "Noam Avnon (p)Thorbj\u00f8rn Stefansson (b)Yali Shimoni (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ned Goold Quartet",
-      "date": "2026-09-19T18:30:00",
-      "date_raw": "Saturday September 19th 06:30 PM",
-      "url": "",
-      "description": "Ned Goold (saxophone)Lolivone de la Rosa (g)Reid Taylor (b)Juan Chiavassa (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Nation of Language",
-      "date": "2026-09-19T19:00:00",
-      "date_raw": "2026-09-19T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/nation-of-language-brooklyn-new-york-09-19-2026/event/0000644BF2A8E999",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/8cf/06d46607-05a4-4cd9-921d-fe0df7e238cf_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Antonio Hart Quintet \u2014 Jazzcultural",
-      "date": "2026-09-19T19:00:00",
-      "date_raw": "Sept. 19, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33494-antonio-hart-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday September 19th 8:30pm \u2022\u00a0Blues with The Milkman & Sons!",
-      "date": "2026-09-19T20:30:00",
-      "date_raw": "Saturday September 19th 8:30pm \u2022\u00a0Blues with The Milkman & Sons!",
-      "url": "https://www.fredsdoghouse.com/event/blues-with-the-milkman-sons/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Steve Nelson Trio",
-      "date": "2026-09-19T21:00:00",
-      "date_raw": "Saturday September 19th 09:00 PM",
-      "url": "",
-      "description": "Steve Nelson (g)Ben Allen (org)Tony Lannen (b)Errold Lanier Jr. (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Philip Norris Trio \u2014 Mezzrow",
-      "date": "2026-09-19T21:00:00",
-      "date_raw": "Sept. 19, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33722-philip-norris-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Sam Newsome Quintet \u2014 Smalls",
-      "date": "2026-09-19T21:00:00",
-      "date_raw": "Sept. 19, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33625-sam-newsome-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Davis Whitfield Trio",
-      "date": "2026-09-19T21:30:00",
-      "date_raw": "Saturday September 19th 09:30 PM",
-      "url": "",
-      "description": "Davis Whitfield (p)Conway Campbell (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Jazzcultural",
-      "date": "2026-09-19T22:30:00",
-      "date_raw": "Sept. 19, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33882-eric-wyatt-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano With Willerm Delisfort \u2014 Mezzrow",
-      "date": "2026-09-19T23:55:00",
-      "date_raw": "Sept. 19, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34011-round-midnight-solo-piano-with-willerm-delisfort/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Stacy Dillard/Greg Glassman Quintet \u2014 Smalls",
-      "date": "2026-09-19T23:55:00",
-      "date_raw": "Sept. 19, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33844-stacy-dillardgreg-glassman-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
       "date": "2026-09-20T00:00:00",
@@ -513,16 +353,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Rose Paradis",
-      "date": "2026-09-20T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/213/1789862400000",
-      "description": "Rose Paradise enlivens West Coast folk rock. Loyal to the sweet sound of her hometown: Stinson Beach, California, paired with the gritty truths of New York City, Paradise sings for the survival of Americana. The foundation of her lyricism is rooted in her lived experience, incorporating her love for the environment and earthly elements into her music. The California chanteuse is poised for her big",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Martin Monster Show Presents Class of Nuke Em High, with TROMA FILMS",
       "date": "2026-09-20T00:00:00",
@@ -531,16 +361,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jake Blount",
-      "date": "2026-09-20T00:30:00",
-      "date_raw": "2026-09-20T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jake_blount",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -799,6 +619,16 @@
       "date_raw": "Sept. 21, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33704-richie-vitale-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Giuseppe Cucchiara Quartet",
+      "date": "2026-09-21T21:00:00",
+      "date_raw": "Monday September 21st 09:00 PM",
+      "url": "",
+      "description": "Giuseppe Cucchiara (b)Ben Solomon (saxophone)Chris McCarthy (p)Adam Arruda (d)",
       "image_url": "",
       "price": ""
     },
@@ -1093,6 +923,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Itay Goldberg Quartet",
+      "date": "2026-09-23T21:00:00",
+      "date_raw": "Wednesday September 23rd 09:00 PM",
+      "url": "",
+      "description": "Itay Goldberg (saxophone)Yoav Eshed (g)Dan Montgomery (b)Alon Benjamini (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "William Schwartzman Trio \u2014 Mezzrow",
       "date": "2026-09-23T21:00:00",
@@ -1233,12 +1073,42 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Zaid Nasser Trio",
+      "date": "2026-09-24T18:30:00",
+      "date_raw": "Thursday September 24th 06:30 PM",
+      "url": "",
+      "description": "Zaid Nasser (saxophone)Ari Roland (b)Keith Balla (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jack Glottman Trio",
+      "date": "2026-09-24T18:30:00",
+      "date_raw": "Thursday September 24th 06:30 PM",
+      "url": "",
+      "description": "Jack Glottman (p)Steve Gluzband (tp)Willie Martinez (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Scott Wendholt/Adam Kolker Quartet \u2014 Jazzcultural",
       "date": "2026-09-24T19:00:00",
       "date_raw": "Sept. 24, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33486-scott-wendholtadam-kolker-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ai Murakami Quintet",
+      "date": "2026-09-24T21:00:00",
+      "date_raw": "Thursday September 24th 09:00 PM",
+      "url": "",
+      "description": "Ai Murakami (d)Joe Magnarelli (tp)Frank Basile (baritone saxophone)Richard Clements (p)Paul Sikivie (b)",
       "image_url": "",
       "price": ""
     },
@@ -6373,16 +6243,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Neal Caine Quartet \u2014 Smalls",
-      "date": "2026-10-30T18:00:00",
-      "date_raw": "Oct. 30, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34196-neal-caine-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Ornithology Jazz Club",
       "title": "James Robbins Quartet",
       "date": "2026-10-30T18:30:00",
@@ -6488,16 +6348,6 @@
       "date": "2026-10-31T18:00:00",
       "date_raw": "Oct. 31, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34152-simon-moullier-davis-whitfield/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Neal Caine Quartet \u2014 Smalls",
-      "date": "2026-10-31T18:00:00",
-      "date_raw": "Oct. 31, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34197-neal-caine-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6721,6 +6571,16 @@
       "description": "",
       "image_url": "",
       "price": "$105.19"
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Sammy Rae & The Friends with special guest Melt",
+      "date": "2026-11-06T19:00:00",
+      "date_raw": "2026-11-06T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-with-special-brooklyn-new-york-11-06-2026/event/0000643700A7F2C3",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/ca7/2aa57ffc-20b0-40c8-bcfe-a6c03d483ca7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
     },
     {
       "venue_name": "Freddy's",
@@ -8508,6 +8368,16 @@
       "date": "2028-08-16T22:30:00",
       "date_raw": "2028-08-16T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Sunday September 20th 8:30pm - Honkytonkin' with Seth Kessel",
+      "date": null,
+      "date_raw": "Sunday September 20th 8:30pm - Honkytonkin' with Seth Kessel",
+      "url": "https://www.fredsdoghouse.com/event/april-2nd-the-dirt-whisperers/",
       "description": "",
       "image_url": "",
       "price": ""
