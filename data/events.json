@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-09-21T18:21:48.608451+00:00",
+  "scraped_at": "2026-09-22T17:24:30.664683+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "ANG3L - Christian Hip-Hop/Rap Live Performance",
-      "date": "2026-09-05T00:00:00",
-      "date_raw": "Saturday, September 5, 2026",
-      "url": "https://www.freddysbar.com/events/ang3l-christian-hip-hoprap-live-performance",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
@@ -28,16 +18,6 @@
       "date": "2026-09-06T00:00:00",
       "date_raw": "Sunday, September 6, 2026",
       "url": "https://www.freddysbar.com/events/richard-on-piano-in-the-frontroom-every-1st-3rd-sunday",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
-      "date": "2026-09-06T00:00:00",
-      "date_raw": "Sunday, September 6, 2026",
-      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p-cdeef",
       "description": "",
       "image_url": "",
       "price": ""
@@ -283,26 +263,6 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Rene Lopez Diamonds Don't Wait Release Show with Margo Valiante",
-      "date": "2026-09-21T00:00:00",
-      "date_raw": "September 21, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/rene-lopez-diamonds-dont-wait-release-show-with-margo-valiante/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/60/04/53_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-09-21T00:00:00",
-      "date_raw": "Monday, September 21, 2026",
-      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-a63le-dm3m8",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
       "date": "2026-09-21T00:00:00",
@@ -313,131 +273,11 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-21T14:00:00",
-      "date_raw": "Sept. 21, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33769-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Spike Wilner Trio \u2014 Mezzrow",
-      "date": "2026-09-21T18:00:00",
-      "date_raw": "Sept. 21, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33830-spike-wilner-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jerome Sabbagh Quartet \u2014 Smalls",
-      "date": "2026-09-21T18:00:00",
-      "date_raw": "Sept. 21, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33662-jerome-sabbagh-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Evan Main Trio",
-      "date": "2026-09-21T18:30:00",
-      "date_raw": "Monday September 21st 06:30 PM",
-      "url": "",
-      "description": "Evan Main (p)Mathias Jensen (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Art Of Piano Ensemble",
-      "date": "2026-09-21T18:30:00",
-      "date_raw": "Monday September 21st 06:30 PM",
-      "url": "",
-      "description": "Emanuele Filippi (p)Nicola Caminiti (saxophone)Stefano Battaglia (b)Roberto Giaquinto (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Richie Vitale Quintet \u2014 Jazzcultural",
-      "date": "2026-09-21T19:00:00",
-      "date_raw": "Sept. 21, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33704-richie-vitale-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Giuseppe Cucchiara Quartet",
-      "date": "2026-09-21T21:00:00",
-      "date_raw": "Monday September 21st 09:00 PM",
-      "url": "",
-      "description": "Giuseppe Cucchiara (b)Ben Solomon (saxophone)Chris McCarthy (p)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Pasquale Grasso Trio \u2014 Mezzrow",
-      "date": "2026-09-21T21:00:00",
-      "date_raw": "Sept. 21, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33829-pasquale-grasso-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dan Weiss Trio \u2014 Smalls",
-      "date": "2026-09-21T21:00:00",
-      "date_raw": "Sept. 21, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33724-dan-weiss-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Andrea Domenici Trio",
-      "date": "2026-09-21T21:30:00",
-      "date_raw": "Monday September 21st 09:30 PM",
-      "url": "",
-      "description": "Andrea Domenici (p)Francesco Patti (ts)Joey Ranieri (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-21T22:00:00",
-      "date_raw": "Sept. 21, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33790-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-09-21T23:30:00",
-      "date_raw": "Sept. 21, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33867-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Adam Ray \u2014 Smalls",
-      "date": "2026-09-21T23:45:00",
-      "date_raw": "Sept. 21, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33806-jam-session-hosted-by-adam-ray/",
+      "venue_name": "Freddy's",
+      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "date": "2026-09-21T00:00:00",
+      "date_raw": "Monday, September 21, 2026",
+      "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-a63le-dm3m8",
       "description": "",
       "image_url": "",
       "price": ""
@@ -644,10 +484,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Tal Cohen Trio \u2014 Mezzrow",
+      "title": "Billy Drummond Trio \u2014 Mezzrow",
       "date": "2026-09-23T18:00:00",
       "date_raw": "Sept. 23, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33831-tal-cohen-trio/",
+      "url": "https://www.smallslive.com/events/33831-billy-drummond-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1113,6 +953,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Ray Gallon Trio",
+      "date": "2026-09-25T21:30:00",
+      "date_raw": "Friday September 25th 09:30 PM",
+      "url": "",
+      "description": "Ray Gallon (p)Marty Kenney (b)Finn Wiest (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Philip Harper Quintet \u2014 Jazzcultural",
       "date": "2026-09-25T22:30:00",
@@ -1253,6 +1103,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Peter Watrous Sextet",
+      "date": "2026-09-26T18:30:00",
+      "date_raw": "Saturday September 26th 06:30 PM",
+      "url": "",
+      "description": "Peter Watrous (g)Brent Lerman (saxophone)Jules Gardener\u00a0(saxophone)Anthony Pearlman (p)Gervis Myles (b)Angus Mason (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Tinlicker North America 2026",
       "date": "2026-09-26T19:00:00",
@@ -1309,6 +1169,16 @@
       "date_raw": "Sept. 26, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33750-david-weiss-sextet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Saul Rubin Trio",
+      "date": "2026-09-26T21:30:00",
+      "date_raw": "Saturday September 26th 09:30 PM",
+      "url": "",
+      "description": "Saul Rubin (g)Miles Wick (b)Diego Voglino (d)",
       "image_url": "",
       "price": ""
     },
@@ -1489,6 +1359,16 @@
       "date_raw": "Sept. 27, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33498-cyrus-chestnut-trio/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Joe Magnarelli Quartet",
+      "date": "2026-09-27T21:00:00",
+      "date_raw": "Sunday September 27th 09:00 PM",
+      "url": "",
+      "description": "Joe Magnarelli (tp)Richard Clements (p)Clovis Nicolas (b)Joe Strasser (d)",
       "image_url": "",
       "price": ""
     },
@@ -1958,7 +1838,7 @@
       "date": "2026-09-30T21:00:00",
       "date_raw": "Wednesday September 30th 09:00 PM",
       "url": "",
-      "description": "Duduka Da Fonseca (d)Vinicius Gomes (g)Eduardo Belo (b)",
+      "description": "Duduka Da Fonseca (d)Vinicius Gomes (g)Peter Slavov (b)",
       "image_url": "",
       "price": ""
     },
@@ -2329,6 +2209,16 @@
       "date_raw": "Oct. 2, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33900-jacob-chung-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Yoav Eshed Quartet",
+      "date": "2026-10-02T21:30:00",
+      "date_raw": "Friday October 2nd 09:30 PM",
+      "url": "",
+      "description": "Yoav Eshed (g)Tom Oren (p)Stanley Ruvinov (b)Eviatar Slivnik (d)",
       "image_url": "",
       "price": ""
     },
@@ -4774,7 +4664,7 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Tuesday Night Mic Check, A New Beginning (3rd Tuesdays)",
+      "title": "SAFKA & Friends, a New Music Residency- new bands monthly (3rd Tuesdays)",
       "date": "2026-10-20T00:00:00",
       "date_raw": "Tuesday, October 20, 2026",
       "url": "https://www.freddysbar.com/events/original-music-open-mic-4",
@@ -6293,6 +6183,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Yebba",
+      "date": "2026-11-02T19:00:00",
+      "date_raw": "2026-11-02T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/yebba-brooklyn-new-york-11-02-2026/event/00006513F7ACF009",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/265/7f0e0311-ea9d-435f-9696-2d030a041265_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Weekly Bluegrass with  Allison Kelly",
       "date": "2026-11-03T00:00:00",
@@ -6369,7 +6269,7 @@
       "date_raw": "2026-11-05T19:00:00-05:00",
       "url": "https://www.ticketmaster.com/sammy-rae-the-friends-with-special-brooklyn-new-york-11-05-2026/event/0000643700A3F2B5",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/ca7/2aa57ffc-20b0-40c8-bcfe-a6c03d483ca7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/179/ef41dd90-262b-4508-a1e2-47fb26e3c179_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6409,7 +6309,7 @@
       "date_raw": "2026-11-06T19:00:00-05:00",
       "url": "https://www.ticketmaster.com/sammy-rae-the-friends-with-special-brooklyn-new-york-11-06-2026/event/0000643700A7F2C3",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/ca7/2aa57ffc-20b0-40c8-bcfe-a6c03d483ca7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/179/ef41dd90-262b-4508-a1e2-47fb26e3c179_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6440,16 +6340,6 @@
       "url": "https://www.freddysbar.com/events/geoff-the-dj-vinyl-digital-indiedance-set",
       "description": "",
       "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Amble",
-      "date": "2026-11-07T19:00:00",
-      "date_raw": "2026-11-07T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/amble-brooklyn-new-york-11-07-2026/event/0000649EC4999749",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/3b2/786a8fbe-6234-42d7-9a6e-e4a07690a3b2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6714,7 +6604,7 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Tuesday Night Mic Check, A New Beginning (3rd Tuesdays)",
+      "title": "SAFKA & Friends, A Monthly Music Residency, featuring new bands (3rd Tuesdays)",
       "date": "2026-11-17T00:00:00",
       "date_raw": "Tuesday, November 17, 2026",
       "url": "https://www.freddysbar.com/events/original-music-open-mic-4-bxrmb",
