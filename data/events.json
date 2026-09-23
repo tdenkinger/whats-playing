@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T17:24:30.664683+00:00",
+  "scraped_at": "2026-09-23T17:31:55.267587+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -8,16 +8,6 @@
       "date": "2026-09-06T00:00:00",
       "date_raw": "Sunday, September 6, 2026",
       "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8-lfnch",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Richard on Piano in the Frontroom (Every 1st & 3rd Sunday!)",
-      "date": "2026-09-06T00:00:00",
-      "date_raw": "Sunday, September 6, 2026",
-      "url": "https://www.freddysbar.com/events/richard-on-piano-in-the-frontroom-every-1st-3rd-sunday",
       "description": "",
       "image_url": "",
       "price": ""
@@ -283,172 +273,12 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "date": "2026-09-22T00:00:00",
-      "date_raw": "September 22, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-45/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Dark Room- Film Screening & Salon 4th Tuesdays",
       "date": "2026-09-22T00:00:00",
       "date_raw": "Tuesday, September 22, 2026",
       "url": "https://www.freddysbar.com/events/dark-room-film-screening-salon-4th-tuesdays-1-xmnf8-dc6h6-nx37t-58ebw-by9ak-yl8w7",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Barry Harris Institute Presents: Free Piano Lesson & Jam Session \u2014 Jazzcultural",
-      "date": "2026-09-22T14:00:00",
-      "date_raw": "Sept. 22, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33735-barry-harris-institute-presents-free-piano-lesson-jam-session/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ray Gallon Trio \u2014 Mezzrow",
-      "date": "2026-09-22T18:00:00",
-      "date_raw": "Sept. 22, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33742-ray-gallon-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jordan Young Trio \u2014 Smalls",
-      "date": "2026-09-22T18:00:00",
-      "date_raw": "Sept. 22, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33758-jordan-young-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Nitsan Kolko Trio",
-      "date": "2026-09-22T18:30:00",
-      "date_raw": "Tuesday September 22nd 06:30 PM",
-      "url": "",
-      "description": "Nitsan Kolko (p)Charlie Lincoln (b)Ben Silashi (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Daniel Bereket Quintet",
-      "date": "2026-09-22T18:30:00",
-      "date_raw": "Tuesday September 22nd 06:30 PM",
-      "url": "",
-      "description": "Daniel Bereket (tp)Simon Mogul (ts)Jordan Williams (p)Gervis Myles (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Luther Allison Trio \u2014 Jazzcultural",
-      "date": "2026-09-22T19:00:00",
-      "date_raw": "Sept. 22, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33705-luther-allison-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday September 22th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-09-22T20:30:00",
-      "date_raw": "Tuesday September 22th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-november-11th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Nick Green Quartet",
-      "date": "2026-09-22T21:00:00",
-      "date_raw": "Tuesday September 22nd 09:00 PM",
-      "url": "",
-      "description": "Nick Green (as)Steve Ash (p)Charlie Himel (b)Fukushi Tainaka (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Tardo Hammer Trio \u2014 Mezzrow",
-      "date": "2026-09-22T21:00:00",
-      "date_raw": "Sept. 22, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33743-tardo-hammer-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mike Karn Trio \u2014 Smalls",
-      "date": "2026-09-22T21:00:00",
-      "date_raw": "Sept. 22, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33744-mike-karn-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Nitzan Gavrieli Trio",
-      "date": "2026-09-22T21:30:00",
-      "date_raw": "Tuesday September 22nd 09:30 PM",
-      "url": "",
-      "description": "Nitzan Gavrieli (p)Tamir Shmerling (b)Eviatar Slivnik (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-22T22:00:00",
-      "date_raw": "Sept. 22, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33795-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-09-22T23:30:00",
-      "date_raw": "Sept. 22, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33868-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Jason Clotter \u2014 Smalls",
-      "date": "2026-09-22T23:45:00",
-      "date_raw": "Sept. 22, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33813-jam-session-hosted-by-jason-clotter/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Nathan and Jessie",
-      "date": "2026-09-23T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/275/1790121600000",
-      "description": "Music with a spirit of beauty, spontaneity, dance, and jazz improvisation! From the city where they sun shines through the mist, Temecula, California, comes the jazzy folk duo Nathan & Jessie. Born of the individuals, Nathan Rivera and Jessie Andra Smith, this duo is a unique blend of jazzy folk and blues on resonator guitars and accordion, along with interesting interplay between male and female ",
       "image_url": "",
       "price": ""
     },
@@ -614,10 +444,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "title": "Jam Session Hosted By Carlos Abadie The Quintet \u2014 Smalls",
       "date": "2026-09-23T23:45:00",
       "date_raw": "Sept. 23, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33817-jam-session-hosted-by-carlos-abadie/",
+      "url": "https://www.smallslive.com/events/33817-jam-session-hosted-by-carlos-abadie-the-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -654,7 +484,7 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Glitter Gauntlet Every Last Thursday of the month! Burlesque in the Back Every Thursday!",
+      "title": "Burlesque in the Back Every Thursday!",
       "date": "2026-09-24T00:00:00",
       "date_raw": "Thursday, September 24, 2026",
       "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-5-zmaaz",
@@ -4923,6 +4753,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Raffaella",
+      "date": "2026-10-22T00:00:00",
+      "date_raw": "October 22, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/raffaella/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/05/36/84_Original.jpg?v=4",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Burlesque in the Back Every Thursday!",
       "date": "2026-10-22T00:00:00",
@@ -6431,6 +6271,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "The Garrett Boys",
+      "date": "2026-11-12T01:30:00",
+      "date_raw": "2026-11-12T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/the_garrett_boys",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Lucinda's",
