@@ -1,33 +1,13 @@
 {
-  "scraped_at": "2026-09-23T17:31:55.267587+00:00",
+  "scraped_at": "2026-09-24T17:36:59.321901+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
-      "date": "2026-09-06T00:00:00",
-      "date_raw": "Sunday, September 6, 2026",
-      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-4ptd8-lfnch",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-09-07T00:00:00",
       "date_raw": "Monday, September 7, 2026",
       "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-tpel7-p9ntd-f2dx9",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Freddy\u2019s Labor Day BBQ!",
-      "date": "2026-09-07T00:00:00",
-      "date_raw": "Monday, September 7, 2026",
-      "url": "https://www.freddysbar.com/events/labor-day-bbq",
       "description": "",
       "image_url": "",
       "price": ""
@@ -284,16 +264,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-09-23T00:00:00",
-      "date_raw": "Wednesday, September 23, 2026",
-      "url": "https://www.freddysbar.com/events/tzbph87rs5za9k9",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Fool-Moon Karaoke & Variety Show -4th  Wednesdays!",
       "date": "2026-09-23T00:00:00",
       "date_raw": "Wednesday, September 23, 2026",
@@ -303,151 +273,11 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-23T14:00:00",
-      "date_raw": "Sept. 23, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33774-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Billy Drummond Trio \u2014 Mezzrow",
-      "date": "2026-09-23T18:00:00",
-      "date_raw": "Sept. 23, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33831-billy-drummond-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eyal Vilner Big Band \u2014 Smalls",
-      "date": "2026-09-23T18:00:00",
-      "date_raw": "Sept. 23, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33660-eyal-vilner-big-band/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Tomer Sasson Trio",
-      "date": "2026-09-23T18:30:00",
-      "date_raw": "Wednesday September 23rd 06:30 PM",
-      "url": "",
-      "description": "Tomer Sasson (g)Elam Friedlander (b)Itay Morchi (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Eviatar Slivnik Quartet",
-      "date": "2026-09-23T18:30:00",
-      "date_raw": "Wednesday September 23rd 06:30 PM",
-      "url": "",
-      "description": "Eviatar Slivnik (d)Ben Solomon (saxophone)Dabin Ryu (p)Giuseppe Cucchiara (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jerry Weldon Quartet \u2014 Jazzcultural",
-      "date": "2026-09-23T19:00:00",
-      "date_raw": "Sept. 23, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33707-jerry-weldon-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Wednesday September 23rd 8:30pm \u2022\u00a0Blues and Americana with Fatboy Wilson!",
-      "date": "2026-09-23T20:30:00",
-      "date_raw": "Wednesday September 23rd 8:30pm \u2022\u00a0Blues and Americana with Fatboy Wilson!",
-      "url": "https://www.fredsdoghouse.com/event/blues-and-america-with-samoa-wilson/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Itay Goldberg Quartet",
-      "date": "2026-09-23T21:00:00",
-      "date_raw": "Wednesday September 23rd 09:00 PM",
-      "url": "",
-      "description": "Itay Goldberg (saxophone)Yoav Eshed (g)Dan Montgomery (b)Alon Benjamini (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "William Schwartzman Trio \u2014 Mezzrow",
-      "date": "2026-09-23T21:00:00",
-      "date_raw": "Sept. 23, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33832-william-schwartzman-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Emilio Solla y La Inestable de Brooklyn \u2014 Smalls",
-      "date": "2026-09-23T21:00:00",
-      "date_raw": "Sept. 23, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33661-emilio-solla-y-la-inestable-de-brooklyn/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Adam Gay Quartet",
-      "date": "2026-09-23T21:30:00",
-      "date_raw": "Wednesday September 23rd 09:30 PM",
-      "url": "",
-      "description": "Adam Gay (b)Chris Byars (saxophone)JinJoo Yoo (p)Keith Balla (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Organ After Hours: Nick Hempton \u2014 Jazzcultural",
-      "date": "2026-09-23T22:00:00",
-      "date_raw": "Sept. 23, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33892-organ-after-hours-nick-hempton/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-09-23T22:30:00",
-      "date_raw": "2026-09-23T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-09-23T23:30:00",
-      "date_raw": "Sept. 23, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33869-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Carlos Abadie The Quintet \u2014 Smalls",
-      "date": "2026-09-23T23:45:00",
-      "date_raw": "Sept. 23, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33817-jam-session-hosted-by-carlos-abadie-the-quintet/",
+      "venue_name": "Freddy's",
+      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "date": "2026-09-23T00:00:00",
+      "date_raw": "Wednesday, September 23, 2026",
+      "url": "https://www.freddysbar.com/events/tzbph87rs5za9k9",
       "description": "",
       "image_url": "",
       "price": ""
@@ -470,16 +300,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/east-village-cxntry-club-3/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/04/93/34_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Smokey's Roundup",
-      "date": "2026-09-24T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/184/1790208000000",
-      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
-      "image_url": "",
       "price": ""
     },
     {
@@ -713,6 +533,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Jacob Chung Quintet",
+      "date": "2026-09-25T18:30:00",
+      "date_raw": "Friday September 25th 06:30 PM",
+      "url": "",
+      "description": "Jacob Chung (saxophone)Mason Millard (tp)Bruce Acosta (g)Ari Roland (b)Willie Bowman (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Ojiik Quartet",
       "date": "2026-09-25T18:30:00",
@@ -933,6 +763,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Richie Vitale  Trio",
+      "date": "2026-09-26T18:30:00",
+      "date_raw": "Saturday September 26th 06:30 PM",
+      "url": "",
+      "description": "Richie Vitale (tp)Steve Ash (p)Caleb Tobocman (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Peter Watrous Sextet",
       "date": "2026-09-26T18:30:00",
@@ -1098,6 +938,16 @@
       "date": "2026-09-27T00:00:00",
       "date_raw": "Sunday, September 27, 2026",
       "url": "https://www.freddysbar.com/events/eagle-colt-combo-1-d7mxp",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
+      "date": "2026-09-27T00:00:00",
+      "date_raw": "Sunday, September 27, 2026",
+      "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1463,6 +1313,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Daniel Sky Trio",
+      "date": "2026-09-29T18:30:00",
+      "date_raw": "Tuesday September 29th 06:30 PM",
+      "url": "",
+      "description": "Daniel Sky (tp)Matt Sewell (g)Hamish Smith (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Neta Raanan Quintet",
       "date": "2026-09-29T18:30:00",
@@ -1619,6 +1479,16 @@
       "date_raw": "Sept. 30, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33754-rick-margitza-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Zachariah Lambert Quartet",
+      "date": "2026-09-30T18:30:00",
+      "date_raw": "Wednesday September 30th 06:30 PM",
+      "url": "",
+      "description": "Zachariah Lambert (g)Michael Howe (saxophone)Jack Nissen (b)Jonas M\u00fcller (d)",
       "image_url": "",
       "price": ""
     },
@@ -2383,6 +2253,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Jon Roche Trio",
+      "date": "2026-10-04T21:30:00",
+      "date_raw": "Sunday October 4th 09:30 PM",
+      "url": "",
+      "description": "Jon Roche (b)Ray Macchiarola (g)Kuni Mikami (p)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-10-04T22:00:00",
@@ -2449,6 +2329,16 @@
       "date_raw": "Oct. 5, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34021-joe-farnsworth-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Matei Predescu Trio",
+      "date": "2026-10-05T18:30:00",
+      "date_raw": "Monday October 5th 06:30 PM",
+      "url": "",
+      "description": "Matei Predescu (p)Thorbj\u00f8rn Stefansson (b)Alex Yoo (d)",
       "image_url": "",
       "price": ""
     },
@@ -3780,6 +3670,16 @@
       "url": "https://www.smallslive.com/events/34088-jam-session-hosted-by-carlos-abadie/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Sammy Osmond and the No-Hellers",
+      "date": "2026-10-15T00:00:00",
+      "date_raw": "October 15, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/sammy-osmond-and-the-no-hellers/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/05/71/34_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -5148,6 +5048,16 @@
       "date": "2026-10-25T00:00:00",
       "date_raw": "Sunday, October 25, 2026",
       "url": "https://www.freddysbar.com/events/eagle-colt-combo-1-gc2k8",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
+      "date": "2026-10-25T00:00:00",
+      "date_raw": "Sunday, October 25, 2026",
+      "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette-6t9t9",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6574,6 +6484,16 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
+      "date": "2026-11-22T00:00:00",
+      "date_raw": "Sunday, November 22, 2026",
+      "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette-9yzk3",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-23T00:00:00",
       "date_raw": "Monday, November 23, 2026",
@@ -6761,6 +6681,26 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "A Charlie Brown Christmas with Aidan Scrimgeour",
+      "date": "2026-12-06T19:30:00",
+      "date_raw": "2026-12-06T19:30:00.000Z",
+      "url": "https://www.viewcy.com/event/a_charlie_brown_chris_4",
+      "description": "",
+      "image_url": "",
+      "price": "$22"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "A Charlie Brown Christmas (Electric Band!) with Aidan Scrimgeour",
+      "date": "2026-12-06T23:30:00",
+      "date_raw": "2026-12-06T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/a_charlie_brown_chris_5",
+      "description": "",
+      "image_url": "",
+      "price": "$22"
     },
     {
       "venue_name": "Lucinda's",
@@ -7008,6 +6948,16 @@
       "date": "2026-12-27T00:00:00",
       "date_raw": "Sunday, December 27, 2026",
       "url": "https://www.freddysbar.com/events/eagle-colt-combo-1-d7mxp-khz57",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
+      "date": "2026-12-27T00:00:00",
+      "date_raw": "Sunday, December 27, 2026",
+      "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette-pa9ns",
       "description": "",
       "image_url": "",
       "price": ""
@@ -7947,6 +7897,16 @@
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2028-08-16T22:30:00",
       "date_raw": "2028-08-16T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-08-23T22:30:00",
+      "date_raw": "2028-08-23T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
