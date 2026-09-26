@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-09-25T17:36:42.313996+00:00",
+  "scraped_at": "2026-09-26T16:49:06.890297+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Bootleg Karaoke -2nd Wednesdays!",
-      "date": "2026-09-09T00:00:00",
-      "date_raw": "Wednesday, September 9, 2026",
-      "url": "https://www.freddysbar.com/events/m9ez5ssrtk6925lcdg9hfe3yg8ewmm-ckzd7",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Private Party",
-      "date": "2026-09-09T00:00:00",
-      "date_raw": "Wednesday, September 9, 2026",
-      "url": "https://www.freddysbar.com/events/7yx5wk7s2wjywpx3gzsjk7ebyaxff2",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "That\u2019s Camp -2nd Thursdays-Burlesque in the Back Every Thursday",
@@ -273,13 +253,13 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Live Band Country Karaoke",
+      "venue_name": "Freddy's",
+      "title": "Resolver",
       "date": "2026-09-25T00:00:00",
-      "date_raw": "September 25, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-17/",
+      "date_raw": "Friday, September 25, 2026",
+      "url": "https://www.freddysbar.com/events/resolver",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "image_url": "",
       "price": ""
     },
     {
@@ -293,176 +273,6 @@
       "price": ""
     },
     {
-      "venue_name": "Freddy's",
-      "title": "Resolver",
-      "date": "2026-09-25T00:00:00",
-      "date_raw": "Friday, September 25, 2026",
-      "url": "https://www.freddysbar.com/events/resolver",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-25T14:00:00",
-      "date_raw": "Sept. 25, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33779-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Andrew Kushnir \u2014 Smalls",
-      "date": "2026-09-25T14:00:00",
-      "date_raw": "Sept. 25, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33854-smalls-afternoon-jam-session-hosted-by-andrew-kushnir/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Helio Alves Quartet \u2014 Mezzrow",
-      "date": "2026-09-25T18:00:00",
-      "date_raw": "Sept. 25, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33629-helio-alves-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Manuel Valera Quartet \u2014 Smalls",
-      "date": "2026-09-25T18:00:00",
-      "date_raw": "Sept. 25, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33747-manuel-valera-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jacob Chung Quintet",
-      "date": "2026-09-25T18:30:00",
-      "date_raw": "Friday September 25th 06:30 PM",
-      "url": "",
-      "description": "Jacob Chung (saxophone)Mason Millard (tp)Bruce Acosta (g)Ari Roland (b)Willie Bowman (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ojiik Quartet",
-      "date": "2026-09-25T18:30:00",
-      "date_raw": "Friday September 25th 06:30 PM",
-      "url": "",
-      "description": "Ojiik (saxophone)Leo Genovese (p)Gervis Myles (b)Juan Chiavassa (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Loathe: A Stranger to You",
-      "date": "2026-09-25T18:30:00",
-      "date_raw": "2026-09-25T18:30:00-04:00",
-      "url": "https://www.ticketmaster.com/loathe-a-stranger-to-you-brooklyn-new-york-09-25-2026/event/00006495917965FA",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/773/d673bb12-d407-452f-90c0-5fd3e629a773_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Cyrus Chestnut Trio \u2014 Jazzcultural",
-      "date": "2026-09-25T19:00:00",
-      "date_raw": "Sept. 25, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33496-cyrus-chestnut-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday September 25th 8:30pm \u2022  New Moon Acoustic Blues Trio",
-      "date": "2026-09-25T20:30:00",
-      "date_raw": "Friday September 25th 8:30pm \u2022  New Moon Acoustic Blues Trio",
-      "url": "https://www.fredsdoghouse.com/event/friday-september-12th-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Todd Herbert Quartet",
-      "date": "2026-09-25T21:00:00",
-      "date_raw": "Friday September 25th 09:00 PM",
-      "url": "",
-      "description": "Todd Herbert (saxophone)Steve Einerson (p)Sean Conly (b)Larry Banks (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Janice Friedman Trio \u2014 Mezzrow",
-      "date": "2026-09-25T21:00:00",
-      "date_raw": "Sept. 25, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33631-janice-friedman-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "David Weiss Sextet \u2014 Smalls",
-      "date": "2026-09-25T21:00:00",
-      "date_raw": "Sept. 25, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33749-david-weiss-sextet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Ray Gallon Trio",
-      "date": "2026-09-25T21:30:00",
-      "date_raw": "Friday September 25th 09:30 PM",
-      "url": "",
-      "description": "Ray Gallon (p)Marty Kenney (b)Finn Wiest (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Philip Harper Quintet \u2014 Jazzcultural",
-      "date": "2026-09-25T22:30:00",
-      "date_raw": "Sept. 25, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/33883-philip-harper-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Chris McCarthy \u2014 Mezzrow",
-      "date": "2026-09-25T23:55:00",
-      "date_raw": "Sept. 25, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33745-round-midnight-solo-piano-with-chris-mccarthy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ken Fowser Quintet \u2014 Smalls",
-      "date": "2026-09-25T23:55:00",
-      "date_raw": "Sept. 25, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33845-ken-fowser-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Lucinda's",
       "title": "Happy Wife",
       "date": "2026-09-26T00:00:00",
@@ -470,16 +280,6 @@
       "url": "https://www.lucindasnyc.com/tm-event/happy-wife-2/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/04/52/84_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Sasha Dobson",
-      "date": "2026-09-26T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/114/1790380800000",
-      "description": "Sasha Dobson has performed all over the world in diverse contexts as a leader and first-call collaborator. The singer-songwriter and multi-instrumentalist represents one-third of hit trio Puss n Boots, alongside Catherine Popper and Blue Note Artist Norah Jones, with whose band Sasha has toured fairly regularly for the past eight years. As a guitarist and songwriter, Sasha bonds intuitive phrasing",
-      "image_url": "",
       "price": ""
     },
     {
@@ -521,16 +321,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Remembering Dolly with Olivia Ellen Lloyd & Friends",
-      "date": "2026-09-26T00:30:00",
-      "date_raw": "2026-09-26T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/remembering_dolly_wit",
-      "description": "",
-      "image_url": "",
-      "price": "$28"
     },
     {
       "venue_name": "Smalls Live",
@@ -590,16 +380,6 @@
       "url": "",
       "description": "Peter Watrous (g)Brent Lerman (saxophone)Jules Gardener\u00a0(saxophone)Anthony Pearlman (p)Gervis Myles (b)Angus Mason (d)",
       "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Tinlicker North America 2026",
-      "date": "2026-09-26T19:00:00",
-      "date_raw": "2026-09-26T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/tinlicker-north-america-2026-brooklyn-new-york-09-26-2026/event/0000648EF21B20B3",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/77b/821ec84d-bc67-4d02-a389-a81da25b177b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -4104,10 +3884,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Lummie Spann Quintet \u2014 Smalls",
+      "title": "The Luminous Black Quintet \u2014 Smalls",
       "date": "2026-10-18T21:00:00",
       "date_raw": "Oct. 18, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33714-lummie-spann-quintet/",
+      "url": "https://www.smallslive.com/events/33714-the-luminous-black-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4714,16 +4494,6 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Arcoiris Sandoval Trio \u2014 Mezzrow",
-      "date": "2026-10-23T21:00:00",
-      "date_raw": "Oct. 23, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33944-arcoiris-sandoval-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
       "title": "Randy Johnston Quartet \u2014 Smalls",
       "date": "2026-10-23T21:00:00",
       "date_raw": "Oct. 23, 2026 9:00 PM",
@@ -4829,16 +4599,6 @@
       "date_raw": "Saturday October 24th 09:00 PM",
       "url": "",
       "description": "Dave Schumacher (baritone saxophone)Diego Hedez (tp)Manuel Valera (p)Raul Reyes (b)Yusnier Sanchez (congas)Joel Mateo (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Arcoiris Sandoval Trio \u2014 Mezzrow",
-      "date": "2026-10-24T21:00:00",
-      "date_raw": "Oct. 24, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33945-arcoiris-sandoval-trio/",
-      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6043,6 +5803,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Orville Peck - Man Turned Mule Tour",
+      "date": "2026-11-09T19:00:00",
+      "date_raw": "2026-11-09T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-brooklyn-new-york-11-09-2026/event/000064F4C1072E4B",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/4da/8a560086-9fb3-4792-b8a1-f1ed67b054da_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Weekly Bluegrass with  Allison Kelly",
       "date": "2026-11-10T00:00:00",
@@ -6060,6 +5830,16 @@
       "url": "https://www.freddysbar.com/events/dsc6kndmgfph4em8ljetrbd96c9h64-ts5pt-nbbeb",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Orville Peck - Man Turned Mule Tour",
+      "date": "2026-11-10T19:00:00",
+      "date_raw": "2026-11-10T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-brooklyn-new-york-11-10-2026/event/000064F4C10A2E5B",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/4da/8a560086-9fb3-4792-b8a1-f1ed67b054da_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
