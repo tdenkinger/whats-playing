@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-09-27T17:20:24.146902+00:00",
+  "scraped_at": "2026-09-28T19:53:22.173174+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "CREATURES OF THE NIGHT : Queer Variety Show & Rocky Horror Fundraiser",
-      "date": "2026-09-12T00:00:00",
-      "date_raw": "Saturday, September 12, 2026",
-      "url": "https://www.freddysbar.com/events/10pm-to-midnight-two-slots-creatures-of-the-night-queer-variety-show-rocky-horror-fundraiser",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Hardcore bands X Rappers Show-2 slots",
-      "date": "2026-09-12T00:00:00",
-      "date_raw": "Saturday, September 12, 2026",
-      "url": "https://www.freddysbar.com/events/hardcore-bands-x-rappers-show",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Pole Before Dark",
-      "date": "2026-09-12T00:00:00",
-      "date_raw": "Saturday, September 12, 2026",
-      "url": "https://www.freddysbar.com/events/pole-before-dark",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Pretty Please - Indie folk/emo performance",
@@ -283,41 +253,11 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Sunday September 27th \u2022 Blues with Bobby Bryan!",
-      "date": "2026-09-27T00:00:00",
-      "date_raw": "Sunday September 27th \u2022 Blues with Bobby Bryan!",
-      "url": "https://www.fredsdoghouse.com/event/sunday-april-19th-blues-with-bobby-bryan-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
-      "date": "2026-09-27T00:00:00",
-      "date_raw": "September 27, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-46/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=8",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Maisy Owen",
-      "date": "2026-09-27T00:00:00",
-      "date_raw": "September 27, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/maisy-owen/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/01/23/94_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
-      "title": "Fourth Sunday Traditional Irish Music Jam",
+      "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
       "date": "2026-09-27T00:00:00",
       "date_raw": "Sunday, September 27, 2026",
-      "url": "https://www.freddysbar.com/events/fourth-sunday-traditional-irish-music-jam-p9ryf",
+      "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette",
       "description": "",
       "image_url": "",
       "price": ""
@@ -334,192 +274,22 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
+      "title": "Fourth Sunday Traditional Irish Music Jam",
       "date": "2026-09-27T00:00:00",
       "date_raw": "Sunday, September 27, 2026",
-      "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette",
+      "url": "https://www.freddysbar.com/events/fourth-sunday-traditional-irish-music-jam-p9ryf",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Vocalist Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-27T14:00:00",
-      "date_raw": "Sept. 27, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33782-vocalist-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki \u2014 Smalls",
-      "date": "2026-09-27T14:00:00",
-      "date_raw": "Sept. 27, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33877-smalls-afternoon-jam-session-hosted-by-ryo-sasaki/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2026-09-27T18:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/230/1790532000000",
-      "description": "In front of the bar on Sunday afternoons for the summer. Open to all.",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Taking Back Sunday",
-      "date": "2026-09-27T18:00:00",
-      "date_raw": "2026-09-27T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/taking-back-sunday-brooklyn-new-york-09-27-2026/event/0000648D914B5D3D",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/d76/61d095a0-3822-4bd9-beda-00a9e8276d76_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Nathan Salsburg / Eli Smith",
-      "date": "2026-09-27T18:00:00",
-      "date_raw": "2026-09-27T18:00:00.000Z",
-      "url": "https://www.viewcy.com/event/nathan_salsburg__eli",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Libby York Trio \u2014 Mezzrow",
-      "date": "2026-09-27T18:00:00",
-      "date_raw": "Sept. 27, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33725-libby-york-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Victor Jones Quartet \u2014 Smalls",
-      "date": "2026-09-27T18:00:00",
-      "date_raw": "Sept. 27, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33726-victor-jones-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Ben Rice Trio",
-      "date": "2026-09-27T18:30:00",
-      "date_raw": "Sunday September 27th 06:30 PM",
-      "url": "",
-      "description": "Ben Rice (p)Alec Safy (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Andrew Wagner Quintet",
-      "date": "2026-09-27T18:30:00",
-      "date_raw": "Sunday September 27th 06:30 PM",
-      "url": "",
-      "description": "Andrew Wagner (tp)Alex De Lazzari (ts)Maki Nientao (p)Dan Finn (b)Willie Bowman (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Cyrus Chestnut Trio \u2014 Jazzcultural",
-      "date": "2026-09-27T19:00:00",
-      "date_raw": "Sept. 27, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33498-cyrus-chestnut-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Joe Magnarelli Quartet",
-      "date": "2026-09-27T21:00:00",
-      "date_raw": "Sunday September 27th 09:00 PM",
-      "url": "",
-      "description": "Joe Magnarelli (tp)Richard Clements (p)Clovis Nicolas (b)Joe Strasser (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Lucy Wijnands Quartet \u2014 Mezzrow",
-      "date": "2026-09-27T21:00:00",
-      "date_raw": "Sept. 27, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33800-lucy-wijnands-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ai Murakami Quartet \u2014 Smalls",
-      "date": "2026-09-27T21:00:00",
-      "date_raw": "Sept. 27, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33727-ai-murakami-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Don Hahn Quintet",
-      "date": "2026-09-27T21:30:00",
-      "date_raw": "Sunday September 27th 09:30 PM",
-      "url": "",
-      "description": "Don Hahn (cornet&flugelhorn)Tamir Lifshitz (g)Xavier Kim (p)Sameer Shankar (b)Simon Ribas (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-27T22:00:00",
-      "date_raw": "Sept. 27, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33787-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Juliet Garrett / Kyle Morgan / Claire Ozmun",
-      "date": "2026-09-27T23:00:00",
-      "date_raw": "2026-09-27T23:00:00.000Z",
-      "url": "https://www.viewcy.com/event/juliet_garrett__kyle",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Panas Athanatos Trio \u2014 Smalls",
-      "date": "2026-09-27T23:55:00",
-      "date_raw": "Sept. 27, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/33804-panas-athanatos-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Ken and Friends featuring Jacob Jolliff, Emeline O'Rourke and Aidan O'Donnell",
+      "venue_name": "Lucinda's",
+      "title": "Nick Dunbar",
       "date": "2026-09-28T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/271/1790553600000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
-      "image_url": "",
+      "date_raw": "September 28, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/nick-dunbar-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/06/25/54_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -1014,10 +784,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "title": "Jam Session Hosted By Carlos Abadie-THE QUINTET \u2014 Smalls",
       "date": "2026-09-30T23:45:00",
       "date_raw": "Sept. 30, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33818-jam-session-hosted-by-carlos-abadie/",
+      "url": "https://www.smallslive.com/events/33818-jam-session-hosted-by-carlos-abadie-the-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1089,6 +859,16 @@
       "date_raw": "Oct. 1, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/33903-alexandra-ridout-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Robert Papacica Trio",
+      "date": "2026-10-01T18:30:00",
+      "date_raw": "Thursday October 1st 06:30 PM",
+      "url": "",
+      "description": "Robert Papacica (g)Dan Montgomery (b)Adam Arruda (d)",
       "image_url": "",
       "price": ""
     },
@@ -1480,6 +1260,16 @@
       "url": "https://www.ticketmaster.com/schoolboy-q-10-years-of-blank-brooklyn-new-york-10-03-2026/event/000064FEACF1B16C",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/4b5/f2e5e163-2e13-463a-bccf-64c7b8a934b5_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ben Solomon Quartet",
+      "date": "2026-10-03T21:00:00",
+      "date_raw": "Saturday October 3rd 09:00 PM",
+      "url": "",
+      "description": "Ben Solomon (saxophone)Kevin Sun (ts)TBA (b)Adam Arruda (d)",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1909,6 +1699,16 @@
       "date_raw": "Oct. 6, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34024-giuseppe-cucchiara-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Master\u2019s Hours",
+      "date": "2026-10-06T18:30:00",
+      "date_raw": "Tuesday October 6th 06:30 PM",
+      "url": "",
+      "description": "James Hurt (p)",
       "image_url": "",
       "price": ""
     },
@@ -2694,10 +2494,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Naama Trio \u2014 Mezzrow",
+      "title": "Lucy Wijnands Trio \u2014 Mezzrow",
       "date": "2026-10-11T21:00:00",
       "date_raw": "Oct. 11, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34030-naama-trio/",
+      "url": "https://www.smallslive.com/events/34030-lucy-wijnands-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5183,16 +4983,6 @@
       "price": ""
     },
     {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "James Robbins Quartet",
-      "date": "2026-10-30T18:30:00",
-      "date_raw": "Friday October 30th 06:30 PM",
-      "url": "",
-      "description": "James Robbins (b)Hillai Govreen (woodwinds)Evan Main (keyboard)Corey Garcia (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Smalls Live",
       "title": "Warren Wolf Quartet \u2014 Jazzcultural",
       "date": "2026-10-30T19:00:00",
@@ -5683,6 +5473,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "STING 3.0 Tour",
+      "date": "2026-11-11T19:00:00",
+      "date_raw": "2026-11-11T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-11-2026/event/0000645905ABDC05",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-11-11T23:30:00",
@@ -6029,6 +5829,16 @@
       "date_raw": "Monday, November 23, 2026",
       "url": "https://www.freddysbar.com/events/b7byw5wxkpp4t96",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "\"Yakei\" Album Release Show",
+      "date": "2026-11-23T18:30:00",
+      "date_raw": "Monday November 23rd 06:30 PM",
+      "url": "",
+      "description": "Erika Toda (g)Caleb Pitman (tp)Kevin Du (p)Aidan Taylor (b)Alon Benjamini (d)",
       "image_url": "",
       "price": ""
     },
@@ -6551,6 +6361,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Hammer County",
+      "date": "2027-01-23T01:00:00",
+      "date_raw": "2027-01-23T01:00:00.000Z",
+      "url": "https://www.viewcy.com/event/hammer_county_1",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Jalopy Theatre",
