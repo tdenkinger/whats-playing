@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-09-28T19:53:22.173174+00:00",
+  "scraped_at": "2026-09-29T18:21:17.372268+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Pretty Please - Indie folk/emo performance",
-      "date": "2026-09-13T00:00:00",
-      "date_raw": "Sunday, September 13, 2026",
-      "url": "https://www.freddysbar.com/events/pretty-please-indie-folkemo-performance",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
@@ -283,151 +273,11 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Nick Dunbar",
-      "date": "2026-09-28T00:00:00",
-      "date_raw": "September 28, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/nick-dunbar-2/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/06/25/54_Original.jpg?v=3",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-09-28T00:00:00",
       "date_raw": "Monday, September 28, 2026",
       "url": "https://www.freddysbar.com/events/the-fun-mic-alexs-comedy-open-mic-every-monday-1-pypse-g6dfk-egep4-23r9h-sts6k-zjlzd-mypgx-7hjhd-nb74x-d6mjw-bngsj-pk9cr-5g2d3-7hebt-hht7n-eag8t-g28xl-89364-hs57y-89sy6-7w2ee-xnray-k8p5p-a63le-a3cas",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-28T14:00:00",
-      "date_raw": "Sept. 28, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33770-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Alan Broadbent Trio \u2014 Mezzrow",
-      "date": "2026-09-28T18:00:00",
-      "date_raw": "Sept. 28, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33833-alan-broadbent-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Tony Leone Quintet \u2014 Smalls",
-      "date": "2026-09-28T18:00:00",
-      "date_raw": "Sept. 28, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33751-tony-leone-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "John Lind Trio",
-      "date": "2026-09-28T18:30:00",
-      "date_raw": "Monday September 28th 06:30 PM",
-      "url": "",
-      "description": "John Lind (b)Evan Main (p)Evan Hyde (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Art Of Piano Ensemble",
-      "date": "2026-09-28T18:30:00",
-      "date_raw": "Monday September 28th 06:30 PM",
-      "url": "",
-      "description": "James Carney (p)Ralph Alessi (tp)Mark Helias (b)Jay Sawyer (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Benny Benack Quintet \u2014 Jazzcultural",
-      "date": "2026-09-28T19:00:00",
-      "date_raw": "Sept. 28, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33708-benny-benack-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Itay Morchi Trio",
-      "date": "2026-09-28T21:00:00",
-      "date_raw": "Monday September 28th 09:00 PM",
-      "url": "",
-      "description": "Itay Morchi (d)Gadi Lehavi (p)Yoni Ben Ari (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Michael Kanan Trio \u2014 Mezzrow",
-      "date": "2026-09-28T21:00:00",
-      "date_raw": "Sept. 28, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33834-michael-kanan-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Rale Micic Quintet \u2014 Smalls",
-      "date": "2026-09-28T21:00:00",
-      "date_raw": "Sept. 28, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33752-rale-micic-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Noa Havakook Trio",
-      "date": "2026-09-28T21:30:00",
-      "date_raw": "Monday September 28th 09:30 PM",
-      "url": "",
-      "description": "Noa Havakook (v)Moshe Elmakias (p)Bar Filipowicz (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-28T22:00:00",
-      "date_raw": "Sept. 28, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33791-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-09-28T23:30:00",
-      "date_raw": "Sept. 28, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33871-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Mike Boone \u2014 Smalls",
-      "date": "2026-09-28T23:45:00",
-      "date_raw": "Sept. 28, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33808-jam-session-hosted-by-mike-boone/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -903,6 +753,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Thursday October 1st 8:30-11:00pm \u2022 Texas Tango Organ Trio!",
+      "date": "2026-10-01T20:30:00",
+      "date_raw": "Thursday October 1st 8:30-11:00pm \u2022 Texas Tango Organ Trio!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-may-7th-830pm-texas-tango-organ-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Rale Micic Quartet",
       "date": "2026-10-01T21:00:00",
@@ -1103,6 +963,26 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Friday October 2nd 8:30pm  \u2022  New Moon Acoustic Blues Trio!",
+      "date": "2026-10-02T20:30:00",
+      "date_raw": "Friday October 2nd 8:30pm  \u2022  New Moon Acoustic Blues Trio!",
+      "url": "https://www.fredsdoghouse.com/event/friday-may-15th-830pm-new-moon-acoustic-blues-trio-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ralph\u200b Lalama Trio",
+      "date": "2026-10-02T21:00:00",
+      "date_raw": "Friday October 2nd 09:00 PM",
+      "url": "",
+      "description": "Ralph\u200b Lalama (saxophone)Roberta Piket (org)Andy Watson (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Randy Ingram Trio \u2014 Mezzrow",
       "date": "2026-10-02T21:00:00",
@@ -1243,11 +1123,31 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Peter Watrous Quartet",
+      "date": "2026-10-03T18:30:00",
+      "date_raw": "Saturday October 3rd 06:30 PM",
+      "url": "",
+      "description": "Peter Watrous (g)Chaz Martineau (saxophone)Benjamin Young (b)Angus Mason (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "E.J. Strickland Quintet \u2014 Jazzcultural",
       "date": "2026-10-03T19:00:00",
       "date_raw": "Oct. 3, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33907-ej-strickland-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday October 3rd EARLY SET 7:30-9pm \u2022 Blues with Mara Kaye!",
+      "date": "2026-10-03T19:30:00",
+      "date_raw": "Saturday October 3rd EARLY SET 7:30-9pm \u2022 Blues with Mara Kaye!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-early-set-730-9pm-blues-with-mara-kaye/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1299,6 +1199,16 @@
       "date_raw": "Saturday October 3rd 09:30 PM",
       "url": "",
       "description": "Reggie Woods (saxophone)Sharp Radway (p)Belden Bullock (b)Mike Flythe (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday October 3rd 9:30pm \u2022 Delta Blues with TRACTOR!",
+      "date": "2026-10-03T21:30:00",
+      "date_raw": "Saturday October 3rd 9:30pm \u2022 Delta Blues with TRACTOR!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-may-9th-830pm-delta-blues-with-tractor-copy/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -1463,6 +1373,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Sunday October 4th 8:30pm \u2022 Blues & Americana with Jason Green!",
+      "date": "2026-10-04T20:30:00",
+      "date_raw": "Sunday October 4th 8:30pm \u2022 Blues & Americana with Jason Green!",
+      "url": "https://www.fredsdoghouse.com/event/wednesday-august-27th-blues-americana-with-jason-green/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Richard Cortez Quartet \u2014 Mezzrow",
       "date": "2026-10-04T21:00:00",
@@ -1589,6 +1509,16 @@
       "date_raw": "Oct. 5, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33913-asaf-yuria-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Will Gorman Trio",
+      "date": "2026-10-05T21:00:00",
+      "date_raw": "Monday October 5th 09:00 PM",
+      "url": "",
+      "description": "Will Gorman (v&p)Vincent Dupont (b)Eric Dupont (d)",
       "image_url": "",
       "price": ""
     },
@@ -1733,6 +1663,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday October 6th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-10-06T20:30:00",
+      "date_raw": "Tuesday October 6th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-november-11th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Deanna Kirk Trio \u2014 Mezzrow",
       "date": "2026-10-06T21:00:00",
@@ -1863,6 +1803,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday October 7th 8:30pm \u2022 Direct from Mississippi.. Lightnin Malcom!",
+      "date": "2026-10-07T20:30:00",
+      "date_raw": "Wednesday October 7th 8:30pm \u2022 Direct from Mississippi.. Lightnin Malcom!",
+      "url": "https://www.fredsdoghouse.com/event/wednesday-october-2nd-830pm-direct-from-mississippi-lightnin-malcom/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Alex Minasian Trio \u2014 Mezzrow",
       "date": "2026-10-07T21:00:00",
@@ -1940,6 +1890,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/abigail-rose-melanie-maclaren/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/12/99/44/04_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Eric Wolf: New Work,  Opening Reception",
+      "date": "2026-10-08T00:00:00",
+      "date_raw": "Thursday, October 8, 2026",
+      "url": "https://www.freddysbar.com/events/eric-wolf-new-work-opening-reception",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -4004,10 +3964,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Tim Ries Septet \u2014 Smalls",
+      "title": "Tim Ries Quartet \u2014 Smalls",
       "date": "2026-10-22T21:00:00",
       "date_raw": "Oct. 22, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33977-tim-ries-septet/",
+      "url": "https://www.smallslive.com/events/33977-tim-ries-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5754,6 +5714,16 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "SHIMMY \u2014 solo acoustic indie-folk, singer-songwriter",
+      "date": "2026-11-20T00:00:00",
+      "date_raw": "Friday, November 20, 2026",
+      "url": "https://www.freddysbar.com/events/shimmy-solo-indie-folk-singer-songwrite",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Pole Before Dark- every third Saturday",
       "date": "2026-11-21T00:00:00",
       "date_raw": "Saturday, November 21, 2026",
@@ -6098,6 +6068,16 @@
       "date": "2026-12-12T00:00:00",
       "date_raw": "Saturday, December 12, 2026",
       "url": "https://www.freddysbar.com/events/schd5epz37mb53xxxxdm8cm8lt5wne",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Yacht Rock Choir!",
+      "date": "2026-12-12T21:00:00",
+      "date_raw": "2026-12-12T21:00:00.000Z",
+      "url": "https://www.viewcy.com/event/yacht_rock_choir_2",
       "description": "",
       "image_url": "",
       "price": ""
@@ -7258,6 +7238,16 @@
       "date": "2028-08-23T22:30:00",
       "date_raw": "2028-08-23T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Thursday October 8th 8:30pm + The Dirt Whisperers!",
+      "date": null,
+      "date_raw": "Thursday October 8th 8:30pm + The Dirt Whisperers!",
+      "url": "https://www.fredsdoghouse.com/event/this-just-in-saturday-august-1st-830pm-the-dirt-whisperers/",
       "description": "",
       "image_url": "",
       "price": ""
