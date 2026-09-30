@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-09-29T18:21:17.372268+00:00",
+  "scraped_at": "2026-09-30T18:10:56.298999+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-09-14T00:00:00",
-      "date_raw": "Monday, September 14, 2026",
-      "url": "https://www.freddysbar.com/events/yya9xr8hnhyptpm",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Tuesday Night Mic Check: A New Beginning (3rd Tuesdays)presented by The ROTN Brand",
@@ -283,181 +273,11 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Dolly Parton Tribute Show",
-      "date": "2026-09-29T00:00:00",
-      "date_raw": "September 29, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/dolly-parton-tribute-show/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/04/46/04_Original.jpg?v=3",
-      "price": ""
-    },
-    {
-      "venue_name": "Lucinda's",
-      "title": "Live Weekly Bluegrass with  Allison Kelly",
-      "date": "2026-09-29T00:00:00",
-      "date_raw": "September 29, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-46/",
-      "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "LEVITA, BAPHORA, ENVOI & FRANK MAGNOLIA play all night!",
       "date": "2026-09-29T00:00:00",
       "date_raw": "Tuesday, September 29, 2026",
       "url": "https://www.freddysbar.com/events/levita-envoi-frank-magnolia-play-all-night",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Barry Harris Institute Presents: Free Piano Lesson & Jam Session \u2014 Jazzcultural",
-      "date": "2026-09-29T14:00:00",
-      "date_raw": "Sept. 29, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/33736-barry-harris-institute-presents-free-piano-lesson-jam-session/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Nat Harris Quartet \u2014 Mezzrow",
-      "date": "2026-09-29T18:00:00",
-      "date_raw": "Sept. 29, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33667-nat-harris-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Rick Margitza Quartet \u2014 Smalls",
-      "date": "2026-09-29T18:00:00",
-      "date_raw": "Sept. 29, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33753-rick-margitza-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Daniel Sky Trio",
-      "date": "2026-09-29T18:30:00",
-      "date_raw": "Tuesday September 29th 06:30 PM",
-      "url": "",
-      "description": "Daniel Sky (tp)Matt Sewell (g)Hamish Smith (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Neta Raanan Quintet",
-      "date": "2026-09-29T18:30:00",
-      "date_raw": "Tuesday September 29th 06:30 PM",
-      "url": "",
-      "description": "Neta Raanan (saxophone)Robert Mac Vega (tp)Noam Borns (p)Thorbj\u00f8rn Stefansson (b)Maliq Wynn (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Audrey Hobert: The Staircase To Stardom Tour",
-      "date": "2026-09-29T19:00:00",
-      "date_raw": "2026-09-29T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-29-2026/event/000064F7B8876306",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Bruce Barth Trio \u2014 Jazzcultural",
-      "date": "2026-09-29T19:00:00",
-      "date_raw": "Sept. 29, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33706-bruce-barth-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday September 29th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-09-29T20:30:00",
-      "date_raw": "Tuesday September 29th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Uri Gurvich Quartet",
-      "date": "2026-09-29T21:00:00",
-      "date_raw": "Tuesday September 29th 09:00 PM",
-      "url": "",
-      "description": "Uri Gurvich\u00a0(saxophone)Nitzan Gavrieli\u00a0\u00a0(p)Edward Perez\u00a0(b)Ronen Itzik (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Falkner Evans Trio \u2014 Mezzrow",
-      "date": "2026-09-29T21:00:00",
-      "date_raw": "Sept. 29, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33668-falkner-evans-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Michael Blake Quartet \u2014 Smalls",
-      "date": "2026-09-29T21:00:00",
-      "date_raw": "Sept. 29, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33755-michael-blake-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jordan Young Organ Trio",
-      "date": "2026-09-29T21:30:00",
-      "date_raw": "Tuesday September 29th 09:30 PM",
-      "url": "",
-      "description": "Jordan Young (d)George Papageorge (org)Eric Zolan (g)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-09-29T22:00:00",
-      "date_raw": "Sept. 29, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/33796-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-09-29T23:30:00",
-      "date_raw": "Sept. 29, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/33872-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Kyle Colina \u2014 Smalls",
-      "date": "2026-09-29T23:45:00",
-      "date_raw": "Sept. 29, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/33811-jam-session-hosted-by-kyle-colina/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -533,16 +353,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Audrey Hobert: The Staircase To Stardom Tour",
-      "date": "2026-09-30T19:00:00",
-      "date_raw": "2026-09-30T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-30-2026/event/000064F7B88A631B",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Smalls Live",
       "title": "Jumaane Smith Quintet \u2014 Jazzcultural",
       "date": "2026-09-30T19:00:00",
@@ -550,6 +360,16 @@
       "url": "https://www.smallslive.com/events/33709-jumaane-smith-quintet/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Audrey Hobert: The Staircase To Stardom Tour",
+      "date": "2026-09-30T19:30:00",
+      "date_raw": "2026-09-30T19:30:00-04:00",
+      "url": "https://www.ticketmaster.com/audrey-hobert-the-staircase-to-stardom-brooklyn-new-york-09-30-2026/event/000064F7B88A631B",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/5af/e58b8d7c-541b-40ed-a6d2-09652bc905af_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -853,6 +673,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "John Pinamonti Three",
+      "date": "2026-10-02T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/278/1790899200000",
+      "description": "Over 6 albums and hundreds of gigs, John Pinamonti has honed his gentle, husky voice as well as his song craft and multi-instrumental abilities, and is just as at home playing solo as he is driving his trio or quartet. Born in Los Angeles, JP grew up in San Antonio and Portland (OR). He started playing music in his early teens, influenced by an uncle who played fiddle, guitar and sang. It was from",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Nicholas & Charles",
       "date": "2026-10-02T00:00:00",
@@ -1043,12 +873,12 @@
       "price": ""
     },
     {
-      "venue_name": "Freddy's",
-      "title": "Puppets To The People open improv (everyone gets a puppet)",
+      "venue_name": "Sunny's Bar",
+      "title": "Paul Spring Band",
       "date": "2026-10-03T00:00:00",
-      "date_raw": "Saturday, October 3, 2026",
-      "url": "https://www.freddysbar.com/events/puppets-to-the-people-open-improv-everyone-gets-a-puppet",
-      "description": "",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/170/1788566400000",
+      "description": "Paul Spring\u2019s new album Dumb and Free will release on November 11th, 2025. Each song is from the perspective of a different stranger who Spring met during federal election volunteering. It was written mostly during a short creative burst in late November 2024. Returning to Brooklyn for the winter and spring, Spring workshopped and arranged the songs with a live band during a winter residency at Su",
       "image_url": "",
       "price": ""
     },
@@ -1133,6 +963,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Yuval Amihai Trio",
+      "date": "2026-10-03T18:30:00",
+      "date_raw": "Saturday October 3rd 06:30 PM",
+      "url": "",
+      "description": "Yuval Amihai (g)Ben Tiberio (b)Colin Stranahan (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "E.J. Strickland Quintet \u2014 Jazzcultural",
       "date": "2026-10-03T19:00:00",
@@ -1168,7 +1008,7 @@
       "date": "2026-10-03T21:00:00",
       "date_raw": "Saturday October 3rd 09:00 PM",
       "url": "",
-      "description": "Ben Solomon (saxophone)Kevin Sun (ts)TBA (b)Adam Arruda (d)",
+      "description": "Ben Solomon (saxophone)Kevin Sun (ts)Mathias Jensen (b)Adam Arruda (d)",
       "image_url": "",
       "price": ""
     },
@@ -1253,6 +1093,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-10-04T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1791072000000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
       "date": "2026-10-04T00:00:00",
@@ -1309,6 +1159,16 @@
       "date_raw": "Oct. 4, 2026 2:00 PM",
       "url": "https://www.smallslive.com/events/34031-smalls-afternoon-jam-session-hosted-by-ryo-sasaki/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Edith's Agnostic Gospel Jam",
+      "date": "2026-10-04T16:30:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/279/1791131400000",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
       "image_url": "",
       "price": ""
     },
@@ -1449,7 +1309,17 @@
       "date_raw": "October 05, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/special-guest-michelle-malone/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/12/98/24/24_Original.jpg?v=3",
+      "image_url": "https://i.ticketweb.com/i/00/12/98/24/24_Original.jpg?v=4",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Rick Snell and Adam Armstrong",
+      "date": "2026-10-05T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/281/1791158400000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
+      "image_url": "",
       "price": ""
     },
     {
@@ -1733,6 +1603,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tattercoats",
+      "date": "2026-10-07T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/211/1791302400000",
+      "description": "Tattercoats is the wife-and-husband folk duo of Ned Joyner and Charlotte Wager-Miller. Described as sounding \u201clike a warm, comforting bowl of soup,\u201d they draw from their southern Indiana roots to forge a style that is both earthy and refined\u2014rooted in tradition and distinguished by \u201cbreathtaking tight vocal harmonies\u201d (At the Barrier). Their wide repertoire spans centuries and continents: from Old",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-10-07T00:00:00",
@@ -1893,6 +1773,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-10-08T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1791417600000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Eric Wolf: New Work,  Opening Reception",
       "date": "2026-10-08T00:00:00",
@@ -2033,11 +1923,31 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Laura Jean Anderson Band",
+      "date": "2026-10-09T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/175/1791504000000",
+      "description": "Laura Jean Anderson, born in Olympia, Washington is an artist rooted in the classic songwriting tradition while embracing pushing the boundaries of modern sound. Laura Jean has garnered support from NPR, Bernie sanders, Rolling Stone, Noisey, Salon, Fader, amongst others. Her shows across Los Angeles have established her as a staple of the LA music scene, with support from KCRW and LA Weekly procl",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Dead Sea Sparrow, Acoustic Folk Duo",
       "date": "2026-10-09T00:00:00",
       "date_raw": "Friday, October 9, 2026",
       "url": "https://www.freddysbar.com/events/dead-sea-sparrow-acoustic-folk-duo",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Holman Alvarez\u2019s Plaxticity",
+      "date": "2026-10-09T00:00:00",
+      "date_raw": "Friday, October 9, 2026",
+      "url": "https://www.freddysbar.com/events/holman-alvarezs-plaxticity",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2179,6 +2089,16 @@
       "date_raw": "Oct. 9, 2026 11:55 PM",
       "url": "https://www.smallslive.com/events/34111-philip-harper-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "KJ Denhert",
+      "date": "2026-10-10T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/63/1791590400000",
+      "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was that of a record player. \u201cI spent hours in front of the record player dancing to the same song over and over. I must have been about 4 \u2013 music really held me together growing up. \u201d KJ\u2019s career spans 40 years, 10 albums, with legions of devot",
       "image_url": "",
       "price": ""
     },
@@ -2343,6 +2263,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-10-11T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1791676800000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Private Party",
       "date": "2026-10-11T00:00:00",
@@ -2454,10 +2384,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Lucy Wijnands Trio \u2014 Mezzrow",
+      "title": "Lucy Wijnands Quartet \u2014 Mezzrow",
       "date": "2026-10-11T21:00:00",
       "date_raw": "Oct. 11, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34030-lucy-wijnands-trio/",
+      "url": "https://www.smallslive.com/events/34030-lucy-wijnands-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2510,6 +2440,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/jackson-and-the-janks/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/02/68/34_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends Birthday Show ft Sarah King, Emeline O'Rourke, and Aidan O'Donnell",
+      "date": "2026-10-12T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/280/1791763200000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
+      "image_url": "",
       "price": ""
     },
     {
@@ -2763,6 +2703,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Tiki Lounge presents Tom Beckham: Voodoo Vibes",
+      "date": "2026-10-14T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/282/1791936000000",
+      "description": "Tom Beckham on solo vibraphone playing Hula classics and Exotic favorites. https://tombeckham.net",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-10-14T00:00:00",
@@ -2903,6 +2853,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-10-15T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1792022400000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Garden Party- 3rd Thursdays- Burlesque in the Back Every Thursday",
       "date": "2026-10-15T00:00:00",
@@ -3020,6 +2980,16 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-20/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Tiki Lounge presents Aquarium Solarium",
+      "date": "2026-10-16T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/283/1792108800000",
+      "description": "Aquarium Solarium is an ensemble founded by guitarist/composer Jason Loughlin to feature his original instrumental music. The music is inspired by exotica, latin music, lounge, jazz and early Hollywood film scores. It's been described as cinematic, moody and exciting. The band features Jason Loughlin on guitar, Tom Beckham on vibraphone, Dave Speranza on bass and Dan Rieser on drums",
+      "image_url": "",
       "price": ""
     },
     {
@@ -3333,6 +3303,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-10-18T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1792281600000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
       "date": "2026-10-18T00:00:00",
@@ -3489,6 +3469,16 @@
       "date_raw": "Oct. 18, 2026 11:55 PM",
       "url": "https://www.smallslive.com/events/34123-aaron-johnson-boplicity/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Aidan O'Donnell and Emeline O'Rourke",
+      "date": "2026-10-19T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/257/1792368000000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
       "image_url": "",
       "price": ""
     },
@@ -3893,6 +3883,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-10-22T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1792627200000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Burlesque in the Back Every Thursday!",
       "date": "2026-10-22T00:00:00",
@@ -4243,6 +4243,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-10-25T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1792886400000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Fourth Sunday Traditional Irish Music Jam",
       "date": "2026-10-25T00:00:00",
@@ -4403,6 +4413,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Aidan O'Donnell and Emeline O'Rourke",
+      "date": "2026-10-26T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/257/1792972800000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-10-26T00:00:00",
@@ -4414,10 +4434,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jon Davis Trio \u2014 Mezzrow",
+      "title": "Alan Broadbent Trio \u2014 Mezzrow",
       "date": "2026-10-26T18:00:00",
       "date_raw": "Oct. 26, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34147-jon-davis-trio/",
+      "url": "https://www.smallslive.com/events/34147-alan-broadbent-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4719,6 +4739,16 @@
       "date_raw": "Oct. 28, 2026 11:45 PM",
       "url": "https://www.smallslive.com/events/34090-jam-session-hosted-by-carlos-abadie/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-10-29T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1793232000000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
       "price": ""
     },
@@ -5123,6 +5153,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-11-01T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1793491200000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
       "date": "2026-11-01T00:00:00",
@@ -5149,6 +5189,16 @@
       "date_raw": "Sunday, November 1, 2026",
       "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-rsw8y-bhrlc-wstjk",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Edith's Agnostic Gospel Jam",
+      "date": "2026-11-01T04:30:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/279/1793507400000",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
       "image_url": "",
       "price": ""
     },
@@ -5263,6 +5313,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-11-05T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1793840400000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Sammy Rae & The Friends with special guest Melt",
       "date": "2026-11-05T19:00:00",
@@ -5288,6 +5348,16 @@
       "date": "2026-11-06T00:00:00",
       "date_raw": "Friday, November 6, 2026",
       "url": "https://www.freddysbar.com/events/jessi-robertson-local-correspondents-reunion",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Lucas Spillman Acoustic Alt Rock",
+      "date": "2026-11-06T00:00:00",
+      "date_raw": "Friday, November 6, 2026",
+      "url": "https://www.freddysbar.com/events/lucas-spillman-acoustic-alt-rock",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5359,6 +5429,16 @@
       "date_raw": "Sunday, November 8, 2026",
       "url": "https://www.freddysbar.com/events/martin-monster-presents-troma-fest-lll84",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-11-08T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1794099600000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -5459,7 +5539,7 @@
       "date_raw": "November 12, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/lucindas-nyc-welcomes-kelsey-waldon/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/01/49/94_Original.jpg?v=5",
+      "image_url": "https://i.ticketweb.com/i/00/13/01/49/94_Original.jpg?v=6",
       "price": ""
     },
     {
@@ -5473,6 +5553,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-11-12T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1794445200000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "The Garrett Boys",
       "date": "2026-11-12T01:30:00",
@@ -5481,6 +5571,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "STING 3.0 Tour",
+      "date": "2026-11-12T19:00:00",
+      "date_raw": "2026-11-12T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-12-2026/event/0000645905AEDC0E",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
     },
     {
       "venue_name": "Lucinda's",
@@ -5603,11 +5703,31 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-11-15T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1794704400000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Chloe Kimes",
       "date": "2026-11-15T01:30:00",
       "date_raw": "2026-11-15T01:30:00.000Z",
       "url": "https://www.viewcy.com/event/chloe_kimes",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Larry & Joe",
+      "date": "2026-11-15T19:00:00",
+      "date_raw": "2026-11-15T19:00:00.000Z",
+      "url": "https://www.viewcy.com/event/larry__joe_1",
       "description": "",
       "image_url": "",
       "price": "$23"
@@ -5693,6 +5813,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-11-19T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1795050000000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Goatroper Album Release with Ghost Rodeo & Sam Brown",
       "date": "2026-11-19T01:30:00",
@@ -5718,6 +5848,26 @@
       "date": "2026-11-20T00:00:00",
       "date_raw": "Friday, November 20, 2026",
       "url": "https://www.freddysbar.com/events/shimmy-solo-indie-folk-singer-songwrite",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Jordan Guldman Quintet and Docking",
+      "date": "2026-11-20T00:00:00",
+      "date_raw": "Friday, November 20, 2026",
+      "url": "https://www.freddysbar.com/events/jordan-guldman-quintet-and-docking",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Braids and beer",
+      "date": "2026-11-20T00:00:00",
+      "date_raw": "Friday, November 20, 2026",
+      "url": "https://www.freddysbar.com/events/braids-and-beer",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5789,6 +5939,16 @@
       "date_raw": "Sunday, November 22, 2026",
       "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette-9yzk3",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-11-22T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1795309200000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -5873,6 +6033,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-11-26T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1795654800000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-11-27T00:00:00",
@@ -5880,6 +6050,26 @@
       "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-26/",
       "description": "",
       "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Annalise + The Mother Underground:The Plan Tour",
+      "date": "2026-11-27T00:00:00",
+      "date_raw": "Friday, November 27, 2026",
+      "url": "https://www.freddysbar.com/events/annalise-the-mother-undergroundthe-plan-tour",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-11-29T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1795914000000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
       "price": ""
     },
     {
@@ -5943,6 +6133,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-12-03T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1796259600000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-12-04T00:00:00",
@@ -5984,11 +6184,61 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "Channeling Owen, NYC Indie Rock",
+      "date": "2026-12-05T00:00:00",
+      "date_raw": "Saturday, December 5, 2026",
+      "url": "https://www.freddysbar.com/events/channeling-owen-nyc-indie-rock",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Long Gone West",
+      "date": "2026-12-05T00:00:00",
+      "date_raw": "Saturday, December 5, 2026",
+      "url": "https://www.freddysbar.com/events/long-gone-west",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Eli Allen",
+      "date": "2026-12-05T00:00:00",
+      "date_raw": "Saturday, December 5, 2026",
+      "url": "https://www.freddysbar.com/events/eli-allen",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Richard on Piano in the Frontroom (Every 1st & 3rd Sunday!)",
       "date": "2026-12-06T00:00:00",
       "date_raw": "Sunday, December 6, 2026",
       "url": "https://www.freddysbar.com/events/richard-on-piano-in-the-frontroom-every-1st-3rd-sunday-k6ecy-mtmw2",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-12-06T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1796518800000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Edith's Agnostic Gospel Jam",
+      "date": "2026-12-06T05:30:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/279/1796535000000",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
       "image_url": "",
       "price": ""
     },
@@ -6043,6 +6293,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-12-10T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1796864400000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-12-11T00:00:00",
@@ -6083,6 +6343,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-12-13T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1797123600000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Princess Backpack & Benjamin",
       "date": "2026-12-13T16:00:00",
@@ -6119,6 +6389,16 @@
       "date_raw": "2026-12-16T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-12-17T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1797469200000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
       "price": ""
     },
@@ -6193,6 +6473,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-12-20T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1797728400000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Weekly Bluegrass with  Allison Kelly",
       "date": "2026-12-22T00:00:00",
@@ -6223,6 +6513,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-12-24T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1798074000000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Lucinda's",
       "title": "Live Band Country Karaoke",
       "date": "2026-12-25T00:00:00",
@@ -6238,6 +6538,16 @@
       "date": "2026-12-25T00:00:00",
       "date_raw": "Friday, December 25, 2026",
       "url": "https://www.freddysbar.com/events/merry-happy-solstice-holiday",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Penny, inoculated City & Friends",
+      "date": "2026-12-26T00:00:00",
+      "date_raw": "Saturday, December 26, 2026",
+      "url": "https://www.freddysbar.com/events/penny-inoculated-city",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6283,12 +6593,32 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2026-12-27T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1798333200000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-12-30T23:30:00",
       "date_raw": "2026-12-30T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Smokey's Roundup",
+      "date": "2026-12-31T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/184/1798678800000",
+      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
       "price": ""
     },
@@ -6303,12 +6633,62 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-01-03T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1798938000000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Edith's Agnostic Gospel Jam",
+      "date": "2027-01-03T05:30:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/279/1798954200000",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-01-06T23:30:00",
       "date_raw": "2027-01-06T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Seth WJ Hunt- Solo Acoustic",
+      "date": "2027-01-09T00:00:00",
+      "date_raw": "Saturday, January 9, 2027",
+      "url": "https://www.freddysbar.com/events/seth-wj-hunt",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Private Event",
+      "date": "2027-01-09T00:00:00",
+      "date_raw": "Saturday, January 9, 2027",
+      "url": "https://www.freddysbar.com/events/private-event-2",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-01-10T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1799542800000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -6324,11 +6704,31 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "ASTRLPLNE",
+      "date": "2027-01-16T00:00:00",
+      "date_raw": "Saturday, January 16, 2027",
+      "url": "https://www.freddysbar.com/events/astrlplne",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Henry Mena Residency- 3rd Saturdays",
       "date": "2027-01-16T00:00:00",
       "date_raw": "Saturday, January 16, 2027",
       "url": "https://www.freddysbar.com/events/henry-mena-2nd-saturday-residency-hpe3m",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-01-17T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1800147600000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -6351,6 +6751,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-01-24T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1800752400000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Jalopy Theatre",
@@ -6383,6 +6793,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-01-31T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1801357200000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "The Neighborhood - acoustic music gathering",
       "date": "2027-02-02T00:00:00",
@@ -6403,12 +6823,42 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-02-07T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1801962000000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Edith's Agnostic Gospel Jam",
+      "date": "2027-02-07T05:30:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/279/1801978200000",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-02-10T23:30:00",
       "date_raw": "2027-02-10T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-02-14T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1802566800000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -6538,6 +6988,16 @@
       "date": "2027-04-28T22:30:00",
       "date_raw": "2027-04-28T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "One-Man-Band, Dave Turner, Hawaiian Transplant and NY Native, Tour's His Second Studio Album",
+      "date": "2027-04-30T00:00:00",
+      "date_raw": "Friday, April 30, 2027",
+      "url": "https://www.freddysbar.com/events/one-man-band-dave-turner-hawaiian-transplant-and-ny-native-tours-his-second-studio-album",
       "description": "",
       "image_url": "",
       "price": ""
