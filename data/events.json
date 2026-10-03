@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-10-02T18:06:11.417946+00:00",
+  "scraped_at": "2026-10-03T16:49:32.917317+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Garden Party- 3rd Thursdays- Burlesque in the Back Every Thursday",
-      "date": "2026-09-17T00:00:00",
-      "date_raw": "Thursday, September 17, 2026",
-      "url": "https://www.freddysbar.com/events/garden-party-3rd-thursdays-burlesque-in-the-back-every-thursday-e9a2z-8k6w7",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "B.B.YTK",
@@ -273,13 +263,13 @@
       "price": ""
     },
     {
-      "venue_name": "Lucinda's",
-      "title": "Live Band Country Karaoke",
+      "venue_name": "Freddy's",
+      "title": "Radionics",
       "date": "2026-10-02T00:00:00",
-      "date_raw": "October 02, 2026",
-      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-18/",
+      "date_raw": "Friday, October 2, 2026",
+      "url": "https://www.freddysbar.com/events/radionics-3",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "image_url": "",
       "price": ""
     },
     {
@@ -293,192 +283,12 @@
       "price": ""
     },
     {
-      "venue_name": "Freddy's",
-      "title": "Radionics",
-      "date": "2026-10-02T00:00:00",
-      "date_raw": "Friday, October 2, 2026",
-      "url": "https://www.freddysbar.com/events/radionics-3",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-02T14:00:00",
-      "date_raw": "Oct. 2, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34054-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by David Sandman \u2014 Smalls",
-      "date": "2026-10-02T14:00:00",
-      "date_raw": "Oct. 2, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34035-smalls-afternoon-jam-session-hosted-by-david-sandman/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Bill O'Connell Trio \u2014 Mezzrow",
-      "date": "2026-10-02T18:00:00",
-      "date_raw": "Oct. 2, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33894-bill-oconnell-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ed Neumeister Quartet \u2014 Smalls",
-      "date": "2026-10-02T18:00:00",
-      "date_raw": "Oct. 2, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33899-ed-neumeister-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Fukushi Tainaka Quintet",
-      "date": "2026-10-02T18:30:00",
-      "date_raw": "Friday October 2nd 06:30 PM",
-      "url": "",
-      "description": "Fukushi Tainaka (d)Chihiro Tainaka (v)Chris Johansen (ts)Marc Devine (p)Hide Tanaka (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Simo\u0301n Willson Quartet",
-      "date": "2026-10-02T18:30:00",
-      "date_raw": "Friday October 2nd 06:30 PM",
-      "url": "",
-      "description": "Simo\u0301n Willson (b)Alexandra Ridout (tp)Evan Main (p)Kayvon Gordon (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "E.J. Strickland Quintet \u2014 Jazzcultural",
-      "date": "2026-10-02T19:00:00",
-      "date_raw": "Oct. 2, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33906-ej-strickland-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "jigitz",
-      "date": "2026-10-02T20:00:00",
-      "date_raw": "2026-10-02T20:00:00-04:00",
-      "url": "https://www.ticketmaster.com/jigitz-brooklyn-new-york-10-02-2026/event/000064BDD0EBAA37",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/f88/dafc791d-bd83-425d-b1fe-97c836585f88_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday October 2nd 8:30pm  \u2022  New Moon Acoustic Blues Trio!",
-      "date": "2026-10-02T20:30:00",
-      "date_raw": "Friday October 2nd 8:30pm  \u2022  New Moon Acoustic Blues Trio!",
-      "url": "https://www.fredsdoghouse.com/event/friday-may-15th-830pm-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ralph\u200b Lalama Trio",
-      "date": "2026-10-02T21:00:00",
-      "date_raw": "Friday October 2nd 09:00 PM",
-      "url": "",
-      "description": "Ralph\u200b Lalama (saxophone)Roberta Piket (org)Andy Watson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Randy Ingram Trio \u2014 Mezzrow",
-      "date": "2026-10-02T21:00:00",
-      "date_raw": "Oct. 2, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33896-randy-ingram-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jacob Chung Quintet \u2014 Smalls",
-      "date": "2026-10-02T21:00:00",
-      "date_raw": "Oct. 2, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33900-jacob-chung-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Yoav Eshed Quartet",
-      "date": "2026-10-02T21:30:00",
-      "date_raw": "Friday October 2nd 09:30 PM",
-      "url": "",
-      "description": "Yoav Eshed (g)Tom Oren (p)Stanley Ruvinov (b)Eviatar Slivnik (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Corey Wallace DUBtet \u2014 Jazzcultural",
-      "date": "2026-10-02T22:30:00",
-      "date_raw": "Oct. 2, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34188-corey-wallace-dubtet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Jihee Heo \u2014 Mezzrow",
-      "date": "2026-10-02T23:55:00",
-      "date_raw": "Oct. 2, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34014-round-midnight-solo-piano-with-jihee-heo/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Smalls",
-      "date": "2026-10-02T23:55:00",
-      "date_raw": "Oct. 2, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34108-eric-wyatt-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Fred's Dog House",
       "title": "Sunday October 3rd + Bill's Bloody Mary Blooze Brunch!",
       "date": "2026-10-03T00:00:00",
       "date_raw": "Sunday October 3rd + Bill's Bloody Mary Blooze Brunch!",
       "url": "https://www.fredsdoghouse.com/event/sunday-august-3rd-bills-bloody-mary-blooze-brunch/",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Paul Spring Band",
-      "date": "2026-10-03T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/170/1788566400000",
-      "description": "Paul Spring\u2019s new album Dumb and Free will release on November 11th, 2025. Each song is from the perspective of a different stranger who Spring met during federal election volunteering. It was written mostly during a short creative burst in late November 2024. Returning to Brooklyn for the winter and spring, Spring workshopped and arranged the songs with a live band during a winter residency at Su",
       "image_url": "",
       "price": ""
     },
@@ -501,16 +311,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Lesser Known Women / Niva",
-      "date": "2026-10-03T00:30:00",
-      "date_raw": "2026-10-03T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/lesser_known_women_",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -874,11 +674,11 @@
     },
     {
       "venue_name": "Cafe Ornithology",
-      "title": "Jon Roche Trio",
+      "title": "Don Hahn Quintet",
       "date": "2026-10-04T21:30:00",
       "date_raw": "Sunday October 4th 09:30 PM",
       "url": "",
-      "description": "Jon Roche (b)Ray Macchiarola (g)Kuni Mikami (p)",
+      "description": "Don Hahn (cornet&flugelhorn)Tamir Lifshitz (g)Xavier Kim (p)Sameer Shankar (b)Kai Porterfield (d)",
       "image_url": "",
       "price": ""
     },
@@ -1159,6 +959,16 @@
       "date_raw": "Tuesday October 6th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
       "url": "https://www.fredsdoghouse.com/event/tuesday-november-11th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Adam Frumkin Quartet",
+      "date": "2026-10-06T21:00:00",
+      "date_raw": "Tuesday October 6th 09:00 PM",
+      "url": "",
+      "description": "Adam Frumkin (saxophone)Joe Magnarelli (tp)Dan Weisselberg (b)Mike Camacho (d)",
       "image_url": "",
       "price": ""
     },
@@ -3539,7 +3349,7 @@
       "date_raw": "October 22, 2026",
       "url": "https://www.lucindasnyc.com/tm-event/raffaella/",
       "description": "",
-      "image_url": "https://i.ticketweb.com/i/00/13/05/36/84_Original.jpg?v=4",
+      "image_url": "https://i.ticketweb.com/i/00/13/05/36/84_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -4138,6 +3948,16 @@
       "date": "2026-10-26T00:00:00",
       "date_raw": "Monday, October 26, 2026",
       "url": "https://www.freddysbar.com/events/y5hn7kbnzy3el99-draw7",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-10-26T14:00:00",
+      "date_raw": "Oct. 26, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34066-afternoon-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5423,6 +5243,16 @@
       "price": "$28"
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "STING 3.0 Tour",
+      "date": "2026-11-14T19:00:00",
+      "date_raw": "2026-11-14T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-14-2026/event/0000645905B2DC1A",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
       "date": "2026-11-15T00:00:00",
@@ -6699,6 +6529,16 @@
       "date_raw": "Thursday, March 4, 2027",
       "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-5-eb6ax-ryc8j",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-03-07T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1804381200000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
