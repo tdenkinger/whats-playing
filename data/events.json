@@ -1,19 +1,7 @@
 {
-  "scraped_at": "2026-10-06T18:40:43.512094+00:00",
-  "failed_venues": [
-    "Lucinda's"
-  ],
+  "scraped_at": "2026-10-07T19:07:08.697143+00:00",
+  "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Martin Monster Show Presents Class of Nuke Em High, with TROMA FILMS",
-      "date": "2026-09-20T00:00:00",
-      "date_raw": "Sunday, September 20, 2026",
-      "url": "https://www.freddysbar.com/events/martin-monster-presents-troma-fest",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
@@ -295,153 +283,13 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Barry Harris Institute Presents: Free Piano Lesson & Jam Session \u2014 Jazzcultural",
-      "date": "2026-10-06T14:00:00",
-      "date_raw": "Oct. 6, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34175-barry-harris-institute-presents-free-piano-lesson-jam-session/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jay Leonhart Trio \u2014 Mezzrow",
-      "date": "2026-10-06T18:00:00",
-      "date_raw": "Oct. 6, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34025-jay-leonhart-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Giuseppe Cucchiara Quartet \u2014 Smalls",
-      "date": "2026-10-06T18:00:00",
-      "date_raw": "Oct. 6, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34024-giuseppe-cucchiara-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Master\u2019s Hours",
-      "date": "2026-10-06T18:30:00",
-      "date_raw": "Tuesday October 6th 06:30 PM",
-      "url": "",
-      "description": "James Hurt (p)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Julia Penn Trio",
-      "date": "2026-10-06T18:30:00",
-      "date_raw": "Tuesday October 6th 06:30 PM",
-      "url": "",
-      "description": "Julia Penn (ts)Lonnie Plaxico (b)Gengis Don (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Joe Block Open Heart Trio \u2014 Jazzcultural",
-      "date": "2026-10-06T19:00:00",
-      "date_raw": "Oct. 6, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33914-joe-block-open-heart-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday October 6th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-10-06T20:30:00",
-      "date_raw": "Tuesday October 6th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-november-11th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Adam Frumkin Quartet",
-      "date": "2026-10-06T21:00:00",
-      "date_raw": "Tuesday October 6th 09:00 PM",
-      "url": "",
-      "description": "Adam Frumkin (saxophone)Joe Magnarelli (tp)Dan Weisselberg (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Deanna Kirk Trio \u2014 Mezzrow",
-      "date": "2026-10-06T21:00:00",
-      "date_raw": "Oct. 6, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33915-deanna-kirk-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Michael Attias Quartet \u2014 Smalls",
-      "date": "2026-10-06T21:00:00",
-      "date_raw": "Oct. 6, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33916-michael-attias-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Jazz Leaders Series",
-      "date": "2026-10-06T21:30:00",
-      "date_raw": "Tuesday October 6th 09:30 PM",
-      "url": "",
-      "description": "Leighton Harrell (b)Maki Nientao (p)Willie Bowman (d)Special Guest: Ian Cleaver (tp)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-06T22:00:00",
-      "date_raw": "Oct. 6, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/34067-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-10-06T23:30:00",
-      "date_raw": "Oct. 6, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34160-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Jason Clotter \u2014 Smalls",
-      "date": "2026-10-06T23:45:00",
-      "date_raw": "Oct. 6, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/34083-jam-session-hosted-by-jason-clotter/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tattercoats",
+      "venue_name": "Lucinda's",
+      "title": "Adam Masterson, Singer Songwriter.",
       "date": "2026-10-07T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/211/1791302400000",
-      "description": "Tattercoats is the wife-and-husband folk duo of Ned Joyner and Charlotte Wager-Miller. Described as sounding \u201clike a warm, comforting bowl of soup,\u201d they draw from their southern Indiana roots to forge a style that is both earthy and refined\u2014rooted in tradition and distinguished by \u201cbreathtaking tight vocal harmonies\u201d (At the Barrier). Their wide repertoire spans centuries and continents: from Old",
-      "image_url": "",
+      "date_raw": "October 07, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/adam-masterson-singer-songwriter/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/71/03_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -625,6 +473,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Abigail Rose, Melanie MacLaren",
+      "date": "2026-10-08T00:00:00",
+      "date_raw": "October 08, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/abigail-rose-melanie-maclaren/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/99/44/04_Original.jpg?v=4",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Smokey's Roundup",
       "date": "2026-10-08T00:00:00",
@@ -805,6 +663,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-10-09T00:00:00",
+      "date_raw": "October 09, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-19/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Laura Jean Anderson Band",
       "date": "2026-10-09T00:00:00",
@@ -936,11 +804,11 @@
     },
     {
       "venue_name": "Ornithology Jazz Club",
-      "title": "Steve Nelson Trio",
+      "title": "Steve Nelson Quartet",
       "date": "2026-10-09T21:00:00",
       "date_raw": "Friday October 9th 09:00 PM",
       "url": "",
-      "description": "Steve Nelson (g)Paul Gill (b)Andy Watson (d)",
+      "description": "Steve Nelson (g)Eric Zolan (g)Paul Gill (b)Andy Watson (d)",
       "image_url": "",
       "price": ""
     },
@@ -1185,6 +1053,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
+      "date": "2026-10-11T00:00:00",
+      "date_raw": "October 11, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-48/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=8",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2026-10-11T00:00:00",
@@ -1251,7 +1129,7 @@
       "date_raw": "2026-10-11T18:00:00-04:00",
       "url": "https://www.ticketmaster.com/a-night-of-heated-rivalry-a-brooklyn-new-york-10-11-2026/event/0000651F04A22E45",
       "description": "",
-      "image_url": "https://s1.ticketm.net/dam/c/8e8/89409e3a-57d3-450d-be32-d5ab4a7538e8_106501_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "image_url": "https://s1.ticketm.net/dam/a/618/0d63bae6-0b6d-4d5a-bdc8-ee41098d5618_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -1295,6 +1173,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Tobias Gebb Trio",
+      "date": "2026-10-11T18:30:00",
+      "date_raw": "Sunday October 11th 06:30 PM",
+      "url": "",
+      "description": "Tobias Gebb (d)Stacy Dillard (saxophone)David Ambrosio (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Eric Reed Quartet \u2014 Jazzcultural",
       "date": "2026-10-11T19:00:00",
@@ -1311,6 +1199,16 @@
       "date_raw": "2026-10-11T20:00:00.000Z",
       "url": "https://www.viewcy.com/event/michael_daves_open_bl_5",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Grant Stewart Quartet",
+      "date": "2026-10-11T21:00:00",
+      "date_raw": "Sunday October 11th 09:00 PM",
+      "url": "",
+      "description": "Grant Stewart (ts)Tardo Hammer (p)Miles Wick (b)Phil Stewart (d)",
       "image_url": "",
       "price": ""
     },
@@ -1335,6 +1233,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Stan Killian Trio",
+      "date": "2026-10-11T21:30:00",
+      "date_raw": "Sunday October 11th 09:30 PM",
+      "url": "",
+      "description": "Stan Killian (ts)Boris Kozlov (b)EJ Strickland (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-10-11T22:00:00",
@@ -1352,6 +1260,26 @@
       "url": "https://www.smallslive.com/events/34122-jeff-mcgregor-quartet/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Mimi Roman, The Brooklyn Cowgirls",
+      "date": "2026-10-12T00:00:00",
+      "date_raw": "October 12, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/mimi-roman-the-brooklyn-cowgirls/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/02/22/74_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Jackson And The Janks",
+      "date": "2026-10-12T00:00:00",
+      "date_raw": "October 12, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/jackson-and-the-janks/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/02/68/34_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -1495,6 +1423,26 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Whippoorwill",
+      "date": "2026-10-13T00:00:00",
+      "date_raw": "October 13, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/whippoorwill/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/02/99/94_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-10-13T00:00:00",
+      "date_raw": "October 13, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-48/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Big Joe's Happiness Exchange",
       "date": "2026-10-13T00:00:00",
@@ -1612,6 +1560,16 @@
       "url": "https://www.smallslive.com/events/34085-jam-session-hosted-by-kyle-colina/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Paloma Lopez",
+      "date": "2026-10-14T00:00:00",
+      "date_raw": "October 14, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/paloma-lopez-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/99/54/54_Original.jpg?v=3",
       "price": ""
     },
     {
@@ -1775,6 +1733,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Sammy Osmond and the No-Hellers",
+      "date": "2026-10-15T00:00:00",
+      "date_raw": "October 15, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/sammy-osmond-and-the-no-hellers/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/05/71/34_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Smokey's Roundup",
       "date": "2026-10-15T00:00:00",
@@ -1895,6 +1863,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-10-16T00:00:00",
+      "date_raw": "October 16, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-20/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Jackson Scott",
       "date": "2026-10-16T00:00:00",
@@ -2001,6 +1979,16 @@
       "date_raw": "Oct. 16, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34137-evan-sherman-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Adam Frumkin  Trio",
+      "date": "2026-10-16T21:30:00",
+      "date_raw": "Friday October 16th 09:30 PM",
+      "url": "",
+      "description": "Adam Frumkin (saxophone)Dan Weisselberg (b)Itay Morchi (d)",
       "image_url": "",
       "price": ""
     },
@@ -2212,6 +2200,16 @@
       "url": "https://www.smallslive.com/events/34114-stacy-dillard-quartet/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
+      "date": "2026-10-18T00:00:00",
+      "date_raw": "October 18, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-49/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=8",
       "price": ""
     },
     {
@@ -2455,6 +2453,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Modern Jazz Leaders Series",
+      "date": "2026-10-19T18:30:00",
+      "date_raw": "Monday October 19th 06:30 PM",
+      "url": "",
+      "description": "Stephen Byth (ts)Nathan Reising (as)Noah Halpern\u00a0(tp)Sam Rowley (trombone)Dillon Acey (bass clarinet)Tom Oren (p)Simo\u0301n Willson (b)Angus Mason (d)Noah HalpernNoah HalpernNoah Halpern",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Earl Sweatshirt & MIKE  Home on the Range Tour 2026",
       "date": "2026-10-19T19:00:00",
@@ -2522,6 +2530,16 @@
       "url": "https://www.smallslive.com/events/34082-jam-session-hosted-by-adam-ray/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-10-20T00:00:00",
+      "date_raw": "October 20, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-49/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
       "price": ""
     },
     {
@@ -2642,6 +2660,16 @@
       "url": "https://www.smallslive.com/events/34084-jam-session-hosted-by-jason-clotter/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Liza Colby Behind The Denim Curtain",
+      "date": "2026-10-21T00:00:00",
+      "date_raw": "October 21, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/liza-colby-behind-the-denim-curtain-30/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/61/06/73_Original.jpg?v=4",
       "price": ""
     },
     {
@@ -2785,6 +2813,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Raffaella",
+      "date": "2026-10-22T00:00:00",
+      "date_raw": "October 22, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/raffaella/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/05/36/84_Original.jpg?v=6",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Smokey's Roundup",
       "date": "2026-10-22T00:00:00",
@@ -2912,6 +2950,16 @@
       "url": "https://www.smallslive.com/events/34093-jam-session-hosted-by-matt-snow/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-10-23T00:00:00",
+      "date_raw": "October 23, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-21/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -3185,6 +3233,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Sunday Songwriter's Open Mic Every Week at Lucinda's",
+      "date": "2026-10-25T00:00:00",
+      "date_raw": "October 25, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/sunday-songwriters-open-mic-every-week-at-lucindas-50/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/87/84_Original.jpg?v=8",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2026-10-25T00:00:00",
@@ -3355,6 +3413,26 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Rene Lopez",
+      "date": "2026-10-26T00:00:00",
+      "date_raw": "October 26, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/rene-lopez-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/60/04/83_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Drew Kiddoo and the blackouts",
+      "date": "2026-10-26T00:00:00",
+      "date_raw": "October 26, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/drew-kiddoo-and-the-blackouts/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/07/07/54_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Ken and Friends featuring Aidan O'Donnell and Emeline O'Rourke",
       "date": "2026-10-26T00:00:00",
@@ -3405,6 +3483,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Modern Jazz Leaders Series",
+      "date": "2026-10-26T18:30:00",
+      "date_raw": "Monday October 26th 06:30 PM",
+      "url": "",
+      "description": "Miles Mindlin (g)Mark Shim (ts)Simo\u0301n Willson (b)Miguel Marcel Russell (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Ari Hoenig Quartet \u2014 Jazzcultural",
       "date": "2026-10-26T19:00:00",
@@ -3431,6 +3519,16 @@
       "date_raw": "Oct. 26, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/33979-mike-dirubbo-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Modern Jazz Leaders Series",
+      "date": "2026-10-26T21:30:00",
+      "date_raw": "Monday October 26th 09:30 PM",
+      "url": "",
+      "description": "Ian Cleaver (tp)William Hill III (p)Caleb Tobocman (b)Willie Bowman (d)",
       "image_url": "",
       "price": ""
     },
@@ -3462,6 +3560,16 @@
       "url": "https://www.smallslive.com/events/34080-jam-session-hosted-by-mike-boone/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-10-27T00:00:00",
+      "date_raw": "October 27, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-50/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
       "price": ""
     },
     {
@@ -3835,6 +3943,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-10-30T00:00:00",
+      "date_raw": "October 30, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-22/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Anita Montoya",
       "date": "2026-10-30T00:00:00",
@@ -4205,6 +4323,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Huxley Kuhlmann",
+      "date": "2026-11-02T00:00:00",
+      "date_raw": "November 02, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/huxley-kuhlmann/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/07/81/64_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-02T00:00:00",
@@ -4222,6 +4350,16 @@
       "url": "https://www.ticketmaster.com/yebba-brooklyn-new-york-11-02-2026/event/00006513F7ACF009",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/265/7f0e0311-ea9d-435f-9696-2d030a041265_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-11-03T00:00:00",
+      "date_raw": "November 03, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-51/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
       "price": ""
     },
     {
@@ -4296,12 +4434,22 @@
     },
     {
       "venue_name": "Brooklyn Paramount",
-      "title": "Sammy Rae & The Friends with special guest Melt",
+      "title": "Sammy Rae & The Friends - the GET DOWN!",
       "date": "2026-11-05T19:00:00",
       "date_raw": "2026-11-05T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-with-special-brooklyn-new-york-11-05-2026/event/0000643700A3F2B5",
+      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-the-get-brooklyn-new-york-11-05-2026/event/0000643700A3F2B5",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/179/ef41dd90-262b-4508-a1e2-47fb26e3c179_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-11-06T00:00:00",
+      "date_raw": "November 06, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-23/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -4336,10 +4484,10 @@
     },
     {
       "venue_name": "Brooklyn Paramount",
-      "title": "Sammy Rae & The Friends with special guest Melt",
+      "title": "Sammy Rae & The Friends - the GET DOWN!",
       "date": "2026-11-06T19:00:00",
       "date_raw": "2026-11-06T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-with-special-brooklyn-new-york-11-06-2026/event/0000643700A7F2C3",
+      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-the-get-brooklyn-new-york-11-06-2026/event/0000643700A7F2C3",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/179/ef41dd90-262b-4508-a1e2-47fb26e3c179_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
@@ -4415,6 +4563,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Disterbenz 'Icky Guy' Album Release",
+      "date": "2026-11-09T00:00:00",
+      "date_raw": "November 09, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/disterbenz-icky-guy-album-release/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/02/64/84_Original.jpg?v=6",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-09T00:00:00",
@@ -4432,6 +4590,16 @@
       "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-brooklyn-new-york-11-09-2026/event/000064F4C1072E4B",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/4da/8a560086-9fb3-4792-b8a1-f1ed67b054da_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-11-10T00:00:00",
+      "date_raw": "November 10, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-52/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
       "price": ""
     },
     {
@@ -4495,6 +4663,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Lucinda's NYC Welcomes KELSEY WALDON",
+      "date": "2026-11-12T00:00:00",
+      "date_raw": "November 12, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/lucindas-nyc-welcomes-kelsey-waldon/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/01/49/94_Original.jpg?v=6",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "That\u2019s Camp -2nd Thursdays-Burlesque in the Back Every Thursday",
       "date": "2026-11-12T00:00:00",
@@ -4532,6 +4710,16 @@
       "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-12-2026/event/0000645905AEDC0E",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-11-13T00:00:00",
+      "date_raw": "November 13, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-24/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -4705,6 +4893,16 @@
       "price": "$23"
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Rene Lopez",
+      "date": "2026-11-16T00:00:00",
+      "date_raw": "November 16, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/rene-lopez-3/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/60/05/03_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-16T00:00:00",
@@ -4722,6 +4920,16 @@
       "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-e6p3h-j2733-z9mlh",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-11-17T00:00:00",
+      "date_raw": "November 17, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-53/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
       "price": ""
     },
     {
@@ -4803,6 +5011,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-11-20T00:00:00",
+      "date_raw": "November 20, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-25/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
     },
     {
       "venue_name": "Freddy's",
@@ -4935,6 +5153,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-11-24T00:00:00",
+      "date_raw": "November 24, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-54/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Dark Room- Film Screening & Salon 4th Tuesdays",
       "date": "2026-11-24T00:00:00",
@@ -4985,6 +5213,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-11-27T00:00:00",
+      "date_raw": "November 27, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-26/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2026-11-29T01:00:00",
@@ -5005,6 +5243,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Laura Cantrell's States of Country and Creator Henry Horenstein's Honky Tonkin' Sponsored by the Rhode Island School of Design Alumni Associaton",
+      "date": "2026-11-30T00:00:00",
+      "date_raw": "November 30, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/laura-cantrells-states-of-country-and-creator-henry-horensteins-honky-tonkin-sponsored-by-the-rhode-island-school-of-design-alumni-associaton/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/00/47/94_Original.jpg?v=3",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-30T00:00:00",
@@ -5012,6 +5260,16 @@
       "url": "https://www.freddysbar.com/events/6mbrdync76ph6wn",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-12-01T00:00:00",
+      "date_raw": "December 01, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-55/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
       "price": ""
     },
     {
@@ -5042,6 +5300,16 @@
       "url": "https://tockify.com/sunnysmusic/detail/184/1796259600000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-12-04T00:00:00",
+      "date_raw": "December 04, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-27/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -5155,6 +5423,26 @@
       "price": "$22"
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Huxley Kuhlmann",
+      "date": "2026-12-07T00:00:00",
+      "date_raw": "December 07, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/huxley-kuhlmann-2/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/07/81/84_Original.jpg?v=3",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-12-08T00:00:00",
+      "date_raw": "December 08, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-56/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Big Joe's Happiness Exchange-Second Tuesdays monthly",
       "date": "2026-12-08T00:00:00",
@@ -5182,6 +5470,16 @@
       "url": "https://tockify.com/sunnysmusic/detail/184/1796864400000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-12-11T00:00:00",
+      "date_raw": "December 11, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-28/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -5245,6 +5543,16 @@
       "price": "$28"
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-12-15T00:00:00",
+      "date_raw": "December 15, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-57/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2026-12-16T23:30:00",
@@ -5262,6 +5570,16 @@
       "url": "https://tockify.com/sunnysmusic/detail/184/1797469200000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-12-18T00:00:00",
+      "date_raw": "December 18, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-29/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -5335,6 +5653,16 @@
       "price": ""
     },
     {
+      "venue_name": "Lucinda's",
+      "title": "Live Weekly Bluegrass with  Allison Kelly",
+      "date": "2026-12-22T00:00:00",
+      "date_raw": "December 22, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-weekly-bluegrass-with-allison-kelly-58/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/12/70/75/34_Original.jpg?v=8",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Dark Room- Film Screening & Salon 4th Tuesdays",
       "date": "2026-12-22T00:00:00",
@@ -5362,6 +5690,16 @@
       "url": "https://tockify.com/sunnysmusic/detail/184/1798074000000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Lucinda's",
+      "title": "Live Band Country Karaoke",
+      "date": "2026-12-25T00:00:00",
+      "date_raw": "December 25, 2026",
+      "url": "https://www.lucindasnyc.com/tm-event/live-band-country-karaoke-30/",
+      "description": "",
+      "image_url": "https://i.ticketweb.com/i/00/13/58/12/53_Original.jpg?v=5",
       "price": ""
     },
     {
@@ -5711,6 +6049,16 @@
       "date_raw": "2027-02-10T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-02-14T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1802566800000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
