@@ -1,33 +1,13 @@
 {
-  "scraped_at": "2026-10-10T17:30:39.410662+00:00",
+  "scraped_at": "2026-10-11T17:50:07.654246+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Burlesque in the Back Every Thursday!",
-      "date": "2026-09-24T00:00:00",
-      "date_raw": "Thursday, September 24, 2026",
-      "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-5-zmaaz",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Resolver",
       "date": "2026-09-25T00:00:00",
       "date_raw": "Friday, September 25, 2026",
       "url": "https://www.freddysbar.com/events/resolver",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "76 black drones",
-      "date": "2026-09-25T00:00:00",
-      "date_raw": "Friday, September 25, 2026",
-      "url": "https://www.freddysbar.com/events/76-black-drones",
       "description": "",
       "image_url": "",
       "price": ""
@@ -284,16 +264,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Private Event In the Backroom",
-      "date": "2026-10-10T00:00:00",
-      "date_raw": "Saturday, October 10, 2026",
-      "url": "https://www.freddysbar.com/events/private-event-in-the-backroom",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Undead Doctor Scott's October Opus",
       "date": "2026-10-10T00:00:00",
       "date_raw": "Saturday, October 10, 2026",
@@ -303,172 +273,12 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-10T14:00:00",
-      "date_raw": "Oct. 10, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34045-afternoon-jam-in-the-cafe/",
+      "venue_name": "Freddy's",
+      "title": "Private Event In the Backroom",
+      "date": "2026-10-10T00:00:00",
+      "date_raw": "Saturday, October 10, 2026",
+      "url": "https://www.freddysbar.com/events/private-event-in-the-backroom",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Marc Devine \u2014 Smalls",
-      "date": "2026-10-10T14:00:00",
-      "date_raw": "Oct. 10, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34038-smalls-afternoon-jam-session-hosted-by-marc-devine/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Champian Fulton Trio \u2014 Mezzrow",
-      "date": "2026-10-10T18:00:00",
-      "date_raw": "Oct. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33928-champian-fulton-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eddie Allen Quintet \u2014 Smalls",
-      "date": "2026-10-10T18:00:00",
-      "date_raw": "Oct. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33932-eddie-allen-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Vladimir Katz Trio",
-      "date": "2026-10-10T18:30:00",
-      "date_raw": "Saturday October 10th 06:30 PM",
-      "url": "",
-      "description": "Vladimir Katz (p)Boris Kozlov (b)Willie Bowman (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Peter Watrous Sextet",
-      "date": "2026-10-10T18:30:00",
-      "date_raw": "Saturday October 10th 06:30 PM",
-      "url": "",
-      "description": "Peter Watrous (g)Brent Lerman (saxophone)Jules Gardener (saxophone)Anthony Pearlman (p)Charlie Lincoln (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Kelela - new avatar live",
-      "date": "2026-10-10T19:00:00",
-      "date_raw": "2026-10-10T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/kelela-new-avatar-live-brooklyn-new-york-10-10-2026/event/000064BCA5E4D315",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/112/defbb126-0d29-44e6-9760-afc6b2941112_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Reed Quartet \u2014 Jazzcultural",
-      "date": "2026-10-10T19:00:00",
-      "date_raw": "Oct. 10, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33925-eric-reed-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday October 10th 8:30pm \u2022 The National Reserve!",
-      "date": "2026-10-10T20:30:00",
-      "date_raw": "Saturday October 10th 8:30pm \u2022 The National Reserve!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-october-10th-830pm-the-national-reserve/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Lamy Istrefi Trio",
-      "date": "2026-10-10T21:00:00",
-      "date_raw": "Saturday October 10th 09:00 PM",
-      "url": "",
-      "description": "Lamy Istrefi (d)Josh Evans (tp)Will Slater (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Victor Gould Trio \u2014 Mezzrow",
-      "date": "2026-10-10T21:00:00",
-      "date_raw": "Oct. 10, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33930-victor-gould-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Rick Savage Quintet \u2014 Smalls",
-      "date": "2026-10-10T21:00:00",
-      "date_raw": "Oct. 10, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33936-rick-savage-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "F\u00e9lix Lemerle Quartet",
-      "date": "2026-10-10T21:30:00",
-      "date_raw": "Saturday October 10th 09:30 PM",
-      "url": "",
-      "description": "F\u00e9lix Lemerle (g)Samuel Lerner (p)Jamale Davis (b)Fukushi Tainaka (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Johnny O'Neal Birthday Celebration! \u2014 Jazzcultural",
-      "date": "2026-10-10T22:30:00",
-      "date_raw": "Oct. 10, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34102-johnny-oneal-birthday-celebration/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano With William Hill III \u2014 Mezzrow",
-      "date": "2026-10-10T23:55:00",
-      "date_raw": "Oct. 10, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34127-round-midnight-solo-piano-with-william-hill-iii/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Anthony Wonsey Quintet \u2014 Smalls",
-      "date": "2026-10-10T23:55:00",
-      "date_raw": "Oct. 10, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34112-anthony-wonsey-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2026-10-11T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1791676800000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -1404,10 +1214,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Carlos Abadie Quintet \u2014 Jazzcultural",
+      "title": "Carlos Abadie\u2019s The Lat\u00edn Jazz Express \u2014 Jazzcultural",
       "date": "2026-10-16T22:30:00",
       "date_raw": "Oct. 16, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34105-carlos-abadie-quintet/",
+      "url": "https://www.smallslive.com/events/34105-carlos-abadies-the-latin-jazz-express/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1594,10 +1404,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Carlos Abadie Quintet \u2014 Jazzcultural",
+      "title": "Carlos Abadie\u2019s The Lat\u00edn Jazz Express \u2014 Jazzcultural",
       "date": "2026-10-17T22:30:00",
       "date_raw": "Oct. 17, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34106-carlos-abadie-quintet/",
+      "url": "https://www.smallslive.com/events/34106-carlos-abadies-the-latin-jazz-express/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1740,16 +1550,6 @@
       "url": "https://www.smallslive.com/events/33941-tyler-henderson-quintet/",
       "description": "",
       "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "JPEGMAFIA: the Experimental Rap Tour",
-      "date": "2026-10-18T18:30:00",
-      "date_raw": "2026-10-18T18:30:00-04:00",
-      "url": "https://www.ticketmaster.com/jpegmafia-the-experimental-rap-tour-brooklyn-new-york-10-18-2026/event/000064879A9F94A7",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/0ad/2715f828-d867-417d-a621-9226eeed80ad_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -4453,6 +4253,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "STING 3.0 Tour",
+      "date": "2026-11-21T19:00:00",
+      "date_raw": "2026-11-21T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-21-2026/event/00006459059ADBDD",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Fourth Sunday Traditional Irish Music Jam",
       "date": "2026-11-22T00:00:00",
@@ -4490,6 +4300,16 @@
       "url": "https://tockify.com/sunnysmusic/detail/277/1795309200000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "The Menzingers: Everything I Ever Saw North American Tour",
+      "date": "2026-11-22T18:00:00",
+      "date_raw": "2026-11-22T18:00:00-05:00",
+      "url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-brooklyn-new-york-11-22-2026/event/0000649CB44A761F",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/d22/4d7dc9f2-8fe5-4c7a-ac72-1dea31847d22_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -5379,6 +5199,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/277/1804381200000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Edith's Agnostic Gospel Jam",
+      "date": "2027-03-07T05:30:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/279/1804397400000",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
       "image_url": "",
       "price": ""
     },
@@ -6348,16 +6178,6 @@
       "date": null,
       "date_raw": "Thu, Oct 1, 202611:30\u202fPMFri, Oct 2, 202612:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-98yk9",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
-      "date": null,
-      "date_raw": "Thu, Sep 24, 202611:30\u202fPMFri, Sep 25, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-jxe2w",
       "description": "",
       "image_url": "",
       "price": ""
