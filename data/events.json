@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-10-11T17:50:07.654246+00:00",
+  "scraped_at": "2026-10-12T21:26:55.939120+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Resolver",
-      "date": "2026-09-25T00:00:00",
-      "date_raw": "Friday, September 25, 2026",
-      "url": "https://www.freddysbar.com/events/resolver",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Teleraj - Ambient Country/Improv Duo",
@@ -38,16 +28,6 @@
       "date": "2026-09-26T00:00:00",
       "date_raw": "Saturday, September 26, 2026",
       "url": "https://www.freddysbar.com/events/supper-in-ft-lauderdale-withe-edith-pierre-every-4th-saturdays-d9bpg",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "BARCHIVES-book signing",
-      "date": "2026-09-26T00:00:00",
-      "date_raw": "Saturday, September 26, 2026",
-      "url": "https://www.freddysbar.com/events/barchives",
       "description": "",
       "image_url": "",
       "price": ""
@@ -284,16 +264,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Private Party",
-      "date": "2026-10-11T00:00:00",
-      "date_raw": "Sunday, October 11, 2026",
-      "url": "https://www.freddysbar.com/events/j66thm9436tn2mfp2skey7k8azas87",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Martin Monster Presents...Second Sunday Series",
       "date": "2026-10-11T00:00:00",
       "date_raw": "Sunday, October 11, 2026",
@@ -303,172 +273,12 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Vocalist Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-11T14:00:00",
-      "date_raw": "Oct. 11, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34060-vocalist-jam-in-the-cafe/",
+      "venue_name": "Freddy's",
+      "title": "Private Party",
+      "date": "2026-10-11T00:00:00",
+      "date_raw": "Sunday, October 11, 2026",
+      "url": "https://www.freddysbar.com/events/j66thm9436tn2mfp2skey7k8azas87",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki \u2014 Smalls",
-      "date": "2026-10-11T14:00:00",
-      "date_raw": "Oct. 11, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34032-smalls-afternoon-jam-session-hosted-by-ryo-sasaki/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Sunday October 11th 6:00pm \u2022 Blues & Americana with Jason Green!",
-      "date": "2026-10-11T18:00:00",
-      "date_raw": "Sunday October 11th 6:00pm \u2022 Blues & Americana with Jason Green!",
-      "url": "https://www.fredsdoghouse.com/event/wednesday-august-27th-blues-americana-with-jason-green/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "A Night of Heated Rivalry: A Celebration with Jacob Tierney",
-      "date": "2026-10-11T18:00:00",
-      "date_raw": "2026-10-11T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/a-night-of-heated-rivalry-a-brooklyn-new-york-10-11-2026/event/0000651F04A22E45",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/618/0d63bae6-0b6d-4d5a-bdc8-ee41098d5618_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Arianna Neikrug Trio \u2014 Mezzrow",
-      "date": "2026-10-11T18:00:00",
-      "date_raw": "Oct. 11, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34029-arianna-neikrug-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Brad Linde New Quartet \u2014 Smalls",
-      "date": "2026-10-11T18:00:00",
-      "date_raw": "Oct. 11, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33934-brad-linde-new-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "George Braith Trio",
-      "date": "2026-10-11T18:30:00",
-      "date_raw": "Sunday October 11th 06:30 PM",
-      "url": "",
-      "description": "George Braith (braithophone)Ben Meigners (b)Brother Ruckus (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Peter Brendler Quartet Album Release Show",
-      "date": "2026-10-11T18:30:00",
-      "date_raw": "Sunday October 11th 06:30 PM",
-      "url": "",
-      "description": "Peter Brendler (b)Jon Irabagon (ts)Zach Lapidus (p)Connor Parks (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Reed Quartet \u2014 Jazzcultural",
-      "date": "2026-10-11T19:00:00",
-      "date_raw": "Oct. 11, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33926-eric-reed-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Michael Daves Open Bluegrass Jam",
-      "date": "2026-10-11T20:00:00",
-      "date_raw": "2026-10-11T20:00:00.000Z",
-      "url": "https://www.viewcy.com/event/michael_daves_open_bl_5",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Grant Stewart Quartet",
-      "date": "2026-10-11T21:00:00",
-      "date_raw": "Sunday October 11th 09:00 PM",
-      "url": "",
-      "description": "Grant Stewart (ts)Tardo Hammer (p)Miles Wick (b)Phil Stewart (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Lucy Wijnands Quartet \u2014 Mezzrow",
-      "date": "2026-10-11T21:00:00",
-      "date_raw": "Oct. 11, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34030-lucy-wijnands-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Charles Owens Quartet \u2014 Smalls",
-      "date": "2026-10-11T21:00:00",
-      "date_raw": "Oct. 11, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34004-charles-owens-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Stan Killian Trio",
-      "date": "2026-10-11T21:30:00",
-      "date_raw": "Sunday October 11th 09:30 PM",
-      "url": "",
-      "description": "Stan Killian (ts)Boris Kozlov (b)EJ Strickland (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-11T22:00:00",
-      "date_raw": "Oct. 11, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/34076-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jeff McGregor Quartet \u2014 Smalls",
-      "date": "2026-10-11T23:55:00",
-      "date_raw": "Oct. 11, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34122-jeff-mcgregor-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Ken and Friends Birthday Show ft Sarah King, Emeline O'Rourke, and Aidan O'Donnell",
-      "date": "2026-10-12T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/280/1791763200000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
       "image_url": "",
       "price": ""
     },
@@ -481,16 +291,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Michael Daves & Andy Falco",
-      "date": "2026-10-12T00:00:00",
-      "date_raw": "2026-10-12T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/michael_daves__andy",
-      "description": "",
-      "image_url": "",
-      "price": "$28"
     },
     {
       "venue_name": "Smalls Live",
@@ -1003,6 +803,26 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Carlos Abadie Trio",
+      "date": "2026-10-15T18:30:00",
+      "date_raw": "Thursday October 15th 06:30 PM",
+      "url": "",
+      "description": "Carlos Abadie (tp)Isaac Byrd (p)Ahmed McLemore (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Justin Salisbury Trio",
+      "date": "2026-10-15T18:30:00",
+      "date_raw": "Thursday October 15th 06:30 PM",
+      "url": "",
+      "description": "Justin Salisbury (p)Charlie Lincoln (b)Angus Mason (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Tim Armacost Quintet \u2014 Jazzcultural",
       "date": "2026-10-15T19:00:00",
@@ -1179,6 +999,16 @@
       "date_raw": "Oct. 16, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/33965-mike-rodriguez-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Charlie Sigler Trio",
+      "date": "2026-10-16T21:00:00",
+      "date_raw": "Friday October 16th 09:00 PM",
+      "url": "",
+      "description": "Charlie Sigler (g)Vincent Dupont (b)Aaron Seeber(d)",
       "image_url": "",
       "price": ""
     },
@@ -3553,6 +3383,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Master\u2019s Hours",
+      "date": "2026-11-03T18:30:00",
+      "date_raw": "Tuesday November 3rd 06:30 PM",
+      "url": "",
+      "description": "Samara Joy (v)Adam Birnbaum (p)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Yebba",
       "date": "2026-11-03T19:00:00",
@@ -3983,6 +3823,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Fran\u00e7ois Moutin Trio",
+      "date": "2026-11-14T21:00:00",
+      "date_raw": "Saturday November 14th 09:00 PM",
+      "url": "",
+      "description": "Fran\u00e7ois Moutin (b)Jim Ridl (p)Ben Perowsky (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday-Music, Comedy, & Poetry Welcome",
       "date": "2026-11-15T00:00:00",
@@ -4343,6 +4193,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Tylil's Friendsgiving Fest",
+      "date": "2026-11-24T19:00:00",
+      "date_raw": "2026-11-24T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/tylils-friendsgiving-fest-brooklyn-new-york-11-24-2026/event/00006548F2A3F24C",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/c/8e8/89409e3a-57d3-450d-be32-d5ab4a7538e8_106501_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-25T00:00:00",
@@ -4571,6 +4431,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jay Bragg Presents: Christmas in New Vaudeville",
+      "date": "2026-12-08T00:30:00",
+      "date_raw": "2026-12-08T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jay_braggs_christma",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Jalopy Theatre",
@@ -5219,6 +5089,26 @@
       "date_raw": "2027-03-10T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Stash Wyslouch",
+      "date": "2027-03-12T01:30:00",
+      "date_raw": "2027-03-12T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/stash_wyslouch_2",
+      "description": "",
+      "image_url": "",
+      "price": "$28"
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-03-14T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1804986000000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -6028,16 +5918,6 @@
       "date": "2028-09-06T22:30:00",
       "date_raw": "2028-09-06T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Sunday October 11th 2-5:00pm Bloody Mary, Rhythm & Blues Brunch 2-5:00pm \u2022 With Moses Patrou!",
-      "date": null,
-      "date_raw": "Sunday October 11th 2-5:00pm Bloody Mary, Rhythm & Blues Brunch 2-5:00pm \u2022 With Moses Patrou!",
-      "url": "https://www.fredsdoghouse.com/event/bloody-mary-rhythm-blues-brunch-2-500pm-with-moses-patrou/",
       "description": "",
       "image_url": "",
       "price": ""
