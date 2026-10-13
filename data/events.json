@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-12T21:26:55.939120+00:00",
+  "scraped_at": "2026-10-13T19:35:48.333810+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -18,16 +18,6 @@
       "date": "2026-09-26T00:00:00",
       "date_raw": "Saturday, September 26, 2026",
       "url": "https://www.freddysbar.com/events/the-hellhounds",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Bad Movie Night",
-      "date": "2026-09-26T00:00:00",
-      "date_raw": "Saturday, September 26, 2026",
-      "url": "https://www.freddysbar.com/events/supper-in-ft-lauderdale-withe-edith-pierre-every-4th-saturdays-d9bpg",
       "description": "",
       "image_url": "",
       "price": ""
@@ -293,136 +283,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-12T14:00:00",
-      "date_raw": "Oct. 12, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34064-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jeremy Manasia Trio \u2014 Mezzrow",
-      "date": "2026-10-12T18:00:00",
-      "date_raw": "Oct. 12, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34128-jeremy-manasia-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eliot Zigmund Quintet \u2014 Smalls",
-      "date": "2026-10-12T18:00:00",
-      "date_raw": "Oct. 12, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34130-eliot-zigmund-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Roy Ben Bashat Trio",
-      "date": "2026-10-12T18:30:00",
-      "date_raw": "Monday October 12th 06:30 PM",
-      "url": "",
-      "description": "Roy Ben Bashat (g)Cole Davis (b)Alon Benjamini (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Modern Jazz Leaders Series",
-      "date": "2026-10-12T18:30:00",
-      "date_raw": "Monday October 12th 06:30 PM",
-      "url": "",
-      "description": "Tatiana Caraccia (p)Ahmed McLemore (b)Pete Van Nostrand (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Benny Benack Quintet \u2014 Jazzcultural",
-      "date": "2026-10-12T19:00:00",
-      "date_raw": "Oct. 12, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33962-benny-benack-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Thomas Linger Trio",
-      "date": "2026-10-12T21:00:00",
-      "date_raw": "Monday October 12th 09:00 PM",
-      "url": "",
-      "description": "Thomas Linger (p)Leighton Harrell (b)Pete Van Nostrand (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Pasquale Grasso Trio \u2014 Mezzrow",
-      "date": "2026-10-12T21:00:00",
-      "date_raw": "Oct. 12, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34129-pasquale-grasso-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mike Ledonne Quartet \u2014 Smalls",
-      "date": "2026-10-12T21:00:00",
-      "date_raw": "Oct. 12, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34131-mike-ledonne-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Jazz Leaders Series",
-      "date": "2026-10-12T21:30:00",
-      "date_raw": "Monday October 12th 09:30 PM",
-      "url": "",
-      "description": "Noa Lee Chait (v)Greg Ruggiero (g)Pablo Menares (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-12T22:00:00",
-      "date_raw": "Oct. 12, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/34072-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-10-12T23:30:00",
-      "date_raw": "Oct. 12, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34163-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Mike Boone \u2014 Smalls",
-      "date": "2026-10-12T23:45:00",
-      "date_raw": "Oct. 12, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/34079-jam-session-hosted-by-mike-boone/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Big Joe's Happiness Exchange",
       "date": "2026-10-13T00:00:00",
@@ -469,6 +329,16 @@
       "date_raw": "Tuesday October 13th 06:30 PM",
       "url": "",
       "description": "Yotam Ben-Or (harmonica)Gabriel Chakarji (p)Dan Montgomery (b)Alon Benjamini (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ornithology Big Band",
+      "date": "2026-10-13T18:30:00",
+      "date_raw": "Tuesday October 13th 06:30 PM",
+      "url": "",
+      "description": "Giuseppe Cucchiara (b)Nicola Caminiti (as)David Suleiman (ts)Saul Dautch (baritone saxophone)Dennis Baciuc (tp)Daniel Sky (tp)Gaspard Moglia (trombone)Jack Kotze\u00a0(trombone)Abe Gold (p)Andrea Niccolai (d)",
       "image_url": "",
       "price": ""
     },
@@ -1944,10 +1814,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Tim Ries Quartet \u2014 Smalls",
+      "title": "Tim Ries Trio \u2014 Smalls",
       "date": "2026-10-22T21:00:00",
       "date_raw": "Oct. 22, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33977-tim-ries-quartet/",
+      "url": "https://www.smallslive.com/events/33977-tim-ries-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2108,6 +1978,16 @@
       "date": "2026-10-23T23:55:00",
       "date_raw": "Oct. 23, 2026 11:55 PM",
       "url": "https://www.smallslive.com/events/34143-round-midnight-solo-piano-with-janice-friedman/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Late Night Jam Session \u2014 Smalls",
+      "date": "2026-10-23T23:55:00",
+      "date_raw": "Oct. 23, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/34493-late-night-jam-session/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4358,16 +4238,6 @@
       "date": "2026-12-05T00:00:00",
       "date_raw": "Saturday, December 5, 2026",
       "url": "https://www.freddysbar.com/events/long-gone-west",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Eli Allen",
-      "date": "2026-12-05T00:00:00",
-      "date_raw": "Saturday, December 5, 2026",
-      "url": "https://www.freddysbar.com/events/eli-allen",
       "description": "",
       "image_url": "",
       "price": ""
