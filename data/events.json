@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-10-14T17:39:27.906532+00:00",
+  "scraped_at": "2026-10-15T17:26:01.570457+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Teleraj - Ambient Country/Improv Duo",
-      "date": "2026-09-26T00:00:00",
-      "date_raw": "Saturday, September 26, 2026",
-      "url": "https://www.freddysbar.com/events/teleraj-ambient-countryimprov-duo",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
@@ -28,16 +18,6 @@
       "date": "2026-09-27T00:00:00",
       "date_raw": "Sunday, September 27, 2026",
       "url": "https://www.freddysbar.com/events/eagle-colt-combo-1-d7mxp",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Fourth Sunday Traditional Irish Music Jam",
-      "date": "2026-09-27T00:00:00",
-      "date_raw": "Sunday, September 27, 2026",
-      "url": "https://www.freddysbar.com/events/fourth-sunday-traditional-irish-music-jam-p9ryf",
       "description": "",
       "image_url": "",
       "price": ""
@@ -284,16 +264,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-10-14T00:00:00",
-      "date_raw": "Wednesday, October 14, 2026",
-      "url": "https://www.freddysbar.com/events/839npb9akfm8p32",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Bootleg Karaoke -2nd Wednesdays!",
       "date": "2026-10-14T00:00:00",
       "date_raw": "Wednesday, October 14, 2026",
@@ -303,172 +273,12 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-14T14:00:00",
-      "date_raw": "Oct. 14, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34098-afternoon-jam-in-the-cafe/",
+      "venue_name": "Freddy's",
+      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "date": "2026-10-14T00:00:00",
+      "date_raw": "Wednesday, October 14, 2026",
+      "url": "https://www.freddysbar.com/events/839npb9akfm8p32",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "David Lopato Trio \u2014 Mezzrow",
-      "date": "2026-10-14T18:00:00",
-      "date_raw": "Oct. 14, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33954-david-lopato-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Alexandre Kautz Quartet \u2014 Smalls",
-      "date": "2026-10-14T18:00:00",
-      "date_raw": "Oct. 14, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33956-alexandre-kautz-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Master's Hours",
-      "date": "2026-10-14T18:30:00",
-      "date_raw": "Wednesday October 14th 06:30 PM",
-      "url": "",
-      "description": "Bertha Hope (p)Kim Clarke (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Silvan Joray Quintet",
-      "date": "2026-10-14T18:30:00",
-      "date_raw": "Wednesday October 14th 06:30 PM",
-      "url": "",
-      "description": "Silvan Joray (g)Roni Eytan (harmonica)Julian Shore (p)Thomas Morgan (b)Jonas Esser (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Sylvan Esso",
-      "date": "2026-10-14T19:00:00",
-      "date_raw": "2026-10-14T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/sylvan-esso-brooklyn-new-york-10-14-2026/event/000064C5B8594A98",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/676/983a21d6-933e-4fb7-9f83-7d73c6e16676_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dave Stryker Trio \u2014 Jazzcultural",
-      "date": "2026-10-14T19:00:00",
-      "date_raw": "Oct. 14, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33964-dave-stryker-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Wednesday October 14th 8:30pm \u2022\u00a0Blues and Americana with Fatboy Wilson!",
-      "date": "2026-10-14T20:30:00",
-      "date_raw": "Wednesday October 14th 8:30pm \u2022\u00a0Blues and Americana with Fatboy Wilson!",
-      "url": "https://www.fredsdoghouse.com/event/blues-and-america-with-samoa-wilson/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ilya Lushtak Quartet",
-      "date": "2026-10-14T21:00:00",
-      "date_raw": "Wednesday October 14th 09:00 PM",
-      "url": "",
-      "description": "Ilya Lushtak (g)Asaf Yuria (ts)Russell Hall (b)Josh Davis (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Greg Murphy Trio \u2014 Mezzrow",
-      "date": "2026-10-14T21:00:00",
-      "date_raw": "Oct. 14, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33955-greg-murphy-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Larratt/Stephens Quartet \u2014 Smalls",
-      "date": "2026-10-14T21:00:00",
-      "date_raw": "Oct. 14, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33957-larrattstephens-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jon Roche Trio",
-      "date": "2026-10-14T21:30:00",
-      "date_raw": "Wednesday October 14th 09:30 PM",
-      "url": "",
-      "description": "Jon Roche (b)Ray Macchiarola (g)Keith Balla (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Organ After Hours: Nick Hempton \u2014 Jazzcultural",
-      "date": "2026-10-14T22:00:00",
-      "date_raw": "Oct. 14, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/34182-organ-after-hours-nick-hempton/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
-      "date": "2026-10-14T22:30:00",
-      "date_raw": "2026-10-14T22:30:00.000Z",
-      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-10-14T23:30:00",
-      "date_raw": "Oct. 14, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34165-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
-      "date": "2026-10-14T23:45:00",
-      "date_raw": "Oct. 14, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/34088-jam-session-hosted-by-carlos-abadie/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Smokey's Roundup",
-      "date": "2026-10-15T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/184/1792022400000",
-      "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
       "price": ""
     },
@@ -1634,10 +1444,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Adi Meyerson Quartet \u2014 Smalls",
+      "title": "Adi Meyerson & Dark Matter Quartet \u2014 Smalls",
       "date": "2026-10-22T18:00:00",
       "date_raw": "Oct. 22, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33978-adi-meyerson-quartet/",
+      "url": "https://www.smallslive.com/events/33978-adi-meyerson-dark-matter-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1874,10 +1684,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Late Night Jam Session \u2014 Smalls",
+      "title": "Ken Fowser Quartet \u2014 Smalls",
       "date": "2026-10-23T23:55:00",
       "date_raw": "Oct. 23, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34493-late-night-jam-session/",
+      "url": "https://www.smallslive.com/events/34493-ken-fowser-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4053,6 +3863,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Aitana",
+      "date": "2026-11-27T19:00:00",
+      "date_raw": "2026-11-27T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/aitana-brooklyn-new-york-11-27-2026/event/0000644BC2C8B22A",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/331/c9f9bfde-3bdf-430d-bd2f-8fac6be22331_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "LoveTrane presents the works of John Coltrane",
       "date": "2026-11-28T00:00:00",
@@ -4744,6 +4564,16 @@
     },
     {
       "venue_name": "Jalopy Theatre",
+      "title": "The Cody Sisters",
+      "date": "2027-01-17T01:30:00",
+      "date_raw": "2027-01-17T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/the_cody_sisters",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-01-20T23:30:00",
       "date_raw": "2027-01-20T23:30:00.000Z",
@@ -5029,6 +4859,16 @@
       "date_raw": "2027-03-24T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-03-28T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1806192000000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -5817,6 +5657,16 @@
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2028-09-06T22:30:00",
       "date_raw": "2028-09-06T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-09-13T22:30:00",
+      "date_raw": "2028-09-13T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
