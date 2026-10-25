@@ -1,33 +1,13 @@
 {
-  "scraped_at": "2026-10-24T16:19:36.049149+00:00",
+  "scraped_at": "2026-10-25T16:53:25.921206+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Holman Alvarez\u2019s Plaxticity",
-      "date": "2026-10-09T00:00:00",
-      "date_raw": "Friday, October 9, 2026",
-      "url": "https://www.freddysbar.com/events/holman-alvarezs-plaxticity",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Undead Doctor Scott's October Opus",
       "date": "2026-10-10T00:00:00",
       "date_raw": "Saturday, October 10, 2026",
       "url": "https://www.freddysbar.com/events/undead-doctor-scotts-october-opus",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Private Event In the Backroom",
-      "date": "2026-10-10T00:00:00",
-      "date_raw": "Saturday, October 10, 2026",
-      "url": "https://www.freddysbar.com/events/private-event-in-the-backroom",
       "description": "",
       "image_url": "",
       "price": ""
@@ -284,16 +264,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Bad Movie Night with Adam",
-      "date": "2026-10-24T00:00:00",
-      "date_raw": "Saturday, October 24, 2026",
-      "url": "https://www.freddysbar.com/events/bad-movie-night-with-adam",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Brooklyn Guitar School Student Showcase",
       "date": "2026-10-24T00:00:00",
       "date_raw": "Saturday, October 24, 2026",
@@ -303,151 +273,11 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-24T14:00:00",
-      "date_raw": "Oct. 24, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34047-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Tyler Mitchell Quartet \u2014 Smalls",
-      "date": "2026-10-24T14:00:00",
-      "date_raw": "Oct. 24, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34042-smalls-afternoon-jam-session-hosted-by-tyler-mitchell-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Paula West Quartet \u2014 Mezzrow",
-      "date": "2026-10-24T18:00:00",
-      "date_raw": "Oct. 24, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33943-paula-west-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Brandon Lee Lewis Quintet \u2014 Smalls",
-      "date": "2026-10-24T18:00:00",
-      "date_raw": "Oct. 24, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33947-brandon-lee-lewis-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Peter Watrous Sextet",
-      "date": "2026-10-24T18:30:00",
-      "date_raw": "Saturday October 24th 06:30 PM",
-      "url": "",
-      "description": "Peter Watrous (g)Brent Lerman (saxophone)Matt Knoegel\u00a0(saxophone)Anthony Pearlman (p)Charlie Lincoln (b)Angus Mason (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "TINASHE - ONE NIGHT WITH A POPSTAR",
-      "date": "2026-10-24T19:00:00",
-      "date_raw": "2026-10-24T19:00:00-04:00",
-      "url": "https://www.ticketmaster.com/tinashe-one-night-with-a-popstar-brooklyn-new-york-10-24-2026/event/000064F4F879F85D",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/432/d97c1a95-e4ff-43dd-abfc-da4735be1432_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jeff \"Tain\" Watts Quartet \u2014 Jazzcultural",
-      "date": "2026-10-24T19:00:00",
-      "date_raw": "Oct. 24, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33994-jeff-tain-watts-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Cubeye6",
-      "date": "2026-10-24T21:00:00",
-      "date_raw": "Saturday October 24th 09:00 PM",
-      "url": "",
-      "description": "Dave Schumacher (baritone saxophone)Diego Hedez (tp)Manuel Valera (p)Raul Reyes (b)Yusnier Sanchez (congas)Joel Mateo (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Richard Johnson Trio \u2014 Mezzrow",
-      "date": "2026-10-24T21:00:00",
-      "date_raw": "Oct. 24, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33945-richard-johnson-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Randy Johnston Quartet \u2014 Smalls",
-      "date": "2026-10-24T21:00:00",
-      "date_raw": "Oct. 24, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33949-randy-johnston-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Alex \u201cApolo\u201d Ayala Trio",
-      "date": "2026-10-24T21:30:00",
-      "date_raw": "Saturday October 24th 09:30 PM",
-      "url": "",
-      "description": "Alex \u201cApolo\u201d Ayala (b)Matt Estabrook (saxophone)Julian Miltenberger (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday October 24th 9:30pm \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
-      "date": "2026-10-24T21:30:00",
-      "date_raw": "Saturday October 24th 9:30pm \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
-      "url": "https://www.fredsdoghouse.com/event/friday-october-3rd-delta-swamp-blues-with-the-cannibal-ramblers/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Jazzcultural",
-      "date": "2026-10-24T22:30:00",
-      "date_raw": "Oct. 24, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34192-eric-wyatt-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano With Janice Friedman \u2014 Mezzrow",
-      "date": "2026-10-24T23:55:00",
-      "date_raw": "Oct. 24, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34144-round-midnight-solo-piano-with-janice-friedman/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Chris Beck Quartet \u2014 Smalls",
-      "date": "2026-10-24T23:55:00",
-      "date_raw": "Oct. 24, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34115-chris-beck-quartet/",
+      "venue_name": "Freddy's",
+      "title": "Bad Movie Night with Adam",
+      "date": "2026-10-24T00:00:00",
+      "date_raw": "Saturday, October 24, 2026",
+      "url": "https://www.freddysbar.com/events/bad-movie-night-with-adam",
       "description": "",
       "image_url": "",
       "price": ""
@@ -469,16 +299,6 @@
       "date_raw": "Sunday October 25th \u2022 Blues with Bobby Bryan!",
       "url": "https://www.fredsdoghouse.com/event/sunday-april-19th-blues-with-bobby-bryan-copy/",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2026-10-25T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1792886400000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -511,16 +331,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Leah Tash 'This Town Has Changed' EP Release / Pearla",
-      "date": "2026-10-25T00:30:00",
-      "date_raw": "2026-10-25T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/leah_tash_this_town",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -649,6 +459,16 @@
       "date_raw": "Oct. 25, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34184-ben-solomon-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Inbar Paz Trio",
+      "date": "2026-10-25T21:30:00",
+      "date_raw": "Sunday October 25th 09:30 PM",
+      "url": "",
+      "description": "Inbar Paz (b)Eden Ladin (p)Ofri Nehemya (d)",
       "image_url": "",
       "price": ""
     },
@@ -1444,7 +1264,7 @@
     },
     {
       "venue_name": "Ornithology Jazz Club",
-      "title": "Frank Basile Quintet",
+      "title": "Boss Baritone",
       "date": "2026-10-30T21:00:00",
       "date_raw": "Friday October 30th 09:00 PM",
       "url": "",
@@ -5783,6 +5603,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Tinlicker North America 2026",
+      "date": "2026-12-11T19:00:00",
+      "date_raw": "2026-12-11T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/tinlicker-north-america-2026-brooklyn-new-york-12-11-2026/event/0000648EF21B20B3",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/77b/821ec84d-bc67-4d02-a389-a81da25b177b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Donald Edwards Quintet \u2014 Jazzcultural",
       "date": "2026-12-11T19:00:00",
@@ -6969,6 +6799,16 @@
       "date_raw": "2027-05-12T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-05-16T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1810425600000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
