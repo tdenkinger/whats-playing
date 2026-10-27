@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-10-26T18:54:51.152150+00:00",
+  "scraped_at": "2026-10-27T18:26:15.251046+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-10-12T00:00:00",
-      "date_raw": "Monday, October 12, 2026",
-      "url": "https://www.freddysbar.com/events/lnd5nw7gfm73fa3-ay47y-fbhfp",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Big Joe's Happiness Exchange",
@@ -293,136 +283,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-26T14:00:00",
-      "date_raw": "Oct. 26, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34066-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Alan Broadbent Trio \u2014 Mezzrow",
-      "date": "2026-10-26T18:00:00",
-      "date_raw": "Oct. 26, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34147-alan-broadbent-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Robby Ameen Quintet \u2014 Smalls",
-      "date": "2026-10-26T18:00:00",
-      "date_raw": "Oct. 26, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34013-robby-ameen-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Colson Jimenez Quartet",
-      "date": "2026-10-26T18:30:00",
-      "date_raw": "Monday October 26th 06:30 PM",
-      "url": "",
-      "description": "Colson Jimenez (b)Diego Hedez (tp)Jonathan Paik (p)Kayvon Gordon (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Modern Jazz Leaders Series",
-      "date": "2026-10-26T18:30:00",
-      "date_raw": "Monday October 26th 06:30 PM",
-      "url": "",
-      "description": "Miles Mindlin (g)Mark Shim (ts)Simo\u0301n Willson (b)Miguel Marcel Russell (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ari Hoenig Quartet \u2014 Jazzcultural",
-      "date": "2026-10-26T19:00:00",
-      "date_raw": "Oct. 26, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/33996-ari-hoenig-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Dan Aran Quartet",
-      "date": "2026-10-26T21:00:00",
-      "date_raw": "Monday October 26th 09:00 PM",
-      "url": "",
-      "description": "Dan Aran (d)Jay Rattman (saxophone)Jack Glottman (p)Dave Baron (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Pasquale Grasso Trio \u2014 Mezzrow",
-      "date": "2026-10-26T21:00:00",
-      "date_raw": "Oct. 26, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34148-pasquale-grasso-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mike DiRubbo Quartet \u2014 Smalls",
-      "date": "2026-10-26T21:00:00",
-      "date_raw": "Oct. 26, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33979-mike-dirubbo-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Modern Jazz Leaders Series",
-      "date": "2026-10-26T21:30:00",
-      "date_raw": "Monday October 26th 09:30 PM",
-      "url": "",
-      "description": "Ian Cleaver (tp)William Hill III (p)Caleb Tobocman (b)Willie Bowman (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-26T22:00:00",
-      "date_raw": "Oct. 26, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/34074-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-10-26T23:30:00",
-      "date_raw": "Oct. 26, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34171-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Mike Boone Quintet \u2014 Smalls",
-      "date": "2026-10-26T23:45:00",
-      "date_raw": "Oct. 26, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/34080-jam-session-hosted-by-mike-boone-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Dark Room- Film Screening & Salon 4th Tuesdays",
       "date": "2026-10-27T00:00:00",
@@ -468,7 +328,7 @@
       "date": "2026-10-27T18:30:00",
       "date_raw": "Tuesday October 27th 06:30 PM",
       "url": "",
-      "description": "Sean Hong Wei (ts)TBA (b)Adam Arruda (d)",
+      "description": "Sean Hong Wei (ts)Adam Olszewski (b)Adam Arruda (d)",
       "image_url": "",
       "price": ""
     },
@@ -1114,16 +974,6 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Jill McCarron \u2014 Mezzrow",
-      "date": "2026-10-30T23:55:00",
-      "date_raw": "Oct. 30, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34185-round-midnight-solo-piano-with-jill-mccarron/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
       "title": "Round Midnight Solo Piano with Raphael D'Lugoff \u2014 Mezzrow",
       "date": "2026-10-30T23:55:00",
       "date_raw": "Oct. 30, 2026 11:55 PM",
@@ -1284,16 +1134,6 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Jill McCarron \u2014 Mezzrow",
-      "date": "2026-10-31T23:55:00",
-      "date_raw": "Oct. 31, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34186-round-midnight-solo-piano-with-jill-mccarron/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
       "title": "Round Midnight Solo Piano with Raphael D'Lugoff \u2014 Mezzrow",
       "date": "2026-10-31T23:55:00",
       "date_raw": "Oct. 31, 2026 11:55 PM",
@@ -1369,6 +1209,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/279/1793507400000",
       "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Vocal Open Mic Hosted By Noa Chait \u2014 Jazzcultural",
+      "date": "2026-11-01T14:00:00",
+      "date_raw": "Nov. 1, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34716-vocal-open-mic-hosted-by-noa-chait/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -1464,6 +1314,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-01T22:00:00",
+      "date_raw": "Nov. 1, 2026 10:00 PM",
+      "url": "https://www.smallslive.com/events/34686-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Aaron Johnson Sextet \u2014 Smalls",
       "date": "2026-11-01T23:55:00",
       "date_raw": "Nov. 1, 2026 11:55 PM",
@@ -1478,6 +1338,16 @@
       "date": "2026-11-02T00:00:00",
       "date_raw": "Monday, November 2, 2026",
       "url": "https://www.freddysbar.com/events/3f6zndalndkrett",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-02T16:00:00",
+      "date_raw": "Nov. 2, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34691-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1568,6 +1438,16 @@
       "date": "2026-11-03T00:00:00",
       "date_raw": "Tuesday, November 3, 2026",
       "url": "https://www.freddysbar.com/events/pizza-mermaids-aquarium-of-friendship-wxs99",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-03T16:00:00",
+      "date_raw": "Nov. 3, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34692-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1668,6 +1548,16 @@
       "date": "2026-11-04T00:00:00",
       "date_raw": "Wednesday, November 4, 2026",
       "url": "https://www.freddysbar.com/events/new-material-night-comedy-show-1st-wednesdays-d4ph8",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-04T16:00:00",
+      "date_raw": "Nov. 4, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34693-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1798,6 +1688,16 @@
       "date": "2026-11-05T01:30:00",
       "date_raw": "2026-11-05T01:30:00.000Z",
       "url": "https://www.viewcy.com/event/roots_n_ruckus_nove_2",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-05T14:00:00",
+      "date_raw": "Nov. 5, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34704-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1944,6 +1844,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-06T14:00:00",
+      "date_raw": "Nov. 6, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34705-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Rick Germanson Trio \u2014 Mezzrow",
       "date": "2026-11-06T18:00:00",
       "date_raw": "Nov. 6, 2026 6:00 PM",
@@ -1974,10 +1884,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Lage Lund Trio \u2014 Jazzcultural",
+      "title": "Lage Lund Quartet \u2014 Jazzcultural",
       "date": "2026-11-06T19:00:00",
       "date_raw": "Nov. 6, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34209-lage-lund-trio/",
+      "url": "https://www.smallslive.com/events/34209-lage-lund-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2064,6 +1974,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-07T14:00:00",
+      "date_raw": "Nov. 7, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34706-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Smalls Afternoon Jam Session Hosted by David Sandman \u2014 Smalls",
       "date": "2026-11-07T14:00:00",
       "date_raw": "Nov. 7, 2026 2:00 PM",
@@ -2104,10 +2024,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Lage Lund Quartet \u2014 Jazzcultural",
+      "title": "Lage Lund Trio \u2014 Jazzcultural",
       "date": "2026-11-07T19:00:00",
       "date_raw": "Nov. 7, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34211-lage-lund-quartet/",
+      "url": "https://www.smallslive.com/events/34211-lage-lund-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2204,6 +2124,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Vocal Open Mic Hosted By Noa Chait \u2014 Jazzcultural",
+      "date": "2026-11-08T14:00:00",
+      "date_raw": "Nov. 8, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34717-vocal-open-mic-hosted-by-noa-chait/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki Quartet \u2014 Smalls",
       "date": "2026-11-08T14:00:00",
       "date_raw": "Nov. 8, 2026 2:00 PM",
@@ -2274,6 +2204,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-08T22:00:00",
+      "date_raw": "Nov. 8, 2026 10:00 PM",
+      "url": "https://www.smallslive.com/events/34687-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Panas Athanatos Quartet \u2014 Smalls",
       "date": "2026-11-08T23:55:00",
       "date_raw": "Nov. 8, 2026 11:55 PM",
@@ -2288,6 +2228,16 @@
       "date": "2026-11-09T00:00:00",
       "date_raw": "Monday, November 9, 2026",
       "url": "https://www.freddysbar.com/events/6ebr56pndmhm9ej",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-09T16:00:00",
+      "date_raw": "Nov. 9, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34694-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2378,6 +2328,16 @@
       "date": "2026-11-10T00:00:00",
       "date_raw": "Tuesday, November 10, 2026",
       "url": "https://www.freddysbar.com/events/dsc6kndmgfph4em8ljetrbd96c9h64-ts5pt-nbbeb",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-10T16:00:00",
+      "date_raw": "Nov. 10, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34695-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2478,6 +2438,16 @@
       "date": "2026-11-11T00:00:00",
       "date_raw": "Wednesday, November 11, 2026",
       "url": "https://www.freddysbar.com/events/zd5aasncmpzaafl",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-11T16:00:00",
+      "date_raw": "Nov. 11, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34696-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2624,6 +2594,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-12T14:00:00",
+      "date_raw": "Nov. 12, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34707-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Evan Schwam Quartet \u2014 Mezzrow",
       "date": "2026-11-12T18:00:00",
       "date_raw": "Nov. 12, 2026 6:00 PM",
@@ -2764,6 +2744,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-13T14:00:00",
+      "date_raw": "Nov. 13, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34708-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Brandi Disterheft Trio \u2014 Mezzrow",
       "date": "2026-11-13T18:00:00",
       "date_raw": "Nov. 13, 2026 6:00 PM",
@@ -2891,6 +2881,16 @@
       "description": "",
       "image_url": "",
       "price": "$28"
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-14T14:00:00",
+      "date_raw": "Nov. 14, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34709-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Smalls Live",
@@ -3064,6 +3064,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Vocal Open Mic Hosted By Noa Chait \u2014 Jazzcultural",
+      "date": "2026-11-15T14:00:00",
+      "date_raw": "Nov. 15, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34718-vocal-open-mic-hosted-by-noa-chait/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki Quartet \u2014 Smalls",
       "date": "2026-11-15T14:00:00",
       "date_raw": "Nov. 15, 2026 2:00 PM",
@@ -3143,6 +3153,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-15T22:00:00",
+      "date_raw": "Nov. 15, 2026 10:00 PM",
+      "url": "https://www.smallslive.com/events/34688-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "The Ranzo Boys \u201cSteal It Back\u201d Album Release Show",
       "date": "2026-11-15T23:00:00",
@@ -3178,6 +3198,16 @@
       "date": "2026-11-16T00:00:00",
       "date_raw": "Monday, November 16, 2026",
       "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-e6p3h-j2733-z9mlh",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-16T16:00:00",
+      "date_raw": "Nov. 16, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34697-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3258,6 +3288,16 @@
       "date": "2026-11-17T00:00:00",
       "date_raw": "Tuesday, November 17, 2026",
       "url": "https://www.freddysbar.com/events/original-music-open-mic-4-bxrmb",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-17T16:00:00",
+      "date_raw": "Nov. 17, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34698-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3358,6 +3398,16 @@
       "date": "2026-11-18T00:00:00",
       "date_raw": "Wednesday, November 18, 2026",
       "url": "https://www.freddysbar.com/events/m9ez5ssrtk6925lcdg9hfe3yg8ewmm-ckzd7-x2m7c-elxw2-b5rge",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-18T16:00:00",
+      "date_raw": "Nov. 18, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34699-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3481,6 +3531,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-19T14:00:00",
+      "date_raw": "Nov. 19, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34710-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Smalls Live",
@@ -3608,6 +3668,16 @@
       "date": "2026-11-20T00:00:00",
       "date_raw": "Friday, November 20, 2026",
       "url": "https://www.freddysbar.com/events/jordan-guldman-quintet-and-docking",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-20T14:00:00",
+      "date_raw": "Nov. 20, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34711-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3748,6 +3818,16 @@
       "date": "2026-11-21T00:00:00",
       "date_raw": "Saturday, November 21, 2026",
       "url": "https://www.freddysbar.com/events/henry-mena-2nd-saturday-residency",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-21T14:00:00",
+      "date_raw": "Nov. 21, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34712-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3904,6 +3984,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Vocal Open Mic Hosted By Noa Chait \u2014 Jazzcultural",
+      "date": "2026-11-22T14:00:00",
+      "date_raw": "Nov. 22, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34719-vocal-open-mic-hosted-by-noa-chait/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki Quartet \u2014 Smalls",
       "date": "2026-11-22T14:00:00",
       "date_raw": "Nov. 22, 2026 2:00 PM",
@@ -3974,6 +4064,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-22T22:00:00",
+      "date_raw": "Nov. 22, 2026 10:00 PM",
+      "url": "https://www.smallslive.com/events/34689-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Aaron Johnson Quintet \u2014 Smalls",
       "date": "2026-11-22T23:55:00",
       "date_raw": "Nov. 22, 2026 11:55 PM",
@@ -3988,6 +4088,16 @@
       "date": "2026-11-23T00:00:00",
       "date_raw": "Monday, November 23, 2026",
       "url": "https://www.freddysbar.com/events/b7byw5wxkpp4t96",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-23T16:00:00",
+      "date_raw": "Nov. 23, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34700-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4094,6 +4204,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-24T16:00:00",
+      "date_raw": "Nov. 24, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34701-happy-hour-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Milton Suggs Quartet \u2014 Mezzrow",
       "date": "2026-11-24T18:00:00",
       "date_raw": "Nov. 24, 2026 6:00 PM",
@@ -4188,6 +4308,16 @@
       "date": "2026-11-25T00:00:00",
       "date_raw": "Wednesday, November 25, 2026",
       "url": "https://www.freddysbar.com/events/f3fn6l9ys55e7nf",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-25T16:00:00",
+      "date_raw": "Nov. 25, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34702-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4314,6 +4444,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-26T14:00:00",
+      "date_raw": "Nov. 26, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34713-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Nicholas Biello Quartet \u2014 Smalls",
       "date": "2026-11-26T21:00:00",
       "date_raw": "Nov. 26, 2026 9:00 PM",
@@ -4338,6 +4478,16 @@
       "date": "2026-11-27T00:00:00",
       "date_raw": "Friday, November 27, 2026",
       "url": "https://www.freddysbar.com/events/brett-horton-cohorts-a-song-buffet",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-27T14:00:00",
+      "date_raw": "Nov. 27, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34714-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4454,6 +4604,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-28T14:00:00",
+      "date_raw": "Nov. 28, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34715-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "SMALLS AFTERNOON JAM SESSION HOSTED BY Marc Devine \u2014 Smalls",
       "date": "2026-11-28T14:00:00",
       "date_raw": "Nov. 28, 2026 2:00 PM",
@@ -4564,6 +4724,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Vocal Open Mic Hosted By Noa Chait \u2014 Jazzcultural",
+      "date": "2026-11-29T14:00:00",
+      "date_raw": "Nov. 29, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34720-vocal-open-mic-hosted-by-noa-chait/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki Quartet \u2014 Smalls",
       "date": "2026-11-29T14:00:00",
       "date_raw": "Nov. 29, 2026 2:00 PM",
@@ -4654,6 +4824,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-29T22:00:00",
+      "date_raw": "Nov. 29, 2026 10:00 PM",
+      "url": "https://www.smallslive.com/events/34690-jam-in-the-cafe/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Andrew Kushnir Trio \u2014 Smalls",
       "date": "2026-11-29T23:55:00",
       "date_raw": "Nov. 29, 2026 11:55 PM",
@@ -4668,6 +4848,16 @@
       "date": "2026-11-30T00:00:00",
       "date_raw": "Monday, November 30, 2026",
       "url": "https://www.freddysbar.com/events/6mbrdync76ph6wn",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
+      "date": "2026-11-30T16:00:00",
+      "date_raw": "Nov. 30, 2026 4:00 PM",
+      "url": "https://www.smallslive.com/events/34703-happy-hour-jam-in-the-cafe/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4764,6 +4954,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Micah Thomas Trio \u2014 Jazzcultural",
+      "date": "2026-12-01T20:00:00",
+      "date_raw": "Dec. 1, 2026 8:00 PM",
+      "url": "https://www.smallslive.com/events/34267-micah-thomas-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Reid Taylor Trio \u2014 Mezzrow",
       "date": "2026-12-01T21:00:00",
       "date_raw": "Dec. 1, 2026 9:00 PM",
@@ -4818,6 +5018,16 @@
       "date": "2026-12-02T18:00:00",
       "date_raw": "Dec. 2, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34548-zach-lapidus-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Didier Conchon & Rodney Jones Quartet \u2014 Smalls",
+      "date": "2026-12-02T18:00:00",
+      "date_raw": "Dec. 2, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34642-didier-conchon-rodney-jones-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5204,6 +5414,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Ari Hoenig Quartet \u2014 Jazzcultural",
+      "date": "2026-12-07T20:00:00",
+      "date_raw": "Dec. 7, 2026 8:00 PM",
+      "url": "https://www.smallslive.com/events/34273-ari-hoenig-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Tardo Hammer Trio \u2014 Mezzrow",
       "date": "2026-12-07T21:00:00",
       "date_raw": "Dec. 7, 2026 9:00 PM",
@@ -5258,6 +5478,16 @@
       "date": "2026-12-08T18:00:00",
       "date_raw": "Dec. 8, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34559-barbara-rosene-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jim Ridl Quartet \u2014 Smalls",
+      "date": "2026-12-08T18:00:00",
+      "date_raw": "Dec. 8, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34539-jim-ridl-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5483,6 +5713,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "The 9am Banger: Christmas at 9am",
+      "date": "2026-12-12T09:00:00",
+      "date_raw": "2026-12-12T09:00:00-05:00",
+      "url": "https://www.ticketmaster.com/the-9am-banger-christmas-at-9am-brooklyn-new-york-12-12-2026/event/0000655AEA6BC32E",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/a2c/b5d95e83-6127-4e32-ac53-1c2c98486a2c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Lucy Yeghiazaryan Trio \u2014 Mezzrow",
       "date": "2026-12-12T18:00:00",
@@ -5593,16 +5833,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Pink Martini All-Stars present A Season of Stars",
-      "date": "2026-12-13T19:00:00",
-      "date_raw": "2026-12-13T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/pink-martini-allstars-present-a-season-brooklyn-new-york-12-13-2026/event/000064D2D26E1C3C",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/31b/65d9b311-0a83-4d05-ad73-d8eec105431b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Smalls Live",
       "title": "Donald Edwards Quintet \u2014 Jazzcultural",
       "date": "2026-12-13T19:00:00",
@@ -5654,10 +5884,30 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jon Gordon Quartet \u2014 Smalls",
+      "date": "2026-12-15T18:00:00",
+      "date_raw": "Dec. 15, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34610-jon-gordon-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Ricky Rodriguez Quartet \u2014 Smalls",
       "date": "2026-12-15T21:00:00",
       "date_raw": "Dec. 15, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34611-ricky-rodriguez-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Tom Dempsey/Tim Ferguson Quartet \u2014 Smalls",
+      "date": "2026-12-16T18:00:00",
+      "date_raw": "Dec. 16, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34613-tom-dempseytim-ferguson-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6034,10 +6284,50 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Mike Clark Quartet \u2014 Smalls",
+      "date": "2026-12-28T21:00:00",
+      "date_raw": "Dec. 28, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34633-mike-clark-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Michael Kanan Trio \u2014 Mezzrow",
+      "date": "2026-12-29T18:00:00",
+      "date_raw": "Dec. 29, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34592-michael-kanan-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Tobias Meinhart Quartet \u2014 Smalls",
+      "date": "2026-12-29T18:00:00",
+      "date_raw": "Dec. 29, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34634-tobias-meinhart-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Jim Whitney Trio \u2014 Mezzrow",
       "date": "2026-12-30T18:00:00",
       "date_raw": "Dec. 30, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34594-jim-whitney-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Steve Sandberg Trio \u2014 Mezzrow",
+      "date": "2026-12-30T21:00:00",
+      "date_raw": "Dec. 30, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34595-steve-sandberg-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6059,16 +6349,6 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/184/1798678800000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Noa Lee Chait Quartet \u2014 Mezzrow",
-      "date": "2026-12-31T21:00:00",
-      "date_raw": "Dec. 31, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34571-noa-lee-chait-quartet/",
-      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6491,6 +6771,16 @@
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Johanna Warren / Magnetize",
+      "date": "2027-03-15T23:30:00",
+      "date_raw": "2027-03-15T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/johanna_warren__magn",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Jalopy Theatre",
