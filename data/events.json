@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-10-29T18:42:19.240783+00:00",
+  "scraped_at": "2026-10-30T18:18:31.707026+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Garden Party- 3rd Thursdays- Burlesque in the Back Every Thursday",
-      "date": "2026-10-15T00:00:00",
-      "date_raw": "Thursday, October 15, 2026",
-      "url": "https://www.freddysbar.com/events/garden-party-3rd-thursdays-burlesque-in-the-back-every-thursday-e9a2z-8k6w7-fz4r6",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Emily Frembgen, Goodmorning Valentine and J Wolfe",
@@ -303,156 +293,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-29T14:00:00",
-      "date_raw": "Oct. 29, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34053-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Lawrence - Staycation",
-      "date": "2026-10-29T18:00:00",
-      "date_raw": "2026-10-29T18:00:00-04:00",
-      "url": "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-29-2026/event/00006441083CECE5",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/f52/5f3274be-be3f-4e37-9fc4-55ac9c470f52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dave Stoler Duo \u2014 Mezzrow",
-      "date": "2026-10-29T18:00:00",
-      "date_raw": "Oct. 29, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/33986-dave-stoler-duo/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "David Gilmore Quintet \u2014 Smalls",
-      "date": "2026-10-29T18:00:00",
-      "date_raw": "Oct. 29, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34149-david-gilmore-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Dave Lalama Trio",
-      "date": "2026-10-29T18:30:00",
-      "date_raw": "Thursday October 29th 06:30 PM",
-      "url": "",
-      "description": "Dave Lalama (p)Tony DePaolis (b)Matthew Wilson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Juanga Lakunza Trio",
-      "date": "2026-10-29T18:30:00",
-      "date_raw": "Thursday October 29th 06:30 PM",
-      "url": "",
-      "description": "Juanga Lakunza (trombone)Oscar Perez (p)Tom DiCarlo (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Hendrik Meurkens Quintet \u2014 Jazzcultural",
-      "date": "2026-10-29T19:00:00",
-      "date_raw": "Oct. 29, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34000-hendrik-meurkens-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "David Gibson Quartet",
-      "date": "2026-10-29T21:00:00",
-      "date_raw": "Thursday October 29th 09:00 PM",
-      "url": "",
-      "description": "David Gibson (trombone)Toru Dodo (p)Joseph Lepore (b)Kush Abadey (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Kelly Green Trio \u2014 Mezzrow",
-      "date": "2026-10-29T21:00:00",
-      "date_raw": "Oct. 29, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/33987-kelly-green-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eden Bareket Quartet \u2014 Smalls",
-      "date": "2026-10-29T21:00:00",
-      "date_raw": "Oct. 29, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34150-eden-bareket-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Ricardo Grilli Trio",
-      "date": "2026-10-29T21:30:00",
-      "date_raw": "Thursday October 29th 09:30 PM",
-      "url": "",
-      "description": "Ricardo Grilli (g)Noah Garabedian (b)Roberto Giaquinto (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Sarah Hanahan Quartet \u2014 Jazzcultural",
-      "date": "2026-10-29T22:00:00",
-      "date_raw": "Oct. 29, 2026 10:00 PM",
-      "url": "https://www.smallslive.com/events/34107-sarah-hanahan-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vinyl After Hours \u2014 Mezzrow",
-      "date": "2026-10-29T23:30:00",
-      "date_raw": "Oct. 29, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34174-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Matt Snow \u2014 Smalls",
-      "date": "2026-10-29T23:45:00",
-      "date_raw": "Oct. 29, 2026 11:45 PM",
-      "url": "https://www.smallslive.com/events/34094-jam-session-hosted-by-matt-snow/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Anita Montoya",
-      "date": "2026-10-30T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/289/1793318400000",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Daniels And Baker Folk and More DUO",
       "date": "2026-10-30T00:00:00",
@@ -481,16 +321,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Venomous Verses in the Gloaming: An Evening of Supernatural Ballads with Shinbone  Alley",
-      "date": "2026-10-30T00:30:00",
-      "date_raw": "2026-10-30T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/venomous_verses",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -634,10 +464,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Raphael D'Lugoff \u2014 Mezzrow",
+      "title": "Round Midnight Solo Piano with John DiMartino \u2014 Mezzrow",
       "date": "2026-10-30T23:55:00",
       "date_raw": "Oct. 30, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34647-round-midnight-solo-piano-with-raphael-dlugoff/",
+      "url": "https://www.smallslive.com/events/34647-round-midnight-solo-piano-with-john-dimartino/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -814,10 +644,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Raphael D'Lugoff \u2014 Mezzrow",
+      "title": "Round Midnight Solo Piano with John DiMartino \u2014 Mezzrow",
       "date": "2026-10-31T23:55:00",
       "date_raw": "Oct. 31, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34648-round-midnight-solo-piano-with-raphael-dlugoff/",
+      "url": "https://www.smallslive.com/events/34648-round-midnight-solo-piano-with-john-dimartino/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1019,6 +849,16 @@
       "date_raw": "Monday, November 2, 2026",
       "url": "https://www.freddysbar.com/events/3f6zndalndkrett",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Eveline O'Rourke and Aidan O'Donnell",
+      "date": "2026-11-02T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/292/1793581200000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
       "image_url": "",
       "price": ""
     },
@@ -1553,6 +1393,16 @@
       "price": "$105.19"
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Dustin Lowman Presents Legendary Lyricists Volume II: Leonard Cohen",
+      "date": "2026-11-06T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/291/1793926800000",
+      "description": "From Dustin: There\u2019s so much people don\u2019t know about Leonard Cohen. Yes, he is a poet of love, which is to say sex, and which is also to say God; yes, his drive toward salvation is as strong as his drive toward damnation; yes, he kept certain wounds open so that he\u2019d have something to write about; yes, it almost k*lled him. But also: Leonard Cohen is hilarious. Leonard Cohen found peace. Leonard C",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-11-06T14:00:00",
@@ -1679,6 +1529,16 @@
       "date_raw": "Saturday, November 7, 2026",
       "url": "https://www.freddysbar.com/events/geoff-the-dj-vinyl-digital-indiedance-set",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "KJ Denhert",
+      "date": "2026-11-07T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/63/1794013200000",
+      "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was that of a record player. \u201cI spent hours in front of the record player dancing to the same song over and over. I must have been about 4 \u2013 music really held me together growing up. \u201d KJ\u2019s career spans 40 years, 10 albums, with legions of devot",
       "image_url": "",
       "price": ""
     },
@@ -1943,6 +1803,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Katie Martucci and Josh Dunn",
+      "date": "2026-11-09T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/293/1794186000000",
+      "description": "Hailing from the Catskill Mountains in upstate New York, Katie Martucci grew up singing, and playing fiddle and guitar. While at the New England Conservatory, she studied voice, songwriting and arranging in the Contemporary Improvisation Department, and formed The Ladles with Caroline Kuhn and Lucia Pontoniere. Today, Katie is based in Brooklyn, NY. When she\u2019s not playing with The Ladles, Katie pe",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-11-09T16:00:00",
@@ -2144,10 +2014,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Jason Clotter \u2014 Smalls",
+      "title": "Jam Session Hosted By Jason Clotter Trio \u2014 Smalls",
       "date": "2026-11-10T23:55:00",
       "date_raw": "Nov. 10, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34382-jam-session-hosted-by-jason-clotter/",
+      "url": "https://www.smallslive.com/events/34382-jam-session-hosted-by-jason-clotter-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2159,6 +2029,16 @@
       "date_raw": "Wednesday, November 11, 2026",
       "url": "https://www.freddysbar.com/events/zd5aasncmpzaafl",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Mowgli Giannati and Alex Deanne",
+      "date": "2026-11-11T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/214/1794358800000",
+      "description": "Singer/Multi-instrumentalist and internationally touring musician Mowgli Giannitti performs classic songs of Jazz, Bluegrass, and Celtic Folk alongside his own originals which seamlessly blend these styles and more, featuring singer/guitarist Alex Deane. Mowgli has performed with artists such as Yo-Yo Ma and Edmar Colon, and on legendary stages like Carnegie Hall, The Bitter End, and the Nickelsdo",
       "image_url": "",
       "price": ""
     },
@@ -2404,10 +2284,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Greg Glassman \u2014 Smalls",
+      "title": "Jam Session Hosted By Greg Glassman Quartet \u2014 Smalls",
       "date": "2026-11-12T23:55:00",
       "date_raw": "Nov. 12, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34390-jam-session-hosted-by-greg-glassman/",
+      "url": "https://www.smallslive.com/events/34390-jam-session-hosted-by-greg-glassman-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2471,6 +2351,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Alex Dupree Band",
+      "date": "2026-11-13T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/297/1794531600000",
+      "description": "Alex Dupree is a songwriter based in Austin, TX. He released his first album in 2005, a piece of shambolic bedroom folk made with a group of friends called the Trapdoor Band. NPR called it \u201cboth poetic and political.\u201d Over the course of three LPs with this group, and one under the pseudonym Idyl, Alex would root himself firmly but idiosyncratically in the traditions of American songwriting. \u201cSound",
+      "image_url": "",
+      "price": ""
     },
     {
       "venue_name": "Smalls Live",
@@ -2599,6 +2489,16 @@
       "date_raw": "Saturday, November 14, 2026",
       "url": "https://www.freddysbar.com/events/blk-krwn-entertainment",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "J. M. Clifford Album Release Show",
+      "date": "2026-11-14T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/298/1794618000000",
+      "description": "J.M. Clifford is a Brooklyn-based singer-songwriter and elementary school music educator whose work blends bluegrass, folk, and Americana with a strong narrative voice. A rising presence on the national songwriting circuit, he has earned top honors at the Pensacola Beach Songwriter Festival and Solarfest, and was a finalist in the 2025 Telluride Troubadour Songwriting Contest and the 2024 American",
       "image_url": "",
       "price": ""
     },
@@ -2933,6 +2833,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Cemre Necefbas, Emeline O'Rourke and Aidan O'Donnell",
+      "date": "2026-11-16T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/294/1794790800000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-11-16T16:00:00",
@@ -3129,6 +3039,16 @@
       "date_raw": "Wednesday, November 18, 2026",
       "url": "https://www.freddysbar.com/events/m9ez5ssrtk6925lcdg9hfe3yg8ewmm-ckzd7-x2m7c-elxw2-b5rge",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "EMME",
+      "date": "2026-11-18T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/299/1794963600000",
+      "description": "Emme is the union of the musical universes of Michi and mate\u00f6. Inspired by folk and latin sounds, they create a warm and intimate experience.",
       "image_url": "",
       "price": ""
     },
@@ -3403,6 +3323,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Mara Kaye",
+      "date": "2026-11-20T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/300/1795136400000",
+      "description": "Referred to by Jazz Lives as \u201cone of New York\u2019s great gifts to the world,\u201d blues and jazz vocalist Mara Kaye is \u201clike some lost pocket of the blues that had never been explored in the old days, all wrapped up in a ball of 21st-century Brooklyn-bred attitude.\u201d For over a decade she has traveled internationally and throughout the US, sharing legendary stages with champions of the genre, singing belo",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-11-20T14:00:00",
@@ -3549,6 +3479,16 @@
       "date_raw": "Saturday, November 21, 2026",
       "url": "https://www.freddysbar.com/events/henry-mena-2nd-saturday-residency",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tetsuro Hoshii Band",
+      "date": "2026-11-21T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/301/1795222800000",
+      "description": "Tetsuro Hoshii is a pianist and composer based in New York, known for his cross-genre work that moves fluidly between improvisation, composition, and visual art. He is a recipient of the Wayne Shorter Award at Berklee College of Music, has composed for the Boston Cello Quartet (the official chamber ensemble of the Boston Symphony Orchestra), and arranged music for the Metropolitan Opera Orchestra ",
       "image_url": "",
       "price": ""
     },
@@ -3823,6 +3763,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Jacob Jolliff and Adam Armstrong",
+      "date": "2026-11-23T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/295/1795395600000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Happy Hour Jam in the Cafe \u2014 Jazzcultural",
       "date": "2026-11-23T16:00:00",
@@ -4024,10 +3974,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Jason Clotter \u2014 Smalls",
+      "title": "Jam Session Hosted By Jason Clotter Trio \u2014 Smalls",
       "date": "2026-11-24T23:55:00",
       "date_raw": "Nov. 24, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34427-jam-session-hosted-by-jason-clotter/",
+      "url": "https://www.smallslive.com/events/34427-jam-session-hosted-by-jason-clotter-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4039,6 +3989,16 @@
       "date_raw": "Wednesday, November 25, 2026",
       "url": "https://www.freddysbar.com/events/f3fn6l9ys55e7nf",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "The Binoculars",
+      "date": "2026-11-25T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/236/1795568400000",
+      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalopy Records. They gather and resuscitate long lost tunes from around the world using fiddle, 5-string violin, guitar, lap steel, and laser vocal harmonies. Their repertoire spans myriad genres, dusting off 1950\u2019s New Mexican mazurkas and Ame",
       "image_url": "",
       "price": ""
     },
@@ -4159,6 +4119,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/184/1795654800000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Closed for Thanksgiving",
+      "date": "2026-11-26T05:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/302/1795669200000",
+      "description": "Thank you! We'll see you back tomorrow!",
       "image_url": "",
       "price": ""
     },
@@ -4599,6 +4569,16 @@
       "date_raw": "Monday, November 30, 2026",
       "url": "https://www.freddysbar.com/events/6mbrdync76ph6wn",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Ken and Friends featuring Sarah King, Emeline O'Rourke and Aidan O'Donnell",
+      "date": "2026-11-30T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/296/1796000400000",
+      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
       "image_url": "",
       "price": ""
     },
@@ -5148,7 +5128,7 @@
       "date": "2026-12-06T05:30:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/279/1796535000000",
-      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together. Laid back monthly jam, not limited to gospel music.",
       "image_url": "",
       "price": ""
     },
@@ -5354,10 +5334,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Melissa Stylianou Trio \u2014 Mezzrow",
+      "title": "Melissa Stylianou Quartet \u2014 Mezzrow",
       "date": "2026-12-09T18:00:00",
       "date_raw": "Dec. 9, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34561-melissa-stylianou-trio/",
+      "url": "https://www.smallslive.com/events/34561-melissa-stylianou-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5380,6 +5360,16 @@
       "url": "https://www.ticketmaster.com/the-dresden-dolls-brooklyn-new-york-12-09-2026/event/000064A5EB0543F6",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/82b/7cf4a94c-7e13-4662-b3b4-3155cec9a82b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Bill Heid Trio \u2014 Jazzcultural",
+      "date": "2026-12-09T20:00:00",
+      "date_raw": "Dec. 9, 2026 8:00 PM",
+      "url": "https://www.smallslive.com/events/34649-bill-heid-trio/",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -5713,6 +5703,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Pink Martini All-Stars present A Season of Stars",
+      "date": "2026-12-13T19:00:00",
+      "date_raw": "2026-12-13T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/pink-martini-allstars-present-a-season-brooklyn-new-york-12-13-2026/event/000064D2D26E1C3C",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/31b/65d9b311-0a83-4d05-ad73-d8eec105431b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Donald Edwards Quintet \u2014 Jazzcultural",
       "date": "2026-12-13T19:00:00",
@@ -5798,6 +5798,16 @@
       "date": "2026-12-15T18:00:00",
       "date_raw": "Dec. 15, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34610-jon-gordon-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Ehud Asherie Trio \u2014 Jazzcultural",
+      "date": "2026-12-15T20:00:00",
+      "date_raw": "Dec. 15, 2026 8:00 PM",
+      "url": "https://www.smallslive.com/events/34284-ehud-asherie-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6011,6 +6021,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Elizabeth Mitchell",
+      "date": "2026-12-19T21:00:00",
+      "date_raw": "2026-12-19T21:00:00.000Z",
+      "url": "https://www.viewcy.com/event/elizabeth_mitchell",
+      "description": "",
+      "image_url": "",
+      "price": "$17"
     },
     {
       "venue_name": "Smalls Live",
@@ -6273,6 +6293,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Greg Glassman Quartet \u2014 Jazzcultural",
+      "date": "2026-12-25T22:30:00",
+      "date_raw": "Dec. 25, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/34296-greg-glassman-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Penny, inoculated City & Friends",
       "date": "2026-12-26T00:00:00",
@@ -6298,6 +6328,16 @@
       "date": "2026-12-26T21:00:00",
       "date_raw": "Dec. 26, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34629-santi-debriano-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Greg Glassman Quartet \u2014 Jazzcultural",
+      "date": "2026-12-26T22:30:00",
+      "date_raw": "Dec. 26, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/34297-greg-glassman-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6518,7 +6558,7 @@
       "date": "2027-01-03T05:30:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/279/1798954200000",
-      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together. Laid back monthly jam, not limited to gospel music.",
       "image_url": "",
       "price": ""
     },
@@ -6768,7 +6808,7 @@
       "date": "2027-02-07T05:30:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/279/1801978200000",
-      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together. Laid back monthly jam, not limited to gospel music.",
       "image_url": "",
       "price": ""
     },
@@ -6878,7 +6918,7 @@
       "date": "2027-03-07T05:30:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/279/1804397400000",
-      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
+      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together. Laid back monthly jam, not limited to gospel music.",
       "image_url": "",
       "price": ""
     },
@@ -6903,16 +6943,6 @@
       "price": "$28"
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-03-14T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1804986000000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Johanna Warren / Magnetize",
       "date": "2027-03-15T23:30:00",
@@ -6933,32 +6963,12 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-03-21T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1805587200000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-03-24T22:30:00",
       "date_raw": "2027-03-24T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-03-28T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1806192000000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -6973,42 +6983,12 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-04-04T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1806796800000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Edith's Agnostic Gospel Jam",
-      "date": "2027-04-04T04:30:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/279/1806813000000",
-      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-04-07T22:30:00",
       "date_raw": "2027-04-07T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-04-11T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1807401600000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -7033,16 +7013,6 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-04-18T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1808006400000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-04-21T22:30:00",
@@ -7059,16 +7029,6 @@
       "date_raw": "Saturday, April 24, 2027",
       "url": "https://www.freddysbar.com/events/2fyh7mdrxjgdjs68wlsg26lblycfn8",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-04-25T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1808611200000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -7093,42 +7053,12 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-05-02T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1809216000000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Edith's Agnostic Gospel Jam",
-      "date": "2027-05-02T04:30:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/279/1809232200000",
-      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-05-05T22:30:00",
       "date_raw": "2027-05-05T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-05-09T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1809820800000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -7143,32 +7073,12 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-05-16T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1810425600000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-05-19T22:30:00",
       "date_raw": "2027-05-19T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2027-05-23T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1811030400000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -7893,26 +7803,6 @@
       "price": ""
     },
     {
-      "venue_name": "Fred's Dog House",
-      "title": "Thursday October 29th 8:30pm - Blues with Doc French Josh Golberg!",
-      "date": null,
-      "date_raw": "Thursday October 29th 8:30pm - Blues with Doc French Josh Golberg!",
-      "url": "https://www.fredsdoghouse.com/event/wednesday-11th-dec-blues-with-ernie-vega/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
-      "date": null,
-      "date_raw": "Thu, Oct 29, 202611:30\u202fPMFri, Oct 30, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-kae7r",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Freddy's Halloween Dance Party with DJ Evil Dee & Ben the Beyonder",
       "date": null,
@@ -7996,8 +7886,8 @@
       "venue_name": "Freddy's",
       "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
       "date": null,
-      "date_raw": "Thu, Oct 22, 202611:30\u202fPMFri, Oct 23, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-5ayba",
+      "date_raw": "Thu, Oct 29, 202611:30\u202fPMFri, Oct 30, 202612:30\u202fAM",
+      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-kae7r",
       "description": "",
       "image_url": "",
       "price": ""
@@ -8006,8 +7896,8 @@
       "venue_name": "Freddy's",
       "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
       "date": null,
-      "date_raw": "Thu, Oct 15, 202610:30\u202fPMFri, Oct 16, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-zjts5",
+      "date_raw": "Thu, Oct 22, 202611:30\u202fPMFri, Oct 23, 202612:30\u202fAM",
+      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-5ayba",
       "description": "",
       "image_url": "",
       "price": ""
