@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-31T17:24:37.379534+00:00",
+  "scraped_at": "2026-11-01T18:10:15.100880+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -28,16 +28,6 @@
       "date": "2026-10-17T00:00:00",
       "date_raw": "Saturday, October 17, 2026",
       "url": "https://www.freddysbar.com/events/the-monotone-assassins-rock-and-soul",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Pole Before Dark- every third Saturday",
-      "date": "2026-10-17T00:00:00",
-      "date_raw": "Saturday, October 17, 2026",
-      "url": "https://www.freddysbar.com/events/pole-after-dark-6m6ha-9hklc",
       "description": "",
       "image_url": "",
       "price": ""
@@ -253,16 +243,6 @@
       "price": ""
     },
     {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Lawrence - Staycation 3 DAY PASS",
-      "date": "2026-10-29T00:00:01",
-      "date_raw": "2026-10-29T00:00:01-04:00",
-      "url": "https://www.ticketmaster.com/lawrence-staycation-3-day-pass-brooklyn-new-york-10-29-2026/event/000064410845ECF9",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/f52/5f3274be-be3f-4e37-9fc4-55ac9c470f52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "EVEN TWICE",
       "date": "2026-10-30T00:00:00",
@@ -289,186 +269,6 @@
       "date_raw": "Friday, October 30, 2026",
       "url": "https://www.freddysbar.com/events/daniels-and-baker-folk-and-more-duo",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday October 30th 8:30pm  \u2022  New Moon Acoustic Blues Trio!",
-      "date": "2026-10-30T20:30:00",
-      "date_raw": "Friday October 30th 8:30pm  \u2022  New Moon Acoustic Blues Trio!",
-      "url": "https://www.fredsdoghouse.com/event/friday-may-15th-830pm-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Afternoon Jam in the Cafe \u2014 Jazzcultural",
-      "date": "2026-10-31T14:00:00",
-      "date_raw": "Oct. 31, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34048-afternoon-jam-in-the-cafe/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "There will be No Afternoon Jam Session \u2014 Smalls",
-      "date": "2026-10-31T14:00:00",
-      "date_raw": "Oct. 31, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34119-there-will-be-no-afternoon-jam-session/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Lawrence - Staycation",
-      "date": "2026-10-31T17:00:00",
-      "date_raw": "2026-10-31T17:00:00-04:00",
-      "url": "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-31-2026/event/000064410842ECEE",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/f52/5f3274be-be3f-4e37-9fc4-55ac9c470f52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Simon Moullier & Davis Whitfield \u2014 Mezzrow",
-      "date": "2026-10-31T18:00:00",
-      "date_raw": "Oct. 31, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34152-simon-moullier-davis-whitfield/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Obasi Akoto Steve Kirby Quartet \u2014 Smalls",
-      "date": "2026-10-31T18:00:00",
-      "date_raw": "Oct. 31, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34197-obasi-akoto-steve-kirby-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Ben Freidkin Quartet",
-      "date": "2026-10-31T18:30:00",
-      "date_raw": "Saturday October 31st 06:30 PM",
-      "url": "",
-      "description": "Ben Freidkin (d)Daniel Bereket (tp)Brendan Polk (p)Teresa Sanchez (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jihee Heo Quartet",
-      "date": "2026-10-31T18:30:00",
-      "date_raw": "Saturday October 31st 06:30 PM",
-      "url": "",
-      "description": "Jihee Heo (p)Mejedi Owusu (tp)Lonnie Plaxico (b)Willie Bowman (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Warren Wolf Quartet \u2014 Jazzcultural",
-      "date": "2026-10-31T19:00:00",
-      "date_raw": "Oct. 31, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34002-warren-wolf-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Francisco Mela Trio",
-      "date": "2026-10-31T21:00:00",
-      "date_raw": "Saturday October 31st 09:00 PM",
-      "url": "",
-      "description": "Francisco Mela (d)Matthew Shipp (p)William Parker (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Andrea Domenici Trio \u2014 Mezzrow",
-      "date": "2026-10-31T21:00:00",
-      "date_raw": "Oct. 31, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34154-andrea-domenici-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Joe Block Quintet \u2014 Smalls",
-      "date": "2026-10-31T21:00:00",
-      "date_raw": "Oct. 31, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34156-joe-block-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Robert Mac Vega Quartet",
-      "date": "2026-10-31T21:30:00",
-      "date_raw": "Saturday October 31st 09:30 PM",
-      "url": "",
-      "description": "Robert Mac Vega (tp)Neta Raanan (saxophone)Noam Borns (p)Solomon Gottfried (b)Eliza Salem (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Winard Harper & Jeli Posse \u2014 Jazzcultural",
-      "date": "2026-10-31T22:30:00",
-      "date_raw": "Oct. 31, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34194-winard-harper-jeli-posse/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Reggae Fest Halloween at Brooklyn Paramount $5000 Costume Contest",
-      "date": "2026-10-31T23:30:00",
-      "date_raw": "2026-10-31T23:30:00-04:00",
-      "url": "https://www.universe.com/events/reggae-fest-halloween-at-brooklyn-paramount-5000-costume-contest-tickets-17NW32?ref=ticketmaster",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/510/db6fc217-d801-463d-a374-9aaae8de3510_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with John DiMartino \u2014 Mezzrow",
-      "date": "2026-10-31T23:55:00",
-      "date_raw": "Oct. 31, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34648-round-midnight-solo-piano-with-john-dimartino/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Smalls",
-      "date": "2026-10-31T23:55:00",
-      "date_raw": "Oct. 31, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34109-eric-wyatt-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2026-11-01T00:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1793491200000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -503,22 +303,12 @@
       "price": ""
     },
     {
-      "venue_name": "Jalopy Theatre",
-      "title": "Twilight Two-Step with Crys & the Fever Dream and Frances De Vargas",
-      "date": "2026-11-01T00:00:00",
-      "date_raw": "2026-11-01T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/twilight_twostep_wit",
+      "venue_name": "Smalls Live",
+      "title": "Gather NYC Classical Chamber Music Concert \u2014 Jazzcultural",
+      "date": "2026-11-01T11:00:00",
+      "date_raw": "Nov. 1, 2026 11:00 AM",
+      "url": "https://www.smallslive.com/events/34735-gather-nyc-classical-chamber-music-concert/",
       "description": "",
-      "image_url": "",
-      "price": "$17"
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Edith's Agnostic Gospel Jam",
-      "date": "2026-11-01T04:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/279/1793507400000",
-      "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together.",
       "image_url": "",
       "price": ""
     },
@@ -583,6 +373,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Sunday November 1st 6:30pm \u2022 Blues & Americana with Jason Green!",
+      "date": "2026-11-01T18:30:00",
+      "date_raw": "Sunday November 1st 6:30pm \u2022 Blues & Americana with Jason Green!",
+      "url": "https://www.fredsdoghouse.com/event/sunday-august-9th-830pm-blues-americana-with-jason-green-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "LIL PEEP 30TH BIRTHDAY CELEBRATION",
       "date": "2026-11-01T19:00:00",
@@ -599,6 +399,16 @@
       "date_raw": "Nov. 1, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/34003-warren-wolf-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Joe Magnarelli Quartet",
+      "date": "2026-11-01T21:00:00",
+      "date_raw": "Sunday November 1st 09:00 PM",
+      "url": "",
+      "description": "Joe Magnarelli (tp)Victor Gould (p)Ben Wolstein (b)Joe Strasser (d)",
       "image_url": "",
       "price": ""
     },
@@ -863,6 +673,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday November 3rd 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-11-03T20:30:00",
+      "date_raw": "Tuesday November 3rd 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Lolivone De La Rosa Trio \u2014 Mezzrow",
       "date": "2026-11-03T21:00:00",
@@ -953,6 +773,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Daniele Germani Quartet",
+      "date": "2026-11-04T18:30:00",
+      "date_raw": "Wednesday November 4th 06:30 PM",
+      "url": "",
+      "description": "Daniele Germani (saxophone)Ely Perlman (g)Dean Torrey (b)Roberto Giaquinto (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Palace - USA & Canada Tour 2026",
       "date": "2026-11-04T19:00:00",
@@ -968,6 +798,16 @@
       "date": "2026-11-04T20:00:00",
       "date_raw": "Nov. 4, 2026 8:00 PM",
       "url": "https://www.smallslive.com/events/34207-mike-ledonne-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday November 4th 8:30pm \u2022 Blues with The Milkman aka Marcus Milius!",
+      "date": "2026-11-04T20:30:00",
+      "date_raw": "Wednesday November 4th 8:30pm \u2022 Blues with The Milkman aka Marcus Milius!",
+      "url": "https://www.fredsdoghouse.com/event/blues-with-the-milkman-aka-marcus-milius/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1103,6 +943,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Mike Camacho Quartet",
+      "date": "2026-11-05T18:30:00",
+      "date_raw": "Thursday November 5th 06:30 PM",
+      "url": "",
+      "description": "Mike Camacho (d)Matt Martinez (as)Ray Gallon (p)Mikey Migliore (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Sammy Rae & The Friends - the GET DOWN!",
       "date": "2026-11-05T19:00:00",
@@ -1118,6 +968,16 @@
       "date": "2026-11-05T19:00:00",
       "date_raw": "Nov. 5, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/34208-willie-jones-iii-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Thursday November 5th 8:30pm \u2022 The Clover Valley Boys!",
+      "date": "2026-11-05T20:30:00",
+      "date_raw": "Thursday November 5th 8:30pm \u2022 The Clover Valley Boys!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-october-5th-830pm-the-clover-valley-boys/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1278,6 +1138,16 @@
       "date": "2026-11-06T19:00:00",
       "date_raw": "Nov. 6, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/34209-lage-lund-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Friday November 6th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "date": "2026-11-06T20:30:00",
+      "date_raw": "Friday November 6th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "url": "https://www.fredsdoghouse.com/event/friday-march-6th-new-moon-acoustic-blues-trio-copy/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1458,6 +1328,16 @@
       "date": "2026-11-07T21:00:00",
       "date_raw": "Nov. 7, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34235-mark-sherman-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday November 7th 9:30pm \u2022 Delta Blues with TRACTOR!",
+      "date": "2026-11-07T21:30:00",
+      "date_raw": "Saturday November 7th 9:30pm \u2022 Delta Blues with TRACTOR!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-may-9th-830pm-delta-blues-with-tractor-copy/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2249,6 +2129,16 @@
       "date_raw": "Nov. 13, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/34245-mike-moreno-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Steve Nelson Trio",
+      "date": "2026-11-13T21:00:00",
+      "date_raw": "Friday November 13th 09:00 PM",
+      "url": "",
+      "description": "Steve Nelson (g)Ben Allen (org)Errold Lanier Jr. (d)",
       "image_url": "",
       "price": ""
     },
@@ -5883,6 +5773,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "KESmas",
+      "date": "2026-12-19T19:00:00",
+      "date_raw": "2026-12-19T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/kesmas-brooklyn-new-york-12-19-2026/event/0000654CBD0E75F4",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/ec1/a8116f62-eb72-4abe-899d-68f2655e0ec1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Kevin Hays Quartet w. Ben Wendel \u2014 Jazzcultural",
       "date": "2026-12-19T19:00:00",
@@ -5970,6 +5870,16 @@
       "url": "https://www.smallslive.com/events/34620-brandon-sanders-quartet/",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Patrice Roberts - I Am Woman\u00a0",
+      "date": "2026-12-20T19:00:00",
+      "date_raw": "2026-12-20T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/patrice-roberts-i-am-woman-brooklyn-new-york-12-20-2026/event/0000643B1A78851A",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/42b/4187f31b-6556-44d7-8263-a10a44a7942b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -6503,6 +6413,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Bright Eyes performing Wide Awake and Digital Ash",
+      "date": "2027-01-11T17:30:00",
+      "date_raw": "2027-01-11T17:30:00-05:00",
+      "url": "https://www.ticketmaster.com/bright-eyes-performing-wide-awake-and-brooklyn-new-york-01-11-2027/event/00006513D0836139",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/1f2/a83c144a-7361-4c24-8472-5c57565bc1f2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-01-13T23:30:00",
@@ -6863,12 +6783,32 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-03-21T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1805587200000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-03-24T22:30:00",
       "date_raw": "2027-03-24T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-03-28T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1806192000000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -7703,11 +7643,11 @@
       "price": ""
     },
     {
-      "venue_name": "Freddy's",
-      "title": "Freddy's Halloween Dance Party with DJ Evil Dee & Ben the Beyonder",
+      "venue_name": "Fred's Dog House",
+      "title": "Brunchin' Sunday November 1st 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
       "date": null,
-      "date_raw": "Sat, Oct 31, 20268:00\u202fPMSun, Nov 1, 20262:00\u202fAM",
-      "url": "https://www.freddysbar.com/events/freddys-halloween-dance-party",
+      "date_raw": "Brunchin' Sunday November 1st 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
+      "url": "https://www.fredsdoghouse.com/event/tonight-on-the-pianoblues-boogie-woogie-and-more-with-bill-malchow/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -7778,6 +7718,16 @@
       "date": null,
       "date_raw": "Thu, Jan 7, 202711:30\u202fPMFri, Jan 8, 202712:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-dfhtr-ndrdj",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Freddy's Halloween Dance Party with DJ Evil Dee & Ben the Beyonder",
+      "date": null,
+      "date_raw": "Sat, Oct 31, 20268:00\u202fPMSun, Nov 1, 20262:00\u202fAM",
+      "url": "https://www.freddysbar.com/events/freddys-halloween-dance-party",
       "description": "",
       "image_url": "",
       "price": ""
