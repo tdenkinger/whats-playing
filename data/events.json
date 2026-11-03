@@ -1,8 +1,6 @@
 {
-  "scraped_at": "2026-11-02T21:59:25.991392+00:00",
-  "failed_venues": [
-    "Jalopy Theatre"
-  ],
+  "scraped_at": "2026-11-03T19:52:40.853381+00:00",
+  "failed_venues": [],
   "events": [
     {
       "venue_name": "Freddy's",
@@ -30,16 +28,6 @@
       "date": "2026-10-18T00:00:00",
       "date_raw": "Sunday, October 18, 2026",
       "url": "https://www.freddysbar.com/events/richard-on-piano-in-the-frontroom-every-1st-3rd-sunday-z8lzf",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Mimsey\u2019s Open Mic- every 1st & 3rd Sunday- Music, Comedy, & Poetry Welcome",
-      "date": "2026-10-18T00:00:00",
-      "date_raw": "Sunday, October 18, 2026",
-      "url": "https://www.freddysbar.com/events/mtmqq3shf04kfqyxidsgfo82x4cfg1-gzf9a-35nx2-aklzj-ac5lr-whr6d-mgbzd-4xygc-55djj-x9amw-w328m-n5k27-5jnag-ws8l2-yjwan-ksm5p-y9k7z-k8sjh-bxxbp",
       "description": "",
       "image_url": "",
       "price": ""
@@ -285,136 +273,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Happy Hour Jam with John Merrill Trio \u2014 Jazzcultural",
-      "date": "2026-11-02T16:00:00",
-      "date_raw": "Nov. 2, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34691-happy-hour-jam-with-john-merrill-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Spike Wilner Trio \u2014 Mezzrow",
-      "date": "2026-11-02T18:00:00",
-      "date_raw": "Nov. 2, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34214-spike-wilner-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mike Clark Quartet \u2014 Smalls",
-      "date": "2026-11-02T18:00:00",
-      "date_raw": "Nov. 2, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34204-mike-clark-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Gervis Myles Trio",
-      "date": "2026-11-02T18:30:00",
-      "date_raw": "Monday November 2nd 06:30 PM",
-      "url": "",
-      "description": "Gervis Myles (b)Chris Coreil (p)Marrs (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Igor Lumpert Quartet",
-      "date": "2026-11-02T18:30:00",
-      "date_raw": "Monday November 2nd 06:30 PM",
-      "url": "",
-      "description": "Igor Lumpert (ts&soprano saxophone)Marta S\u00e1nchez (p)Noah Garabedian (b)Mark Whitfield Jr. (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Yebba",
-      "date": "2026-11-02T19:00:00",
-      "date_raw": "2026-11-02T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/yebba-brooklyn-new-york-11-02-2026/event/00006513F7ACF009",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/265/7f0e0311-ea9d-435f-9696-2d030a041265_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ari Hoenig Trio ft. Gabe Terracciano \u2014 Jazzcultural",
-      "date": "2026-11-02T20:00:00",
-      "date_raw": "Nov. 2, 2026 8:00 PM",
-      "url": "https://www.smallslive.com/events/34205-ari-hoenig-trio-ft-gabe-terracciano/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Will Gorman Trio",
-      "date": "2026-11-02T21:00:00",
-      "date_raw": "Monday November 2nd 09:00 PM",
-      "url": "",
-      "description": "Will Gorman (p&v)Vince Dupont (b)Eric Dupont (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Michael Kanan Trio \u2014 Mezzrow",
-      "date": "2026-11-02T21:00:00",
-      "date_raw": "Nov. 2, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34215-michael-kanan-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Lewis Trio \u2014 Smalls",
-      "date": "2026-11-02T21:00:00",
-      "date_raw": "Nov. 2, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34225-eric-lewis-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Samir Boehringer Quartet",
-      "date": "2026-11-02T21:30:00",
-      "date_raw": "Monday November 2nd 09:30 PM",
-      "url": "",
-      "description": "Samir Boehringer (d)Tomer Sasson (g)Xavier Kim (p)Cyrus Campbell (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "VINYL AFTER HOURS \u2014 Mezzrow",
-      "date": "2026-11-02T23:30:00",
-      "date_raw": "Nov. 2, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34446-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Adam Ray \u2014 Smalls",
-      "date": "2026-11-02T23:55:00",
-      "date_raw": "Nov. 2, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34352-jam-session-hosted-by-adam-ray/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Pizza Mermaid's Aquarium of Friendship",
       "date": "2026-11-03T00:00:00",
@@ -501,6 +359,16 @@
       "date_raw": "Tuesday November 3rd 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
       "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ethan Kogan Trio",
+      "date": "2026-11-03T21:00:00",
+      "date_raw": "Tuesday November 3rd 09:00 PM",
+      "url": "",
+      "description": "Ethan Kogan (d)Emmanuel Michael (g)Asante Santi Debriano (b)",
       "image_url": "",
       "price": ""
     },
@@ -695,6 +563,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-11-04T23:30:00",
+      "date_raw": "2026-11-04T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "VINYL AFTER HOURS \u2014 Mezzrow",
       "date": "2026-11-04T23:30:00",
@@ -731,6 +609,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/184/1793840400000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Roots n' Ruckus! NOVEMBER!",
+      "date": "2026-11-05T01:30:00",
+      "date_raw": "2026-11-05T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/roots_n_ruckus_nove_2",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -905,6 +793,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Singing the Alan Lomax Archive: A Benefit for the Association for Cultural Equity",
+      "date": "2026-11-06T00:00:00",
+      "date_raw": "2026-11-06T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/singingthealanlomaxarchive",
+      "description": "",
+      "image_url": "",
+      "price": "$105.19"
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Dustin Lowman Presents Legendary Lyricists Volume II: Leonard Cohen",
       "date": "2026-11-06T01:00:00",
@@ -916,10 +814,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Panas Athanatos Trio \u2014 Jazzcultural",
+      "title": "Jam in the Cafe with Panas Athanatos \u2014 Jazzcultural",
       "date": "2026-11-06T14:00:00",
       "date_raw": "Nov. 6, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34705-jam-in-the-cafe-with-panas-athanatos-trio/",
+      "url": "https://www.smallslive.com/events/34705-jam-in-the-cafe-with-panas-athanatos/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -981,6 +879,16 @@
       "date_raw": "Friday November 6th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
       "url": "https://www.fredsdoghouse.com/event/friday-march-6th-new-moon-acoustic-blues-trio-copy/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ralph Lalama Trio",
+      "date": "2026-11-06T21:00:00",
+      "date_raw": "Friday November 6th 09:00 PM",
+      "url": "",
+      "description": "Ralph Lalama (saxophone)Leonieke Scheuble (org)Zach Malian (d)",
       "image_url": "",
       "price": ""
     },
@@ -1110,6 +1018,26 @@
       "date": "2026-11-07T18:00:00",
       "date_raw": "Nov. 7, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34233-roxy-coss-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Peter Watrous Sextet",
+      "date": "2026-11-07T18:30:00",
+      "date_raw": "Saturday November 7th 06:30 PM",
+      "url": "",
+      "description": "Peter Watrous (g)Ben Lerner (saxophone)Matt Knoegel\u00a0(saxophone)Anthony Pearlman (p)Thorbj\u00f8rn Stefansson (b)Angus Mason (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Early Set Saturday November 7th 6:30pm \u2022 Blues & Americana with Saint Gevendon!",
+      "date": "2026-11-07T18:30:00",
+      "date_raw": "Early Set Saturday November 7th 6:30pm \u2022 Blues & Americana with Saint Gevendon!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-may-20th-830pm-blues-americana-with-saint-gevendon/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1285,6 +1213,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Sunday November 8th 6:30pm  \u2022 Blues with Bobby Bryan!",
+      "date": "2026-11-08T18:30:00",
+      "date_raw": "Sunday November 8th 6:30pm  \u2022 Blues with Bobby Bryan!",
+      "url": "https://www.fredsdoghouse.com/event/sunday-november-8th-630pm-blues-with-bobby-bryan-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Lage Lund Quartet \u2014 Jazzcultural",
       "date": "2026-11-08T19:00:00",
@@ -1391,6 +1329,16 @@
       "date_raw": "Nov. 9, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34380-tim-hagans-synesthesia-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Cyrus Campbell Trio",
+      "date": "2026-11-09T18:30:00",
+      "date_raw": "Monday November 9th 06:30 PM",
+      "url": "",
+      "description": "Cyrus Campbell (b)Stacy Dillard (saxophone)Sam Bolduc (d)",
       "image_url": "",
       "price": ""
     },
@@ -1535,6 +1483,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday November 10th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-11-10T20:30:00",
+      "date_raw": "Tuesday November 10th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-august-4th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jordan Piper Trio \u2014 Mezzrow",
       "date": "2026-11-10T21:00:00",
@@ -1655,6 +1613,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday November 11th 8:30-11:00pm \u2022 Texas Tango Organ Trio!",
+      "date": "2026-11-11T20:30:00",
+      "date_raw": "Wednesday November 11th 8:30-11:00pm \u2022 Texas Tango Organ Trio!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-may-7th-830pm-texas-tango-organ-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Yaniv Taubenhouse  Trio \u2014 Mezzrow",
       "date": "2026-11-11T21:00:00",
@@ -1681,6 +1649,16 @@
       "date_raw": "Wednesday November 11th 09:30 PM",
       "url": "",
       "description": "Tamir Hochman (saxophone)Paul Gill (b)Joe Strasser (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-11-11T23:30:00",
+      "date_raw": "2026-11-11T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -1723,6 +1701,16 @@
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "The Garrett Boys",
+      "date": "2026-11-12T01:30:00",
+      "date_raw": "2026-11-12T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/the_garrett_boys",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -1771,6 +1759,16 @@
       "date_raw": "Nov. 12, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/34243-robert-scheps-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ben Barnett Quartet",
+      "date": "2026-11-12T21:00:00",
+      "date_raw": "Thursday November 12th 09:00 PM",
+      "url": "",
+      "description": "Ben Barnett (trombone)Ray Gallon (p)Ahmed McLemore (b)Chris Latona (d)",
       "image_url": "",
       "price": ""
     },
@@ -1875,6 +1873,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Cascadence w/ Alexa Barchini",
+      "date": "2026-11-13T00:30:00",
+      "date_raw": "2026-11-13T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/cascadence_w_alexa_b",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Alex Dupree Band",
       "date": "2026-11-13T01:00:00",
@@ -1886,10 +1894,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Panas Athanatos Trio \u2014 Jazzcultural",
+      "title": "Jam in the Cafe with Panas Athanatos \u2014 Jazzcultural",
       "date": "2026-11-13T14:00:00",
       "date_raw": "Nov. 13, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34708-jam-in-the-cafe-with-panas-athanatos-trio/",
+      "url": "https://www.smallslive.com/events/34708-jam-in-the-cafe-with-panas-athanatos/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2043,6 +2051,16 @@
       "description": "J.M. Clifford is a Brooklyn-based singer-songwriter and elementary school music educator whose work blends bluegrass, folk, and Americana with a strong narrative voice. A rising presence on the national songwriting circuit, he has earned top honors at the Pensacola Beach Songwriter Festival and Solarfest, and was a finalist in the 2025 Telluride Troubadour Songwriting Contest and the 2024 American",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jen Hodge Celebrates 30 Years on Bass!!!",
+      "date": "2026-11-14T01:30:00",
+      "date_raw": "2026-11-14T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jen_hodge_celebrates",
+      "description": "",
+      "image_url": "",
+      "price": "$28"
     },
     {
       "venue_name": "Smalls Live",
@@ -2215,6 +2233,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Chloe Kimes",
+      "date": "2026-11-15T01:30:00",
+      "date_raw": "2026-11-15T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/chloe_kimes",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Vocal Open Mic Hosted By Noa Chait \u2014 Jazzcultural",
       "date": "2026-11-15T14:00:00",
@@ -2265,6 +2293,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Larry & Joe",
+      "date": "2026-11-15T19:00:00",
+      "date_raw": "2026-11-15T19:00:00.000Z",
+      "url": "https://www.viewcy.com/event/larry__joe_1",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Mike Moreno Quintet \u2014 Jazzcultural",
       "date": "2026-11-15T19:00:00",
@@ -2303,6 +2341,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "The Ranzo Boys \u201cSteal It Back\u201d Album Release Show",
+      "date": "2026-11-15T23:00:00",
+      "date_raw": "2026-11-15T23:00:00.000Z",
+      "url": "https://www.viewcy.com/event/the_ranzo_boys_steal",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -2625,6 +2673,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-11-18T23:30:00",
+      "date_raw": "2026-11-18T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "VINYL AFTER HOURS \u2014 Mezzrow",
       "date": "2026-11-18T23:30:00",
@@ -2663,6 +2721,16 @@
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Goatroper Album Release with Ghost Rodeo & Sam Brown",
+      "date": "2026-11-19T01:30:00",
+      "date_raw": "2026-11-19T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/goatroper_album_relea",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -3115,6 +3183,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "NYU YDSA Eyes on Delaney Fundraiser",
+      "date": "2026-11-22T00:00:00",
+      "date_raw": "2026-11-22T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/nyu_ydsa_eyes_on_dela",
+      "description": "",
+      "image_url": "",
+      "price": "$7"
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2026-11-22T01:00:00",
@@ -3345,6 +3423,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "No Regrets Coyote: Joni Mitchell's 'Hejira' 50th Anniversary",
+      "date": "2026-11-24T01:00:00",
+      "date_raw": "2026-11-24T01:00:00.000Z",
+      "url": "https://www.viewcy.com/event/no_regrets_coyote_jo",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Free Piano Lessons with Richard Clements & Happy Hour Jam \u2014 Jazzcultural",
       "date": "2026-11-24T16:00:00",
@@ -3531,6 +3619,16 @@
       "date_raw": "Wednesday November 25th 09:30 PM",
       "url": "",
       "description": "Diego Voglino (d)Victor Gould (p)Tamir Shmerling (b)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-11-25T23:30:00",
+      "date_raw": "2026-11-25T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -3745,6 +3843,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Hanksgiving 2027!",
+      "date": "2026-11-28T01:00:00",
+      "date_raw": "2026-11-28T01:00:00.000Z",
+      "url": "https://www.viewcy.com/event/hanksgiving_2027",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jam in the Cafe with Sam Lerner \u2014 Jazzcultural",
       "date": "2026-11-28T14:00:00",
@@ -3863,6 +3971,16 @@
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jim Kweskin's 'A Songster's Journey' Album Release",
+      "date": "2026-11-29T01:00:00",
+      "date_raw": "2026-11-29T01:00:00.000Z",
+      "url": "https://www.viewcy.com/event/jim_kweskins_a_song",
+      "description": "",
+      "image_url": "",
+      "price": "$28"
     },
     {
       "venue_name": "Smalls Live",
@@ -4210,6 +4328,16 @@
       "date": "2026-12-02T21:00:00",
       "date_raw": "Dec. 2, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34532-kyle-nasser-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-12-02T23:30:00",
+      "date_raw": "2026-12-02T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4595,6 +4723,26 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "A Charlie Brown Christmas with Aidan Scrimgeour",
+      "date": "2026-12-06T19:30:00",
+      "date_raw": "2026-12-06T19:30:00.000Z",
+      "url": "https://www.viewcy.com/event/a_charlie_brown_chris_4",
+      "description": "",
+      "image_url": "",
+      "price": "$22"
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Vanisha Gould Quartet \u2014 Mezzrow",
+      "date": "2026-12-06T21:00:00",
+      "date_raw": "Dec. 6, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34557-vanisha-gould-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Dan Aran Quartet \u2014 Smalls",
       "date": "2026-12-06T21:00:00",
@@ -4603,6 +4751,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "A Charlie Brown Christmas (Electric Band!) with Aidan Scrimgeour",
+      "date": "2026-12-06T23:30:00",
+      "date_raw": "2026-12-06T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/a_charlie_brown_chris_5",
+      "description": "",
+      "image_url": "",
+      "price": "$22"
     },
     {
       "venue_name": "Freddy's",
@@ -4673,6 +4831,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jay Bragg Presents: Christmas in New Vaudeville",
+      "date": "2026-12-08T00:30:00",
+      "date_raw": "2026-12-08T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jay_braggs_christma",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -4795,6 +4963,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-12-09T23:30:00",
+      "date_raw": "2026-12-09T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "VINYL AFTER HOURS \u2014 Mezzrow",
       "date": "2026-12-09T23:30:00",
@@ -4885,6 +5063,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy's 20th Anniversary Party ft. Jalopy Records Artists Feral Foster, Mamie Minch & Jackson and the Janks!",
+      "date": "2026-12-11T00:30:00",
+      "date_raw": "2026-12-11T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopys_20th_anniver",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Lucy Yeghiazaryan Trio \u2014 Mezzrow",
       "date": "2026-12-11T18:00:00",
@@ -4930,6 +5118,16 @@
       "date": "2026-12-11T21:00:00",
       "date_raw": "Dec. 11, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34567-jd-walter-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Freddie Bryant Transformation ORGAN Quartet \u2014 Smalls",
+      "date": "2026-12-11T21:00:00",
+      "date_raw": "Dec. 11, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34603-freddie-bryant-transformation-organ-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5005,11 +5203,31 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Yacht Rock Choir!",
+      "date": "2026-12-12T21:00:00",
+      "date_raw": "2026-12-12T21:00:00.000Z",
+      "url": "https://www.viewcy.com/event/yacht_rock_choir_2",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "JD Walter Quartet \u2014 Mezzrow",
       "date": "2026-12-12T21:00:00",
       "date_raw": "Dec. 12, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34568-jd-walter-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Freddie Bryant Transformation ORGAN Quartet \u2014 Smalls",
+      "date": "2026-12-12T21:00:00",
+      "date_raw": "Dec. 12, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34605-freddie-bryant-transformation-organ-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5043,6 +5261,16 @@
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Princess Backpack & Benjamin",
+      "date": "2026-12-13T16:00:00",
+      "date_raw": "2026-12-13T16:00:00.000Z",
+      "url": "https://www.viewcy.com/event/princess_backpack__b_2",
+      "description": "",
+      "image_url": "",
+      "price": "$12"
     },
     {
       "venue_name": "Smalls Live",
@@ -5095,6 +5323,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Sylvia Cuenca Quintet \u2014 Smalls",
+      "date": "2026-12-13T21:00:00",
+      "date_raw": "Dec. 13, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34607-sylvia-cuenca-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-12-14T00:00:00",
@@ -5103,6 +5341,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Michael Daves & Jacob Jolliff",
+      "date": "2026-12-14T01:00:00",
+      "date_raw": "2026-12-14T01:00:00.000Z",
+      "url": "https://www.viewcy.com/event/michael_daves__jacob_2",
+      "description": "",
+      "image_url": "",
+      "price": "$28"
     },
     {
       "venue_name": "Smalls Live",
@@ -5176,6 +5424,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Dave DeMotta Trio \u2014 Mezzrow",
+      "date": "2026-12-16T18:00:00",
+      "date_raw": "Dec. 16, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34663-dave-demotta-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Tom Dempsey/Tim Ferguson Quartet \u2014 Smalls",
       "date": "2026-12-16T18:00:00",
       "date_raw": "Dec. 16, 2026 6:00 PM",
@@ -5200,6 +5458,16 @@
       "date": "2026-12-16T21:00:00",
       "date_raw": "Dec. 16, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34612-alex-weitz-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-12-16T23:30:00",
+      "date_raw": "2026-12-16T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5250,6 +5518,16 @@
       "date": "2026-12-17T21:00:00",
       "date_raw": "Dec. 17, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34615-colin-stranahan-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "James Austin Jr Quintet \u2014 Jazzcultural",
+      "date": "2026-12-17T22:30:00",
+      "date_raw": "Dec. 17, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/34724-james-austin-jr-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5310,6 +5588,16 @@
       "date": "2026-12-18T21:00:00",
       "date_raw": "Dec. 18, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34580-caelan-cardello-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Philip Harper Quintet \u2014 Jazzcultural",
+      "date": "2026-12-18T22:30:00",
+      "date_raw": "Dec. 18, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/34650-philip-harper-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5395,11 +5683,31 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Elizabeth Mitchell",
+      "date": "2026-12-19T21:00:00",
+      "date_raw": "2026-12-19T21:00:00.000Z",
+      "url": "https://www.viewcy.com/event/elizabeth_mitchell",
+      "description": "",
+      "image_url": "",
+      "price": "$17"
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Caelan Cardello Trio \u2014 Mezzrow",
       "date": "2026-12-19T21:00:00",
       "date_raw": "Dec. 19, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34581-caelan-cardello-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Philip Harper Quintet \u2014 Jazzcultural",
+      "date": "2026-12-19T22:30:00",
+      "date_raw": "Dec. 19, 2026 10:30 PM",
+      "url": "https://www.smallslive.com/events/34651-philip-harper-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5635,12 +5943,32 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-12-23T23:30:00",
+      "date_raw": "2026-12-23T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Smokey's Roundup",
       "date": "2026-12-24T01:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/184/1798074000000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Asaf Yuria Quartet \u2014 Smalls",
+      "date": "2026-12-24T21:00:00",
+      "date_raw": "Dec. 24, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34625-asaf-yuria-quartet/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -5895,12 +6223,62 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2026-12-30T23:30:00",
+      "date_raw": "2026-12-30T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Smokey's Roundup",
       "date": "2026-12-31T01:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/184/1798678800000",
       "description": "Guitarist Smokey Hormel and his red-hot band play Western Swing in Brooklyn every week \u2013 celebrating the songs of Bob Wills, Milton Brown, Cindy Walker, and more. \"My introduction to Western Swing happened by chance at a young age. When I was a teenager looking to study Jazz guitar, a referral from Barney Kessell lead to the good fortune of finding one of the all time great swing guitarists, Jimmy",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Spike Wilner Trio \u2014 Mezzrow",
+      "date": "2026-12-31T19:00:00",
+      "date_raw": "Dec. 31, 2026 7:00 PM",
+      "url": "https://www.smallslive.com/events/34546-spike-wilner-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "David Gibson Quartet \u2014 Smalls",
+      "date": "2026-12-31T19:00:00",
+      "date_raw": "Dec. 31, 2026 7:00 PM",
+      "url": "https://www.smallslive.com/events/34723-david-gibson-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Noa Lee Chait Quartet \u2014 Mezzrow",
+      "date": "2026-12-31T22:00:00",
+      "date_raw": "Dec. 31, 2026 10:00 PM",
+      "url": "https://www.smallslive.com/events/34571-noa-lee-chait-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Lucy Wijnands Quartet \u2014 Smalls",
+      "date": "2026-12-31T22:00:00",
+      "date_raw": "Dec. 31, 2026 10:00 PM",
+      "url": "https://www.smallslive.com/events/34638-lucy-wijnands-quartet/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -5931,6 +6309,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/279/1798954200000",
       "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together. Laid back monthly jam, not limited to gospel music.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-01-06T23:30:00",
+      "date_raw": "2027-01-06T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -5995,6 +6383,26 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-01-13T23:30:00",
+      "date_raw": "2027-01-13T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Bright Eyes performing Wide Awake and Digital Ash",
+      "date": "2027-01-14T17:30:00",
+      "date_raw": "2027-01-14T17:30:00-05:00",
+      "url": "https://www.ticketmaster.com/bright-eyes-performing-wide-awake-and-brooklyn-new-york-01-14-2027/event/00006513D08A6148",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/1f2/a83c144a-7361-4c24-8472-5c57565bc1f2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "ASTRLPLNE",
       "date": "2027-01-16T00:00:00",
@@ -6035,6 +6443,26 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "The Cody Sisters",
+      "date": "2027-01-17T01:30:00",
+      "date_raw": "2027-01-17T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/the_cody_sisters",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-01-20T23:30:00",
+      "date_raw": "2027-01-20T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Bad Movie Night with Adam",
       "date": "2027-01-23T00:00:00",
@@ -6053,6 +6481,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Hammer County",
+      "date": "2027-01-23T01:00:00",
+      "date_raw": "2027-01-23T01:00:00.000Z",
+      "url": "https://www.viewcy.com/event/hammer_county_1",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Freddy's",
@@ -6075,6 +6513,26 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Rock Hearts",
+      "date": "2027-01-24T23:30:00",
+      "date_raw": "2027-01-24T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/rock_hearts_1",
+      "description": "",
+      "image_url": "",
+      "price": "$22"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-01-27T23:30:00",
+      "date_raw": "2027-01-27T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Writers Studio Reading",
       "date": "2027-01-30T00:00:00",
@@ -6091,6 +6549,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/277/1801357200000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-02-03T23:30:00",
+      "date_raw": "2027-02-03T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6125,6 +6593,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-02-10T23:30:00",
+      "date_raw": "2027-02-10T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2027-02-14T01:00:00",
@@ -6135,12 +6613,32 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-02-17T23:30:00",
+      "date_raw": "2027-02-17T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2027-02-21T01:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/277/1803171600000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-02-24T23:30:00",
+      "date_raw": "2027-02-24T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6161,6 +6659,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/277/1803776400000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-03-03T23:30:00",
+      "date_raw": "2027-03-03T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6195,12 +6703,52 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-03-10T23:30:00",
+      "date_raw": "2027-03-10T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Stash Wyslouch",
+      "date": "2027-03-12T01:30:00",
+      "date_raw": "2027-03-12T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/stash_wyslouch_2",
+      "description": "",
+      "image_url": "",
+      "price": "$28"
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2027-03-14T01:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/277/1804986000000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Johanna Warren / Magnetize",
+      "date": "2027-03-15T23:30:00",
+      "date_raw": "2027-03-15T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/johanna_warren__magn",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-03-17T22:30:00",
+      "date_raw": "2027-03-17T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6215,12 +6763,32 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-03-24T22:30:00",
+      "date_raw": "2027-03-24T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2027-03-28T00:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/277/1806192000000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-03-31T22:30:00",
+      "date_raw": "2027-03-31T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6235,11 +6803,61 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-04-07T22:30:00",
+      "date_raw": "2027-04-07T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Presents: Esther Rose at Queens Theatre",
+      "date": "2027-04-11T00:00:00",
+      "date_raw": "2027-04-11T00:00:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_presents_esth",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-04-14T22:30:00",
+      "date_raw": "2027-04-14T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-04-21T22:30:00",
+      "date_raw": "2027-04-21T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Writers Studio Reading",
       "date": "2027-04-24T00:00:00",
       "date_raw": "Saturday, April 24, 2027",
       "url": "https://www.freddysbar.com/events/2fyh7mdrxjgdjs68wlsg26lblycfn8",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-04-28T22:30:00",
+      "date_raw": "2027-04-28T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6255,11 +6873,761 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-05-05T22:30:00",
+      "date_raw": "2027-05-05T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-05-12T22:30:00",
+      "date_raw": "2027-05-12T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-05-19T22:30:00",
+      "date_raw": "2027-05-19T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-05-26T22:30:00",
+      "date_raw": "2027-05-26T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-06-02T22:30:00",
+      "date_raw": "2027-06-02T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "TBD",
       "date": "2027-06-04T00:00:00",
       "date_raw": "Friday, June 4, 2027",
       "url": "https://www.freddysbar.com/events/tbd-1",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-06-09T22:30:00",
+      "date_raw": "2027-06-09T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-06-16T22:30:00",
+      "date_raw": "2027-06-16T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-06-23T22:30:00",
+      "date_raw": "2027-06-23T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-06-30T22:30:00",
+      "date_raw": "2027-06-30T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-07-07T22:30:00",
+      "date_raw": "2027-07-07T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-07-14T22:30:00",
+      "date_raw": "2027-07-14T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-07-21T22:30:00",
+      "date_raw": "2027-07-21T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-07-28T22:30:00",
+      "date_raw": "2027-07-28T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-08-04T22:30:00",
+      "date_raw": "2027-08-04T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-08-11T22:30:00",
+      "date_raw": "2027-08-11T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-08-18T22:30:00",
+      "date_raw": "2027-08-18T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-08-25T22:30:00",
+      "date_raw": "2027-08-25T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-09-01T22:30:00",
+      "date_raw": "2027-09-01T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-09-08T22:30:00",
+      "date_raw": "2027-09-08T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-09-15T22:30:00",
+      "date_raw": "2027-09-15T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-09-22T22:30:00",
+      "date_raw": "2027-09-22T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-09-29T22:30:00",
+      "date_raw": "2027-09-29T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-10-06T22:30:00",
+      "date_raw": "2027-10-06T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-10-13T22:30:00",
+      "date_raw": "2027-10-13T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-10-20T22:30:00",
+      "date_raw": "2027-10-20T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-10-27T22:30:00",
+      "date_raw": "2027-10-27T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-11-03T22:30:00",
+      "date_raw": "2027-11-03T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-11-10T23:30:00",
+      "date_raw": "2027-11-10T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-11-17T23:30:00",
+      "date_raw": "2027-11-17T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-11-24T23:30:00",
+      "date_raw": "2027-11-24T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-12-01T23:30:00",
+      "date_raw": "2027-12-01T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-12-08T23:30:00",
+      "date_raw": "2027-12-08T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-12-15T23:30:00",
+      "date_raw": "2027-12-15T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-12-22T23:30:00",
+      "date_raw": "2027-12-22T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2027-12-29T23:30:00",
+      "date_raw": "2027-12-29T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-01-05T23:30:00",
+      "date_raw": "2028-01-05T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-01-12T23:30:00",
+      "date_raw": "2028-01-12T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-01-19T23:30:00",
+      "date_raw": "2028-01-19T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-01-26T23:30:00",
+      "date_raw": "2028-01-26T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-02-02T23:30:00",
+      "date_raw": "2028-02-02T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-02-09T23:30:00",
+      "date_raw": "2028-02-09T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-02-16T23:30:00",
+      "date_raw": "2028-02-16T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-02-23T23:30:00",
+      "date_raw": "2028-02-23T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-03-01T23:30:00",
+      "date_raw": "2028-03-01T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-03-08T23:30:00",
+      "date_raw": "2028-03-08T23:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-03-15T22:30:00",
+      "date_raw": "2028-03-15T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-03-22T22:30:00",
+      "date_raw": "2028-03-22T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-03-29T22:30:00",
+      "date_raw": "2028-03-29T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-04-05T22:30:00",
+      "date_raw": "2028-04-05T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-04-12T22:30:00",
+      "date_raw": "2028-04-12T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-04-19T22:30:00",
+      "date_raw": "2028-04-19T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-04-26T22:30:00",
+      "date_raw": "2028-04-26T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-05-03T22:30:00",
+      "date_raw": "2028-05-03T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-05-10T22:30:00",
+      "date_raw": "2028-05-10T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-05-17T22:30:00",
+      "date_raw": "2028-05-17T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-05-24T22:30:00",
+      "date_raw": "2028-05-24T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-05-31T22:30:00",
+      "date_raw": "2028-05-31T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-06-07T22:30:00",
+      "date_raw": "2028-06-07T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-06-14T22:30:00",
+      "date_raw": "2028-06-14T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-06-21T22:30:00",
+      "date_raw": "2028-06-21T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-06-28T22:30:00",
+      "date_raw": "2028-06-28T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-07-05T22:30:00",
+      "date_raw": "2028-07-05T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-07-12T22:30:00",
+      "date_raw": "2028-07-12T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-07-19T22:30:00",
+      "date_raw": "2028-07-19T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-07-26T22:30:00",
+      "date_raw": "2028-07-26T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-08-02T22:30:00",
+      "date_raw": "2028-08-02T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-08-09T22:30:00",
+      "date_raw": "2028-08-09T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-08-16T22:30:00",
+      "date_raw": "2028-08-16T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-08-23T22:30:00",
+      "date_raw": "2028-08-23T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-08-30T22:30:00",
+      "date_raw": "2028-08-30T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-09-06T22:30:00",
+      "date_raw": "2028-09-06T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-09-13T22:30:00",
+      "date_raw": "2028-09-13T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-09-20T22:30:00",
+      "date_raw": "2028-09-20T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
+      "date": "2028-09-27T22:30:00",
+      "date_raw": "2028-09-27T22:30:00.000Z",
+      "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Brunchin' Sunday November 8th 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
+      "date": null,
+      "date_raw": "Brunchin' Sunday November 8th 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
+      "url": "https://www.fredsdoghouse.com/event/brunchin-sunday-november-8th-2pm-on-the-pianoblues-boogie-woogie-and-more-with-bill-malchow-copy/",
       "description": "",
       "image_url": "",
       "price": ""
