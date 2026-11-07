@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-11-06T19:44:47.281391+00:00",
+  "scraped_at": "2026-11-07T17:53:39.864031+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
-      "date": "2026-10-19T00:00:00",
-      "date_raw": "Monday, October 19, 2026",
-      "url": "https://www.freddysbar.com/events/so-what-happened-was-a-monthly-storytelling-series-1-7rf63-e6p3h-j2733-se3g9",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "SAFKA & Friends, a New Music Residency- new bands monthly (3rd Tuesdays)",
-      "date": "2026-10-20T00:00:00",
-      "date_raw": "Tuesday, October 20, 2026",
-      "url": "https://www.freddysbar.com/events/original-music-open-mic-4",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
@@ -264,16 +244,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Hair Braiding Workshop",
-      "date": "2026-11-06T00:00:00",
-      "date_raw": "Friday, November 6, 2026",
-      "url": "https://www.freddysbar.com/events/hair-braiding-workshop",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Jessi Robertson & Local Correspondents Reunion",
       "date": "2026-11-06T00:00:00",
       "date_raw": "Friday, November 6, 2026",
@@ -283,151 +253,11 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Panas Athanatos \u2014 Jazzcultural",
-      "date": "2026-11-06T14:00:00",
-      "date_raw": "Nov. 6, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34705-jam-in-the-cafe-with-panas-athanatos/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Rick Germanson Trio \u2014 Mezzrow",
-      "date": "2026-11-06T18:00:00",
-      "date_raw": "Nov. 6, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34220-rick-germanson-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Roxy Coss Quintet \u2014 Smalls",
-      "date": "2026-11-06T18:00:00",
-      "date_raw": "Nov. 6, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34232-roxy-coss-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Fima Chupakhin Trio",
-      "date": "2026-11-06T18:30:00",
-      "date_raw": "Friday November 6th 06:30 PM",
-      "url": "",
-      "description": "Fima Chupakhin (p)James Robbins (b)Gary Kerkezou (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Marcos Varela Quartet",
-      "date": "2026-11-06T18:30:00",
-      "date_raw": "Friday November 6th 06:30 PM",
-      "url": "",
-      "description": "Marcos Varela (b)Joey Curreri (tp)Eden Ladin (p)Ofri Nehemya (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Sammy Rae & The Friends - the GET DOWN!",
-      "date": "2026-11-06T19:00:00",
-      "date_raw": "2026-11-06T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/sammy-rae-the-friends-the-get-brooklyn-new-york-11-06-2026/event/0000643700A7F2C3",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/179/ef41dd90-262b-4508-a1e2-47fb26e3c179_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Lage Lund Quartet \u2014 Jazzcultural",
-      "date": "2026-11-06T19:00:00",
-      "date_raw": "Nov. 6, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34209-lage-lund-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday November 6th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
-      "date": "2026-11-06T20:30:00",
-      "date_raw": "Friday November 6th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
-      "url": "https://www.fredsdoghouse.com/event/friday-march-6th-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ralph Lalama Trio",
-      "date": "2026-11-06T21:00:00",
-      "date_raw": "Friday November 6th 09:00 PM",
-      "url": "",
-      "description": "Ralph Lalama (saxophone)Leonieke Scheuble (org)Zach Malian (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Adam Birnbaum Trio \u2014 Mezzrow",
-      "date": "2026-11-06T21:00:00",
-      "date_raw": "Nov. 6, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34221-adam-birnbaum-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mark Sherman Quartet \u2014 Smalls",
-      "date": "2026-11-06T21:00:00",
-      "date_raw": "Nov. 6, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34234-mark-sherman-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Ray Gallon Trio",
-      "date": "2026-11-06T21:30:00",
-      "date_raw": "Friday November 6th 09:30 PM",
-      "url": "",
-      "description": "Ray Gallon (p)Aidan O\u2019Donnell (b)Finn Wiest (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Late Set with Bruce Williams Quartet \u2014 Jazzcultural",
-      "date": "2026-11-06T22:30:00",
-      "date_raw": "Nov. 6, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34210-late-set-with-bruce-williams-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano With William Hill III \u2014 Mezzrow",
-      "date": "2026-11-06T23:55:00",
-      "date_raw": "Nov. 6, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34500-round-midnight-solo-piano-with-william-hill-iii/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Smalls",
-      "date": "2026-11-06T23:55:00",
-      "date_raw": "Nov. 6, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34359-eric-wyatt-quartet/",
+      "venue_name": "Freddy's",
+      "title": "Hair Braiding Workshop",
+      "date": "2026-11-06T00:00:00",
+      "date_raw": "Friday, November 6, 2026",
+      "url": "https://www.freddysbar.com/events/hair-braiding-workshop",
       "description": "",
       "image_url": "",
       "price": ""
@@ -459,16 +289,6 @@
       "date_raw": "Saturday, November 7, 2026",
       "url": "https://www.freddysbar.com/events/geoff-the-dj-vinyl-digital-indiedance-set",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "KJ Denhert",
-      "date": "2026-11-07T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/63/1794013200000",
-      "description": "Internationally-acclaimed singer-songwriter KJ Denhert was recently tasked with telling her life story in a series of 10 slides. The first image she chose was that of a record player. \u201cI spent hours in front of the record player dancing to the same song over and over. I must have been about 4 \u2013 music really held me together growing up. \u201d KJ\u2019s career spans 40 years, 10 albums, with legions of devot",
       "image_url": "",
       "price": ""
     },
@@ -913,6 +733,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Thomas Linger Trio",
+      "date": "2026-11-09T21:00:00",
+      "date_raw": "Monday November 9th 09:00 PM",
+      "url": "",
+      "description": "Thomas Linger (p)Corentin Le Hir (b)Michael Ode (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Solo Guitar with Diego Figueiredo \u2014 Mezzrow",
       "date": "2026-11-09T21:00:00",
@@ -1153,6 +983,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "Dan Weisselberg Trio",
+      "date": "2026-11-11T18:30:00",
+      "date_raw": "Wednesday November 11th 06:30 PM",
+      "url": "",
+      "description": "Dan Weisselberg (b)Nicolai Daneck (p)Finn Wiest (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Tobias Gebb Trio",
       "date": "2026-11-11T18:30:00",
@@ -1189,6 +1029,16 @@
       "date_raw": "Wednesday November 11th 8:30-11:00pm \u2022 Texas Tango Organ Trio!",
       "url": "https://www.fredsdoghouse.com/event/thursday-may-7th-830pm-texas-tango-organ-trio/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Ilya Lushtak Quartet",
+      "date": "2026-11-11T21:00:00",
+      "date_raw": "Wednesday November 11th 09:00 PM",
+      "url": "",
+      "description": "Ilya Lushtak (g)Carlos Abadie (tp)Jamale Davis (b)Ocie Davis (d)",
       "image_url": "",
       "price": ""
     },
@@ -1733,6 +1583,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday November 14th 8:30pm \u2022 The National Reserve!",
+      "date": "2026-11-14T20:30:00",
+      "date_raw": "Saturday November 14th 8:30pm \u2022 The National Reserve!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-october-10th-830pm-the-national-reserve/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Fran\u00e7ois Moutin Trio",
       "date": "2026-11-14T21:00:00",
@@ -1949,6 +1809,16 @@
       "date_raw": "Nov. 15, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34402-saul-dautch-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Samuel Lerner Trio",
+      "date": "2026-11-15T21:30:00",
+      "date_raw": "Sunday November 15th 09:30 PM",
+      "url": "",
+      "description": "Samuel Lerner (p)Jessie Collins (as)Tony Golden (b)",
       "image_url": "",
       "price": ""
     },
@@ -4464,6 +4334,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki \u2014 Smalls",
+      "date": "2026-12-06T14:00:00",
+      "date_raw": "Dec. 6, 2026 2:00 PM",
+      "url": "https://www.smallslive.com/events/34374-smalls-afternoon-jam-session-hosted-by-ryo-sasaki/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Sarah King Quartet \u2014 Mezzrow",
       "date": "2026-12-06T18:00:00",
       "date_raw": "Dec. 6, 2026 6:00 PM",
@@ -4608,6 +4488,16 @@
       "date": "2026-12-07T21:00:00",
       "date_raw": "Dec. 7, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34558-tardo-hammer-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Joe Farnsworth Quartet \u2014 Smalls",
+      "date": "2026-12-07T21:00:00",
+      "date_raw": "Dec. 7, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34600-joe-farnsworth-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5594,6 +5484,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Kuni Mikami Trio \u2014 Mezzrow",
+      "date": "2026-12-16T21:00:00",
+      "date_raw": "Dec. 16, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34575-kuni-mikami-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Alex Weitz Quartet \u2014 Smalls",
       "date": "2026-12-16T21:00:00",
       "date_raw": "Dec. 16, 2026 9:00 PM",
@@ -5814,6 +5714,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "George Burton Quartet \u2014 Smalls",
+      "date": "2026-12-18T21:00:00",
+      "date_raw": "Dec. 18, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34617-george-burton-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Philip Harper Quintet \u2014 Jazzcultural",
       "date": "2026-12-18T22:30:00",
       "date_raw": "Dec. 18, 2026 10:30 PM",
@@ -5928,6 +5838,16 @@
       "date": "2026-12-19T21:00:00",
       "date_raw": "Dec. 19, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34581-caelan-cardello-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "George Burton Quartet \u2014 Smalls",
+      "date": "2026-12-19T21:00:00",
+      "date_raw": "Dec. 19, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34619-george-burton-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6158,6 +6078,16 @@
       "date": "2026-12-21T21:00:00",
       "date_raw": "Dec. 21, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34490-jesse-green-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Mike Ledonne Quartet \u2014 Smalls",
+      "date": "2026-12-21T21:00:00",
+      "date_raw": "Dec. 21, 2026 9:00 PM",
+      "url": "https://www.smallslive.com/events/34623-mike-ledonne-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6974,6 +6904,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Robert Edwards Quartet \u2014 Smalls",
+      "date": "2026-12-30T18:00:00",
+      "date_raw": "Dec. 30, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34636-robert-edwards-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Steve Sandberg Trio \u2014 Mezzrow",
       "date": "2026-12-30T21:00:00",
       "date_raw": "Dec. 30, 2026 9:00 PM",
@@ -7424,6 +7364,16 @@
     },
     {
       "venue_name": "Jalopy Theatre",
+      "title": "Bruce Molsky, Tony Trischka & Michael Daves",
+      "date": "2027-02-01T01:00:00",
+      "date_raw": "2027-02-01T01:00:00.000Z",
+      "url": "https://www.viewcy.com/event/bruce_molsky_tony_tr_1",
+      "description": "",
+      "image_url": "",
+      "price": "$33"
+    },
+    {
+      "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-02-03T23:30:00",
       "date_raw": "2027-02-03T23:30:00.000Z",
@@ -7440,6 +7390,16 @@
       "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-5-eb6ax-mw98f",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "State Radio",
+      "date": "2027-02-06T19:00:00",
+      "date_raw": "2027-02-06T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/state-radio-brooklyn-new-york-02-06-2027/event/000065452037F4DB",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/77f/cbc390db-8ea6-4ce5-8903-960c6aba777f_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -7749,6 +7709,16 @@
       "date_raw": "Saturday, April 24, 2027",
       "url": "https://www.freddysbar.com/events/2fyh7mdrxjgdjs68wlsg26lblycfn8",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-04-25T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1808611200000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
