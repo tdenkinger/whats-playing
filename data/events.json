@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-09T22:45:51.716976+00:00",
+  "scraped_at": "2026-11-10T20:04:08.026602+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -8,16 +8,6 @@
       "date": "2026-10-24T00:00:00",
       "date_raw": "Saturday, October 24, 2026",
       "url": "https://www.freddysbar.com/events/f5gttj2sazp2f5h6af83ed99k8a347",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Bad Movie Night with Adam",
-      "date": "2026-10-24T00:00:00",
-      "date_raw": "Saturday, October 24, 2026",
-      "url": "https://www.freddysbar.com/events/bad-movie-night-with-adam",
       "description": "",
       "image_url": "",
       "price": ""
@@ -283,146 +273,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Happy Hour Jam with John Merrill Trio \u2014 Jazzcultural",
-      "date": "2026-11-09T16:00:00",
-      "date_raw": "Nov. 9, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34694-happy-hour-jam-with-john-merrill-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jeremy Manasia Trio \u2014 Mezzrow",
-      "date": "2026-11-09T18:00:00",
-      "date_raw": "Nov. 9, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34305-jeremy-manasia-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Tim Hagans Synesthesia Quintet \u2014 Smalls",
-      "date": "2026-11-09T18:00:00",
-      "date_raw": "Nov. 9, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34380-tim-hagans-synesthesia-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Cyrus Campbell Trio",
-      "date": "2026-11-09T18:30:00",
-      "date_raw": "Monday November 9th 06:30 PM",
-      "url": "",
-      "description": "Cyrus Campbell (b)Stacy Dillard (saxophone)Sam Bolduc (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Timothy Norton Sextet",
-      "date": "2026-11-09T18:30:00",
-      "date_raw": "Monday November 9th 06:30 PM",
-      "url": "",
-      "description": "Timothy Norton (b)Imani Rousselle (v)Seth Trachy (ts)Josh Bruneau (tp)Se\u00e1n McCluskey (p)Roberto Giaquinto (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Orville Peck - Man Turned Mule Tour",
-      "date": "2026-11-09T19:00:00",
-      "date_raw": "2026-11-09T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-brooklyn-new-york-11-09-2026/event/000064F4C1072E4B",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/4da/8a560086-9fb3-4792-b8a1-f1ed67b054da_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Wayne Tucker Quintet \u2014 Jazzcultural",
-      "date": "2026-11-09T19:30:00",
-      "date_raw": "Nov. 9, 2026 7:30 PM",
-      "url": "https://www.smallslive.com/events/34240-wayne-tucker-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Thomas Linger Trio",
-      "date": "2026-11-09T21:00:00",
-      "date_raw": "Monday November 9th 09:00 PM",
-      "url": "",
-      "description": "Thomas Linger (p)Corentin Le Hir (b)Michael Ode (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Solo Guitar with Diego Figueiredo \u2014 Mezzrow",
-      "date": "2026-11-09T21:00:00",
-      "date_raw": "Nov. 9, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34304-solo-guitar-with-diego-figueiredo/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jerome Jennings Quintet \u2014 Smalls",
-      "date": "2026-11-09T21:00:00",
-      "date_raw": "Nov. 9, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34381-jerome-jennings-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Low Key Trio",
-      "date": "2026-11-09T21:30:00",
-      "date_raw": "Monday November 9th 09:30 PM",
-      "url": "",
-      "description": "Rob Duguay (b)Jordan Piper (p)Nadav Snir-Zelniker (d)Special Guest:\u00a0Nuci Nebieridze (v)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Maki Nientao \u2014 Jazzcultural",
-      "date": "2026-11-09T22:15:00",
-      "date_raw": "Nov. 9, 2026 10:15 PM",
-      "url": "https://www.smallslive.com/events/34782-jam-in-the-cafe-with-maki-nientao/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "VINYL AFTER HOURS \u2014 Mezzrow",
-      "date": "2026-11-09T23:30:00",
-      "date_raw": "Nov. 9, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34450-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Mike Boone \u2014 Smalls",
-      "date": "2026-11-09T23:55:00",
-      "date_raw": "Nov. 9, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34378-jam-session-hosted-by-mike-boone/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Big Joe's Happiness Exchange",
       "date": "2026-11-10T00:00:00",
@@ -554,10 +404,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Yago Vasquez \u2014 Jazzcultural",
+      "title": "Jam in the Cafe with Yago Vazquez \u2014 Jazzcultural",
       "date": "2026-11-10T22:15:00",
       "date_raw": "Nov. 10, 2026 10:15 PM",
-      "url": "https://www.smallslive.com/events/34780-jam-in-the-cafe-with-yago-vasquez/",
+      "url": "https://www.smallslive.com/events/34780-jam-in-the-cafe-with-yago-vazquez/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1168,6 +1018,16 @@
       "date": "2026-11-14T00:00:00",
       "date_raw": "Saturday, November 14, 2026",
       "url": "https://www.freddysbar.com/events/blk-krwn-entertainment",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Robyn Shapiro",
+      "date": "2026-11-14T00:00:00",
+      "date_raw": "Saturday, November 14, 2026",
+      "url": "https://www.freddysbar.com/events/robyn-shapiro",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5024,6 +4884,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jeremy Manasia Trio \u2014 Mezzrow",
+      "date": "2026-12-14T18:00:00",
+      "date_raw": "Dec. 14, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34656-jeremy-manasia-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Jochen Rueckert Quartet \u2014 Smalls",
       "date": "2026-12-14T18:00:00",
       "date_raw": "Dec. 14, 2026 6:00 PM",
@@ -5474,6 +5344,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Round Midnight Solo Piano With Janice Friedman \u2014 Mezzrow",
+      "date": "2026-12-18T23:55:00",
+      "date_raw": "Dec. 18, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/34844-round-midnight-solo-piano-with-janice-friedman/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Chris Beck Quartet \u2014 Smalls",
       "date": "2026-12-18T23:55:00",
       "date_raw": "Dec. 18, 2026 11:55 PM",
@@ -5598,6 +5478,16 @@
       "date": "2026-12-19T22:30:00",
       "date_raw": "Dec. 19, 2026 10:30 PM",
       "url": "https://www.smallslive.com/events/34651-philip-harper-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Round Midnight Solo Piano With Janice Friedman \u2014 Mezzrow",
+      "date": "2026-12-19T23:55:00",
+      "date_raw": "Dec. 19, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/34845-round-midnight-solo-piano-with-janice-friedman/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5878,6 +5768,16 @@
       "date": "2026-12-22T16:00:00",
       "date_raw": "Dec. 22, 2026 4:00 PM",
       "url": "https://www.smallslive.com/events/34786-free-piano-lessons-with-richard-clements-happy-hour-jam/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Harvey Diamond w. Cameron Brown \u2014 Mezzrow",
+      "date": "2026-12-22T18:00:00",
+      "date_raw": "Dec. 22, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34584-harvey-diamond-w-cameron-brown/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6468,6 +6368,16 @@
       "date": "2026-12-28T18:00:00",
       "date_raw": "Dec. 28, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34655-alan-broadbent-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Eliot Zigmund Quintet \u2014 Smalls",
+      "date": "2026-12-28T18:00:00",
+      "date_raw": "Dec. 28, 2026 6:00 PM",
+      "url": "https://www.smallslive.com/events/34632-eliot-zigmund-quintet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -7190,6 +7100,16 @@
       "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-brooklyn-new-york-02-12-2027/event/0000653E0267430E",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/7d1/32b54357-e7e8-4c9a-938d-5d780e6ba7d1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Liquid Stranger Presents: Electric Helix",
+      "date": "2027-02-13T19:00:00",
+      "date_raw": "2027-02-13T19:00:00-05:00",
+      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-brooklyn-new-york-02-13-2027/event/0000655DFAE931DB",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/dc4/fb219604-2b7a-4aa6-b22e-2f8439017dc4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
