@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-11-10T20:04:08.026602+00:00",
+  "scraped_at": "2026-11-11T19:54:34.854533+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Brooklyn Guitar School Student Showcase",
-      "date": "2026-10-24T00:00:00",
-      "date_raw": "Saturday, October 24, 2026",
-      "url": "https://www.freddysbar.com/events/f5gttj2sazp2f5h6af83ed99k8a347",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
@@ -283,172 +273,12 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Happy Hour Session with Vanisha Gould \u2014 Jazzcultural",
-      "date": "2026-11-10T16:00:00",
-      "date_raw": "Nov. 10, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34695-happy-hour-session-with-vanisha-gould/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Carolyn Leonhart Trio \u2014 Mezzrow",
-      "date": "2026-11-10T18:00:00",
-      "date_raw": "Nov. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34308-carolyn-leonhart-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Allen Lowe Quartet \u2014 Smalls",
-      "date": "2026-11-10T18:00:00",
-      "date_raw": "Nov. 10, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34383-allen-lowe-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Master\u2019s Hours",
-      "date": "2026-11-10T18:30:00",
-      "date_raw": "Tuesday November 10th 06:30 PM",
-      "url": "",
-      "description": "Leo Genovese (p)Tim Hagans (tp)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Kazu Yokoshima Trio",
-      "date": "2026-11-10T18:30:00",
-      "date_raw": "Tuesday November 10th 06:30 PM",
-      "url": "",
-      "description": "Kazu Yokoshima (org)Steve Nelson (g)Ciara Connolly (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "Orville Peck - Man Turned Mule Tour",
-      "date": "2026-11-10T19:00:00",
-      "date_raw": "2026-11-10T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-brooklyn-new-york-11-10-2026/event/000064F4C10A2E5B",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/4da/8a560086-9fb3-4792-b8a1-f1ed67b054da_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Dan Tepfer Trio \u2014 Jazzcultural",
-      "date": "2026-11-10T19:30:00",
-      "date_raw": "Nov. 10, 2026 7:30 PM",
-      "url": "https://www.smallslive.com/events/34241-dan-tepfer-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday November 10th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-11-10T20:30:00",
-      "date_raw": "Tuesday November 10th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-august-4th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Yuchtet",
-      "date": "2026-11-10T21:00:00",
-      "date_raw": "Tuesday November 10th 09:00 PM",
-      "url": "",
-      "description": "Leo Yucht (d)Greg Carleton (saxophone)Chris Bittner (saxophone)Joey Rosin (baritone saxophone)James Haddad (tp)Max Boiko (tp)Jasim Perales (trombone)Josh Uguccioni (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jordan Piper Trio \u2014 Mezzrow",
-      "date": "2026-11-10T21:00:00",
-      "date_raw": "Nov. 10, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34309-jordan-piper-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Robert Edwards Quintet \u2014 Smalls",
-      "date": "2026-11-10T21:00:00",
-      "date_raw": "Nov. 10, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34384-robert-edwards-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Maki Nientao Trio",
-      "date": "2026-11-10T21:30:00",
-      "date_raw": "Tuesday November 10th 09:30 PM",
-      "url": "",
-      "description": "Maki Nientao (p)Ben Wolstein (b)Willie Bowman (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Yago Vazquez \u2014 Jazzcultural",
-      "date": "2026-11-10T22:15:00",
-      "date_raw": "Nov. 10, 2026 10:15 PM",
-      "url": "https://www.smallslive.com/events/34780-jam-in-the-cafe-with-yago-vazquez/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "VINYL AFTER HOURS \u2014 Mezzrow",
-      "date": "2026-11-10T23:30:00",
-      "date_raw": "Nov. 10, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34451-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Jason Clotter Trio \u2014 Smalls",
-      "date": "2026-11-10T23:55:00",
-      "date_raw": "Nov. 10, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34382-jam-session-hosted-by-jason-clotter-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-11T00:00:00",
       "date_raw": "Wednesday, November 11, 2026",
       "url": "https://www.freddysbar.com/events/zd5aasncmpzaafl",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Mowgli Giannati and Alex Deanne",
-      "date": "2026-11-11T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/214/1794358800000",
-      "description": "Singer/Multi-instrumentalist and internationally touring musician Mowgli Giannitti performs classic songs of Jazz, Bluegrass, and Celtic Folk alongside his own originals which seamlessly blend these styles and more, featuring singer/guitarist Alex Deane. Mowgli has performed with artists such as Yo-Yo Ma and Edmar Colon, and on legendary stages like Carnegie Hall, The Bitter End, and the Nickelsdo",
       "image_url": "",
       "price": ""
     },
@@ -568,7 +398,7 @@
       "date": "2026-11-11T21:30:00",
       "date_raw": "Wednesday November 11th 09:30 PM",
       "url": "",
-      "description": "Tamir Hochman (saxophone)Paul Gill (b)Joe Strasser (d)",
+      "description": "Tamir Hochman (saxophone)Clovis Nicolas\u00a0 (b)Joe Strasser (d)",
       "image_url": "",
       "price": ""
     },
@@ -669,6 +499,16 @@
       "date_raw": "Nov. 12, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34391-steve-fidyk-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Jon-Erik Kellso Trio",
+      "date": "2026-11-12T18:30:00",
+      "date_raw": "Thursday November 12th 06:30 PM",
+      "url": "",
+      "description": "Jon-Erik Kellso (tp)Bryan Reeder (p)Tal Ronen (b)",
       "image_url": "",
       "price": ""
     },
@@ -879,6 +719,16 @@
       "date_raw": "Nov. 13, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34394-tommy-campbell-vocal-eyes-sextet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Ned Goold Trio",
+      "date": "2026-11-13T18:30:00",
+      "date_raw": "Friday November 13th 06:30 PM",
+      "url": "",
+      "description": "Ned Goold (saxophone)Lolivone de la Rosa (g)Reid Taylor (b)",
       "image_url": "",
       "price": ""
     },
@@ -1349,6 +1199,16 @@
       "date_raw": "Nov. 15, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/34247-mike-moreno-second-bloom-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Tardo Hammer Trio",
+      "date": "2026-11-15T21:00:00",
+      "date_raw": "Sunday November 15th 09:00 PM",
+      "url": "",
+      "description": "Tardo Hammer (p)Lee Hudson (b)Keith Balla (d)",
       "image_url": "",
       "price": ""
     },
@@ -2319,6 +2179,16 @@
       "date_raw": "Nov. 22, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34422-grant-stewart-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Nick Green Trio",
+      "date": "2026-11-22T18:30:00",
+      "date_raw": "Sunday November 22nd 06:30 PM",
+      "url": "",
+      "description": "Nick Green (as)Charlie Himel (b)Kyohey Shomoto (d)",
       "image_url": "",
       "price": ""
     },
@@ -6633,6 +6503,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Matt Snow \u2014 Smalls",
+      "date": "2026-12-31T00:30:00",
+      "date_raw": "Dec. 31, 2026 12:30 AM",
+      "url": "https://www.smallslive.com/events/34847-jam-session-hosted-by-matt-snow/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Smokey's Roundup",
       "date": "2026-12-31T01:00:00",
@@ -7173,6 +7053,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "WSOU Presents Meshuggah: The Forty-Year Anomaly",
+      "date": "2027-03-03T18:00:00",
+      "date_raw": "2027-03-03T18:00:00-05:00",
+      "url": "https://www.ticketmaster.com/wsou-presents-meshuggah-the-fortyyear-anomaly-brooklyn-new-york-03-03-2027/event/00006557D476F09F",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/668/b6b5096a-bf89-40dc-aa7d-524a56dfd668_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-03-03T23:30:00",
@@ -7449,6 +7339,16 @@
       "date_raw": "2027-05-05T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Sunny's Bar",
+      "title": "Tone's Bluegrass Jam",
+      "date": "2027-05-09T00:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/277/1809820800000",
+      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
