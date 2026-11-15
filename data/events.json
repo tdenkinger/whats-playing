@@ -1,37 +1,7 @@
 {
-  "scraped_at": "2026-11-14T18:33:22.046434+00:00",
+  "scraped_at": "2026-11-15T19:10:01.440630+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "EVEN TWICE",
-      "date": "2026-10-30T00:00:00",
-      "date_raw": "Friday, October 30, 2026",
-      "url": "https://www.freddysbar.com/events/even-twice-1",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Nightbreakers",
-      "date": "2026-10-30T00:00:00",
-      "date_raw": "Friday, October 30, 2026",
-      "url": "https://www.freddysbar.com/events/nightbreakers-1",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Daniels And Baker Folk and More DUO",
-      "date": "2026-10-30T00:00:00",
-      "date_raw": "Friday, October 30, 2026",
-      "url": "https://www.freddysbar.com/events/daniels-and-baker-folk-and-more-duo",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
@@ -264,20 +234,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "The Oxford Drive Band",
+      "title": "Robyn Shapiro",
       "date": "2026-11-14T00:00:00",
       "date_raw": "Saturday, November 14, 2026",
-      "url": "https://www.freddysbar.com/events/the-oxford-drive-band-1",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "The Shrimps",
-      "date": "2026-11-14T00:00:00",
-      "date_raw": "Saturday, November 14, 2026",
-      "url": "https://www.freddysbar.com/events/the-shrimps-5",
+      "url": "https://www.freddysbar.com/events/robyn-shapiro",
       "description": "",
       "image_url": "",
       "price": ""
@@ -294,170 +254,20 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Robyn Shapiro",
+      "title": "The Shrimps",
       "date": "2026-11-14T00:00:00",
       "date_raw": "Saturday, November 14, 2026",
-      "url": "https://www.freddysbar.com/events/robyn-shapiro",
+      "url": "https://www.freddysbar.com/events/the-shrimps-5",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Sam Lerner \u2014 Jazzcultural",
-      "date": "2026-11-14T14:00:00",
-      "date_raw": "Nov. 14, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34709-jam-in-the-cafe-with-sam-lerner/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "SMALLS AFTERNOON JAM SESSION HOSTED BY Tyler Mitchell Quartet \u2014 Smalls",
-      "date": "2026-11-14T14:00:00",
-      "date_raw": "Nov. 14, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34482-smalls-afternoon-jam-session-hosted-by-tyler-mitchell-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Brandi Disterheft Trio \u2014 Mezzrow",
-      "date": "2026-11-14T18:00:00",
-      "date_raw": "Nov. 14, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34315-brandi-disterheft-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Tommy Campbell \"Vocal Eyes\" \u2014 Smalls",
-      "date": "2026-11-14T18:00:00",
-      "date_raw": "Nov. 14, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34395-tommy-campbell-vocal-eyes/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "James Haddad Trio",
-      "date": "2026-11-14T18:30:00",
-      "date_raw": "Saturday November 14th 06:30 PM",
-      "url": "",
-      "description": "James Haddad (tp)Ahmed McLemore (b)Matt Lee (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Peter Watrous Quartet",
-      "date": "2026-11-14T18:30:00",
-      "date_raw": "Saturday November 14th 06:30 PM",
-      "url": "",
-      "description": "Peter Watrous (g)Sam Yahel (p)Charlie Lincoln (b)Willis Edmundson (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "STING 3.0 Tour",
-      "date": "2026-11-14T19:00:00",
-      "date_raw": "2026-11-14T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-14-2026/event/0000645905B2DC1A",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mike Moreno \"Second Bloom\" \u2014 Jazzcultural",
-      "date": "2026-11-14T19:00:00",
-      "date_raw": "Nov. 14, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34246-mike-moreno-second-bloom/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday November 14th 8:30pm \u2022 The National Reserve!",
-      "date": "2026-11-14T20:30:00",
-      "date_raw": "Saturday November 14th 8:30pm \u2022 The National Reserve!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-october-10th-830pm-the-national-reserve/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Fran\u00e7ois Moutin Trio",
-      "date": "2026-11-14T21:00:00",
-      "date_raw": "Saturday November 14th 09:00 PM",
-      "url": "",
-      "description": "Fran\u00e7ois Moutin (b)Jim Ridl (p)Ben Perowsky (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jonny King Trio \u2014 Mezzrow",
-      "date": "2026-11-14T21:00:00",
-      "date_raw": "Nov. 14, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34317-jonny-king-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Charles Owens Quartet \u2014 Smalls",
-      "date": "2026-11-14T21:00:00",
-      "date_raw": "Nov. 14, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34397-charles-owens-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Carlos Abadie Trio",
-      "date": "2026-11-14T21:30:00",
-      "date_raw": "Saturday November 14th 09:30 PM",
-      "url": "",
-      "description": "Carlos Abadie (tp)Isaac Byrd (p)Jonathon Muir-Cotton (b)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "George Cables Birthday Celebration! \u2014 Jazzcultural",
-      "date": "2026-11-14T22:30:00",
-      "date_raw": "Nov. 14, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34249-george-cables-birthday-celebration/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Chris McCarthy \u2014 Mezzrow",
-      "date": "2026-11-14T23:55:00",
-      "date_raw": "Nov. 14, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34319-round-midnight-solo-piano-with-chris-mccarthy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Anthony Wonsey Quintet \u2014 Smalls",
-      "date": "2026-11-14T23:55:00",
-      "date_raw": "Nov. 14, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34399-anthony-wonsey-quintet/",
+      "venue_name": "Freddy's",
+      "title": "The Oxford Drive Band",
+      "date": "2026-11-14T00:00:00",
+      "date_raw": "Saturday, November 14, 2026",
+      "url": "https://www.freddysbar.com/events/the-oxford-drive-band-1",
       "description": "",
       "image_url": "",
       "price": ""
@@ -491,26 +301,6 @@
       "description": "",
       "image_url": "",
       "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2026-11-15T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1794704400000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Chloe Kimes",
-      "date": "2026-11-15T01:30:00",
-      "date_raw": "2026-11-15T01:30:00.000Z",
-      "url": "https://www.viewcy.com/event/chloe_kimes",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
     },
     {
       "venue_name": "Smalls Live",
@@ -818,7 +608,7 @@
       "date": "2026-11-16T21:30:00",
       "date_raw": "Monday November 16th 09:30 PM",
       "url": "",
-      "description": "Mike Karn (b)Rich Perry (ts)Pete Van Nostrand (d)",
+      "description": "Mike Karn (b)Gideon Tazelaar (saxophone)Pete Van Nostrand (d)",
       "image_url": "",
       "price": ""
     },
@@ -893,6 +683,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jack Glottman Trio",
+      "date": "2026-11-17T18:30:00",
+      "date_raw": "Tuesday November 17th 06:30 PM",
+      "url": "",
+      "description": "Jack Glottman (p)Melissa Slocum (b)Willie Martinez (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "STING 3.0 Tour",
       "date": "2026-11-17T19:00:00",
@@ -908,6 +708,16 @@
       "date": "2026-11-17T19:30:00",
       "date_raw": "Nov. 17, 2026 7:30 PM",
       "url": "https://www.smallslive.com/events/34251-leo-larratt-quartet-feat-emmet-cohen/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday November 17th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-11-17T20:30:00",
+      "date_raw": "Tuesday November 17th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -939,6 +749,16 @@
       "date_raw": "Nov. 17, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34409-ivan-polyanskiy-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Nicolai Daneck Trio",
+      "date": "2026-11-17T21:30:00",
+      "date_raw": "Tuesday November 17th 09:30 PM",
+      "url": "",
+      "description": "Nicolai Daneck (p)Ben Wolstein (b)Karl Wind Seyer-Hansen (d)",
       "image_url": "",
       "price": ""
     },
@@ -1028,7 +848,17 @@
       "date": "2026-11-18T18:30:00",
       "date_raw": "Wednesday November 18th 06:30 PM",
       "url": "",
-      "description": "Zachariah Lambert (g)Michael Howe (saxophone)Jack Nissen (b)Jonas M\u00fcller (d)",
+      "description": "Zachariah Lambert (g)Michael Howe (saxophone)Jack Nissen (b)Evan Wood\u00a0 (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Vladimir Katz Trio",
+      "date": "2026-11-18T18:30:00",
+      "date_raw": "Wednesday November 18th 06:30 PM",
+      "url": "",
+      "description": "Vladimir Katz (p)Alexis Lambros Theochari David (b)Tommy Campbell (d)",
       "image_url": "",
       "price": ""
     },
@@ -1048,6 +878,16 @@
       "date": "2026-11-18T19:30:00",
       "date_raw": "Nov. 18, 2026 7:30 PM",
       "url": "https://www.smallslive.com/events/34252-luke-carlos-oreilly-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday November 18th at 8:30pm \u2022 THE BINOCULARS !",
+      "date": "2026-11-18T20:30:00",
+      "date_raw": "Wednesday November 18th at 8:30pm \u2022 THE BINOCULARS !",
+      "url": "https://www.fredsdoghouse.com/event/this-just-in-tonight-at-830pm-the-binoculars/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1213,6 +1053,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Thursday November 19th 8:30pm \u2022 BLUEGRASS with Down North!",
+      "date": "2026-11-19T20:30:00",
+      "date_raw": "Thursday November 19th 8:30pm \u2022 BLUEGRASS with Down North!",
+      "url": "https://www.fredsdoghouse.com/event/thursday-march-12th-bluegrass-with-down-north/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Juan Chiavassa Trio",
       "date": "2026-11-19T21:00:00",
@@ -1368,6 +1218,16 @@
       "date": "2026-11-20T19:00:00",
       "date_raw": "Nov. 20, 2026 7:00 PM",
       "url": "https://www.smallslive.com/events/34254-benny-green-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Friday November 20th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "date": "2026-11-20T20:30:00",
+      "date_raw": "Friday November 20th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "url": "https://www.fredsdoghouse.com/event/friday-march-6th-new-moon-acoustic-blues-trio-copy/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1573,6 +1433,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday November 21st EARLY SET 7:30-9pm \u2022 Blues with Mara Kaye!",
+      "date": "2026-11-21T19:30:00",
+      "date_raw": "Saturday November 21st EARLY SET 7:30-9pm \u2022 Blues with Mara Kaye!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-early-set-730-9pm-blues-with-mara-kaye/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Mike Ledonne Trio \u2014 Mezzrow",
       "date": "2026-11-21T21:00:00",
@@ -1588,6 +1458,16 @@
       "date": "2026-11-21T21:00:00",
       "date_raw": "Nov. 21, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34418-steve-slagle-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday November 21st 9:30pm \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
+      "date": "2026-11-21T21:30:00",
+      "date_raw": "Saturday November 21st 9:30pm \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
+      "url": "https://www.fredsdoghouse.com/event/friday-october-3rd-delta-swamp-blues-with-the-cannibal-ramblers/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2403,6 +2283,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Carlos Abadie  Quartet",
+      "date": "2026-11-28T21:00:00",
+      "date_raw": "Saturday November 28th 09:00 PM",
+      "url": "",
+      "description": "Carlos Abadie (tp)Maki Nientao (p)Ahmed McLemore (b)Jacob Smith (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Billy Drummond Trio \u2014 Mezzrow",
       "date": "2026-11-28T21:00:00",
@@ -2659,6 +2549,16 @@
       "date_raw": "Nov. 30, 2026 7:30 PM",
       "url": "https://www.smallslive.com/events/34266-vanisha-gould-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Paul Sikivie Quartet",
+      "date": "2026-11-30T21:00:00",
+      "date_raw": "Monday November 30th 09:00 PM",
+      "url": "",
+      "description": "Paul Sikivie (b)Spencer Hoefert (g)Maki Nientao (p)Willie Bowman (d)",
       "image_url": "",
       "price": ""
     },
@@ -5543,6 +5443,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Carlos Abadie Quartet",
+      "date": "2026-12-25T21:00:00",
+      "date_raw": "Friday December 25th 09:00 PM",
+      "url": "",
+      "description": "Carlos Abadie (tp)Theo Hill (p)Ahmed McLemore (b)Jacob Smith (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "David Kikoski Solo Piano \u2014 Mezzrow",
       "date": "2026-12-25T21:00:00",
@@ -6773,6 +6683,16 @@
       "price": ""
     },
     {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Dropkick Murphys",
+      "date": "2027-03-07T18:00:00",
+      "date_raw": "2027-03-07T18:00:00-05:00",
+      "url": "https://www.ticketmaster.com/dropkick-murphys-brooklyn-new-york-03-07-2027/event/0000653B0EA63737",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/14d/4f4da583-06f5-43e2-ab2c-8aec4124114d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-03-10T23:30:00",
@@ -7804,20 +7724,30 @@
     },
     {
       "venue_name": "Fred's Dog House",
-      "title": "Saturday November 14th \u2022 Early Set Blues 7-9pm with Saint Gevendon!",
+      "title": "Brunchin' Sunday November 15th 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
       "date": null,
-      "date_raw": "Saturday November 14th \u2022 Early Set Blues 7-9pm with Saint Gevendon!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-early-set-blues-6-8pm-with-matt-wiffen-the-slim-whiskers/",
+      "date_raw": "Brunchin' Sunday November 15th 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
+      "url": "https://www.fredsdoghouse.com/event/tonight-on-the-pianoblues-boogie-woogie-and-more-with-bill-malchow/",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
       "venue_name": "Fred's Dog House",
-      "title": "Brunchin' Sunday November 15th 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
+      "title": "Sunday November 22nd 2pm  + Bill's Bloody Mary Blooze Brunch!",
       "date": null,
-      "date_raw": "Brunchin' Sunday November 15th 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
-      "url": "https://www.fredsdoghouse.com/event/tonight-on-the-pianoblues-boogie-woogie-and-more-with-bill-malchow/",
+      "date_raw": "Sunday November 22nd 2pm  + Bill's Bloody Mary Blooze Brunch!",
+      "url": "https://www.fredsdoghouse.com/event/sunday-august-3rd-bills-bloody-mary-blooze-brunch/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Sunday November 22nd 6:30pm + From LA. Los Caramelos!",
+      "date": null,
+      "date_raw": "Sunday November 22nd 6:30pm + From LA. Los Caramelos!",
+      "url": "https://www.fredsdoghouse.com/event/sunday-november-22nd-630pm-from-la-los-caramelos/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -7898,16 +7828,6 @@
       "date": null,
       "date_raw": "Sat, Oct 31, 20268:00\u202fPMSun, Nov 1, 20262:00\u202fAM",
       "url": "https://www.freddysbar.com/events/freddys-halloween-dance-party",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
-      "date": null,
-      "date_raw": "Thu, Oct 29, 202611:30\u202fPMFri, Oct 30, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-kae7r",
       "description": "",
       "image_url": "",
       "price": ""
