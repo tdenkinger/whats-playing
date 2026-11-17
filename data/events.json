@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-11-16T22:36:14.912548+00:00",
+  "scraped_at": "2026-11-17T21:24:47.797363+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Karaoke every 1st & 3rd Sunday, Humans Against Music",
-      "date": "2026-11-01T00:00:00",
-      "date_raw": "Sunday, November 1, 2026",
-      "url": "https://www.freddysbar.com/events/karaoke-every-1st-3rd-sunday-humans-against-music-eebj3-89zgr-r8jc2-pay6k-n3kmj-lzbhd-chxtd-rsw8y-bhrlc-wstjk",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-11-02T00:00:00",
-      "date_raw": "Monday, November 2, 2026",
-      "url": "https://www.freddysbar.com/events/3f6zndalndkrett",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Pizza Mermaid's Aquarium of Friendship",
@@ -284,16 +264,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-11-16T00:00:00",
-      "date_raw": "Monday, November 16, 2026",
-      "url": "https://www.freddysbar.com/events/safypky7h3936ax",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "\"So What Happened Was...\" A monthly storytelling Series! 3rd Mondays after comedy show",
       "date": "2026-11-16T00:00:00",
       "date_raw": "Monday, November 16, 2026",
@@ -303,131 +273,11 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Happy Hour with John Merrill Trio \u2014 Jazzcultural",
-      "date": "2026-11-16T16:00:00",
-      "date_raw": "Nov. 16, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34697-happy-hour-with-john-merrill-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Spike Wilner Trio \u2014 Mezzrow",
-      "date": "2026-11-16T18:00:00",
-      "date_raw": "Nov. 16, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34321-spike-wilner-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Scott Neumann Quartet \u2014 Smalls",
-      "date": "2026-11-16T18:00:00",
-      "date_raw": "Nov. 16, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34404-scott-neumann-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Felipe Arce Quartet",
-      "date": "2026-11-16T18:30:00",
-      "date_raw": "Monday November 16th 06:30 PM",
-      "url": "",
-      "description": "Felipe Arce (b)Sergio Wagner (tp)Hans Luchs (g)Agust\u00edn Grasso (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Lolivone de la Rosa Quartet",
-      "date": "2026-11-16T18:30:00",
-      "date_raw": "Monday November 16th 06:30 PM",
-      "url": "",
-      "description": "Lolivone de la Rosa (g)Ned Goold (ts)Timothy Norton (b)Joel Mateo (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Benny Benack Quintet \u2014 Jazzcultural",
-      "date": "2026-11-16T19:30:00",
-      "date_raw": "Nov. 16, 2026 7:30 PM",
-      "url": "https://www.smallslive.com/events/34250-benny-benack-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Giuseppe Cucchiara Quartet",
-      "date": "2026-11-16T21:00:00",
-      "date_raw": "Monday November 16th 09:00 PM",
-      "url": "",
-      "description": "Giuseppe Cucchiara (b)Ben Solomon (saxophone)Chris McCarthy (p)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Pasquale Grasso Trio \u2014 Mezzrow",
-      "date": "2026-11-16T21:00:00",
-      "date_raw": "Nov. 16, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34485-pasquale-grasso-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Marius Van Den Brink Quintet \u2014 Smalls",
-      "date": "2026-11-16T21:00:00",
-      "date_raw": "Nov. 16, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34405-marius-van-den-brink-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Mike Karn Trio",
-      "date": "2026-11-16T21:30:00",
-      "date_raw": "Monday November 16th 09:30 PM",
-      "url": "",
-      "description": "Mike Karn (b)Gideon Tazelaar (saxophone)Pete Van Nostrand (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Isaac Byrd \u2014 Jazzcultural",
-      "date": "2026-11-16T22:15:00",
-      "date_raw": "Nov. 16, 2026 10:15 PM",
-      "url": "https://www.smallslive.com/events/34880-jam-in-the-cafe-with-isaac-byrd/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "VINYL AFTER HOURS \u2014 Mezzrow",
-      "date": "2026-11-16T23:30:00",
-      "date_raw": "Nov. 16, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34454-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Adam Ray Quartet \u2014 Smalls",
-      "date": "2026-11-16T23:55:00",
-      "date_raw": "Nov. 16, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34403-jam-session-hosted-by-adam-ray-quartet/",
+      "venue_name": "Freddy's",
+      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "date": "2026-11-16T00:00:00",
+      "date_raw": "Monday, November 16, 2026",
+      "url": "https://www.freddysbar.com/events/safypky7h3936ax",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1183,6 +1033,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Burstin' Boots Dance Party with The Slide Stops!",
+      "date": "2026-11-21T00:30:00",
+      "date_raw": "2026-11-21T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/burstin_boots_dance_43",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tetsuro Hoshii Band",
       "date": "2026-11-21T01:00:00",
@@ -1553,6 +1413,16 @@
       "price": ""
     },
     {
+      "venue_name": "Cafe Ornithology",
+      "title": "John Lind Trio",
+      "date": "2026-11-23T18:30:00",
+      "date_raw": "Monday November 23rd 06:30 PM",
+      "url": "",
+      "description": "John Lind (b)Nitsan Kolko (p)Evan Hyde (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "\"Yakei\" Album Release Show",
       "date": "2026-11-23T18:30:00",
@@ -1679,6 +1549,16 @@
       "date_raw": "Nov. 24, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34428-rez-abbasi-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Master\u2019s Hour",
+      "date": "2026-11-24T18:30:00",
+      "date_raw": "Tuesday November 24th 06:30 PM",
+      "url": "",
+      "description": "Jason Lindner (p)",
       "image_url": "",
       "price": ""
     },
@@ -4769,6 +4649,16 @@
       "date_raw": "Dec. 19, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34618-roberta-piket-billy-mintz-quintet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "William Hill III Trio",
+      "date": "2026-12-19T18:30:00",
+      "date_raw": "Saturday December 19th 06:30 PM",
+      "url": "",
+      "description": "William Hill III (p)Ben Wolstein (b)Willie Bowman (d)",
       "image_url": "",
       "price": ""
     },
