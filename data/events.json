@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-11-17T21:24:47.797363+00:00",
+  "scraped_at": "2026-11-18T20:57:02.998185+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Pizza Mermaid's Aquarium of Friendship",
-      "date": "2026-11-03T00:00:00",
-      "date_raw": "Tuesday, November 3, 2026",
-      "url": "https://www.freddysbar.com/events/pizza-mermaids-aquarium-of-friendship-wxs99",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "New Material Night- Comedy Show 1st Wednesdays",
@@ -293,156 +283,6 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Happy Hour with Vanisha Gould Trio \u2014 Jazzcultural",
-      "date": "2026-11-17T16:00:00",
-      "date_raw": "Nov. 17, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34698-happy-hour-with-vanisha-gould-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Gabrielle Stravelli Trio \u2014 Mezzrow",
-      "date": "2026-11-17T18:00:00",
-      "date_raw": "Nov. 17, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34322-gabrielle-stravelli-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Lafayette Harris Presents The Cecilia Smith Ensemble \u2014 Smalls",
-      "date": "2026-11-17T18:00:00",
-      "date_raw": "Nov. 17, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34407-lafayette-harris-presents-the-cecilia-smith-ensemble/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Master\u2019s Hours",
-      "date": "2026-11-17T18:30:00",
-      "date_raw": "Tuesday November 17th 06:30 PM",
-      "url": "",
-      "description": "Lawrence Fields (p)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Jack Glottman Trio",
-      "date": "2026-11-17T18:30:00",
-      "date_raw": "Tuesday November 17th 06:30 PM",
-      "url": "",
-      "description": "Jack Glottman (p)Melissa Slocum (b)Willie Martinez (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "STING 3.0 Tour",
-      "date": "2026-11-17T19:00:00",
-      "date_raw": "2026-11-17T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-17-2026/event/0000645905A4DBF0",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Leo Larratt Quartet feat. Emmet Cohen \u2014 Jazzcultural",
-      "date": "2026-11-17T19:30:00",
-      "date_raw": "Nov. 17, 2026 7:30 PM",
-      "url": "https://www.smallslive.com/events/34251-leo-larratt-quartet-feat-emmet-cohen/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday November 17th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-11-17T20:30:00",
-      "date_raw": "Tuesday November 17th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-september-9th-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "The Chris Byars Sextet",
-      "date": "2026-11-17T21:00:00",
-      "date_raw": "Tuesday November 17th 09:00 PM",
-      "url": "",
-      "description": "Chris Byars (ts)Zaid Nasser (as)John Mosca (trombone)Stefano Doglioni (bass clarinet)Ari Roland (b)Keith Balla (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Declan Cashman Trio \u2014 Mezzrow",
-      "date": "2026-11-17T21:00:00",
-      "date_raw": "Nov. 17, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34323-declan-cashman-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ivan Polyanskiy Quartet \u2014 Smalls",
-      "date": "2026-11-17T21:00:00",
-      "date_raw": "Nov. 17, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34409-ivan-polyanskiy-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Nicolai Daneck Trio",
-      "date": "2026-11-17T21:30:00",
-      "date_raw": "Tuesday November 17th 09:30 PM",
-      "url": "",
-      "description": "Nicolai Daneck (p)Ben Wolstein (b)Karl Wind Seyer-Hansen (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Yago Vazquez \u2014 Jazzcultural",
-      "date": "2026-11-17T22:15:00",
-      "date_raw": "Nov. 17, 2026 10:15 PM",
-      "url": "https://www.smallslive.com/events/34883-jam-in-the-cafe-with-yago-vazquez/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "VINYL AFTER HOURS \u2014 Mezzrow",
-      "date": "2026-11-17T23:30:00",
-      "date_raw": "Nov. 17, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34455-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Kyle Colina Quartet \u2014 Smalls",
-      "date": "2026-11-17T23:55:00",
-      "date_raw": "Nov. 17, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34406-jam-session-hosted-by-kyle-colina-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-18T00:00:00",
@@ -454,21 +294,11 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Fool-Moon Karaoke & Variety Show",
+      "title": "LIMITED RESOURCES",
       "date": "2026-11-18T00:00:00",
       "date_raw": "Wednesday, November 18, 2026",
       "url": "https://www.freddysbar.com/events/m9ez5ssrtk6925lcdg9hfe3yg8ewmm-ckzd7-x2m7c-elxw2-b5rge",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Leah Tash",
-      "date": "2026-11-18T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/299/1794963600000",
-      "description": "Leah Tash has been a songwriter since she was 16 years old. Growing up one neighborhood over from Greenwich Village, her youth came with the gift of discovering artists like Bob Dylan, Bessie Smith and Johnny Cash. These early influences now dance through the stories Leah tells in song, as she embraces a sentimental heart and adventurous spirit. Today you can catch her live either solo or with her",
       "image_url": "",
       "price": ""
     },
@@ -624,10 +454,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Carlos Abadie \u2014 Smalls",
+      "title": "Jam Session Hosted By Carlos Abadie\u2019s Latin Jazz Express \u2014 Smalls",
       "date": "2026-11-18T23:55:00",
       "date_raw": "Nov. 18, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34386-jam-session-hosted-by-carlos-abadie/",
+      "url": "https://www.smallslive.com/events/34386-jam-session-hosted-by-carlos-abadies-latin-jazz-express/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -828,6 +658,16 @@
       "date": "2026-11-20T00:00:00",
       "date_raw": "Friday, November 20, 2026",
       "url": "https://www.freddysbar.com/events/jordan-guldman-quintet-and-docking",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Equis - Guitar and Electronics",
+      "date": "2026-11-20T00:00:00",
+      "date_raw": "Friday, November 20, 2026",
+      "url": "https://www.freddysbar.com/events/equis-guitar-and-electronics",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2208,7 +2048,7 @@
       "date": "2026-11-29T18:30:00",
       "date_raw": "Sunday November 29th 06:30 PM",
       "url": "",
-      "description": "Raphael D\u2019lugoff (p)Ari Roland (b)Keith Balla (d)",
+      "description": "Raphael D\u2019lugoff (p)Ari Roland (b)Vinnie Sperrazza\u00a0(d)",
       "image_url": "",
       "price": ""
     },
@@ -2783,6 +2623,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "The Scrabs",
+      "date": "2026-12-04T00:00:00",
+      "date_raw": "Friday, December 4, 2026",
+      "url": "https://www.freddysbar.com/events/the-scrabs",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Jam in the Cafe with Panas Athanatos Trio \u2014 Jazzcultural",
       "date": "2026-12-04T14:00:00",
@@ -2928,6 +2778,16 @@
       "date": "2026-12-05T00:00:00",
       "date_raw": "Saturday, December 5, 2026",
       "url": "https://www.freddysbar.com/events/denied-w-concrete-sickbay-faca-dead-violated",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Rod Cardamone \u2014 Live Acoustic",
+      "date": "2026-12-05T00:00:00",
+      "date_raw": "Saturday, December 5, 2026",
+      "url": "https://www.freddysbar.com/events/rod-cardamone-live-acoustic",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3079,6 +2939,16 @@
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/279/1796535000000",
       "description": "Edith leads the Agnostic Gospel Jam. It's a Sunday afternoon tradition at Sunny's where the neighborhood gathers to sing together. Laid back monthly jam, not limited to gospel music.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "GATHERNYC Jennifer Koh, violin + Andrius Zlabys, piano \u2014 Jazzcultural",
+      "date": "2026-12-06T11:00:00",
+      "date_raw": "Dec. 6, 2026 11:00 AM",
+      "url": "https://www.smallslive.com/events/34757-gathernyc-jennifer-koh-violin-andrius-zlabys-piano/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -3638,6 +3508,16 @@
       "date": "2026-12-10T23:30:00",
       "date_raw": "Dec. 10, 2026 11:30 PM",
       "url": "https://www.smallslive.com/events/34469-vinyl-after-hours/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jam Session Hosted By Matt Snow \u2014 Smalls",
+      "date": "2026-12-10T23:55:00",
+      "date_raw": "Dec. 10, 2026 11:55 PM",
+      "url": "https://www.smallslive.com/events/34529-jam-session-hosted-by-matt-snow/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5103,6 +4983,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "Full Moon Karaoke & Variety Show- Every 4th Wednesday after comedy open mic!",
+      "date": "2026-12-23T00:00:00",
+      "date_raw": "Wednesday, December 23, 2026",
+      "url": "https://www.freddysbar.com/events/full-moon-karaoke-variety-show",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Happy Hour with Steve Nelson Trio \u2014 Jazzcultural",
       "date": "2026-12-23T16:00:00",
@@ -5977,6 +5867,16 @@
       "title": "NYE: Reggae Fest",
       "date": "2026-12-31T22:00:00",
       "date_raw": "2026-12-31T22:00:00-05:00",
+      "url": "https://www.universe.com/events/reggae-fest-new-years-eve-all-black-affair-at-bk-paramount-tickets-850BPG",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/510/db6fc217-d801-463d-a374-9aaae8de3510_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "NYE: Reggae Fest",
+      "date": "2026-12-31T22:00:00",
+      "date_raw": "2026-12-31T22:00:00-05:00",
       "url": "https://www.ticketmaster.com/nye-reggae-fest-brooklyn-new-york-12-31-2026/event/00006565CAB0CD34",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/510/db6fc217-d801-463d-a374-9aaae8de3510_TABLET_LANDSCAPE_LARGE_16_9.jpg",
@@ -6123,6 +6023,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "Soul Jam",
+      "date": "2027-01-09T00:00:00",
+      "date_raw": "Saturday, January 9, 2027",
+      "url": "https://www.freddysbar.com/events/soul-jam",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2027-01-10T01:00:00",
@@ -6188,6 +6098,16 @@
       "date": "2027-01-16T00:00:00",
       "date_raw": "Saturday, January 16, 2027",
       "url": "https://www.freddysbar.com/events/astrlplne",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Rose Lee",
+      "date": "2027-01-16T00:00:00",
+      "date_raw": "Saturday, January 16, 2027",
+      "url": "https://www.freddysbar.com/events/rose-lee",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6278,6 +6198,16 @@
       "date": "2027-01-23T00:00:00",
       "date_raw": "Saturday, January 23, 2027",
       "url": "https://www.freddysbar.com/events/leeward-1",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "Matthew Christian fiddle recital",
+      "date": "2027-01-23T00:00:00",
+      "date_raw": "Saturday, January 23, 2027",
+      "url": "https://www.freddysbar.com/events/matthew-christian-fiddle-recital",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6423,6 +6353,16 @@
       "price": ""
     },
     {
+      "venue_name": "Freddy's",
+      "title": "Lady King And The Aces: Live in Concert",
+      "date": "2027-02-12T00:00:00",
+      "date_raw": "Friday, February 12, 2027",
+      "url": "https://www.freddysbar.com/events/lady-king-and-the-aces-live-in-concert",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Chelsea Cutler - IS THIS THE END? Tour",
       "date": "2027-02-12T19:00:00",
@@ -6550,6 +6490,16 @@
       "url": "https://www.ticketmaster.com/level-up-the-ritual-tour-2027-brooklyn-new-york-03-05-2027/event/0000653DFC0C9751",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/7c7/b33e9e76-6d94-47ba-bfe7-ccc7239637c7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
+      "title": "THE BROOKLYN ROCK AND ROLL SYNDICATE",
+      "date": "2027-03-06T00:00:00",
+      "date_raw": "Saturday, March 6, 2027",
+      "url": "https://www.freddysbar.com/events/the-brooklyn-rock-and-roll-syndicate-3",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
