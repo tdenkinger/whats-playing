@@ -1,43 +1,13 @@
 {
-  "scraped_at": "2026-11-20T20:49:28.144113+00:00",
+  "scraped_at": "2026-11-21T19:51:51.407223+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Jessi Robertson & Local Correspondents Reunion",
-      "date": "2026-11-06T00:00:00",
-      "date_raw": "Friday, November 6, 2026",
-      "url": "https://www.freddysbar.com/events/jessi-robertson-local-correspondents-reunion",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Geoff the DJ- Vinyl & Digital- Indie/Dance Set",
       "date": "2026-11-07T00:00:00",
       "date_raw": "Saturday, November 7, 2026",
       "url": "https://www.freddysbar.com/events/geoff-the-dj-vinyl-digital-indiedance-set",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "A Night of Regret with Eden and the Shame & Friends (two slots)",
-      "date": "2026-11-07T00:00:00",
-      "date_raw": "Saturday, November 7, 2026",
-      "url": "https://www.freddysbar.com/events/a-night-of-regret-with-eden-and-the-shame",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Private Party",
-      "date": "2026-11-07T00:00:00",
-      "date_raw": "Saturday, November 7, 2026",
-      "url": "https://www.freddysbar.com/events/p8l4tzlhmmds4dmmwhcahwr37pbf8t",
       "description": "",
       "image_url": "",
       "price": ""
@@ -284,10 +254,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "SHIMMY \u2014 solo acoustic indie-folk, singer-songwriter",
+      "title": "Equis - Guitar and Electronics",
       "date": "2026-11-20T00:00:00",
       "date_raw": "Friday, November 20, 2026",
-      "url": "https://www.freddysbar.com/events/shimmy-solo-indie-folk-singer-songwrite",
+      "url": "https://www.freddysbar.com/events/equis-guitar-and-electronics",
       "description": "",
       "image_url": "",
       "price": ""
@@ -304,160 +274,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Equis - Guitar and Electronics",
+      "title": "SHIMMY \u2014 solo acoustic indie-folk, singer-songwriter",
       "date": "2026-11-20T00:00:00",
       "date_raw": "Friday, November 20, 2026",
-      "url": "https://www.freddysbar.com/events/equis-guitar-and-electronics",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Panas Athanatos Trio \u2014 Jazzcultural",
-      "date": "2026-11-20T14:00:00",
-      "date_raw": "Nov. 20, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34711-jam-in-the-cafe-with-panas-athanatos-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Kenny Davis Quartet \u2014 Mezzrow",
-      "date": "2026-11-20T18:00:00",
-      "date_raw": "Nov. 20, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34328-kenny-davis-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Valery Ponomarev Quintet \u2014 Smalls",
-      "date": "2026-11-20T18:00:00",
-      "date_raw": "Nov. 20, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34415-valery-ponomarev-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Gideon Tazelaar Trio",
-      "date": "2026-11-20T18:30:00",
-      "date_raw": "Friday November 20th 06:30 PM",
-      "url": "",
-      "description": "Gideon Tazelaar (ts)Simon Cifuentes (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Reid Taylor Quartet",
-      "date": "2026-11-20T18:30:00",
-      "date_raw": "Friday November 20th 06:30 PM",
-      "url": "",
-      "description": "Reid Taylor (b)Zaid Nasser (as)Gabriel Jodorkovsky (p)Gary Kerkezou (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "STING 3.0 Tour",
-      "date": "2026-11-20T19:00:00",
-      "date_raw": "2026-11-20T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-20-2026/event/00006459059DDBE3",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Benny Green Trio \u2014 Jazzcultural",
-      "date": "2026-11-20T19:00:00",
-      "date_raw": "Nov. 20, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34254-benny-green-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Friday November 20th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
-      "date": "2026-11-20T20:30:00",
-      "date_raw": "Friday November 20th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
-      "url": "https://www.fredsdoghouse.com/event/friday-march-6th-new-moon-acoustic-blues-trio-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Charlie Sigler Quartet",
-      "date": "2026-11-20T21:00:00",
-      "date_raw": "Friday November 20th 09:00 PM",
-      "url": "",
-      "description": "Charlie Sigler (g)Alex De Lazzari (ts)Will Gorman\u00a0(org)Hank Allen-Barfield (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mike Ledonne Trio \u2014 Mezzrow",
-      "date": "2026-11-20T21:00:00",
-      "date_raw": "Nov. 20, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34330-mike-ledonne-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Steve Slagle Quartet \u2014 Smalls",
-      "date": "2026-11-20T21:00:00",
-      "date_raw": "Nov. 20, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34417-steve-slagle-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Adam Frumkin Trio",
-      "date": "2026-11-20T21:30:00",
-      "date_raw": "Friday November 20th 09:30 PM",
-      "url": "",
-      "description": "Adam Frumkin (saxophone)Dan Weisselberg (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Christopher McBride & The Whole Proof \u2014 Jazzcultural",
-      "date": "2026-11-20T22:30:00",
-      "date_raw": "Nov. 20, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34258-christopher-mcbride-the-whole-proof/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Miki Yamanaka \u2014 Mezzrow",
-      "date": "2026-11-20T23:55:00",
-      "date_raw": "Nov. 20, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34497-round-midnight-solo-piano-with-miki-yamanaka/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Eric Wyatt Quartet \u2014 Smalls",
-      "date": "2026-11-20T23:55:00",
-      "date_raw": "Nov. 20, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34419-eric-wyatt-quartet/",
+      "url": "https://www.freddysbar.com/events/shimmy-solo-indie-folk-singer-songwrite",
       "description": "",
       "image_url": "",
       "price": ""
@@ -509,26 +329,6 @@
       "date_raw": "Saturday, November 21, 2026",
       "url": "https://www.freddysbar.com/events/henry-mena-2nd-saturday-residency",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "Burstin' Boots Dance Party with The Slide Stops!",
-      "date": "2026-11-21T00:30:00",
-      "date_raw": "2026-11-21T00:30:00.000Z",
-      "url": "https://www.viewcy.com/event/burstin_boots_dance_43",
-      "description": "",
-      "image_url": "",
-      "price": "$23"
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tetsuro Hoshii Band",
-      "date": "2026-11-21T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/301/1795222800000",
-      "description": "Tetsuro Hoshii is a pianist and composer based in New York, known for his cross-genre work that moves fluidly between improvisation, composition, and visual art. He is a recipient of the Wayne Shorter Award at Berklee College of Music, has composed for the Boston Cello Quartet (the official chamber ensemble of the Boston Symphony Orchestra), and arranged music for the Metropolitan Opera Orchestra ",
       "image_url": "",
       "price": ""
     },
@@ -834,11 +634,11 @@
     },
     {
       "venue_name": "Ornithology Jazz Club",
-      "title": "Stefano Doglioni Quartet",
+      "title": "Zaid Nasser Quartet",
       "date": "2026-11-22T21:00:00",
       "date_raw": "Sunday November 22nd 09:00 PM",
       "url": "",
-      "description": "Stefano Doglioni (bass clarinet)Pasquale Grasso (g)Ari Roland (b)Mike Camacho (d)",
+      "description": "Zaid Nasser (as)Pasquale Grasso (g)Ari Roland (b)Mike Camacho (d)",
       "image_url": "",
       "price": ""
     },
@@ -1543,6 +1343,16 @@
       "price": ""
     },
     {
+      "venue_name": "Sunny's Bar",
+      "title": "Debbie Deane Band",
+      "date": "2026-11-28T01:00:00",
+      "date_raw": "",
+      "url": "https://tockify.com/sunnysmusic/detail/221/1795827600000",
+      "description": "Brooklyn born and raised Debbie Deane carries the jazz/soul--infused, piano-fired torch of Carole King and Laura Nyro. A passionate songwriter with a penchant for jazz-flavored chords and soulful vocals, she and her band are thrilled to play at Sunny's, where she has previously performed with KJ Denhert. JazzReview says, \u201cA languid, yet crisp and emotive delivery, and soul to burn\u2026\u2026\u201d. Check out th",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Hanksgiving 2026!",
       "date": "2026-11-28T01:00:00",
@@ -1644,10 +1454,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Late Set with Grant Stewart Quartet \u2014 Jazzcultural",
+      "title": "Grant Stewart Quartet \u2014 Jazzcultural",
       "date": "2026-11-28T22:30:00",
       "date_raw": "Nov. 28, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34505-late-set-with-grant-stewart-quartet/",
+      "url": "https://www.smallslive.com/events/34505-grant-stewart-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -2204,7 +2014,7 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "John Paul Opening Reception",
+      "title": "Salvage (Stolen Moments) paintings on found metal, John Paul, Opening Reception",
       "date": "2026-12-03T00:00:00",
       "date_raw": "Thursday, December 3, 2026",
       "url": "https://www.freddysbar.com/events/john-paul-opening-reception",
@@ -3441,6 +3251,16 @@
       "description": "",
       "image_url": "",
       "price": ""
+    },
+    {
+      "venue_name": "Jalopy Theatre",
+      "title": "Filthy Song Night",
+      "date": "2026-12-12T01:30:00",
+      "date_raw": "2026-12-12T01:30:00.000Z",
+      "url": "https://www.viewcy.com/event/filthy_song_night_4",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
     },
     {
       "venue_name": "Brooklyn Paramount",
@@ -5704,10 +5524,30 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Gary Smulyan Quintet \u2014 Smalls",
+      "date": "2027-01-01T18:00:00",
+      "date_raw": "Jan. 1, 2027 6:00 PM",
+      "url": "https://www.smallslive.com/events/34678-gary-smulyan-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Ashley Pezzotti Quartet \u2014 Jazzcultural",
       "date": "2027-01-01T19:00:00",
       "date_raw": "Jan. 1, 2027 7:00 PM",
       "url": "https://www.smallslive.com/events/34676-ashley-pezzotti-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "John Di Martino Trio \u2014 Mezzrow",
+      "date": "2027-01-01T21:00:00",
+      "date_raw": "Jan. 1, 2027 9:00 PM",
+      "url": "https://www.smallslive.com/events/34772-john-di-martino-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5744,10 +5584,30 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Gary Smulyan Quintet \u2014 Smalls",
+      "date": "2027-01-02T18:00:00",
+      "date_raw": "Jan. 2, 2027 6:00 PM",
+      "url": "https://www.smallslive.com/events/34679-gary-smulyan-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Ashley Pezzotti Quartet \u2014 Jazzcultural",
       "date": "2027-01-02T19:00:00",
       "date_raw": "Jan. 2, 2027 7:00 PM",
       "url": "https://www.smallslive.com/events/34677-ashley-pezzotti-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "John Di Martino Trio \u2014 Mezzrow",
+      "date": "2027-01-02T21:00:00",
+      "date_raw": "Jan. 2, 2027 9:00 PM",
+      "url": "https://www.smallslive.com/events/34773-john-di-martino-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5804,6 +5664,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Mary Foster Conklin Trio \u2014 Mezzrow",
+      "date": "2027-01-03T18:00:00",
+      "date_raw": "Jan. 3, 2027 6:00 PM",
+      "url": "https://www.smallslive.com/events/34775-mary-foster-conklin-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Hendrik Meurkens  Quartet \u2014 Smalls",
       "date": "2027-01-03T18:00:00",
       "date_raw": "Jan. 3, 2027 6:00 PM",
@@ -5824,6 +5694,16 @@
     },
     {
       "venue_name": "Smalls Live",
+      "title": "Jake Hart Quartet featuring Chris Potter \u2014 Jazzcultural",
+      "date": "2027-01-04T19:30:00",
+      "date_raw": "Jan. 4, 2027 7:30 PM",
+      "url": "https://www.smallslive.com/events/34899-jake-hart-quartet-featuring-chris-potter/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
       "title": "Tessa Souter Trio \u2014 Mezzrow",
       "date": "2027-01-05T18:00:00",
       "date_raw": "Jan. 5, 2027 6:00 PM",
@@ -5838,6 +5718,16 @@
       "date": "2027-01-05T21:00:00",
       "date_raw": "Jan. 5, 2027 9:00 PM",
       "url": "https://www.smallslive.com/events/34777-neal-miner-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Greg Murphy Quartet \u2014 Smalls",
+      "date": "2027-01-05T21:00:00",
+      "date_raw": "Jan. 5, 2027 9:00 PM",
+      "url": "https://www.smallslive.com/events/34741-greg-murphy-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5878,6 +5768,16 @@
       "date": "2027-01-07T00:00:00",
       "date_raw": "Thursday, January 7, 2027",
       "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-5-eb6ax-jz259",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Nate Radley Trio \u2014 Mezzrow",
+      "date": "2027-01-07T18:00:00",
+      "date_raw": "Jan. 7, 2027 6:00 PM",
+      "url": "https://www.smallslive.com/events/34829-nate-radley-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5953,6 +5853,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Aaron Goldberg Trio \u2014 Jazzcultural",
+      "date": "2027-01-09T19:00:00",
+      "date_raw": "Jan. 9, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34902-aaron-goldberg-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2027-01-10T01:00:00",
@@ -5983,6 +5893,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Aaron Goldberg Trio \u2014 Jazzcultural",
+      "date": "2027-01-10T19:00:00",
+      "date_raw": "Jan. 10, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34903-aaron-goldberg-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Bright Eyes performing Wide Awake and Digital Ash",
       "date": "2027-01-11T17:30:00",
@@ -6000,6 +5920,16 @@
       "url": "https://www.ticketmaster.com/bright-eyes-performing-wide-awake-and-brooklyn-new-york-01-12-2027/event/00006513D0866140",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/1f2/a83c144a-7361-4c24-8472-5c57565bc1f2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jason Yeager Trio \u2014 Mezzrow",
+      "date": "2027-01-12T21:00:00",
+      "date_raw": "Jan. 12, 2027 9:00 PM",
+      "url": "https://www.smallslive.com/events/34835-jason-yeager-trio/",
+      "description": "",
+      "image_url": "",
       "price": ""
     },
     {
@@ -6113,6 +6043,16 @@
       "price": "$23"
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "Siddharth Ashokkumar & Siddharth Ragavan",
+      "date": "2027-01-18T00:30:00",
+      "date_raw": "2027-01-18T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/siddharth_ashokkumar_1",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Brooklyn Paramount",
       "title": "Stella Lefty: Long Way Home Tour",
       "date": "2027-01-19T19:00:00",
@@ -6133,11 +6073,41 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Kurt Rosenwinkel and \"Riptet\" \u2014 Jazzcultural",
+      "date": "2027-01-20T19:30:00",
+      "date_raw": "Jan. 20, 2027 7:30 PM",
+      "url": "https://www.smallslive.com/events/34920-kurt-rosenwinkel-and-riptet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Jalopy Open Mic Every Wednesday! ( either in the theatre or the tavern)",
       "date": "2027-01-20T23:30:00",
       "date_raw": "2027-01-20T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Kurt Rosenwinkel and \"Riptet\" \u2014 Jazzcultural",
+      "date": "2027-01-21T19:00:00",
+      "date_raw": "Jan. 21, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34921-kurt-rosenwinkel-and-riptet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jerry Bergonzi Quartet \u2014 Jazzcultural",
+      "date": "2027-01-22T19:00:00",
+      "date_raw": "Jan. 22, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34909-jerry-bergonzi-quartet/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6183,6 +6153,16 @@
       "price": "$23"
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jerry Bergonzi Quartet \u2014 Jazzcultural",
+      "date": "2027-01-23T19:00:00",
+      "date_raw": "Jan. 23, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34910-jerry-bergonzi-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Freddy's",
       "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
       "date": "2027-01-24T00:00:00",
@@ -6203,6 +6183,16 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Jerry Bergonzi Quartet \u2014 Jazzcultural",
+      "date": "2027-01-24T19:00:00",
+      "date_raw": "Jan. 24, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34911-jerry-bergonzi-quartet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Jalopy Theatre",
       "title": "Rock Hearts",
       "date": "2027-01-24T23:30:00",
@@ -6218,6 +6208,26 @@
       "date": "2027-01-27T23:30:00",
       "date_raw": "2027-01-27T23:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Goldings/ Bernstein/ Stewart \u2014 Jazzcultural",
+      "date": "2027-01-28T19:00:00",
+      "date_raw": "Jan. 28, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34912-goldings-bernstein-stewart/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Goldings/ Bernstein/ Stewart \u2014 Jazzcultural",
+      "date": "2027-01-29T19:00:00",
+      "date_raw": "Jan. 29, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34914-goldings-bernstein-stewart/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6243,12 +6253,32 @@
       "price": ""
     },
     {
+      "venue_name": "Smalls Live",
+      "title": "Goldings/ Bernstein/ Stewart \u2014 Jazzcultural",
+      "date": "2027-01-30T19:00:00",
+      "date_raw": "Jan. 30, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34915-goldings-bernstein-stewart/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2027-01-31T01:00:00",
       "date_raw": "",
       "url": "https://tockify.com/sunnysmusic/detail/277/1801357200000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Goldings/ Bernstein/ Stewart \u2014 Jazzcultural",
+      "date": "2027-01-31T19:00:00",
+      "date_raw": "Jan. 31, 2027 7:00 PM",
+      "url": "https://www.smallslive.com/events/34916-goldings-bernstein-stewart/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -6570,6 +6600,16 @@
       "url": "https://tockify.com/sunnysmusic/detail/277/1804986000000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Ashe: The Girl of Your Dreams Tour",
+      "date": "2027-03-15T19:00:00",
+      "date_raw": "2027-03-15T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-brooklyn-new-york-03-15-2027/event/00006555FFCF1CE3",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/a3b/feb22590-d013-4f99-a8c1-aad0fb3d0a3b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
