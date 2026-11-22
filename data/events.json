@@ -1,57 +1,7 @@
 {
-  "scraped_at": "2026-11-21T19:51:51.407223+00:00",
+  "scraped_at": "2026-11-22T20:01:16.134781+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Geoff the DJ- Vinyl & Digital- Indie/Dance Set",
-      "date": "2026-11-07T00:00:00",
-      "date_raw": "Saturday, November 7, 2026",
-      "url": "https://www.freddysbar.com/events/geoff-the-dj-vinyl-digital-indiedance-set",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Martin Monster Show & Screening Series- Second Sundays!",
-      "date": "2026-11-08T00:00:00",
-      "date_raw": "Sunday, November 8, 2026",
-      "url": "https://www.freddysbar.com/events/martin-monster-presents-troma-fest-lll84",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "PAINT, EAT & SIP with Jo Anna",
-      "date": "2026-11-08T00:00:00",
-      "date_raw": "Sunday, November 8, 2026",
-      "url": "https://www.freddysbar.com/events/paint-sip-every-second-sunday",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-11-09T00:00:00",
-      "date_raw": "Monday, November 9, 2026",
-      "url": "https://www.freddysbar.com/events/6ebr56pndmhm9ej",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Big Joe's Happiness Exchange",
-      "date": "2026-11-10T00:00:00",
-      "date_raw": "Tuesday, November 10, 2026",
-      "url": "https://www.freddysbar.com/events/dsc6kndmgfph4em8ljetrbd96c9h64-ts5pt-nbbeb",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
@@ -284,30 +234,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "BARCHIVES book signing",
+      "title": "Henry Mena Residency- 3rd Saturdays",
       "date": "2026-11-21T00:00:00",
       "date_raw": "Saturday, November 21, 2026",
-      "url": "https://www.freddysbar.com/events/barchives-book-signing",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Pole Before Dark- every third Saturday",
-      "date": "2026-11-21T00:00:00",
-      "date_raw": "Saturday, November 21, 2026",
-      "url": "https://www.freddysbar.com/events/pole-after-dark-6m6ha-898ae",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "Lightening Will- Grateful Dead Cover Band",
-      "date": "2026-11-21T00:00:00",
-      "date_raw": "Saturday, November 21, 2026",
-      "url": "https://www.freddysbar.com/events/lightening-will-grateful-dead-cover-band",
+      "url": "https://www.freddysbar.com/events/henry-mena-2nd-saturday-residency",
       "description": "",
       "image_url": "",
       "price": ""
@@ -324,180 +254,30 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Henry Mena Residency- 3rd Saturdays",
+      "title": "Lightening Will- Grateful Dead Cover Band",
       "date": "2026-11-21T00:00:00",
       "date_raw": "Saturday, November 21, 2026",
-      "url": "https://www.freddysbar.com/events/henry-mena-2nd-saturday-residency",
+      "url": "https://www.freddysbar.com/events/lightening-will-grateful-dead-cover-band",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Sam Lerner Trio \u2014 Jazzcultural",
-      "date": "2026-11-21T14:00:00",
-      "date_raw": "Nov. 21, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34712-jam-in-the-cafe-with-sam-lerner-trio/",
+      "venue_name": "Freddy's",
+      "title": "Pole Before Dark- every third Saturday",
+      "date": "2026-11-21T00:00:00",
+      "date_raw": "Saturday, November 21, 2026",
+      "url": "https://www.freddysbar.com/events/pole-after-dark-6m6ha-898ae",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "SMALLS AFTERNOON JAM SESSION HOSTED BY Carol Morgan Quartet \u2014 Smalls",
-      "date": "2026-11-21T14:00:00",
-      "date_raw": "Nov. 21, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34484-smalls-afternoon-jam-session-hosted-by-carol-morgan-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Kenny Davis Quartet \u2014 Mezzrow",
-      "date": "2026-11-21T18:00:00",
-      "date_raw": "Nov. 21, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34329-kenny-davis-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Valery Ponomarev Quintet \u2014 Smalls",
-      "date": "2026-11-21T18:00:00",
-      "date_raw": "Nov. 21, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34416-valery-ponomarev-quintet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Geraldo Marshall Quartet",
-      "date": "2026-11-21T18:30:00",
-      "date_raw": "Saturday November 21st 06:30 PM",
-      "url": "",
-      "description": "Geraldo Marshall (tp)Roberto Acosta (saxophone)Kweku Aggrey (b)Orion Turre (d)Special Guest: Yetunde",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ned Goold Quartet",
-      "date": "2026-11-21T18:30:00",
-      "date_raw": "Saturday November 21st 06:30 PM",
-      "url": "",
-      "description": "Ned Goold (saxophone)Lolivone de la Rosa (g)Reid Taylor (b)Gary Kerkezou\u00a0(d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "STING 3.0 Tour",
-      "date": "2026-11-21T19:00:00",
-      "date_raw": "2026-11-21T19:00:00-05:00",
-      "url": "https://www.ticketmaster.com/sting-30-tour-brooklyn-new-york-11-21-2026/event/00006459059ADBDD",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/422/94a31c60-9966-4582-b197-4c5a504d8422_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Benny Green Trio \u2014 Jazzcultural",
-      "date": "2026-11-21T19:00:00",
-      "date_raw": "Nov. 21, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34255-benny-green-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday November 21st EARLY SET 7:30-9pm \u2022 Blues with Mara Kaye!",
-      "date": "2026-11-21T19:30:00",
-      "date_raw": "Saturday November 21st EARLY SET 7:30-9pm \u2022 Blues with Mara Kaye!",
-      "url": "https://www.fredsdoghouse.com/event/saturday-early-set-730-9pm-blues-with-mara-kaye/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Mike Troy Quartet",
-      "date": "2026-11-21T21:00:00",
-      "date_raw": "Saturday November 21st 09:00 PM",
-      "url": "",
-      "description": "Mike Troy (saxophone)Davis Whitfield (p)Tony Golden (b)Jonas Esser (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Mike Ledonne Trio \u2014 Mezzrow",
-      "date": "2026-11-21T21:00:00",
-      "date_raw": "Nov. 21, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34331-mike-ledonne-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Steve Slagle Quartet \u2014 Smalls",
-      "date": "2026-11-21T21:00:00",
-      "date_raw": "Nov. 21, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34418-steve-slagle-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Roni Eytan Quartet",
-      "date": "2026-11-21T21:30:00",
-      "date_raw": "Saturday November 21st 09:30 PM",
-      "url": "",
-      "description": "Roni Eytan (harmonica)Gilad Hekselman (g)Pablo Menares (b)David Sirkis (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Saturday November 21st 9:30pm \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
-      "date": "2026-11-21T21:30:00",
-      "date_raw": "Saturday November 21st 9:30pm \u2022 Delta Swamp Blues with The Cannibal Ramblers!",
-      "url": "https://www.fredsdoghouse.com/event/friday-october-3rd-delta-swamp-blues-with-the-cannibal-ramblers/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Christopher McBride & The Whole Proof \u2014 Jazzcultural",
-      "date": "2026-11-21T22:30:00",
-      "date_raw": "Nov. 21, 2026 10:30 PM",
-      "url": "https://www.smallslive.com/events/34259-christopher-mcbride-the-whole-proof/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Round Midnight Solo Piano with Miki Yamanaka \u2014 Mezzrow",
-      "date": "2026-11-21T23:55:00",
-      "date_raw": "Nov. 21, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34498-round-midnight-solo-piano-with-miki-yamanaka/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Stacy Dillard Quartet \u2014 Smalls",
-      "date": "2026-11-21T23:55:00",
-      "date_raw": "Nov. 21, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34420-stacy-dillard-quartet/",
+      "venue_name": "Freddy's",
+      "title": "BARCHIVES book signing",
+      "date": "2026-11-21T00:00:00",
+      "date_raw": "Saturday, November 21, 2026",
+      "url": "https://www.freddysbar.com/events/barchives-book-signing",
       "description": "",
       "image_url": "",
       "price": ""
@@ -529,26 +309,6 @@
       "date_raw": "Sunday, November 22, 2026",
       "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette-9yzk3",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Jalopy Theatre",
-      "title": "NYU YDSA Eyes on Delaney Fundraiser",
-      "date": "2026-11-22T00:00:00",
-      "date_raw": "2026-11-22T00:00:00.000Z",
-      "url": "https://www.viewcy.com/event/nyu_ydsa_eyes_on_dela",
-      "description": "",
-      "image_url": "",
-      "price": "$7"
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "Tone's Bluegrass Jam",
-      "date": "2026-11-22T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/277/1795309200000",
-      "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
       "price": ""
     },
@@ -773,6 +533,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Eden Ladin Quartet",
+      "date": "2026-11-23T21:00:00",
+      "date_raw": "Monday November 23rd 09:00 PM",
+      "url": "",
+      "description": "Eden Ladin (p)Kevin Sun (saxophone)Paul Sikivie (b)Kush Abadey (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Pasquale Grasso Trio \u2014 Mezzrow",
       "date": "2026-11-23T21:00:00",
@@ -893,12 +663,32 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Daniel Bereket Quintet",
+      "date": "2026-11-24T18:30:00",
+      "date_raw": "Tuesday November 24th 06:30 PM",
+      "url": "",
+      "description": "Daniel Bereket (tp)Matt Knoegel (saxophone)Jordan Williams (p)Jason Clotter (b)Corey Rawls (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Ted Rosenthal Trio \u2014 Jazzcultural",
       "date": "2026-11-24T19:30:00",
       "date_raw": "Nov. 24, 2026 7:30 PM",
       "url": "https://www.smallslive.com/events/34261-ted-rosenthal-trio/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Andrew Wagner Quintet",
+      "date": "2026-11-24T21:00:00",
+      "date_raw": "Tuesday November 24th 09:00 PM",
+      "url": "",
+      "description": "Andrew Wagner (tp)Alex De Lazzari (ts)Elliot Bernard (p)Lonnie Plaxico (b)Adriel Vincent-Brown (d)",
       "image_url": "",
       "price": ""
     },
@@ -1644,7 +1434,7 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
+      "title": "Comedy Open Mic Every Monday & Wednesday- 5th week bonus Monday",
       "date": "2026-11-30T00:00:00",
       "date_raw": "Monday, November 30, 2026",
       "url": "https://www.freddysbar.com/events/6mbrdync76ph6wn",
@@ -2589,6 +2379,16 @@
       "date_raw": "Dec. 6, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34344-dan-aran-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Jon Roche Trio",
+      "date": "2026-12-06T21:30:00",
+      "date_raw": "Sunday December 6th 09:30 PM",
+      "url": "",
+      "description": "Jon Roche (b)Zaid Nasser (as)Tardo Hammer (p)",
       "image_url": "",
       "price": ""
     },
@@ -6621,6 +6421,16 @@
       "description": "",
       "image_url": "",
       "price": "$23"
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Dashboard Confessional - Unplugged 25th Anniversary",
+      "date": "2027-03-17T19:00:00",
+      "date_raw": "2027-03-17T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/dashboard-confessional-unplugged-25th-anniversary-brooklyn-new-york-03-17-2027/event/00006566BA9CD204",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/d93/7e555e44-1783-47e5-8a14-26d6418ded93_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
     },
     {
       "venue_name": "Jalopy Theatre",
