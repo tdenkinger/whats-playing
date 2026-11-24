@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-11-22T20:01:16.134781+00:00",
+  "scraped_at": "2026-11-24T00:27:00.015759+00:00",
   "failed_venues": [],
   "events": [
-    {
-      "venue_name": "Freddy's",
-      "title": "Comedy Open Mic Every Monday & Wednesday",
-      "date": "2026-11-11T00:00:00",
-      "date_raw": "Wednesday, November 11, 2026",
-      "url": "https://www.freddysbar.com/events/zd5aasncmpzaafl",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "That\u2019s Camp -2nd Thursdays-Burlesque in the Back Every Thursday",
-      "date": "2026-11-12T00:00:00",
-      "date_raw": "Thursday, November 12, 2026",
-      "url": "https://www.freddysbar.com/events/burlesque-in-the-back-every-thursday-3-ztacs-zswxy-kx52e-z6y3y-9cezz-zckeh",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
     {
       "venue_name": "Freddy's",
       "title": "Lucas Spillman Acoustic Alt Rock",
@@ -284,10 +264,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Fourth Sunday Traditional Irish Music Jam",
+      "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
       "date": "2026-11-22T00:00:00",
       "date_raw": "Sunday, November 22, 2026",
-      "url": "https://www.freddysbar.com/events/fourth-sunday-traditional-irish-music-jam-p9ryf-2jk8t",
+      "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette-9yzk3",
       "description": "",
       "image_url": "",
       "price": ""
@@ -304,150 +284,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Lowbrow Cinema on Videocassette- Every 4th Sunday",
+      "title": "Fourth Sunday Traditional Irish Music Jam",
       "date": "2026-11-22T00:00:00",
       "date_raw": "Sunday, November 22, 2026",
-      "url": "https://www.freddysbar.com/events/lowbrow-cinema-on-videocassette-9yzk3",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vocal Open Mic with Noa Chait \u2014 Jazzcultural",
-      "date": "2026-11-22T14:00:00",
-      "date_raw": "Nov. 22, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34719-vocal-open-mic-with-noa-chait/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Smalls Afternoon Jam Session Hosted by Ryo Sasaki Quartet \u2014 Smalls",
-      "date": "2026-11-22T14:00:00",
-      "date_raw": "Nov. 22, 2026 2:00 PM",
-      "url": "https://www.smallslive.com/events/34372-smalls-afternoon-jam-session-hosted-by-ryo-sasaki-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "The Menzingers: Everything I Ever Saw North American Tour",
-      "date": "2026-11-22T18:00:00",
-      "date_raw": "2026-11-22T18:00:00-05:00",
-      "url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-brooklyn-new-york-11-22-2026/event/0000649CB44A761F",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/d22/4d7dc9f2-8fe5-4c7a-ac72-1dea31847d22_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Paul Jost Quartet \u2014 Mezzrow",
-      "date": "2026-11-22T18:00:00",
-      "date_raw": "Nov. 22, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34332-paul-jost-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Grant Stewart Quartet \u2014 Smalls",
-      "date": "2026-11-22T18:00:00",
-      "date_raw": "Nov. 22, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34422-grant-stewart-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Ben Rice Trio",
-      "date": "2026-11-22T18:30:00",
-      "date_raw": "Sunday November 22nd 06:30 PM",
-      "url": "",
-      "description": "Ben Rice (p)Alec Safy (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Nick Green Trio",
-      "date": "2026-11-22T18:30:00",
-      "date_raw": "Sunday November 22nd 06:30 PM",
-      "url": "",
-      "description": "Nick Green (as)Charlie Himel (b)Kyohey Shomoto (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Benny Green Trio \u2014 Jazzcultural",
-      "date": "2026-11-22T19:00:00",
-      "date_raw": "Nov. 22, 2026 7:00 PM",
-      "url": "https://www.smallslive.com/events/34256-benny-green-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Zaid Nasser Quartet",
-      "date": "2026-11-22T21:00:00",
-      "date_raw": "Sunday November 22nd 09:00 PM",
-      "url": "",
-      "description": "Zaid Nasser (as)Pasquale Grasso (g)Ari Roland (b)Mike Camacho (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Vanisha Gould Quartet \u2014 Mezzrow",
-      "date": "2026-11-22T21:00:00",
-      "date_raw": "Nov. 22, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34487-vanisha-gould-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Skylar Tang Quartet \u2014 Smalls",
-      "date": "2026-11-22T21:00:00",
-      "date_raw": "Nov. 22, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34423-skylar-tang-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Don Hahn Quintet",
-      "date": "2026-11-22T21:30:00",
-      "date_raw": "Sunday November 22nd 09:30 PM",
-      "url": "",
-      "description": "Don Hahn (cornet&flugelhorn)Tamir Lifshitz (g)Xavier Kim (p)Mikey Lipschultz (b)Simon Ribas (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Marc Devine \u2014 Jazzcultural",
-      "date": "2026-11-22T22:15:00",
-      "date_raw": "Nov. 22, 2026 10:15 PM",
-      "url": "https://www.smallslive.com/events/34689-jam-in-the-cafe-with-marc-devine/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Aaron Johnson Quintet \u2014 Smalls",
-      "date": "2026-11-22T23:55:00",
-      "date_raw": "Nov. 22, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34421-aaron-johnson-quintet/",
+      "url": "https://www.freddysbar.com/events/fourth-sunday-traditional-irish-music-jam-p9ryf-2jk8t",
       "description": "",
       "image_url": "",
       "price": ""
@@ -463,21 +303,11 @@
       "price": ""
     },
     {
-      "venue_name": "Sunny's Bar",
-      "title": "Ken and Friends featuring Jacob Jolliff and Adam Armstrong",
-      "date": "2026-11-23T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/295/1795395600000",
-      "description": "Every Sunday night jazz and bluegrass violinist Ken Shoji is joined by a few of his friends, who happen to be some of the best musicians in the city. A don't-miss listening night! Kensuke Shoji is a jazz violinist and member of Deadgrass. Born in Gifu, Japan, he began playing violin at 7 with Suzuki Method. Kensuke joined his father\u2019s Bluegrass band when he was a teenager and moved to the U.S to s",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Smalls Live",
-      "title": "Happy Hour with John Merrill Trio \u2014 Jazzcultural",
+      "title": "Happy Hour with Kate Curran Trio \u2014 Jazzcultural",
       "date": "2026-11-23T16:00:00",
       "date_raw": "Nov. 23, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34700-happy-hour-with-john-merrill-trio/",
+      "url": "https://www.smallslive.com/events/34700-happy-hour-with-kate-curran-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -683,6 +513,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Tuesday November 24th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "date": "2026-11-24T20:30:00",
+      "date_raw": "Tuesday November 24th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
+      "url": "https://www.fredsdoghouse.com/event/tuesday-august-4th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
       "title": "Andrew Wagner Quintet",
       "date": "2026-11-24T21:00:00",
@@ -814,11 +654,11 @@
     },
     {
       "venue_name": "Ornithology Jazz Club",
-      "title": "Adam Arruda Trio",
+      "title": "Gideon Tazelaar Quartet",
       "date": "2026-11-25T18:30:00",
       "date_raw": "Wednesday November 25th 06:30 PM",
       "url": "",
-      "description": "Adam Arruda (d)Eden Ladin (p)Felix Moseholm (b)",
+      "description": "Gideon Tazelaar (saxophone)Eden Ladin (p)Felix Moseholm (b)Adam Arruda (d)",
       "image_url": "",
       "price": ""
     },
@@ -833,12 +673,22 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Wednesday November 25th 8:30pm \u2022 A John Myles Duo!",
+      "date": "2026-11-25T20:30:00",
+      "date_raw": "Wednesday November 25th 8:30pm \u2022 A John Myles Duo!",
+      "url": "https://www.fredsdoghouse.com/event/wednesday-january-28th-830pm-a-john-myles-trio-copy/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Ornithology Jazz Club",
-      "title": "Itay Goldberg Trio",
+      "title": "Itay Goldberg Quartet",
       "date": "2026-11-25T21:00:00",
       "date_raw": "Wednesday November 25th 09:00 PM",
       "url": "",
-      "description": "Itay Goldberg (saxophone)Tal Yahalom (g)Matt Stravakas (b)",
+      "description": "Itay Goldberg (saxophone)Tal Yahalom (g)Matt Stravakas (b)Alon Benjamini (d)",
       "image_url": "",
       "price": ""
     },
@@ -1063,6 +913,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Friday November 27th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "date": "2026-11-27T20:30:00",
+      "date_raw": "Friday November 27th 8:30pm \u2022  New Moon Acoustic Blues Trio!",
+      "url": "https://www.fredsdoghouse.com/event/friday-may-15th-830pm-new-moon-acoustic-blues-trio-copy-1/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Billy Drummond Trio \u2014 Mezzrow",
       "date": "2026-11-27T21:00:00",
@@ -1193,6 +1053,16 @@
       "price": ""
     },
     {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday November 28th 7pm \u2022\u00a0Matt Wiffen & The Slim Whiskers!",
+      "date": "2026-11-28T19:00:00",
+      "date_raw": "Saturday November 28th 7pm \u2022\u00a0Matt Wiffen & The Slim Whiskers!",
+      "url": "https://www.fredsdoghouse.com/event/saturday-november-28th-7pm-matt-wiffen-the-slim-whiskers/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Harry Allen Quartet \u2014 Jazzcultural",
       "date": "2026-11-28T19:00:00",
@@ -1238,6 +1108,16 @@
       "date": "2026-11-28T21:00:00",
       "date_raw": "Nov. 28, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34437-brandon-lee-quintet/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Saturday November 28th 9:30pm \u2022 The Dirt Whisperers!",
+      "date": "2026-11-28T21:30:00",
+      "date_raw": "Saturday November 28th 9:30pm \u2022 The Dirt Whisperers!",
+      "url": "https://www.fredsdoghouse.com/event/this-just-in-saturday-august-1st-830pm-the-dirt-whisperers/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -1359,6 +1239,16 @@
       "date_raw": "Sunday November 29th 06:30 PM",
       "url": "",
       "description": "Noam Shapira (saxophone)Tom Oren (p)Dan Montgomery (b)Alon Benjamini (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Fred's Dog House",
+      "title": "Sunday November 29th 6:30 pm \u2022 Blues, American & more with Papa Vega!",
+      "date": "2026-11-29T18:30:00",
+      "date_raw": "Sunday November 29th 6:30 pm \u2022 Blues, American & more with Papa Vega!",
+      "url": "https://www.fredsdoghouse.com/event/wednesday-july-8th-830pm-blues-american-more-with-papa-vega-copy/",
+      "description": "",
       "image_url": "",
       "price": ""
     },
@@ -2904,16 +2794,6 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Photo Exhibition and Wrestling Pop-Up",
-      "date": "2026-12-11T00:00:00",
-      "date_raw": "Friday, December 11, 2026",
-      "url": "https://www.freddysbar.com/events/photo-exhibition-and-wrestling-pop-up",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
       "title": "Lightning Will -Grateful Dead tribute",
       "date": "2026-12-11T00:00:00",
       "date_raw": "Friday, December 11, 2026",
@@ -3120,6 +3000,16 @@
       "url": "https://www.ticketmaster.com/of-the-trees-brooklyn-new-york-12-12-2026/event/000065669A7580B7",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/e8d/4f0be1fb-d870-475b-87c5-e0c64227ce8d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+      "price": ""
+    },
+    {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Frank Lacy Group",
+      "date": "2026-12-12T21:00:00",
+      "date_raw": "Saturday December 12th 09:00 PM",
+      "url": "",
+      "description": "1st SetLacy Frank (trombone)Giles Underwood (ts)Ryan Kaplan (ts)Josiah Moore (tp)Andrew Yuska (p)Paul Flament (b)Rehaan Rouege (d)2nd SetLacy Frank (trombone)Marit Buffington (v)Dylan Smith (vibraphone)Justin Kwak (tp)Alex Laurenzi (saxophone)Derek Lewis (p)Ted Olsen (b)EJ Li (d)",
+      "image_url": "",
       "price": ""
     },
     {
@@ -5564,6 +5454,16 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "TBD Art opening reception",
+      "date": "2027-01-07T00:00:00",
+      "date_raw": "Thursday, January 7, 2027",
+      "url": "https://www.freddysbar.com/events/art-show-opening-reception",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Lily Lavalocks\u2019 Luscious & Ludicrous, First Thursdays: Burlesque in the Back Every Thursday!",
       "date": "2027-01-07T00:00:00",
       "date_raw": "Thursday, January 7, 2027",
@@ -5698,6 +5598,16 @@
       "date": "2027-01-10T19:00:00",
       "date_raw": "Jan. 10, 2027 7:00 PM",
       "url": "https://www.smallslive.com/events/34903-aaron-goldberg-trio/",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Smalls Live",
+      "title": "Jovan Parris Alexandre Trio \u2014 Smalls",
+      "date": "2027-01-10T21:00:00",
+      "date_raw": "Jan. 10, 2027 9:00 PM",
+      "url": "https://www.smallslive.com/events/34850-jovan-parris-alexandre-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6154,10 +6064,10 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "Lady King And The Aces & Friends: Live in Concert two sets",
+      "title": "The Jane Fonda Experience & Lady King And The Aces",
       "date": "2027-02-12T00:00:00",
       "date_raw": "Friday, February 12, 2027",
-      "url": "https://www.freddysbar.com/events/lady-king-and-the-aces-live-in-concert",
+      "url": "https://www.freddysbar.com/events/the-jane-fonda-experience-lady-king-and-the-aces",
       "description": "",
       "image_url": "",
       "price": ""
@@ -6440,6 +6350,16 @@
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
       "description": "",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "Lucky Daye - The ALOUD! Tour",
+      "date": "2027-03-18T19:00:00",
+      "date_raw": "2027-03-18T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/lucky-daye-the-aloud-tour-brooklyn-new-york-03-18-2027/event/00006550E7CE392B",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/a/ed3/9043da81-256a-49a0-9505-5808202eded3_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
@@ -7434,20 +7354,20 @@
     },
     {
       "venue_name": "Fred's Dog House",
-      "title": "Sunday November 22nd 2pm  + Bill's Bloody Mary Blooze Brunch!",
+      "title": "Closed Thanksgiving!",
       "date": null,
-      "date_raw": "Sunday November 22nd 2pm  + Bill's Bloody Mary Blooze Brunch!",
-      "url": "https://www.fredsdoghouse.com/event/sunday-august-3rd-bills-bloody-mary-blooze-brunch/",
+      "date_raw": "Closed Thanksgiving!",
+      "url": "https://www.fredsdoghouse.com/event/closed-thanksgiving/",
       "description": "",
       "image_url": "",
       "price": ""
     },
     {
       "venue_name": "Fred's Dog House",
-      "title": "Sunday November 22nd 6:30pm + From LA. Los Caramelos!",
+      "title": "Brunchin' Sunday November 29th 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
       "date": null,
-      "date_raw": "Sunday November 22nd 6:30pm + From LA. Los Caramelos!",
-      "url": "https://www.fredsdoghouse.com/event/sunday-november-22nd-630pm-from-la-los-caramelos/",
+      "date_raw": "Brunchin' Sunday November 29th 2pm \u2022\u00a0On the piano...Blues, Boogie-Woogie and more with Bill Malchow!",
+      "url": "https://www.fredsdoghouse.com/event/brunchin-sunday-november-8th-2pm-on-the-pianoblues-boogie-woogie-and-more-with-bill-malchow-copy/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -7498,16 +7418,6 @@
       "date": null,
       "date_raw": "Thu, Nov 19, 202611:30\u202fPMFri, Nov 20, 202612:30\u202fAM",
       "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-dfhtr",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "LATE NIGHT LAUGHS! A Midnight Comedy Show After Burlesque",
-      "date": null,
-      "date_raw": "Thu, Nov 12, 202611:30\u202fPMFri, Nov 13, 202612:30\u202fAM",
-      "url": "https://www.freddysbar.com/events/late-night-laughs-a-midnight-comedy-show-after-burlesque-3-fg5jm",
       "description": "",
       "image_url": "",
       "price": ""
