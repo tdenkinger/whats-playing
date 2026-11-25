@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-24T22:49:28.913810+00:00",
+  "scraped_at": "2026-11-25T22:01:33.918161+00:00",
   "failed_venues": [],
   "events": [
     {
@@ -28,16 +28,6 @@
       "date": "2026-11-13T00:00:00",
       "date_raw": "Friday, November 13, 2026",
       "url": "https://www.freddysbar.com/events/this-is-a-low",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Freddy's",
-      "title": "The Bureau plays Freddys Bar",
-      "date": "2026-11-13T00:00:00",
-      "date_raw": "Friday, November 13, 2026",
-      "url": "https://www.freddysbar.com/events/the-bureau-plays-freddys-bar",
       "description": "",
       "image_url": "",
       "price": ""
@@ -303,162 +293,12 @@
       "price": ""
     },
     {
-      "venue_name": "Smalls Live",
-      "title": "In the Cafe with Vanisha Gould \u2014 Jazzcultural",
-      "date": "2026-11-24T16:00:00",
-      "date_raw": "Nov. 24, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34701-in-the-cafe-with-vanisha-gould/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Milton Suggs Quartet \u2014 Mezzrow",
-      "date": "2026-11-24T18:00:00",
-      "date_raw": "Nov. 24, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34334-milton-suggs-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Rez Abbasi Quartet \u2014 Smalls",
-      "date": "2026-11-24T18:00:00",
-      "date_raw": "Nov. 24, 2026 6:00 PM",
-      "url": "https://www.smallslive.com/events/34428-rez-abbasi-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Master\u2019s Hour",
-      "date": "2026-11-24T18:30:00",
-      "date_raw": "Tuesday November 24th 06:30 PM",
-      "url": "",
-      "description": "Jason Lindner (p)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Daniel Bereket Quintet",
-      "date": "2026-11-24T18:30:00",
-      "date_raw": "Tuesday November 24th 06:30 PM",
-      "url": "",
-      "description": "Daniel Bereket (tp)Matt Knoegel (saxophone)Jordan Williams (p)Jason Clotter (b)Corey Rawls (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Ted Rosenthal Trio \u2014 Jazzcultural",
-      "date": "2026-11-24T19:30:00",
-      "date_raw": "Nov. 24, 2026 7:30 PM",
-      "url": "https://www.smallslive.com/events/34261-ted-rosenthal-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Tuesday November 24th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "date": "2026-11-24T20:30:00",
-      "date_raw": "Tuesday November 24th 8:30pm \u2022 Open Mic Tuesday hosted by Karl Schwarz!",
-      "url": "https://www.fredsdoghouse.com/event/tuesday-august-4th-830pm-open-mic-tuesday-hosted-by-karl-schwarz-copy/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Andrew Wagner Quintet",
-      "date": "2026-11-24T21:00:00",
-      "date_raw": "Tuesday November 24th 09:00 PM",
-      "url": "",
-      "description": "Andrew Wagner (tp)Alex De Lazzari (ts)Elliot Bernard (p)Lonnie Plaxico (b)Adriel Vincent-Brown (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Tony Davis Trio \u2014 Mezzrow",
-      "date": "2026-11-24T21:00:00",
-      "date_raw": "Nov. 24, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34335-tony-davis-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "David Gibson Quartet \u2014 Smalls",
-      "date": "2026-11-24T21:00:00",
-      "date_raw": "Nov. 24, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34429-david-gibson-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Nitsan Kolko Trio",
-      "date": "2026-11-24T21:30:00",
-      "date_raw": "Tuesday November 24th 09:30 PM",
-      "url": "",
-      "description": "Nitsan Kolko (p)Charlie Lincoln (b)Ben Silashi (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam in the Cafe with Katie Cosco \u2014 Jazzcultural",
-      "date": "2026-11-24T22:15:00",
-      "date_raw": "Nov. 24, 2026 10:15 PM",
-      "url": "https://www.smallslive.com/events/34884-jam-in-the-cafe-with-katie-cosco/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "VINYL AFTER HOURS \u2014 Mezzrow",
-      "date": "2026-11-24T23:30:00",
-      "date_raw": "Nov. 24, 2026 11:30 PM",
-      "url": "https://www.smallslive.com/events/34459-vinyl-after-hours/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Jason Clotter Trio \u2014 Smalls",
-      "date": "2026-11-24T23:55:00",
-      "date_raw": "Nov. 24, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34427-jam-session-hosted-by-jason-clotter-trio/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
       "venue_name": "Freddy's",
       "title": "Comedy Open Mic Every Monday & Wednesday",
       "date": "2026-11-25T00:00:00",
       "date_raw": "Wednesday, November 25, 2026",
       "url": "https://www.freddysbar.com/events/f3fn6l9ys55e7nf",
       "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Sunny's Bar",
-      "title": "The Binoculars",
-      "date": "2026-11-25T01:00:00",
-      "date_raw": "",
-      "url": "https://tockify.com/sunnysmusic/detail/236/1795568400000",
-      "description": "The Binoculars, of Brooklyn, New York, is the duo of longtime pals Kaethe Hostetter and Chlo\u00eb Swantner. New album 'Double Whammy' releases July 17, 2026 on Jalopy Records. They gather and resuscitate long lost tunes from around the world using fiddle, 5-string violin, guitar, lap steel, and laser vocal harmonies. Their repertoire spans myriad genres, dusting off 1950\u2019s New Mexican mazurkas and Ame",
       "image_url": "",
       "price": ""
     },
@@ -689,6 +529,16 @@
       "date_raw": "Nov. 26, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34432-nicholas-biello-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Andrea Niccolai Trio",
+      "date": "2026-11-26T21:30:00",
+      "date_raw": "Thursday November 26th 09:30 PM",
+      "url": "",
+      "description": "Enrico Le Noci (g)Kim Baiunco (b)Andrea Niccolai (d)",
       "image_url": "",
       "price": ""
     },
@@ -988,7 +838,7 @@
       "date": "2026-11-28T21:00:00",
       "date_raw": "Saturday November 28th 09:00 PM",
       "url": "",
-      "description": "Carlos Abadie (tp)Maki Nientao (p)Caleb Tobocman (b)Jacob Smith (d)",
+      "description": "Carlos Abadie (tp)Maki Nientao (p)Kyle Colina (b)Jacob Smith (d)",
       "image_url": "",
       "price": ""
     },
@@ -1269,6 +1119,16 @@
       "date_raw": "Nov. 30, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34444-joe-farnsworth-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Jacob Chung Trio",
+      "date": "2026-11-30T18:30:00",
+      "date_raw": "Monday November 30th 06:30 PM",
+      "url": "",
+      "description": "Jacob Chung (saxophone)Ari Roland (b)Harold Harrelson (d)",
       "image_url": "",
       "price": ""
     },
@@ -1694,10 +1554,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Brian Melvin Beetlejazz \u2014 Smalls",
+      "title": "Beatlejazz \u2014 Smalls",
       "date": "2026-12-03T21:00:00",
       "date_raw": "Dec. 3, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34534-brian-melvin-beetlejazz/",
+      "url": "https://www.smallslive.com/events/34534-beatlejazz/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -3023,6 +2883,16 @@
       "price": ""
     },
     {
+      "venue_name": "Jalopy Theatre",
+      "title": "\"A Country Christmas\u201d with CRYS: A Holiday Revue",
+      "date": "2026-12-13T00:30:00",
+      "date_raw": "2026-12-13T00:30:00.000Z",
+      "url": "https://www.viewcy.com/event/a_country_christmas",
+      "description": "",
+      "image_url": "",
+      "price": "$23"
+    },
+    {
       "venue_name": "Sunny's Bar",
       "title": "Tone's Bluegrass Jam",
       "date": "2026-12-13T01:00:00",
@@ -3274,7 +3144,7 @@
     },
     {
       "venue_name": "Freddy's",
-      "title": "XMAS HORROR MOVIE NIGHT- (no cover)",
+      "title": "XMAS HORROR MOVIE NIGHT MARATHON  (no cover)",
       "date": "2026-12-15T00:00:00",
       "date_raw": "Tuesday, December 15, 2026",
       "url": "https://www.freddysbar.com/events/xmas-horror-movie-night-no-cover",
@@ -3284,10 +3154,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Happy Hour with Vanisha Gould Trio \u2014 Jazzcultural",
+      "title": "In the Cafe with Vanisha Gould \u2014 Jazzcultural",
       "date": "2026-12-15T16:00:00",
       "date_raw": "Dec. 15, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34785-happy-hour-with-vanisha-gould-trio/",
+      "url": "https://www.smallslive.com/events/34785-in-the-cafe-with-vanisha-gould/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4164,10 +4034,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Happy Hour with Vanisha Gould Trio \u2014 Jazzcultural",
+      "title": "In the Cafe with Vanisha Gould \u2014 Jazzcultural",
       "date": "2026-12-22T16:00:00",
       "date_raw": "Dec. 22, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34786-happy-hour-with-vanisha-gould-trio/",
+      "url": "https://www.smallslive.com/events/34786-in-the-cafe-with-vanisha-gould/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -4854,10 +4724,10 @@
     },
     {
       "venue_name": "Smalls Live",
-      "title": "Happy Hour with Vanisha Gould Trio \u2014 Jazzcultural",
+      "title": "In the with Vanisha Gould Trio \u2014 Jazzcultural",
       "date": "2026-12-29T16:00:00",
       "date_raw": "Dec. 29, 2026 4:00 PM",
-      "url": "https://www.smallslive.com/events/34787-happy-hour-with-vanisha-gould-trio/",
+      "url": "https://www.smallslive.com/events/34787-in-the-with-vanisha-gould-trio/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -5128,16 +4998,6 @@
       "date": "2026-12-31T22:00:00",
       "date_raw": "2026-12-31T22:00:00-05:00",
       "url": "https://www.universe.com/events/reggae-fest-new-years-eve-all-black-affair-at-bk-paramount-tickets-850BPG",
-      "description": "",
-      "image_url": "https://s1.ticketm.net/dam/a/510/db6fc217-d801-463d-a374-9aaae8de3510_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-      "price": ""
-    },
-    {
-      "venue_name": "Brooklyn Paramount",
-      "title": "NYE: Reggae Fest",
-      "date": "2026-12-31T22:00:00",
-      "date_raw": "2026-12-31T22:00:00-05:00",
-      "url": "https://www.ticketmaster.com/nye-reggae-fest-brooklyn-new-york-12-31-2026/event/00006565CAB0CD34",
       "description": "",
       "image_url": "https://s1.ticketm.net/dam/a/510/db6fc217-d801-463d-a374-9aaae8de3510_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
@@ -6480,6 +6340,16 @@
       "url": "https://tockify.com/sunnysmusic/detail/277/1805587200000",
       "description": "Back on Saturday nights! 8pm until 1am. All welcome, 21 and older.",
       "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Brooklyn Paramount",
+      "title": "TOMORA",
+      "date": "2027-03-24T19:00:00",
+      "date_raw": "2027-03-24T19:00:00-04:00",
+      "url": "https://www.ticketmaster.com/tomora-brooklyn-new-york-03-24-2027/event/00006532D322DE76",
+      "description": "",
+      "image_url": "https://s1.ticketm.net/dam/c/df8/81eadad8-4449-412e-a2b1-3d8bbb78edf8_106181_TABLET_LANDSCAPE_LARGE_16_9.jpg",
       "price": ""
     },
     {
