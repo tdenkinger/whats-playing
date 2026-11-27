@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-26T21:59:51.448791+00:00",
+  "scraped_at": "2026-11-27T21:42:40.696350+00:00",
   "failed_venues": [
     "Brooklyn Paramount"
   ],
@@ -296,90 +296,20 @@
     },
     {
       "venue_name": "Freddy's",
+      "title": "Comedy Open Mic- Every Monday & Wednesday!",
+      "date": "2026-11-26T00:00:00",
+      "date_raw": "Thursday, November 26, 2026",
+      "url": "https://www.freddysbar.com/events/atgc2ckzmhznygwcthdznj7r6rkw5l",
+      "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Freddy's",
       "title": "Happy Thanksgiving/ Indigenous-Reparations-Day",
       "date": "2026-11-26T00:00:00",
       "date_raw": "Thursday, November 26, 2026",
       "url": "https://www.freddysbar.com/events/glitter-gauntlet-with-lucy-buttons-last-thursdays-9npnk-tpm4m-neg8h",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "CLOSED FOR THANKSGIVING \u2014 Mezzrow",
-      "date": "2026-11-26T11:42:00",
-      "date_raw": "Nov. 26, 2026 11:42 AM",
-      "url": "https://www.smallslive.com/events/34461-closed-for-thanksgiving/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "CLOSED FOR THANKSGIVING \u2014 Jazzcultural",
-      "date": "2026-11-26T12:16:00",
-      "date_raw": "Nov. 26, 2026 12:16 PM",
-      "url": "https://www.smallslive.com/events/34597-closed-for-thanksgiving/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Jovan Parris Alexandre Trio",
-      "date": "2026-11-26T18:30:00",
-      "date_raw": "Thursday November 26th 06:30 PM",
-      "url": "",
-      "description": "Jovan Parris Alexandre (ts)Nelson Salgado (b)Adam Arruda (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Ben Meigners Quartet",
-      "date": "2026-11-26T18:30:00",
-      "date_raw": "Thursday November 26th 06:30 PM",
-      "url": "",
-      "description": "Ben Meigners (b)George Braith (braithophone)Sacha Perry (p)David Sirkis (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Ornithology Jazz Club",
-      "title": "Neta Raanan Quartet",
-      "date": "2026-11-26T21:00:00",
-      "date_raw": "Thursday November 26th 09:00 PM",
-      "url": "",
-      "description": "Neta Raanan (ts)Noam Avnon (p)Stefano Battaglia (b)Jonas Esser (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Nicholas Biello Quartet \u2014 Smalls",
-      "date": "2026-11-26T21:00:00",
-      "date_raw": "Nov. 26, 2026 9:00 PM",
-      "url": "https://www.smallslive.com/events/34432-nicholas-biello-quartet/",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Cafe Ornithology",
-      "title": "Andrea Niccolai Trio",
-      "date": "2026-11-26T21:30:00",
-      "date_raw": "Thursday November 26th 09:30 PM",
-      "url": "",
-      "description": "Enrico Le Noci (g)Kim Baiunco (b)Andrea Niccolai (d)",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Smalls Live",
-      "title": "Jam Session Hosted By Matt Snow \u2014 Smalls",
-      "date": "2026-11-26T23:55:00",
-      "date_raw": "Nov. 26, 2026 11:55 PM",
-      "url": "https://www.smallslive.com/events/34433-jam-session-hosted-by-matt-snow/",
       "description": "",
       "image_url": "",
       "price": ""
@@ -431,6 +361,16 @@
       "date_raw": "Nov. 27, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34434-david-rourke-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "TC the 3rd Quartet",
+      "date": "2026-11-27T18:30:00",
+      "date_raw": "Friday November 27th 06:30 PM",
+      "url": "",
+      "description": "TC the 3rd (v)Marcus Persiani (p)Lonnie Plaxico (b)Taru Alexander (d)",
       "image_url": "",
       "price": ""
     },
@@ -935,6 +875,16 @@
       "price": ""
     },
     {
+      "venue_name": "Ornithology Jazz Club",
+      "title": "Jacob Artved Quartet",
+      "date": "2026-11-30T18:30:00",
+      "date_raw": "Monday November 30th 06:30 PM",
+      "url": "",
+      "description": "Jacob Artved (g)Gideon Tazelaar (saxophone)Ben Allen (org)Michael Shekwoaga Ode (d)",
+      "image_url": "",
+      "price": ""
+    },
+    {
       "venue_name": "Smalls Live",
       "title": "Vanisha Gould Quartet \u2014 Jazzcultural",
       "date": "2026-11-30T19:30:00",
@@ -971,6 +921,16 @@
       "date_raw": "Nov. 30, 2026 9:00 PM",
       "url": "https://www.smallslive.com/events/34445-dan-weiss-trio/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Raphael Silverman Trio",
+      "date": "2026-11-30T21:30:00",
+      "date_raw": "Monday November 30th 09:30 PM",
+      "url": "",
+      "description": "Raphael Silverman (g)Mike Karn (b)Tosh Kachad (d)",
       "image_url": "",
       "price": ""
     },
@@ -1161,6 +1121,16 @@
       "date_raw": "Dec. 2, 2026 6:00 PM",
       "url": "https://www.smallslive.com/events/34642-rodney-jones-didier-conchon-quartet/",
       "description": "",
+      "image_url": "",
+      "price": ""
+    },
+    {
+      "venue_name": "Cafe Ornithology",
+      "title": "Neal Caine Trio",
+      "date": "2026-12-02T18:30:00",
+      "date_raw": "Wednesday December 2nd 06:30 PM",
+      "url": "",
+      "description": "Neal Caine (b)Andrew Fisher (p)Donald Edwards (d)",
       "image_url": "",
       "price": ""
     },
@@ -6910,16 +6880,6 @@
       "date": "2028-10-25T22:30:00",
       "date_raw": "2028-10-25T22:30:00.000Z",
       "url": "https://www.viewcy.com/event/jalopy_open_mic_eith",
-      "description": "",
-      "image_url": "",
-      "price": ""
-    },
-    {
-      "venue_name": "Fred's Dog House",
-      "title": "Closed Thanksgiving!",
-      "date": null,
-      "date_raw": "Closed Thanksgiving!",
-      "url": "https://www.fredsdoghouse.com/event/closed-thanksgiving/",
       "description": "",
       "image_url": "",
       "price": ""
